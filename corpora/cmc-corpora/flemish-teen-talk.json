@@ -1,0 +1,13 @@
+{
+  "item": {
+      "Name": "Flemish Online Teenage Talk",
+      "URL": "https://repository.uantwerpen.be/docman/irua/948a9a/159941.pdf",
+      "Description": "This corpus contains Facebook posts and WhatsApp messages from 2015 and 2016.",
+      "Languages": ["nld"],
+      "License": "",
+      "Size": "2.9 million tokens",
+      "Annotation": "tokenised",
+      "Access": "",
+      "Publication":"https://www.zotero.org/groups/562080/items/5JLSM7PZ"
+    }
+}

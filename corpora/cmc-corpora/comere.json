@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "CoMeRe repository",
+      "URL": "https://hdl.handle.net/11403/comere",
+      "Description": "This corpus contains e-mails, forum posts, online chats, tweets and SMS.\nThe corpus is available for download from Ortolang.",
+      "Languages": ["fra"],
+      "License": "https://creativecommons.org/licenses/by/4.0/",
+      "Size": "80 million tokens",
+      "Annotation": "tokenised, mostly untagged",
+      "Access": {
+	"Download": "https://hdl.handle.net/11403/comere"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/ZQ38P9RU"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "item": {
+      "Name": "Suomi 24 Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2017021506",
+      "Description": "This corpus contains forum posts from the Suomi24 website from 2001 to 2016.\nThe corpus is available for download from the FIN-CLARIN repository and through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "FIXME CLARIN ACA",
+      "Size": "2.6 billion tokens",
+      "Annotation": "tokenised, MSD-tagged",
+      "Access": {
+	"Concordancer": "http://korp.csc.fi/#?corpus=suomi24&cqp=[]",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2017021502"
+	},
+      "Publication":""
+    }
+}

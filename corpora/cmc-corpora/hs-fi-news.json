@@ -1,0 +1,16 @@
+{
+  "item": {
+      "Name": "The HS.fi News and Comments Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014052718",
+      "Description": "This corpus contains the domestic news of the <a href="https://www.hs.fi/">Helsingin Sanomat</a> website and their comments from 5 September 2011 to 4 September 2012.\nThe corpus has been syntactically parsed using TDT alpha.\nThe corpus is available for download from META-SHARE (the Finnish Language Bank) and for online browsing through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "FIXME CLARIN ACA – NC",
+      "Size": "8 million tokens; 593,760 sentences; 93,602 texts",
+      "Annotation": "PoS-tagged, lemmatised, syntactically parsed",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2015050503",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2014052718"
+	},
+      "Publication":""
+    }
+}

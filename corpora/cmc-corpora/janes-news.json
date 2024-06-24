@@ -1,0 +1,16 @@
+{
+  "item": {
+      "Name": "News comment corpus Janes-News 1.0",
+      "URL": "http://hdl.handle.net/11356/1140",
+      "Description": "This corpus contains news comments from RTV Slovenija, Mladina and Reporter.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
+      "Languages": ["slv"],
+      "License": "https://creativecommons.org/licenses/by/4.0/",
+      "Size": "14 million tokens",
+      "Annotation": "tokenised, sentence segmented, MSD-tagged, lemmatised",
+      "Access": {
+	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=janes_news",
+	"Download": "http://hdl.handle.net/11356/1140"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/ZMU86U4U"
+    }
+}

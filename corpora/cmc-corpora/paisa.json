@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "PAISÀ Corpus of Italian Web Text",
+      "URL": "http://hdl.handle.net/20.500.12124/3",
+      "Description": "This corpus contains approximately 380,000 documents coming from about 1,000 different websites, for a total of about 250 million words. Approximately 260,000 documents are from Wikipedia, approx. 5,600 from other Wikimedia Foundation projects. About 9,300 documents come from Indymedia, and we estimate that about 65,000 documents come from blog services.\nThe corpus is available for download from the EURAC Research CLARIN repository.",
+      "Languages": ["ita"],
+      "License": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "Size": "380,000 pages, 250 million words",
+      "Annotation": "",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12124/3"
+	},
+      "Publication": "FIXME https://aclanthology.org/W14-0406/"
+    }
+}

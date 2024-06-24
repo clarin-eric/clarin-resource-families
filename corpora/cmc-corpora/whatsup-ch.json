@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "What's up, Switzerland?",
+      "URL": "http://cmc-corpora.ch/",
+      "Description": "This corpus contains 216 WhatsApp chats from 2014.\nThe corpus is accessible online through the ANNIS system.",
+      "Languages": ["gsw","deu","fra","ita","roh"],
+      "License": "",
+      "Size": "5 million tokens",
+      "Annotation": "",
+      "Access": {
+	"Browse": "http://linguistik-sms.uzh.ch:8080/annis-gui/"
+},
+      "Publication":"https://www.zotero.org/groups/562080/items/RR6K9CIX"
+    }
+}

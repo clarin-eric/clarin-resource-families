@@ -1,0 +1,13 @@
+{
+  "item": {
+      "Name": "Monitor corpus of tweets from Austrian users",
+      "URL": "https://hal.archives-ouvertes.fr/hal-01323274/document",
+      "Description": "The corpus contains tweets from 2007 to 2017.",
+      "Languages": ["deu","eng"],
+      "License": "",
+      "Size": "40 million tweets",
+      "Annotation": "tokenised, lemmatised",
+      "Access": "",
+      "Publication":"https://www.zotero.org/groups/562080/items/NI49XITA"
+    }
+}

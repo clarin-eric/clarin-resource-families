@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "eBay petites annonces",
+      "URL": "https://www.uni-potsdam.de/langage/la-bank/ebay.php",
+      "Description": "This corpus contains eBay listings from 2005, 2017, and 2018. The corpus is manually annotated.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["fra"],
+      "License": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "Size": "100,000 tokens",
+      "Annotation": "<a href="https://www.uni-potsdam.de/langage/la-bank/ebay.php">see here</a>",
+      "Access": {
+	"Download: "https://www.uni-potsdam.de/langage/la-bank/ebay.php"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/9BSXEJKU"
+    }
+}

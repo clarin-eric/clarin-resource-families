@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "Dereko – News and Wikipedia subcorpus",
+      "URL": "https://cosmas2.ids-mannheim.de/cosmas2-web/",
+      "Description": "This corpus contains content from newsgroup posts and Wikipedia.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["deu"],
+      "License": "",
+      "Size": "670 million tokens",
+      "Annotation": "tokenised",
+      "Access": {
+	"Concordancer": "http://www.ids-mannheim.de/cosmas2/web-app/browser/"
+	},
+      "Publication":""
+    }
+}

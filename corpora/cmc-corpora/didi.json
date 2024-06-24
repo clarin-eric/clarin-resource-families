@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "DIDI – The DiDi corpus of South Tyrolean CMC 1.0.0",
+      "URL": "http://hdl.handle.net/20.500.12124/7",
+      "Description": "This corpus consists of Facebook posts gathered from 136 Facebook users from South Tyrol. All texts are anonymised.\nThe corpus is available for download from the EURAC Research CLARIN repository.",
+      "Languages": ["deu","ita","eng","lad"],
+      "License": "https://gitlab.inf.unibz.it/commul/var/eurac-licenses/-/raw/v1.0/EULA-CLARIN-ACA-BY-NC-NORED.md",
+      "Size": "600,000 tokens",
+      "Annotation": "tokenised, PoS-tagged, lemmatised",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12124/7"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/HNP25PFD"
+    }
+}

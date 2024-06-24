@@ -1,0 +1,13 @@
+{
+  "item": {
+      "Name": "Corpus of contemporary blogs",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-000E-011B-8",
+      "Description": "This corpus contains blog posts.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["ces"],
+      "License": "https://creativecommons.org/licenses/by/4.0/",
+      "Size": "1 million tokens",
+      "Annotation": "tokenised, <a href=""https://nlp.fi.muni.cz/projekty/cocb/"">sentence tagging</a>",
+      "Access": "["Download","https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-000E-011B-8"]",
+      "Publication":""
+    }
+}
