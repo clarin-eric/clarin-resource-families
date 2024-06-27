@@ -1,0 +1,17 @@
+{
+  "item": {
+      "Name": "SoNaR",
+      "URL": "http://hdl.handle.net/10032/tm-a2-h5",
+      "Description": "This corpus includes representative Dutch texts (fiction, brochures, magazines, legal texts, newspapers, parliamentary proceedings, and computer-mediated communication).\nAside from written materials, the corpus also contains transcriptions of spoken language. The corpus is encoded in FoLiA.\nThe corpus is available for online browsing through the OpenSONAR concordancer and can be downloaded from the Dutch Language Institute (CLARIAH-NL).",
+      "Languages": ["nld"],
+      "License": "https://ivdnt.org/images/stories/producten/voorwaarden/voorwaarden_sonar-corpus.pdf",
+      "Size": "500 million words",
+      "Annotation": "PoS-tagged, lemmatized, named entities; coreference annotation and annotation of spatial and temporal relations for the manually annotated SoNaR-1 subset ",
+      "Access": {
+	"Concordancer": "https://portal.clarin.nl/node/4195"
+	"Download subset 1": "http://hdl.handle.net/10032/tm-a2-c7"
+	"Download subset 2": "http://hdl.handle.net/10032/tm-a2-h5"
+	},
+      "Publication":""
+    }
+}

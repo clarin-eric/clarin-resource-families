@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "Croatian National Corpus",
+      "URL": "http://hdl.handle.net/11372/LRT-233",
+      "Description": "This corpus includes Croatian texts taken from newspapers, magazines, popular texts, and fiction.\nThe corpus is available for online browsing through the noSketch Engine.",
+      "Languages": ["hrv"],
+      "License": "",
+      "Size": "101 million tokens",
+      "Annotation": "",
+      "Access": {
+	"Concordancer": "http://filip.ffzg.hr/cgi-bin/run.cgi/first_form"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/PD5PJEVU"
+    }
+}

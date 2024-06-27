@@ -1,0 +1,16 @@
+{
+  "item": {
+      "Name": "SYN2015: balanced corpus of written Czech",
+      "URL": "http://hdl.handle.net/11234/1-1593",
+      "Description": "This corpus includes Czech fiction, professional literature, newspapers etc. published between 2010 and 2014. The corpus is encoded in XML.\nThe corpus is available for online browsing through the KonText concordancer and can be downloaded from the LINDAT repository.",
+      "Languages": ["ces"],
+      "License": "Czech National Corpus (Shuffled Corpus Data)",
+      "Size": "100 million words",
+      "Annotation": "MSD-tagged, lemmatized",
+      "Access": {
+	"Concordancer": "https://kontext.korpus.cz/first_form?corpname=syn2015"
+	"Download": "http://hdl.handle.net/11234/1-1593"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/RKNQ638Y"
+    }
+}

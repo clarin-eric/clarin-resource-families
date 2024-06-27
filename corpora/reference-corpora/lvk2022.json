@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "Balanced Corpus of Modern Latvian (LVK2022)",
+      "URL": "http://hdl.handle.net/20.500.12574/84",
+      "Description": "This corpus includes texts from journalism, fiction, science, Wikipedia, legal documents, parliamentary subscripts, and subtitles.\nThe corpus is available for online browsing through the noSketch Engine concordancer.",
+      "Languages": ["lav"],
+      "License": "",
+      "Size": "122.9 million tokens",
+      "Annotation": "MSD-tagged, lemmatized",
+      "Access": {
+	"Concordancer": "https://nosketch.korpuss.lv/#dashboard?corpname=LVK2022"
+	},
+      "Publication":""
+    }
+}

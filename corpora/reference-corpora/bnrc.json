@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "Bulgarian National Reference Corpus (BNRC)",
+      "URL": "http://webclark.org/?locale=en",
+      "Description": "This corpus includes Bulgarian texts taken from news media, literature, and administrative documents between 1997 and 2002.\nThe tokenised corpus is available through WebCLaRK, while the PoS-tagged version is available only upon request.",
+      "Languages": ["bul"],
+      "License": "Individual terms of agreement",
+      "Size": "70 million tokens",
+      "Annotation": "tokenized, PoS-tagged",
+      "Access": {
+	"Concordancer": "https://webclark.org/?locale=en"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/C5I2VYIY"
+    }
+}

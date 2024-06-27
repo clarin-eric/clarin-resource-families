@@ -1,0 +1,17 @@
+{
+  "item": {
+      "Name": "The Icelandic Gigaword Corpus",
+      "URL": "http://hdl.handle.net/20.500.12537/192",
+      "Description": "This corpus includes Icelandic texts (newspapers, parliamentary proceedings, adjudications, fiction and non-fiction) published until 2017.\nThe corpus is encoded in TEI. Non-linguistic metadata include bibliographic information. Aside from written materials, the corpus also contains transcriptions of spoken language.\nThe corpus is available for online browsing and download through CLARIN-IS (in two subsets, each with its own licence).",
+      "Languages": ["isl"],
+      "License": "CC-BY and a special user licence",
+      "Size": "1.9 billion words",
+      "Annotation": "MSD-tagged, lemmatized",
+      "Access": {
+	"Concordancer": "https://clarin.is/en/resources/gigaword/"
+	"Download subset 1": "http://hdl.handle.net/20.500.12537/41"
+	"Download subset 2": "http://hdl.handle.net/20.500.12537/33"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/SBD8E49K"
+    }
+}

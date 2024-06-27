@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "Corpus of Greek Texts",
+      "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-2471-8",
+      "Description": "This corpus includes representative Greek texts published between 1990 and 2010. Aside from written materials, the corpus also includes transcriptions of spoken language.\nThe corpus is available for online browsing through a dedicated concordancer.",
+      "Languages": ["ell"],
+      "License": "CC-BY-NC, ACA",
+      "Size": "27.6 million words",
+      "Annotation": "",
+      "Access": {
+	"Concordancer": "https://www.sek.edu.gr/"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/B8H3GEMU"
+    }
+}

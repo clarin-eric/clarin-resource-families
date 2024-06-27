@@ -1,0 +1,15 @@
+{
+  "item": {
+      "Name": "Hungarian National Corpus",
+      "URL": "https://hdl.handle.net/11372/LRT-345",
+      "Description": "This corpus includes Hungarian texts (newspapers, literature, scientific articles, official and personal documents).\nThe corpus is available for online browsing through a dedicated concordancer.",
+      "Languages": ["hun"],
+      "License": "free after registration",
+      "Size": "190 million tokens",
+      "Annotation": "PoS-tagged",
+      "Access": {
+	"Concordancer": "https://corpus.nytud.hu/mnsz/"
+	},
+      "Publication":"https://www.zotero.org/groups/562080/items/BW66EU4R"
+    }
+}
