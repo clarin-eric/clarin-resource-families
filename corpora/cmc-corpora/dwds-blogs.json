@@ -5,8 +5,8 @@
       "Description": "This corpus contains blog posts.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["deu"],
       "License": "",
-      "Size": "102 million tokens",
-      "Annotation": "tokenised",
+      "Size": ["102 million tokens"],
+      "Annotation": ["tokenised"],
       "Access": {
 	"Concordancer": "http://www.dwds.de/r#group-Spezialkorpora"
 	},

@@ -5,8 +5,8 @@
       "Description": "The corpus contains tweets from 2007 to 2017.",
       "Languages": ["deu","eng"],
       "License": "",
-      "Size": "40 million tweets",
-      "Annotation": "tokenised, lemmatised",
+      "Size": ["40 million tweets"],
+      "Annotation": ["tokenised", "lemmatised"],
       "Access": "",
       "Publication":"https://www.zotero.org/groups/562080/items/NI49XITA"
     }

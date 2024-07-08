@@ -5,7 +5,7 @@
       "Description": "This corpus contains blog posts that are related to climate change issues across science, politics, and the environment. The vast majority of the posts are from 2005 onwards.\nThe corpus is available for searching online through the Corpuscle concordancer.",
       "Languages": ["eng"],
       "License": "",
-      "Size": "660,798,199 tokens",
+      "Size": ["660,798,199 tokens"],
       "Annotation": "",
       "Access": {
 	"Concordancer": "http://clarino.uib.no/korpuskel/landing-page?identifier=ntap&view=short"

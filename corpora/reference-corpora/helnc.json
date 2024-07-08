@@ -5,8 +5,8 @@
       "Description": "This corpus includes Greek texts published from 1990 onwards.\nThe corpus is available for online browsing through a dedicated concordancer.",
       "Languages": ["ell"],
       "License": "proprietary",
-      "Size": "47 million words",
-      "Annotation": "sentence segmented",
+      "Size": ["47 million words"],
+      "Annotation": ["sentence segmented"],
       "Access": {
 	"Concordancer": "https://hnc.ilsp.gr/index.php?current_page=main"
 	},

@@ -1,15 +1,16 @@
 {
   "item": {
-      "Name": "",
-      "URL": "",
-      "Description": "",
-      "Languages": [""],
-      "License": "",
-      "Size": "",
+      "Name": "CorCenCC: Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh",
+      "URL": "http://hdl.handle.net/20.500.14106/2564",
+      "Description": "This corpus contains spoken, written and digital (e-language) Welsh. The corpus is accompanied by an online teaching and learning toolkit – <a href="https://www.corcencc.org/y-tiwtiadur/">Y Tiwtiadur</a> – which draws directly on the data from the corpus to provide resources for Welsh language learning at all ages and levels.\nThe corpus is available for <a href="https://www.corcencc.org/explore">online browsing</a> through a dedicated webpage and by request.",
+      "Languages": ["cym"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["11 million words"],
       "Annotation": "",
       "Access": {
-	"Download": ""
+	"Request": "https://research.cardiff.ac.uk/converis/portal/detail/Dataset/119878310?auxfun=&lang=en_GB"
+	"Concordancer": "https://www.corcencc.org/explore"
 	},
-      "Publication":""
+      "Publication":"Dawn et al. (2020)"
     }
 }

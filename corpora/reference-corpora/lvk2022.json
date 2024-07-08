@@ -5,8 +5,8 @@
       "Description": "This corpus includes texts from journalism, fiction, science, Wikipedia, legal documents, parliamentary subscripts, and subtitles.\nThe corpus is available for online browsing through the noSketch Engine concordancer.",
       "Languages": ["lav"],
       "License": "",
-      "Size": "122.9 million tokens",
-      "Annotation": "MSD-tagged, lemmatized",
+      "Size": ["122.9 million tokens"],
+      "Annotation": ["MSD-tagged", "lemmatized"],
       "Access": {
 	"Concordancer": "https://nosketch.korpuss.lv/#dashboard?corpname=LVK2022"
 	},

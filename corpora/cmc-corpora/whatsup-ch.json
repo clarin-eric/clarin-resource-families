@@ -5,7 +5,7 @@
       "Description": "This corpus contains 216 WhatsApp chats from 2014.\nThe corpus is accessible online through the ANNIS system.",
       "Languages": ["gsw","deu","fra","ita","roh"],
       "License": "",
-      "Size": "5 million tokens",
+      "Size": ["5 million tokens"],
       "Annotation": "",
       "Access": {
 	"Browse": "http://linguistik-sms.uzh.ch:8080/annis-gui/"

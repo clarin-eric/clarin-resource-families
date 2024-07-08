@@ -5,8 +5,8 @@
       "Description": "This corpus contains chat room messages, forum posts and news comments from 2000 to 2008\nThe corpus is available for download from a dedicated webpage associated with CLARIN Estonia and through a dedicated concordancer.",
       "Languages": ["est"],
       "License": "",
-      "Size": "25 million tokens",
-      "Annotation": "tokenised",
+      "Size": ["25 million tokens"],
+      "Annotation": ["tokenised"],
       "Access": {
 	"Concordancer": "http://www.cl.ut.ee/korpused/kasutajaliides",
 	"Download": "http://www.cl.ut.ee/korpused/segakorpus/uusmeedia/"

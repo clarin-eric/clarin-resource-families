@@ -5,8 +5,8 @@
       "Description": "This corpus contains tweets written by Slovenian Twitter users from 2013 to 2017.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
       "Languages": ["slv"],
       "License": "https://creativecommons.org/licenses/by/4.0/",
-      "Size": "139 million tokens",
-      "Annotation": "tokenised, sentence segmented, MSD-tagged, lemmatised",
+      "Size": ["139 million tokens"],
+      "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],
       "Access": {
 	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=janes_tweet",
 	"Download": "http://hdl.handle.net/11356/1142"

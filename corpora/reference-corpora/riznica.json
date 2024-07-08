@@ -5,8 +5,8 @@
       "Description": "This corpus includes Croatian texts taken from fiction (28%) and specialised texts (72%).\nThe corpus is available for online browsing via noSketch Engine and KonText and for download from the CLARIN.SI repository.",
       "Languages": ["hrv"],
       "License": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "Size": "101.8 million tokens, 85.3 million words, 4.7 million sentences, 14,781 texts",
-      "Annotation": "sentence segmented, PoS-tagged, lemmatized",
+      "Size": ["101.8 million tokens", "85.3 million words", "4.7 million sentences", "14,781 texts"],
+      "Annotation": ["sentence segmented", "PoS-tagged", "lemmatized"],
       "Access": {
 	"noSketchEngine": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=riznica"
 	"KonText": "https://www.clarin.si/kontext/first_form?corpname=riznica"

@@ -1,15 +1,15 @@
 {
   "item": {
-      "Name": "",
-      "URL": "",
-      "Description": "",
-      "Languages": [""],
-      "License": "",
-      "Size": "",
-      "Annotation": "",
+      "Name": "Written corpus ccKres 1.0",
+      "URL": "http://hdl.handle.net/11356/1034",
+      "Description": "This corpus includes balanced Slovenian texts (newspapers, magazines, computer-mediated communication, fiction and non-fiction) published between 1990 and 2011. The corpus is encoded in TEI. Non-linguistic metadata includes information on source, year of publication, text type, title, author.\nThis corpus is a downloadable subset of the balanced <a href="http://www.korpus-kres.net/">Kres corpus</a>. It can be downloaded from the CLARIN.SI repository.",
+      "Languages": ["slv"],
+      "License": "CC-BY",
+      "Size": ["12.2 million tokens", "9.8 million words"],
+      "Annotation": ["MSD-tagged", "lemmatized"],
       "Access": {
-	"Download": ""
+	"Download": "http://www.korpus-kres.net/"
 	},
-      "Publication":""
+      "Publication":"https://www.zotero.org/groups/562080/items/Q8WBNCJB"
     }
 }

@@ -5,8 +5,8 @@
       "Description": "This corpus includes Danish texts published between 2008 and 2011.\nThe corpus is encoded in TEI. Non-linguistic metadata includes information on source and year of publication.\nThe corpus is available for download from the CLARIN-DK repository.",
       "Languages": ["dan"],
       "License": "CLARIN ACA-NC",
-      "Size": "45.1 million words",
-      "Annotation": "PoS-tagged, sentence and paragraph segmentation, lemmatized",
+      "Size": ["45.1 million words"],
+      "Annotation": ["PoS-tagged", "sentence and paragraph segmentation", "lemmatized"],
       "Access": {
 	"Download": "http://hdl.handle.net/20.500.12115/36"
 	},

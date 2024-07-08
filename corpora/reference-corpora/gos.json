@@ -1,15 +1,17 @@
 {
   "item": {
-      "Name": "",
-      "URL": "",
-      "Description": "",
-      "Languages": [""],
-      "License": "",
-      "Size": "",
-      "Annotation": "",
+      "Name": "Spoken corpus Gos 2.0",
+      "URL": "http://hdl.handle.net/11356/1771",
+      "Description": "This corpus contains transcripts from radio and TV shows, school lessons, private conversations, business meetings. It is composed of three different sources: <a href=\"http://hdl.handle.net/11356/1438\">Spoken corpus Gos 1.1</a> (112 hours, 1 million words), <a href=\"http://hdl.handle.net/11356/1444\">Spoken corpus Gos VideoLectures 4.2</a> (22 hours, 179,000 words), a selection from the <a href=\"http://hdl.handle.net/11356/1772\">ASR database ARTUR 1.0</a> (185 hours, 1.2 mllion words).\nThe corpus is available for download from CLARIN.SI as well as through a dedicated webconcordancer.",
+      "Languages": ["slv"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["1534 texts", "127,604 utterances", "2,462,368 words"],
+      "Annotation": ["PoS-tagged", "lemmatised", "phonetically and orthographically transcribed"],
       "Access": {
-	"Download": ""
+	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=gos20&struct_attr_stats=1"
+	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=gos20"
+	"Download": "http://hdl.handle.net/11356/1771"
 	},
-      "Publication":""
+      "Publication":"Verdonik and Zwitter-Vitez (2011)"
     }
 }
