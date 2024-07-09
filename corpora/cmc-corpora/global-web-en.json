@@ -2,6 +2,7 @@
   "item": {
       "Name": "Corpus of Global Web-Based English",
       "URL": "https://www.kielipankki.fi/corpora/glowbe/",
+	"Family": "Computer-mediated communication corpora"
       "Description": "This corpus contains texts from web-pages in United States, Great Britain, Australia, India, and 16 other countries. About 60% of the texts come from blogs.\nThe corpus is available for download from META-SHARE (the Finnish Language Bank) and for online browsing through the concordancer Korp.",
       "Languages": ["eng"],
       "License": "FIXME CLARIN RES (download); CLARIN ACA (online)",

@@ -2,6 +2,7 @@
   "item": {
       "Name": "DeReKo",
       "URL": "http://www1.ids-mannheim.de/kl/projekte/korpora/",
+	"Family": "Reference corpora"
       "Description": "This corpus includes German texts in <a href=\"https://www.ids-mannheim.de/digspra/kl/projekte/korpora/archiv-1/\">a wide variety of genres</a> published from 1947 onwards. Non-linguistic metadata include rich bibliographic information and partial layout information.\nPart of the corpus is available for download from a dedicated webpage (CLARIN-D distribution), while the entire corpus can be queried online through the COSMAS II platform.",
       "Languages": ["deu"],
       "License": "https://creativecommons.org/licenses/by-sa/4.0/",

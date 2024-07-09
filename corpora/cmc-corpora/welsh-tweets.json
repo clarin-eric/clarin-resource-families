@@ -2,6 +2,7 @@
   "item": {
       "Name": "The Corpus of Welsh Language Tweets",
       "URL": "http://techiaith.cymru/corpora/twitter/?lang=en",
+	"Family": "Computer-mediated communication corpora"
       "Description": "The corpus contains tweets.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["cym"],
       "License": "unclear",

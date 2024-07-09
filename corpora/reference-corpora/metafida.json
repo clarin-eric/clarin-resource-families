@@ -2,6 +2,7 @@
   "item": {
       "Name": "Corpus of combined Slovenian corpora metaFida 1.0",
       "URL": "http://hdl.handle.net/11356/1775",
+	"Family": "Reference corpora"
       "Description": "This corpus contains a number of existing Slovenian corpora available through the CLARIN.SI concordances and thus provides a unified search across all the included corpora. metaFida contains over 4,7 billion words or 6 billion tokens from 15 million text published 1584 - 2022 from 34 corpora.\nIn the metaFida corpus we keep only information that is common to most of the selected corpora. The structure is nested very shallowly (text and paragraph), as it is then easier to create subcorpora or limit the search to individual text types. All metaFida positional attributes (word, normalised form, lemma, MULTEXT-East MSD in Slovenian and English) are considered to have multiple values, separated by a space.",
       "Languages": ["slv"],
       "License": "various",

@@ -2,6 +2,7 @@
   "item": {
       "Name": "Written corpus Kres 1.0",
       "URL": "http://www.korpus-kres.net/",
+	"Family": "Reference corpora"
       "Description": "This corpus includes balanced Slovenian texts (newspapers, magazines, computer-mediated communication, fiction and non-fiction) published between 1990 and 2011.\nThis corpus is a balanced subset of the representative Gigafida corpus (version 1). The corpus is encoded in TEI. Non-linguistic metadata includes information on source, year of publication, text type, title, author.\nThe corpus is available for online browsing through a dedicated concordancer.",
       "Languages": ["slv"],
       "License": "Individual terms of agreement",

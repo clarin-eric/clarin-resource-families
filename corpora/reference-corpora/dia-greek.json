@@ -2,6 +2,7 @@
   "item": {
       "Name": "Diachronic corpus of Greek of the 20th century",
       "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-2572-6",
+	"Family": "Reference corpora"
       "Description": "This corpus includes Greek texts published in the 20th century.\nThe corpus is available for download from CLARIN:EL.",
       "Languages": ["ell"],
       "License": "CC-BY-NC",

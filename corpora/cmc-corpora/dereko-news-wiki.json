@@ -2,6 +2,7 @@
   "item": {
       "Name": "Dereko – News and Wikipedia subcorpus",
       "URL": "https://cosmas2.ids-mannheim.de/cosmas2-web/",
+	"Family": "Computer-mediated communication corpora"
       "Description": "This corpus contains content from newsgroup posts and Wikipedia.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["deu"],
       "License": "",

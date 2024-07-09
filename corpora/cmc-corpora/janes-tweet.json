@@ -2,6 +2,7 @@
   "item": {
       "Name": "Twitter corpus Janes-Tweet 1.0",
       "URL": "http://hdl.handle.net/11356/1142",
+	"Family": "Computer-mediated communication corpora"
       "Description": "This corpus contains tweets written by Slovenian Twitter users from 2013 to 2017.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
       "Languages": ["slv"],
       "License": "https://creativecommons.org/licenses/by/4.0/",

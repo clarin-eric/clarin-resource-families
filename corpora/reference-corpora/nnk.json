@@ -2,6 +2,7 @@
   "item": {
       "Name": "Norsk Ordboks Nynorskkorpus (NNK)",
       "URL": "http://hdl.handle.net/11495/E1A3-9361-1821-1",
+	"Family": "Reference corpora"
       "Description": "This corpus includes representative Norwegian (Nynorsk) texts published between 1866 and 2012. The corpus is encoded in XML.\nThe corpus is available for online browsing through the Corpuscle concordancer (CLARINO).",
       "Languages": ["nno"],
       "License": "CLARIN_RES-NC-DEP",
