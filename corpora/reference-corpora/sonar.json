@@ -2,7 +2,7 @@
   "item": {
       "Name": "SoNaR",
       "URL": "http://hdl.handle.net/10032/tm-a2-h5",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes representative Dutch texts (fiction, brochures, magazines, legal texts, newspapers, parliamentary proceedings, and computer-mediated communication).\nAside from written materials, the corpus also contains transcriptions of spoken language. The corpus is encoded in FoLiA.\nThe corpus is available for online browsing through the OpenSONAR concordancer and can be downloaded from the Dutch Language Institute (CLARIAH-NL).",
       "Languages": ["nld"],
       "License": "https://ivdnt.org/images/stories/producten/voorwaarden/voorwaarden_sonar-corpus.pdf",

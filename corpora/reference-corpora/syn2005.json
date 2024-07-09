@@ -2,7 +2,7 @@
   "item": {
       "Name": "SYN2005: balanced corpus of written Czech",
       "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-119E-8",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes Czech texts published between 2000 and 2004. The corpus is encoded in XML.\nThe corpus is available for online browsing through the KonText concordancer and can be downloaded from the LINDAT repository.",
       "Languages": ["ces"],
       "License": "Czech National Corpus (Shuffled Corpus Data)",

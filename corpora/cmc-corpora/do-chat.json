@@ -2,7 +2,7 @@
   "item": {
       "Name": "Dortmund Chat Corpus",
       "URL": "http://hdl.handle.net/11858/00-203Z-0000-002D-ECC7-2",
-	"Family": "Computer-mediated communication corpora"
+	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains online chats from 2000 to 2006\nThe corpus is available for download from the repository of CLARIN-D",
       "Languages": ["deu"],
       "License": "https://creativecommons.org/licenses/by/4.0/",

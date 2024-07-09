@@ -2,7 +2,7 @@
   "item": {
       "Name": "Hellenic National Corpus",
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23E2-9",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes Greek texts published from 1990 onwards.\nThe corpus is available for online browsing through a dedicated concordancer.",
       "Languages": ["ell"],
       "License": "proprietary",

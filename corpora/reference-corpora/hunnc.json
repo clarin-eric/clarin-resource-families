@@ -2,7 +2,7 @@
   "item": {
       "Name": "Hungarian National Corpus",
       "URL": "https://hdl.handle.net/11372/LRT-345",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes Hungarian texts (newspapers, literature, scientific articles, official and personal documents).\nThe corpus is available for online browsing through a dedicated concordancer.",
       "Languages": ["hun"],
       "License": "free after registration",

@@ -2,7 +2,7 @@
   "item": {
       "Name": "Estonian National Corpus 2019",
       "URL": "https://hdl.handle.net/10.15155/3-00-0000-0000-0000-08489L",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes Estonian texts published between 1990 and 2019. Amongst others, this corpus contains the <a href="http://hdl.handle.net/11372/LRT-1068">Estonian Reference Corpus</a> as a subcorpus.\nThe corpus is available for download from META-SHARE (CELR distribution).",
       "Languages": ["est"],
       "License": "https://creativecommons.org/licenses/by-sa/4.0/",

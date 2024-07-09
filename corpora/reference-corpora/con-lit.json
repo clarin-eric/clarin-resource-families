@@ -2,7 +2,7 @@
   "item": {
       "Name": "Corpus of the Contemporary Lithuanian Language",
       "URL": "http://hdl.handle.net/20.500.11821/16",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes Lithuanian texts (mostly newspapers but also fiction, non-fiction, and specialised magazines) published between 1990 and 2008.\nThe corpus is encoded in TEI. Non-linguistic metadata includes bibliographic information. Aside from written materials, the corpus also contains transcriptions of spoken language.\nThe corpus is available for online browsing through a dedicated concordancer.",
       "Languages": ["lit"],
       "License": "CLARIN RES",

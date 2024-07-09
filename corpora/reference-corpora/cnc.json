@@ -2,7 +2,7 @@
   "item": {
       "Name": "Croatian National Corpus",
       "URL": "http://hdl.handle.net/11372/LRT-233",
-	"Family": "Reference corpora"
+	"Family": "Reference corpora",
       "Description": "This corpus includes Croatian texts taken from newspapers, magazines, popular texts, and fiction.\nThe corpus is available for online browsing through the noSketch Engine.",
       "Languages": ["hrv"],
       "License": "",

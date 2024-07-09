@@ -2,7 +2,7 @@
   "item": {
       "Name": "Forum corpus Janes-Forum 1.0",
       "URL": "http://hdl.handle.net/11356/1139",
-	"Family": "Computer-mediated communication corpora"
+	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains forum posts from Avtomobilizem.com, MedOver.net and RTV Slovenija.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
       "Languages": ["slv"],
       "License": "https://creativecommons.org/licenses/by/4.0/",

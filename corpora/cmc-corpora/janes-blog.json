@@ -2,7 +2,7 @@
   "item": {
       "Name": "Blog post and comment corpus Janes-Blog 1.0",
       "URL": "http://hdl.handle.net/11356/1138",
-	"Family": "Computer-mediated communication corpora"
+	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains blog posts from RTV Slovenija and Publishwall.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText",
       "Languages": ["slv"],
       "License": "https://creativecommons.org/licenses/by/4.0/",

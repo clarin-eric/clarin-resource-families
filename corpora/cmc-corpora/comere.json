@@ -2,7 +2,7 @@
   "item": {
       "Name": "CoMeRe repository",
       "URL": "https://hdl.handle.net/11403/comere",
-	"Family": "Computer-mediated communication corpora"
+	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains e-mails, forum posts, online chats, tweets and SMS.\nThe corpus is available for download from Ortolang.",
       "Languages": ["fra"],
       "License": "https://creativecommons.org/licenses/by/4.0/",
