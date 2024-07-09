@@ -9,7 +9,7 @@
       "Size": ["1.3 billion tokens", "1.1 billion words", "38,310 texts"],
       "Annotation": ["MSD-tagged", "lemmatized"],
       "Access": {
-	"noSketchEngine": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=gfida20_dedup&struct_attr_stats=1"
+	"noSketchEngine": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=gfida20_dedup&struct_attr_stats=1",
 	"Concordancer": "https://viri.cjvt.si/gigafida/"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/FR5LAKKE"

@@ -9,7 +9,8 @@
       "Size": ["0.5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Access": {
-	"Concordancer": "https://sms.linguistik.uzh.ch/SMS4science/TwoCorpora#Access_to_the_corpora",
+	"Concordancer": "https://sms.linguistik.uzh.ch/SMS4science/TwoCorpora#Access_to_the_corpora"
+	},
       "Publication":"https://www.zotero.org/groups/562080/items/8VETQ7HF"
     }
 }

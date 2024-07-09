@@ -9,8 +9,8 @@
       "Size": ["6 billion tokens"],
       "Annotation": ["MSD-tagged (MULTEXT-East)", "lemmatised", "normalised"],
       "Access": {
-	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=mfida10&struct_attr_stats=1"
-	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=mfida10"
+	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=mfida10&struct_attr_stats=1",
+	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=mfida10",
 	"Download": "http://hdl.handle.net/11356/1775"
 	},
       "Publication":""

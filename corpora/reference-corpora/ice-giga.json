@@ -9,8 +9,8 @@
       "Size": ["1.9 billion words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
       "Access": {
-	"Concordancer": "https://clarin.is/en/resources/gigaword/"
-	"Download subset 1": "http://hdl.handle.net/20.500.12537/41"
+	"Concordancer": "https://clarin.is/en/resources/gigaword/",
+	"Download subset 1": "http://hdl.handle.net/20.500.12537/41",
 	"Download subset 2": "http://hdl.handle.net/20.500.12537/33"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/SBD8E49K"

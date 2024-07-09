@@ -1,7 +1,7 @@
 {
   "item": {
-      "Name": ""SoNaR New Media,
-      "URL": ""http://hdl.handle.net/10032/157d6fee6134f5beab09b159dd7c710a,
+      "Name": "SoNaR New Media",
+      "URL": "http://hdl.handle.net/10032/157d6fee6134f5beab09b159dd7c710a",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains tweets, chats and SMS from 2005 to 2012.\nThe corpus is available for searching online through the OpenSONAR environment.",
       "Languages": ["nld"],

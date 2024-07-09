@@ -9,7 +9,7 @@
       "Size": ["175 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
       "Access": {
-	"Concordancer": "https://www.keeleveeb.ee/"
+	"Concordancer": "https://www.keeleveeb.ee/",
 	"Download": "http://www.cl.ut.ee/korpused/segakorpus/"
 	},
       "Publication":""

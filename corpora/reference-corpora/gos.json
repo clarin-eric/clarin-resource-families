@@ -9,8 +9,8 @@
       "Size": ["1534 texts", "127,604 utterances", "2,462,368 words"],
       "Annotation": ["PoS-tagged", "lemmatised", "phonetically and orthographically transcribed"],
       "Access": {
-	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=gos20&struct_attr_stats=1"
-	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=gos20"
+	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=gos20&struct_attr_stats=1",
+	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=gos20",
 	"Download": "http://hdl.handle.net/11356/1771"
 	},
       "Publication":"Verdonik and Zwitter-Vitez (2011)"

@@ -9,7 +9,7 @@
       "Size": ["500 million words"],
       "Annotation": ["PoS-tagged", "lemmatized", "named entities", "coreference annotation and annotation of spatial and temporal relations for the manually annotated SoNaR-1 subset "],
       "Access": {
-	"Concordancer": "https://opensonar.ivdnt.org/"
+	"Concordancer": "https://opensonar.ivdnt.org/",
 	"Download": "http://hdl.handle.net/10032/tm-a2-h5"
 	},
       "Publication":""

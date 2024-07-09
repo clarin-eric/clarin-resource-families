@@ -9,7 +9,7 @@
       "Size": ["5 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],
       "Access": {
-	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=janes_wiki"
+	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=janes_wiki",
 	"Download": "http://hdl.handle.net/11356/1137"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/ZMU86U4U"
