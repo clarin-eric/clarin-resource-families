@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Monitor corpus of tweets from Austrian users",
       "URL": "https://hal.archives-ouvertes.fr/hal-01323274/document",
 	"Family": "Computer-mediated communication corpora",
@@ -10,5 +9,4 @@
       "Annotation": ["tokenised", "lemmatised"],
       "Access": "",
       "Publication":"https://www.zotero.org/groups/562080/items/NI49XITA"
-    }
 }

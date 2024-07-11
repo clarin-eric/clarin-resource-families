@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Norsk Ordboks Nynorskkorpus (NNK)",
       "URL": "http://hdl.handle.net/11495/E1A3-9361-1821-1",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://clarino.uib.no/korpuskel/metadata?identifier=nnk"
 	},
       "Publication":""
-    }
 }

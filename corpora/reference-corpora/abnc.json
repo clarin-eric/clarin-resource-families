@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "AbNC: Abkhaz National Corpus",
       "URL": "https://clarino.uib.no/abnc/page",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://clarino.uib.no/abnc"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/XY6WZR9L"
-    }
 }

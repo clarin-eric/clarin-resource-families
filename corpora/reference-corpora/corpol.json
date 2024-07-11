@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "National Corpus of Polish",
       "URL": "http://hdl.handle.net/11372/LRT-676",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://nkjp.pl/index.php?page=3&lang=1"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/857ETYMX"
-    }
 }

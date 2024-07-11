@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "CorCenCC: Corpws Cenedlaethol Cymraeg Cyfoes – the National Corpus of Contemporary Welsh",
       "URL": "http://hdl.handle.net/20.500.14106/2564",
 	"Family": "Reference corpora",
@@ -13,5 +12,4 @@
 	"Concordancer": "https://www.corcencc.org/explore"
 	},
       "Publication":"Dawn et al. (2020)"
-    }
 }

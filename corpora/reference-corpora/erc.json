@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Estonian Reference Corpus",
       "URL": "http://hdl.handle.net/11372/LRT-1068",
 	"Family": "Reference corpora",
@@ -13,5 +12,4 @@
 	"Download": "http://www.cl.ut.ee/korpused/segakorpus/"
 	},
       "Publication":""
-    }
 }

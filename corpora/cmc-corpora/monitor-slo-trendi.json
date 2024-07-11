@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Monitor corpus of Slovene Trendi 2023-02",
       "URL": "http://hdl.handle.net/11356/1782",
 	"Family": "Computer-mediated communication corpora",
@@ -13,5 +12,4 @@
 	"Concordancer(KonText)": "https://www.clarin.si/kontext/query?corpname=trendi"
 	},
       "Publication":"FIXME:Kosem (2022)#SEPKosem et al. (2022)"
-    }
 }

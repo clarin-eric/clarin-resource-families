@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "What's up, Switzerland?",
       "URL": "http://cmc-corpora.ch/",
 	"Family": "Computer-mediated communication corpora",
@@ -12,5 +11,4 @@
 	"Browse": "http://linguistik-sms.uzh.ch:8080/annis-gui/"
 },
       "Publication":"https://www.zotero.org/groups/562080/items/RR6K9CIX"
-    }
 }

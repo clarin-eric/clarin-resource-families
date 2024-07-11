@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "PAISÀ Corpus of Italian Web Text",
       "URL": "http://hdl.handle.net/20.500.12124/3",
 	"Family": "Computer-mediated communication corpora",
@@ -12,5 +11,4 @@
 	"Download": "http://hdl.handle.net/20.500.12124/3"
 	},
       "Publication": "FIXME https://aclanthology.org/W14-0406/"
-    }
 }

@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Balanced Corpus of Modern Latvian (LVK2022)",
       "URL": "http://hdl.handle.net/20.500.12574/84",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://nosketch.korpuss.lv/#dashboard?corpname=LVK2022"
 	},
       "Publication":""
-    }
 }

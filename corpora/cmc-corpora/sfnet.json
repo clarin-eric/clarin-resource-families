@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "SFNET Corpus",
       "URL": "http://urn.fi/urn:nbn:fi:lb-20150126",
 	"Family": "Computer-mediated communication corpora",
@@ -12,5 +11,4 @@
 	"Download": "http://urn.fi/urn:nbn:fi:lb-20150126"
 	},
       "Publication":""
-    }
 }

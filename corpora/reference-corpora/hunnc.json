@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Hungarian National Corpus",
       "URL": "https://hdl.handle.net/11372/LRT-345",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://corpus.nytud.hu/mnsz/"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/BW66EU4R"
-    }
 }

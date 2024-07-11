@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "DK-CLARIN Reference Corpus of General Danish",
       "URL": "http://hdl.handle.net/20.500.12115/36",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Download": "http://hdl.handle.net/20.500.12115/36"
 	},
       "Publication":""
-    }
 }

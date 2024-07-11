@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Corpus of the Contemporary Lithuanian Language",
       "URL": "http://hdl.handle.net/20.500.11821/16",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://corpus.vdu.lt/"
 	},
       "Publication":""
-    }
 }

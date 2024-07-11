@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "The Corpus of Welsh Language Tweets",
       "URL": "http://techiaith.cymru/corpora/twitter/?lang=en",
 	"Family": "Computer-mediated communication corpora",
@@ -12,5 +11,4 @@
 	"Download": "http://techiaith.cymru/data/corpora/twitter/?lang=en"
 },
       "Publication":""
-    }
 }

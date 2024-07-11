@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Corpus of Global Web-Based English",
       "URL": "https://www.kielipankki.fi/corpora/glowbe/",
 	"Family": "Computer-mediated communication corpora",
@@ -13,5 +12,4 @@
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2017061929"
 	},
       "Publication":""
-    }
 }

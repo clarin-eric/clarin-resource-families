@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "The Lexicographic Corpus for Norwegian Bokmål (LBK)",
       "URL": "https://www.hf.uio.no/iln/om/organisasjon/tekstlab/prosjekter/lbk/",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://tekstlab.uio.no/glossa2/bokmal"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/JB4ZVQAZ"
-    }
 }

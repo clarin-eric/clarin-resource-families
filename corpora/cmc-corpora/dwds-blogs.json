@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "DWDS – Blogs",
       "URL": "https://www.dwds.de/r#group-Spezialkorpora",
 	"Family": "Computer-mediated communication corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "http://www.dwds.de/r#group-Spezialkorpora"
 	},
       "Publication":""
-    }
 }

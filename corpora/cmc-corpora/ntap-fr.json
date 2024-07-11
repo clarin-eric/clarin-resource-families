@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "NTAP French",
       "URL": "http://hdl.handle.net/11495/DE48-00A5-6536-1",
 	"Family": "Computer-mediated communication corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "http://clarino.uib.no/korpuskel/landing-page?identifier=ntap-fra&view=short"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/3ZPNTGI2"
-    }
 }

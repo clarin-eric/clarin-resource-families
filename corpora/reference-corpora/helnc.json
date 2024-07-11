@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "Hellenic National Corpus",
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23E2-9",
 	"Family": "Reference corpora",
@@ -12,5 +11,4 @@
 	"Concordancer": "https://hnc.ilsp.gr/index.php?current_page=main"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/BFNNJIVE"
-    }
 }

@@ -1,5 +1,4 @@
 {
-  "item": {
       "Name": "DeReKo",
       "URL": "http://www1.ids-mannheim.de/kl/projekte/korpora/",
 	"Family": "Reference corpora",
@@ -13,5 +12,4 @@
 	"Download": "http://www1.ids-mannheim.de/kl/projekte/korpora/verfuegbarkeit.html"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/8GJ2LT8G"
-    }
 }
