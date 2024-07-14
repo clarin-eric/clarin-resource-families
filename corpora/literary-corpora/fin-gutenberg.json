@@ -1,0 +1,14 @@
+{
+      "Name": "The Finnish Gutenberg Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014100301",
+	"Family": "Literary corpora",
+      "Description": "This corpus contains Finnish books made available by the Gutenberg project. The texts have not been linguistically annotated.\nThe corpus is available for online browsing through Korp.",
+      "Languages": ["fin"],
+      "License": "CC-BY",
+      "Size": ["34,487,420 words"],
+      "Annotation": [],
+      "Access": {
+	"Browse": "http://urn.fi/urn:nbn:fi:lb-2014102101"
+	},
+      "Publication": ""
+}

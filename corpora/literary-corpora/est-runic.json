@@ -1,0 +1,14 @@
+{
+      "Name": "Estonian Runic Songs' Database",
+      "URL": "http://hdl.handle.net/10.15155/9-00-0000-0000-0000-0008FL",
+	"Family": "Literary corpora",
+      "Description": "These are the oldest text recordings of Estonian runic songs (the text recordings were created in the 19th century and in the first decades of the 20th century). In addition to the runic songs, the database also has songs of transitional form and end-rhymed songs (about 6000).\nThe corpus is available for online browsing through an external interface.",
+      "Languages": ["est"],
+      "License": "CLARIN ACA",
+      "Size": ["92,134 texts"],
+      "Annotation": [],
+      "Access": {
+	"Browse": "http://www.folklore.ee/regilaul/"
+	},
+      "Publication": ""
+}

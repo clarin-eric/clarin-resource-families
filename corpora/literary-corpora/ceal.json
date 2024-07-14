@@ -1,0 +1,15 @@
+{
+      "Name": "Classics of English and American Literature in Finnish (CEAL)",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2016110901",
+	"Family": "Literary corpora",
+      "Description": "This corpus contains Finnish translations of the following three texts: Jane Austen: Ylpeys ja ennakkoluulo (Pride and Prejudice), translated by Kersti Juva, Teos 2013; Henry James: Washingtonin aukio (Washington Square), translated by Kersti Juva, Otava 2003; Charles Dickens: Kolea talo (Bleak House), translated by Kersti Juva, Tammi, 2006.\nThe corpus is available for online browsing through Korp in two versions - Version 1 (Sentences and Paragraphs in the Original Order) and Version 2 (Scrambled Paragraphs))",
+      "Languages": ["fin"],
+      "License": "CLARIN RES + NC",
+      "Size": ["3 novels", "484,010 tokens"],
+      "Annotation": ["MSD-tagged", "syntactically parsed"],
+      "Access": {
+	"Browse (original)": "http://urn.fi/urn:nbn:fi:lb-2018011201"
+	"Browse (scrambled)": "http://urn.fi/urn:nbn:fi:lb-2018011202"
+	},
+      "Publication": ""
+}

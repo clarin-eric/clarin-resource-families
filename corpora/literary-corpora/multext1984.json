@@ -1,0 +1,14 @@
+{
+      "Name": "MULTEXT-East "1984" annotated corpus 4.0 ",
+      "URL": "http://hdl.handle.net/11356/1043",
+	"Family": "Literary corpora",
+      "Description": "This is Parallel corpus of George Orwell's 1984 and its translations.\nThe corpus is available for download from CLARIN.SI.",
+      "Languages": ["bul", "ces", "eng", "est", "hun", "mkd", "fas", "pol", "ron", "srp", "slk", "slv"],
+      "License": "CC BY-NC SA 4.0",
+      "Size": ["12 texts", "79,718 sentences", "1,064,424 words"],
+      "Annotation": ["sentence-alignment", "MSD tagging"],
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1043"
+	},
+      "Publication": ""
+}

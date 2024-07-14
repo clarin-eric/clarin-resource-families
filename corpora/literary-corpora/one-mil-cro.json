@@ -1,0 +1,14 @@
+{
+      "Name": "One-million Corpus of Croatian Literary Language",
+      "URL": "http://hdl.handle.net/11372/LRT-234",
+	"Family": "Literary corpora",
+      "Description": "The corpus is listed in the LINDAT repository. ",
+      "Languages": ["hrv"],
+      "License": "",
+      "Size": ["1 million tokens"],
+      "Annotation": [],
+      "Access": {
+	"Download": ""
+	},
+      "Publication": ""
+}

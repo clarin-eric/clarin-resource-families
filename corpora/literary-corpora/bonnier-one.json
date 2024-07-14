@@ -1,0 +1,15 @@
+{
+      "Name": "Bonnier novels I (1976/77) (2017-10-04)",
+      "URL": "http://hdl.handle.net/10794/115",
+	"Family": "Literary corpora",
+      "Description": "This corpus presents 69 Bonnier novels from 1976-77.\nThe corpus is available for download from SWE-CLARIN and for online browsing through Korp.",
+      "Languages": ["swe"],
+      "License": "CC-BY 4.0",
+      "Size": ["6,578,675 tokens", "462,625 sentences"],
+      "Annotation": ["sentence scrambling"],
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/korp/#corpus=romi"
+	"Download": "http://hdl.handle.net/10794/115"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "République-Bastille (1948-1949)",
+      "URL": "http://hdl.grnet.gr/11500/AUTH-0000-0000-24DC-0",
+	"Family": "Literary corpora",
+      "Description": "This corpus contains République-Bastille, a novel by Melpo Axioti. This French text is of particular linguistic interest since it is a text written in a language other than the author's mother tongue and is suited for research on bilingualism and self-translation. It would be worth measuring the naturalness of the language with computational tools, for example.\nThe corpus is available for download from clarin:el.",
+      "Languages": ["fra"],
+      "License": "CC-BY",
+      "Size": ["37,965 words"],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/AUTH-0000-0000-24DC-0"
+	},
+      "Publication": ""
+}

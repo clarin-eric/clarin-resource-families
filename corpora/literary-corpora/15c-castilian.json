@@ -1,0 +1,14 @@
+{
+      "Name": "Electronic corpus of 15th-century Castilian cancionero manuscripts",
+      "URL": "http://hdl.handle.net/11372/LRT-873",
+	"Family": "Literary corpora",
+      "Description": "This is a lyric corpus of 15th century cancioneros.\nThe corpus is available for online browsing through an external interface.",
+      "Languages": ["spa"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Browse": "http://cancionerovirtual.liv.ac.uk/"
+	},
+      "Publication": ""
+}

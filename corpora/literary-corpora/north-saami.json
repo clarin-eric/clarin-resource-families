@@ -1,0 +1,14 @@
+{
+      "Name": "North Saami Corpus (Literature) (UHLCS)",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014032620",
+	"Family": "Literary corpora",
+      "Description": "This corpus contains <i>Kerttu Vuolab's</i> novel <i>Cheppari cháráhus</i>.\nThe corpus is available for online browsing through the TAITO shell.",
+      "Languages": ["sme"],
+      "License": "CLARIN RES +NC +NORED +PLAN",
+      "Size": ["17,830 words"],
+      "Annotation": [],
+      "Access": {
+	"Browse": "https://lbr.csc.fi/apply-for?resource=urn:nbn:fi:lb-2014032620"
+	},
+      "Publication": ""
+}

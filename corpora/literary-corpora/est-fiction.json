@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Estonian fiction",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0007EL",
+	"Family": "Literary corpora",
+      "Description": "This corpus contains texts from 1990 onwards.\nThe corpus is available for download from CELR.",
+      "Languages": ["est"],
+      "License": "CLARIN ACA - NC",
+      "Size": ["5,768,504 words"],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0007EL"
+	},
+      "Publication": ""
+}

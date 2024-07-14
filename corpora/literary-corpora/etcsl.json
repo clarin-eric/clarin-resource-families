@@ -1,0 +1,14 @@
+{
+      "Name": "Electronic text corpus of Sumerian literature (ETCSL)",
+      "URL": "http://hdl.handle.net/11372/LRT-874",
+	"Family": "Literary corpora",
+      "Description": "This corpus presents a selection of nearly 400 literary compositions recorded on sources which come from ancient Mesopotamia and date to the late third and early second millennia BCE.\nThe corpus is available for online browsing through an external interface.",
+      "Languages": ["sux"],
+      "License": "",
+      "Size": ["400 literary compositions"],
+      "Annotation": [],
+      "Access": {
+	"Browse": "http://etcsl.orinst.ox.ac.uk/"
+	},
+      "Publication": ""
+}

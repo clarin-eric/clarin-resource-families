@@ -1,0 +1,14 @@
+{
+      "Name": "Classics Library of the National Library of Finland - Kielipankki version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2018051701",
+	"Family": "Literary corpora",
+      "Description": "This corpus contains literary texts from 1549 to 1944.\nThe corpus is available for online browsing through FIN-CLARIN.",
+      "Languages": ["fin","swe"],
+      "License": "CC-BY",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Browse": "https://www.kielipankki.fi/corpora/nlfcl-fi-authors/"
+	},
+      "Publication": ""
+}
