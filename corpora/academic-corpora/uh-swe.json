@@ -1,0 +1,14 @@
+{
+      "Name": "UH's Swedish E-thesis corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2016102810",
+	"Family": "Academic corpora",
+      "Description": "This corpus contains MA and PhD theses published between 1999 and 2016.\nThe corpus is available for online querying through the concordancer Korp (FIN-CLARIN distribution).",
+      "Languages": ["swe"],
+      "License": "CC BY",
+      "Size": ["105 million tokens"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2016102801"
+	},
+      "Publication":""
+}

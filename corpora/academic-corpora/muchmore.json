@@ -1,0 +1,14 @@
+{
+      "Name": "MuchMore Springer Bilingual Corpus",
+      "URL": "http://muchmore.dfki.de/resources1.htm",
+	"Family": "Academic corpora",
+      "Description": "This paper contains journal paper abstracts from medical disciplines. The corpus is encoded in MuchMore XML.\nThe corpus is available for download from a dedicated website.",
+      "Languages": ["eng","deu"],
+      "License": "free but unspecified",
+      "Size": ["1 million tokens"],
+      "Annotation": ["PoS/MSD-tagged", "phrase chunking", "semantic class and relations", "document structure"],
+      "Access": {
+	"Download": "http://muchmore.dfki.de/resources1.htm"
+	},
+      "Publication": ""
+}

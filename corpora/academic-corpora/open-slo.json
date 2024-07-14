@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of scientific texts from the Open Science Slovenia portal OSS 1.0",
+      "URL": "http://hdl.handle.net/11356/1774",
+	"Family": "Academic corpora",
+      "Description": "This corpus contains a large collection of scientific writing in the Slovenian language gathered from the <a href="https://openscience.si">Open Science Slovenia portal</a>. It consists of over 150 thousand monographs, articles, diploma, master's and doctoral theses, advanced textbooks, reviews etc. mostly published between 2000 and 2022 by Slovenian universities, research institutions, etc. Texts are accompanied by metadata, i.e. author, supervisor (for theses), year of publication, publisher (mostly faculties of the various universities), type of publication (according to SICRIS classification), keywords, and CERIF and UDC codes. The texts were obtained directly from PDFs, so it should be noted that they can contain various types of character noise. The texts are linguistically annotated with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA pipeline</a> on the levels lemmatisation, MULTEXT-East Version 6 morphosyntactic descriptions, Universal Dependencies part-of-spech and morphological features, and named entities. The corpus is distributed in CoNLL-U and vertical file formats, one file for each text. The text metadata is given as a TSV file.\nNote that there exist similar, but older and smaller corpora <a href=\"http://hdl.handle.net/11356/1448\">KAS 2.0</a> and <a href=\"http://hdl.handle.net/11356/1244\">KAS 1.0</a>. These contain only theses and only up to 2018, but are cleaner and with more metadata. The repository also archives a number of KAS-derived datasets; pls. search for "KAS" to find them.\nThe corpus is available for download from the CLARIN.SI repository as well as for online browsing through the noSketch Engine and KonText concordancers.",
+      "Languages": ["slv"],
+      "License": "CC BY-SA",
+      "Size": ["326 million tokens"],
+      "Annotation": ["PoS-tagged (UD)", "MSD-tagged (UD & MULTEXT-East)", "lemmatised", "annotated for named entities and author/text metadata"],
+      "Access": {
+	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=oss10"
+	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=oss10"
+	"Download": "http://hdl.handle.net/11356/1774"
+	},
+      "Publication":""
+}

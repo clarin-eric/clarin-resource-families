@@ -1,0 +1,14 @@
+{
+      "Name": "The Language of Literature and the Language of Translation (collected scientific papers)",
+      "URL": "http://hdl.grnet.gr/11500/KEG-0000-0000-24F2-6",
+	"Family": "Academic corpora",
+      "Description": "This corpus contains journal articles in literary and translation studies. This is a plain text corpus.\nThe corpus is available for download from the CLARIN:EL repository.",
+      "Languages": ["ell"],
+      "License": "CC-BY-SA",
+      "Size": ["48,300 words"],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/KEG-0000-0000-24F2-6"
+	},
+      "Publication":""
+}

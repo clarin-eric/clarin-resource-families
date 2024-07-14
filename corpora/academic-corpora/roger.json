@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Romanian Academic Genres – ROGER (bilingual, student papers)",
+      "URL": "https://roger-corpus.org/",
+	"Family": "Academic corpora",
+      "Description": "The corpus contains academic papers from eight disciplines, written by the Romanian students in native Romanian and English L2.\nThe corpus was collected over a three-year period (2018–2021) with the help of 27 collaborators from nine Romanian universities.\nThe corpus is available for online querying through a <a href=\"https://roger-corpus.org/index.php\">dedicated platform</a> developed at the <a href=\"https://codhus.projects.uvt.ro/\">CODHUS</a> research centre from the West University of Timisoara.",
+      "Languages": ["eng","ron"],
+      "License": "CC BY-NC-ND",
+      "Size": ["3.3 million words"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "https://roger-corpus.org/login.php"
+	},
+      "Publication" :"Striletchi et al. (2022)"
+}

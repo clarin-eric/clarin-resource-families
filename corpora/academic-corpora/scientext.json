@@ -1,0 +1,14 @@
+{
+      "Name": "Scientext corpus",
+      "URL": "https://scientext.hypotheses.org/corpus",
+	"Family": "Academic corpora",
+      "Description": "This corpus contains scientific texts and argumentative essays in humanities, experimental sciences, and applied/technical sciences.\nThe corpus is available for online querying through a dedicated webpage.",
+      "Languages": ["fra","eng"],
+      "License": "CC BY",
+      "Size": ["20 million words"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://scientext.hypotheses.org/corpus"
+	},
+      "Publication":""
+}
