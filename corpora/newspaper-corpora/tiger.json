@@ -1,0 +1,14 @@
+{
+      "Name": "TIGER Corpus",
+      "URL": "https://hdl.handle.net/11022/1007-0000-0000-8E50-6",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from the German newspaper <a href=\"http://www.fr.de/\">Frankfurter Rundschau</a>.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["deu"],
+      "License": "CLARIN PUB",
+      "Size": ["900,000 tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "parsed", "lemmatised"],
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1007-0000-0000-8E50-6"
+	},
+      "Publication": ""
+}

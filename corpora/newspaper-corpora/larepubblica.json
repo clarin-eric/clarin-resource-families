@@ -1,0 +1,14 @@
+{
+      "Name": "\"LA REPUBBLICA\" CORPUS",
+      "URL": "https://docs.sslmit.unibo.it/doku.php?id=corpora:repubblica",
+	"Family": "Newspaper corpora",
+      "Description": "The corpus contains articles from the Italian newspaper <a href=\"http://www.repubblica.it/\">La Repubblica</a>.\nThe corpus is available through the noSketch Engine concordancer.",
+      "Languages": ["ita"],
+      "License": "CC-BY",
+      "Size": ["380 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Access": {
+	"Concordancer": "https://corpora.dipintra.it/public/run.cgi/first?corpname=repubblica&reload=1&iquery=&queryselector=iqueryrow&lemma=&phrase=&word=&char=&cql=&default_attr=word&fc_lemword_window_type=both&fc_lemword_wsize=5&fc_lemword=&fc_lemword_type=all&usesubcorp=&fsca_text.id=&fsca_text.wordcount="
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "8 sidor",
+      "URL": "https://spraakbanken.gu.se/eng/resource/attasidor",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from the Swedish newspaper <a href=\“http://8sidor.se/\">8 sidor</a> from 2003 to 2012.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
+      "Languages": ["swe"],
+      "License": "CC-BY",
+      "Size": ["678,000 tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "parsed", "compounds"],
+      "Access": {
+	"Concordancer": "https://spraakbanken.gu.se/korp/#?corpus=attasidor&stats_reduce=word&cqp=%5B%5D",
+	"Download": "http://spraakbanken.gu.se/eng/resource/attasidor"
+	},
+      "Publication": ""
+}

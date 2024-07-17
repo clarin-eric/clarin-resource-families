@@ -1,0 +1,14 @@
+{
+      "Name": "Europeana historical newspapers: Luxembourg",
+      "URL": "http://hdl.handle.net/11372/VC-1096",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains 1225 issues of 2 newspapers published in Luxembourg between 1704 and 1794.",
+      "Languages": ["fra"],
+      "License": "Public",
+      "Size": ["29,266,765 words"],
+      "Annotation": [],
+      "Access": {
+	"VLO": "https://vlo.clarin.eu/search?fqType=collection:or&fq=collection:Europeana+newspapers+full-text&fqType=country:or&fq=country:Luxembourg"
+	},
+      "Publication": ""
+}

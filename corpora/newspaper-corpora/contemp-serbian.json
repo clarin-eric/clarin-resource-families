@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Contemporary Serbian Newspapers and Magazines",
+      "URL": "http://metashare.elda.org/repository/browse/corpus-of-contemporary-serbian-newpapers-and-magazines/210858448b2a11e2b539001517144592b76e35aee8794c51bd3016f1e57e765e/",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from over a 100 Serbian newspapers from 2004 to 2012.",
+      "Languages": ["srp"],
+      "License": "CC-BY",
+      "Size": ["916 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Access": {
+	"Special": "For access, contact the <a href="http://metashare.elda.org/repository/browse/corpus-of-contemporary-serbian-newpapers-and-magazines/210858448b2a11e2b539001517144592b76e35aee8794c51bd3016f1e57e765e/#">resource manager.</a>"
+	},
+      "Publication": ""
+}

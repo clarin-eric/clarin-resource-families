@@ -1,0 +1,15 @@
+{
+      "Name": "Rösträtt för Kvinnor",
+      "URL": "https://spraakbanken.gu.se/eng/resource/ub-kvt-rostratt",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from the newspaper <a href=\"http://www.ub.gu.se/kvinn/digtid/04/\">Rösträtt för Kvinnor</a> from 1912 to 1919.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
+      "Languages": ["swe"],
+      "License": "CC-BY",
+      "Size": ["2.2 million tokens"],
+      "Annotation": ["tokenized", "PoS-tagged", "parsed"],
+      "Access": {
+	"Concordancer": "http://spraakbanken.gu.se/korp/?mode=all_hist#corpus=ub-kvt-rostratt",
+	"Download": "http://spraakbanken.gu.se/eng/resource/ub-kvt-rostratt"
+	},
+      "Publication": ""
+}

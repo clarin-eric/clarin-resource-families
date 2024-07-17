@@ -1,0 +1,14 @@
+{
+      "Name": "Modern Greek Texts Corpus - "Ta Nea" newspaper",
+      "URL": "http://hdl.grnet.gr/11500/KEG-0000-0000-24F9-F",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains newspaper articles in various topics (politics, economy, sports).\nThe corpus is available for download from the CLARIN:EL repository.",
+      "Languages": ["ell"],
+      "License": "CC-BY-NC-SA",
+      "Size": ["2 million words"],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/KEG-0000-0000-24FB-D"
+	},
+      "Publication": ""
+}

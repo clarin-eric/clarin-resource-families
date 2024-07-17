@@ -1,0 +1,14 @@
+{
+      "Name": "Europeana historical newspapers: Germany",
+      "URL": "http://hdl.handle.net/11372/VC-1098",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains 126,564 issues of 11 newspapers published in Germany (chiefly Berlin and Hamburg) between 1792 and 1945.",
+      "Languages": ["deu", "eng"],
+      "License": "Public",
+      "Size": ["5,593,768,847 words"],
+      "Annotation": [],
+      "Access": {
+	"VLO": "https://vlo.clarin.eu/search?fqType=collection:or&fq=collection:Europeana+newspapers+full-text&fqType=country:or&fq=country:Germany"
+	},
+      "Publication": ""
+}

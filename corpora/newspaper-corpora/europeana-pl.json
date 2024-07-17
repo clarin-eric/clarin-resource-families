@@ -1,0 +1,14 @@
+{
+      "Name": "Europeana historical newspapers: Poland",
+      "URL": "http://hdl.handle.net/11372/VC-1094",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains 15,130 issues of 10 newspapers published in Poland between 1866 and 1939.",
+      "Languages": ["pol","deu","ukr","rus"],
+      "License": "Public",
+      "Size": ["181,102,489 words"],
+      "Annotation": [],
+      "Access": {
+	"VLO": "https://vlo.clarin.eu/search?fqType=collection:or&fq=collection:Europeana+newspapers+full-text&fqType=country:or&fq=country:Poland"
+	},
+      "Publication": ""
+}

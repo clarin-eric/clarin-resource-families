@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus journalistique issu de l'Est Républicain",
+      "URL": "https://hdl.handle.net/11403/est_republicain",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from the French newspaper <a href=\"http://www.estrepublicain.fr/\">l'Est Républicain from 1999 to 2003</a>.\nThe corpus is available for download from Ortolang.",
+      "Languages": ["fra"],
+      "License": "CC-BY",
+      "Size": [],
+      "Annotation": ["MSD-tagged", "lemmatised"],
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/est_republicain"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "SYN2013PUB: corpus of written Czech newspapers",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-3B09-4",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from Czech newspapers from 2005 to 2009.\nThe corpus  is available for download from the Czech repository LINDAT.",
+      "Languages": ["ces"],
+      "License": "Czech National Corpus (Shuffled Corpus Data)",
+      "Size": ["935 million tokens"],
+      "Annotation": ["tokenised", "lemmatised", "MSD-tagged"],
+      "Access": {
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-3B09-4"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "Zurich English Newspaper Corpus",
+      "URL": "https://varieng.helsinki.fi/CoRD/corpora/ZEN/",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from various English newspapers (mainly newspapers from London) from the 17th and 18th century. ",
+      "Languages": ["eng"],
+      "License": "public",
+      "Size": ["1.6 million tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Special": "For access, contact <a href=mailto:"hmlehman@es.uzh.ch">the authors</a>."
+	},
+      "Publication": ""
+}

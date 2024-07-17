@@ -1,0 +1,14 @@
+{
+      "Name": "ChronoPress Corpus of Polish Press Texts",
+      "URL": "http://hdl.handle.net/11321/260",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from various Polish newspapers from 1945 and 1962.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["pol"],
+      "License": "CLARIN PUB",
+      "Size": ["20 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "named entities"],
+      "Access": {
+	"Concordancer": "https://chronopress.clarin-pl.eu/"
+	},
+      "Publication": ""
+}

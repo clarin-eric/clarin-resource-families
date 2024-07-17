@@ -1,0 +1,14 @@
+{
+      "Name": "The Norwegian Newspaper Corpus",
+      "URL": "http://avis.uib.no/",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from 24 Norwegian newspapers from 1998 onwards.\nThe corpus is available through the concordancer Corpuscle.",
+      "Languages": ["nor"],
+      "License": "CC-BY",
+      "Size": ["700 million tokens"],
+      "Annotation": ["multitagged"],
+      "Access": {
+	"Concordancer": "https://hdl.handle.net/11495/D9B5-0349-4330-0"
+	},
+      "Publication": ""
+}

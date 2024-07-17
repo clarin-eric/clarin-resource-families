@@ -1,0 +1,14 @@
+{
+      "Name": "Europeana historical newspapers: Estonia",
+      "URL": "http://hdl.handle.net/10.34733/vc-1086",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains 92,558 issues of 40 newspapers published in Estonia between 1852 and 1946.",
+      "Languages": ["est", "rus", "deu"],
+      "License": "Public",
+      "Size": ["351,656,185 words"],
+      "Annotation": [],
+      "Access": {
+	"VLO": "https://vlo.clarin.eu/search?fq=collection:Europeana+newspapers+full-text&fq=country:Estonia"
+	},
+      "Publication": ""
+}

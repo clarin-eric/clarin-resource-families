@@ -1,0 +1,14 @@
+{
+      "Name": "Europeana historical newspapers: Netherlands",
+      "URL": "http://hdl.handle.net/11372/VC-1097",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains 4266 issues of 164 newspapers r published in the Netherlands between 1618 and 1940.",
+      "Languages": ["nld","fra","eng","spa","heb","fry","deu","pan","ara"],
+      "License": "Public",
+      "Size": ["2,869,483,985 words"],
+      "Annotation": [],
+      "Access": {
+	"VLO": "https://vlo.clarin.eu/search?fqType=collection:or&fq=collection:Europeana+newspapers+full-text&fqType=country:or&fq=country:Netherlands"
+	},
+      "Publication": ""
+}

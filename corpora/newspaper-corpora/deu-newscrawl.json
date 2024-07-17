@@ -1,0 +1,14 @@
+{
+      "Name": "deu_newscrawl_2011",
+      "URL": "http://corpora.uni-leipzig.de/en?corpusId=deu_newscrawl_2011",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains articles from various German newspapers from 2011.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["deu"],
+      "License": "",
+      "Size": ["426 million tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Concordancer": "http://corpora.uni-leipzig.de/en?corpusId=deu_newscrawl_2011"
+	},
+      "Publication": ""
+}
