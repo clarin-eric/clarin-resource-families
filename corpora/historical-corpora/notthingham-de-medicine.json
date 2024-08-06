@@ -1,0 +1,14 @@
+{
+      "Name": "The Nottingham Corpus of Early Modern German Midwifery and Women's Medicine (ca. 1500-1700)",
+      "URL": "http://hdl.handle.net/20.500.14106/2562",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains medical writing from 1500 to 1700.\nThe texts are taken primarily from digital facsimile copies available online via the University of Würzburg’s <a href=\"http://kallimachos.de/fachtexte/index.php/Hauptseite\">library interface</a>, particularly from the subcategory of pertaining to gynaecology.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["deu"],
+      "License": "CC-BY-NC-SA 3.0",
+      "Size": ["120,000 tokens"],
+      "Annotation": ["TEI Lite markup", "no linguistic annotation"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2562"
+	},
+      "Publication": ""
+}

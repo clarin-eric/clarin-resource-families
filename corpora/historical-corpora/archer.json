@@ -1,0 +1,14 @@
+{
+      "Name": "ARCHER Corpus",
+      "URL": "http://www.projects.alc.manchester.ac.uk/archer/",
+	"Family": "Historical corpora",
+      "Description": "The corpus contains texts from 1600 to 1999.\nThe corpus is available through the CQPConcordancer. ",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "https://cqpweb.lancs.ac.uk/archer_untagged/"
+	},
+      "Publication": ""
+}

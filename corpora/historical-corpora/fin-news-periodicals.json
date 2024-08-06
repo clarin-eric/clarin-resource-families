@@ -1,0 +1,14 @@
+{
+      "Name": "The Finnish Sub-corpus of the Newspaper and Periodical Corpus of the National Library of Finland, Kielipankki Version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2016050302",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains newspaper articles from 1840 to 2011.\nFor a comprehensive list of newspapers included in the corpus, see <a href=\"https://www.kielipankki.fi/wp-content/uploads/klk-lehdet-fi.pdf\">here</a>.\nThe corpus is available through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "CC_BY-SA",
+      "Size": ["5.2 billion tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-201405275"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus testuale del Tesoro della Lingua Italiana delle Origini",
+      "URL": " http://tlio.ovi.cnr.it/TLIO/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains early Italian texts before 1375.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": ["23 million tokens"],
+      "Annotation": ["tokenised", "lemmatised"],
+      "Access": {
+	"Concordancer": "http://tlio.ovi.cnr.it/TLIO/"
+	},
+      "Publication": ""
+}

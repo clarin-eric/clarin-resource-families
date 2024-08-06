@@ -1,0 +1,14 @@
+{
+      "Name": "Greek Medieval Texts",
+      "URL": "http://hdl.grnet.gr/11500/AEGEAN-0000-0000-251D-7",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from the 4th to the 16th century.\nThe texts belong to the following categories: religious, poetical-literary, political, and historical texts, as well as hymns and epigrams.\nThe corpus is available for download from the clarin:el repository.  ",
+      "Languages": ["grc"],
+      "License": "CC-BY",
+      "Size": ["3.4 million words"],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/AEGEAN-0000-0000-251D-7"
+	},
+      "Publication": ""
+}

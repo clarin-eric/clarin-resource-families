@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Old Written Estonian",
+      "URL": "http://hdl.handle.net/11297/1-00-0000-0000-0000-0002-6",
+	"Family": "Historical corpora",
+      "Description": "This corpus covers secular and religious texts from the 16th to the 18th century.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["est"],
+      "License": "CC-BY",
+      "Size": ["2 million tokens"],
+      "Annotation": ["tokenised, 16.-18. century texts have been tagged with contemporary Estonian, morphological and language information. 19. century texts are unannotated."],
+      "Access": {
+	"Concordancer": "http://vakk.ut.ee/"
+	},
+      "Publication": "Kingisepp et al. (2004)."
+}

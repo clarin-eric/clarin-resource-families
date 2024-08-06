@@ -1,0 +1,14 @@
+{
+      "Name": "The Newspaper and Periodical OCR Corpus of the National Library of Finland (1771-1874)",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2015051201",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains newspaper articles from 1771 to 1874.",
+      "Languages": ["fin", "swe"],
+      "License": "CC-BY",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201505112"
+	},
+      "Publication": ""
+}

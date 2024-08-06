@@ -1,0 +1,14 @@
+{
+      "Name": "Older Scottish texts: the Edinburgh DOST corpus / A.J. Aitken, Paul Bratley and Neil Hamilton-Smith",
+      "URL": "http://hdl.handle.net/20.500.14106/0701",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1450 to 1600.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["eng"],
+      "License": "CC-BY-NC-SA 3.0",
+      "Size": ["877,000 tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/0701"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "DDR-Presseportal (GDR press portal)",
+      "URL": "https://clarin.bbaw.de/en/corpus/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains newspaper texts from 1945 to 1994.\nThe corpus is available through a concordancer provided by CLARIN-D.",
+      "Languages": ["deu"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://zefys.staatsbibliothek-berlin.de/ddr-presse/"
+	},
+      "Publication": ""
+}

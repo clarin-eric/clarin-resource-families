@@ -1,0 +1,14 @@
+{
+      "Name": "Dictionary of Old English Corpus in Electronic Form (DOEC)",
+      "URL": "http://hdl.handle.net/20.500.14106/2488",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains 3037 texts from 600 to 1150.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["ang","lat"],
+      "License": "Oxford Text Archive licence",
+      "Size": [],
+      "Annotation": ["no linguistic annotation"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2488"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Historical American English - Kielipankki Korp version 2017H1",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2017061925",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1810 to 2009.\nEach decade has roughly the same balance of fiction, popular magazine, newspaper, and non-fiction books.\nThe corpus is available through the concordancer Korp.",
+      "Languages": [English (American)],
+      "License": "CLARN ACA",
+      "Size": ["385 million tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2017061934"
+	},
+      "Publication": ""
+}

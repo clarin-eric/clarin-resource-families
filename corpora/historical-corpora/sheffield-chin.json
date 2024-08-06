@@ -1,0 +1,14 @@
+{
+      "Name": "Sheffield Corpus of Chinese",
+      "URL": "http://hdl.handle.net/20.500.14106/2481",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains three texts (two non-fictional and one fictional) from the Medieval and Modern Chinese periods.\nThe text \"<a href=\"https://en.wikipedia.org/wiki/Zhuzi_yulei\">Zhuzi Yulei</a>\" is genre-wise similar to sermons and vernacular dialogues, and is representative of Medieval Chinese. The two other texts are the novel \"<a href=\"https://en.wikipedia.org/wiki/Water_Margin\">Shuihu Zhuan</a>\", which is from the Ming Dynasty (1368–1644), and the novel \"<a href=\"https://en.wikipedia.org/wiki/The_Scholars_(novel)\">Rulin Waishi</a>\", which is from the Quing Dynasty (1644–1911).\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["zho"],
+      "License": "CC-BY-NC-SA 3.0",
+      "Size": ["148,876 words"],
+      "Annotation": ["no annotation"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2481"
+	},
+      "Publication": ""
+}

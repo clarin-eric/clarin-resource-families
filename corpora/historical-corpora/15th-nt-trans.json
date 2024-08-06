@@ -1,0 +1,14 @@
+{
+      "Name": "XV century New Testament translations (Piętnastowieczne przekłady Nowego Testamentu – elektroniczna konkordancja staropolska)",
+      "URL": "http://stnt.ijp.pan.pl/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains Biblical texts from 1380 to 1500.\nThis corpus is available through a dedicated concordancer.",
+      "Languages": ["pol","lat"],
+      "License": "",
+      "Size": ["400,000 tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Concordancer": "http://stnt.ijp.pan.pl/idxlac/index"
+	},
+      "Publication": ""
+}

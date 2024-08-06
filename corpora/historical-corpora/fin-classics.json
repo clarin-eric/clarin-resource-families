@@ -1,0 +1,14 @@
+{
+      "Name": "Classics of Finnish Literature, Kielipankki Version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730186",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains literary texts from 1880 to 1949.\nIn terms of genre, the texts correspond to prose fiction, plays, poetry and aphorisms.\nThe corpus is available through the concordancer Korp (FIN-CLARIN).",
+      "Languages": ["fin"],
+      "License": "EUPL v.1.1 SA",
+      "Size": ["1.5 million words"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2016081601"
+	},
+      "Publication": ""
+}

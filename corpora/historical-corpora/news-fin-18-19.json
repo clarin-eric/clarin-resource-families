@@ -1,0 +1,14 @@
+{
+      "Name": "The Newspaper and Periodical OCR Corpus of the National Library of Finland (1875-1920)",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201801192",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains newspaper articles from 1875 to 1920.\nThe corpus is available for download from the Language Bank of Finland.",
+      "Languages": ["fin", "swe"],
+      "License": "CLARIN ACA",
+      "Size": ["8.7 billion tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201801191"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "The York-Helsinki parsed corpus of Old English poetry (YCOEP)",
+      "URL": "ihttp://hdl.handle.net/20.500.14106/2425",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains poems from 730 to 1710.\nThe corpus contains a selection of poems taken from the Old English subpart of the <a href=\"http://hdl.handle.net/20.500.14106/1477\">Helsinki Corpus of English Texts</a>.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["ang"],
+      "License": "Oxford Text Archive licence",
+      "Size": ["71,500 words"],
+      "Annotation": ["syntactically-parsed"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2425"
+	},
+      "Publication": ""
+}

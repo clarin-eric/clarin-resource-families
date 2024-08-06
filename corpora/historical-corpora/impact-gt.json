@@ -1,0 +1,14 @@
+{
+      "Name": "IMPACT GT corpus (Korpus GT projektu IMPACT)",
+      "URL": "https://szukajwslownikach.uw.edu.pl/IMPACT_GT_1/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1570 to 1756.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["pol"],
+      "License": "",
+      "Size": ["1.5 million tokens"],
+      "Annotation": ["transcription"],
+      "Access": {
+	"Concordancer": "https://szukajwslownikach.uw.edu.pl/IMPACT_GT_1/"
+	},
+      "Publication": "Bień (2012)."
+}

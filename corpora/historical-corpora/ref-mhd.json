@@ -1,0 +1,15 @@
+{
+      "Name": "Referenzkorpus Mittelhochdeutsch (Middle High German Reference Corpus)",
+      "URL": "http://deutschestextarchiv.de/rem/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1050 to 1350.\nThe corpus is available for download from the Deutsches Text Archiv and through a concordancer.",
+      "Languages": ["deu"],
+      "License": "CC-BY-SA 4.0",
+      "Size": ["2.5 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "normalised", "morphosyntactic description"],
+      "Access": {
+	"Concordancer": "http://www.deutschestextarchiv.de/"
+	"Download": "http://deutschestextarchiv.de/rem/"
+	},
+      "Publication": "Klein and Dipper (2016)."
+}

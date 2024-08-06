@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Early Modern Finnish, Kielipankki Version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730147",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1809 to 1899.\nThe corpus is available through the concordancer Korp.",
+      "Languages": ["fin", "rus", "deu", "lat"],
+      "License": "EUPL v.1.1 SA",
+      "Size": ["8.6 million words"],
+      "Annotation": ["no linguistic annotation"],
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2016081203"
+	},
+      "Publication": ""
+}

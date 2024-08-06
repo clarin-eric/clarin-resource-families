@@ -1,0 +1,14 @@
+{
+      "Name": "The Lampeter Corpus of Early Modern English Tracts",
+      "URL": "http://hdl.handle.net/20.500.14106/3193",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains tracts from 1640 to 1740.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["eng"],
+      "License": "CC-BY-NC-SA 3.0",
+      "Size": ["50,797,916 words"],
+      "Annotation": ["no linguistic annotation"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/3193"
+	},
+      "Publication": ""
+}

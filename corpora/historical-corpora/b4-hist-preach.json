@@ -1,0 +1,15 @@
+{
+      "Name": "B4 Historisches Predigtenkorpus zum Nachfeld",
+      "URL": "http://hdl.handle.net/11022/0000-0000-9B23-A",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains sermons from an Upper German (Balvarian-Alemannic) dialect area.\nThe corpus is available for download from the repository of the University of Hamburg and through the ANNIS environment.",
+      "Languages": ["gmh"],
+      "License": "CLARIN ACA",
+      "Size": ["92,500 tokens"],
+      "Annotation": ["tokenised", "syntactic and discursive annotation"],
+      "Access": {
+	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/sfb632"
+	"Download": "http://hdl.handle.net/11022/0000-0000-9B23-A"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "ECCO-TCP",
+      "URL": "https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts (literature, philosophy, politics, religion, geography, science and all other areas of human endeavour) from 1700 to 1800.\nThe corpus is available for download from a dedicated webpage  and through a dedicated concordancer.",
+      "Languages": ["eng"],
+      "License": "CC-0",
+      "Size": ["74 million tokens"],
+      "Annotation": ["no linguistic annotation"],
+      "Access": {
+	"Concordancer": "https://quod.lib.umich.edu/e/ecco/"
+	"Download": "https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/"
+	},
+      "Publication": ""
+}

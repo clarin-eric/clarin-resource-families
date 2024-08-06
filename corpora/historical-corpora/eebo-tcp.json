@@ -1,0 +1,14 @@
+{
+      "Name": "EEBO-TCP",
+      "URL": "https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts (literature, philosophy, politics, religion, geography, science and all other areas of human endeavour) from 1450 to 1750.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["eng"],
+      "License": "CC-0",
+      "Size": ["766 million tokens"],
+      "Annotation": ["no linguistic annotation"],
+      "Access": {
+	"Concordancer": "https://quod.lib.umich.edu/e/eebogroup/"
+	},
+      "Publication": ""
+}

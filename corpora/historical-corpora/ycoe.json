@@ -1,0 +1,14 @@
+{
+      "Name": "The York-Toronto-Helsinki Parsed Corpus of Old English prose (YCOE)",
+      "URL": "http://hdl.handle.net/20.500.14106/2462",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains fictional texts from 600 to 1150.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["ang","lat"],
+      "License": "Oxford Text Archive licence",
+      "Size": ["1.5 million words"],
+      "Annotation": ["syntactically-parsed"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2462"
+	},
+      "Publication": ""
+}

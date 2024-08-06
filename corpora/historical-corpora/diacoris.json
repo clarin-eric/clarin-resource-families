@@ -1,0 +1,14 @@
+{
+      "Name": "DiaCORIS",
+      "URL": "http://corpora.dslo.unibo.it/coris_ita.html",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1861 to 1945.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://corpora.dslo.unibo.it/DiaCORIS/"
+	},
+      "Publication": "Rossini Favretti et al. (2011)."
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of Late Modern English prose / David Denison",
+      "URL": "http://hdl.handle.net/20.500.14106/2077",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains fictional texts from 1837 to 1926.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["eng"],
+      "License": "Oxford Text Archive licence",
+      "Size": ["580,056 words"],
+      "Annotation": ["no annotation"],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2077"
+	},
+      "Publication": ""
+}

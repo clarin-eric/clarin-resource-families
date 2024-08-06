@@ -1,0 +1,15 @@
+{
+      "Name": "Digital library and corpus of historical Slovene IMP 1.1",
+      "URL": "http://hdl.handle.net/11356/1031",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains 658 unique texts from 1584 to 1919.\nThe corpus is available for download from the CLARIN.SI repository and through the concordancer KonText.",
+      "Languages": ["slv"],
+      "License": "CC-BY-SA 4.0",
+      "Size": ["17.7 million tokens"],
+      "Annotation": ["tokenised", "lemmatised", "PoS-tagged"],
+      "Access": {
+	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=imp"
+	"Download": "http://hdl.handle.net/11356/1031"
+	},
+      "Publication": "Erjavec (2015)."
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "eFontes Mediae et Infimae Latinitatis Polonorum (Elektroniczny korpus polskiej łaciny średniowiecznej)",
+      "URL": "http://scriptores.pl/efontes/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from the 11th to the middle of the 16th century.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["pol","lat"],
+      "License": "",
+      "Size": ["5 million tokens"],
+      "Annotation": ["tokenised", "lemmatised"],
+      "Access": {
+	"Concordancer": "http://scriptores.pl/efontes/"
+	},
+      "Publication": ""
+}

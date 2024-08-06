@@ -1,0 +1,14 @@
+{
+      "Name": "Classics Library of the National Library of Finland - Kielipankki version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2018051701",
+	"Family": "Historical corpora",
+      "Description": "This corpus will contain literary texts from 1549 to 1944.",
+      "Languages": ["fin", "swe"],
+      "License": "CC-BY",
+      "Size": [],
+      "Annotation": [],
+      "Access": {
+	"Download": ""
+	},
+      "Publication": ""
+}

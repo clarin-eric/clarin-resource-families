@@ -1,0 +1,14 @@
+{
+      "Name": "Chronopress",
+      "URL": "http://hdl.handle.net/11321/260",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains newspaper articles from 1945 to 1954.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["pol"],
+      "License": "CC-BY-SA",
+      "Size": ["16 million tokens"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://chronopress.clarin-pl.eu/#!start"
+	},
+      "Publication": ""
+}

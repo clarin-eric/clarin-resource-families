@@ -1,0 +1,14 @@
+{
+      "Name": "DIAKORP v6",
+      "URL": "http://wiki.korpus.cz/doku.php/en:cnk:diakorp",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from the 14th to the 20th century.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["ces"],
+      "License": "CC-BY-NC-SA",
+      "Size": ["4 million tokens"],
+      "Annotation": ["basic structural markup"],
+      "Access": {
+	"Concordancer": "https://www.korpus.cz/"
+	},
+      "Publication": ""
+}

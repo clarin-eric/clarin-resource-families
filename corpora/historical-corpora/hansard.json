@@ -1,0 +1,14 @@
+{
+      "Name": "Hansard Corpus",
+      "URL": "https://www.clarin.ac.uk/hansard-corpus",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains parliamentary debates from 1803 to 2005.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": ["1.6 billion tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "semantic tags"],
+      "Access": {
+	"Concordancer": "https://www.english-corpora.org/hansard/"
+	},
+      "Publication": "Rayson et al. (2015)."
+}

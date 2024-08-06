@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of the 16. century Polish (Korpus polszczyzny XVI wieku)",
+      "URL": "https://spxvi.edu.pl/korpus/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from the 16th century.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["pol","lat"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["lemmatised", "transliteration"],
+      "Access": {
+	"Concordancer": "https://spxvi.edu.pl/korpus/probka/szukaj"
+	},
+      "Publication": ""
+}

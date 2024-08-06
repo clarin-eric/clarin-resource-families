@@ -1,0 +1,14 @@
+{
+      "Name": "Hungarian Historical Corpus",
+      "URL": "http://clara.nytud.hu/mtsz/run.cgi/first_form",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains historical texts from the 18th century to the 2000s.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["hun"],
+      "License": "",
+      "Size": ["30 million words"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://clara.nytud.hu/mtsz/run.cgi/first_form?corpname=MTSZ"
+	},
+      "Publication": ""
+}

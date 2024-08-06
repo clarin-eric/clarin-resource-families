@@ -1,0 +1,14 @@
+{
+      "Name": "The Electronic Corpus of 17th- and 18th-century Polish Texts (Elektroniczny Korpus Tekstów Polskich z XVII i XVIII w.)",
+      "URL": "https://www.korba.edu.pl/query_corpus/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1601 to 1772.\nThe corpus is available through a dedicated concordancer.\nA manually annotated subset is available <a href=\"https://korba.edu.pl/download\">here</a>.",
+      "Languages": ["pol"],
+      "License": "",
+      "Size": ["13.5 million tokens"],
+      "Annotation": ["tokenised", "partially PoS-tagged", "structural annotation"],
+      "Access": {
+	"Concordancer": "https://korba.edu.pl/query_corpus/"
+	},
+      "Publication": "Gruszczyński et al. (2021)"
+}

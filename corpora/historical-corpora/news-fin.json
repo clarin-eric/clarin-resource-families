@@ -1,0 +1,14 @@
+{
+      "Name": "The Newspaper and Periodical Corpus of the National Library of Finland, Kielipankki Version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201405276",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains newspaper articles from 1770 to 2011.\nThe corpus is available through the concordancer Korp.",
+      "Languages": ["fin", "swe"],
+      "License": "CC-BY",
+      "Size": ["8.7 billion words"],
+      "Annotation": [],
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-201405275"
+	},
+      "Publication": ""
+}

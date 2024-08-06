@@ -1,0 +1,15 @@
+{
+      "Name": "B4 Ludolf",
+      "URL": "http://hdl.handle.net/11022/0000-0000-9B22-B",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from a journey diary from 1350.\nThe corpus is available for download from the repository of the University of Hamburg and through the ANNIS environment.",
+      "Languages": ["gmh"],
+      "License": "CLARIN ACA",
+      "Size": ["6,690 tokens"],
+      "Annotation": ["tokenised", "tagged for clause type and grammatical function"],
+      "Access": {
+	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/sfb632"
+	"Download": "http://hdl.handle.net/11022/0000-0000-9B22-B"
+	},
+      "Publication": ""
+}

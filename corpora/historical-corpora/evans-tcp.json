@@ -1,0 +1,14 @@
+{
+      "Name": "EVANS-TCP",
+      "URL": "https://textcreationpartnership.org/tcp-texts/evans-tcp-evans-early-american-imprints/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains American texts from 1640 to 1821.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["eng"],
+      "License": "CC-0",
+      "Size": ["766 million tokens"],
+      "Annotation": ["no linguistic annotation"],
+      "Access": {
+	"Concordancer": "https://quod.lib.umich.edu/e/evans/"
+	},
+      "Publication": ""
+}

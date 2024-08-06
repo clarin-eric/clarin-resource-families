@@ -1,0 +1,14 @@
+{
+      "Name": "Helsinki corpus of English texts",
+      "URL": "http://hdl.handle.net/20.500.14106/1477",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains religious and fictional texts from 730 to 1710.\nSee <a href=\"http://icame.uib.no/hc/#con2\">the project page</a> for a list of all the texts included in the corpus.\nThe corpus is available for download from the Oxford Text Archive.",
+      "Languages": [English (Old and Middle)],
+      "License": "Oxford Text Archive licence",
+      "Size": ["240,000 words"],
+      "Annotation": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/1477"
+	},
+      "Publication": ""
+}

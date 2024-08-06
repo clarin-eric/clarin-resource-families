@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of old Polish texts until 1500 (Korpus tekstów staropolskich do roku 1500)",
+      "URL": "https://ijp.pan.pl/publikacje-elektroniczne/korpus-tekstow-staropolskich",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts until 1500.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["pol","lat"],
+      "License": "",
+      "Size": ["620,000 tokens"],
+      "Annotation": ["tokenised"],
+      "Access": {
+	"Download": "https://ijp.pan.pl/publikacje-elektroniczne/korpus-tekstow-staropolskich"
+	},
+      "Publication": ""
+}

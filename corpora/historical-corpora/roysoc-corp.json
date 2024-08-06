@@ -1,0 +1,15 @@
+{
+      "Name": "Royal Society Corpus (Version 4.0)",
+      "URL": "http://hdl.handle.net/21.11119/0000-0001-7E8B-6",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains articles from the <a href=\"http://rstl.royalsocietypublishing.org/\"> Philosophical Transactions of the Royal Society of London</a> journal from 1665 to 1869.\nThe corpus is available for download from the CLARIN-D repository as well as through a concordancer.",
+      "Languages": ["eng"],
+      "License": "CC-BY-NC-SA-4.0",
+      "Size": ["35 million tokens"],
+      "Annotation": ["PoS-tagged using PennTreebank tagset", "lemmatised", "normalised"],
+      "Access": {
+	"Concordancer": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#cqpweb"
+	"Download": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#download"
+	},
+      "Publication": ""
+}

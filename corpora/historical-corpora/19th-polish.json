@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus of the 19. century Polish (Korpus polszczyzny XIX-wiecznej)",
+      "URL": "http://korpus19.nlp.ipipan.waw.pl/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from 1830 to 1918.\nThe corpus is available for download through a dedicated webpage.",
+      "Languages": ["pol"],
+      "License": "",
+      "Size": ["625,000 tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "transliteration", "transcription"],
+      "Access": {
+	"Download": "http://korpus19.nlp.ipipan.waw.pl/static/korpus19-TEI-XML-02102018.tar.gz"
+	},
+      "Publication": ""
+}

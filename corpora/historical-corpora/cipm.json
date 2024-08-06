@@ -1,0 +1,14 @@
+{
+      "Name": "Corpus Informatizado do Português Medieval",
+      "URL": "http://cipm.fcsh.unl.pt/",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains texts from the 9th to the 16th century.\nThe corpus is available through a dedicated concordancer (restricted access).",
+      "Languages": ["por"],
+      "License": "",
+      "Size": ["2 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged"],
+      "Access": {
+	"Concordancer": "http://cipm.fcsh.unl.pt/login.jsp"
+	},
+      "Publication": ""
+}
