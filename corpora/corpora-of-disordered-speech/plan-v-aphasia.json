@@ -1,0 +1,15 @@
+{
+      "Name": "Plan-V Aphasia Corpus",
+      "URL": "https://planv-project.gr/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This corpus contains spoken discourse data collected from Greek-speaking People with Aphasia (PWA) and from neurotypical adults.",
+      "Languages": ["ell"],
+      "License": "CC-BY 4.0",
+      "Size": ["1.84 MB"],
+      "Annotation": ["Sentence", "utterance", "clause", "POS"],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Download": "https://inventory.clarin.gr/corpus/1284"
+	},
+      "Publication": "Stamouli et al. (2023)"
+}

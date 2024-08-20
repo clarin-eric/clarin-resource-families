@@ -1,0 +1,15 @@
+{
+      "Name": "OPLON: Opportunities for active and healthy LONgevity",
+      "URL": "http://hdl.handle.net/20.500.11752/ILC-992",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This corpus consists of semi-spontaneous speech data collected from 96 elderly participants who were divided into two groups: the pathological and the control group.\nThe pathological group refers to three categories: (i) 16 participants with amnestic Mild Cognitive Impairment (MCI), (ii) 16 participants with multiple-domain MCI, and (iii) 16 participants with Early Dementia (probable Alzheimer Dementia, Fronto-Temporal Dementia, Mixed Dementia, and Lewy Body Dementia).\nThe control group includes 48 healthy individuals matched for gender, age, educational level, and geographical origin. The corpus was subjected to PoS Tagging and Dependency Parsing (CoNLL format). ",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": ["06:50 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN", 
+      "Access": {
+	"Download": ""
+	},
+      "Publication": ""
+}

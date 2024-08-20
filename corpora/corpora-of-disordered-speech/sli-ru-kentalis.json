@@ -1,0 +1,15 @@
+{
+      "Name": "SLI RU-Kentalis database",
+      "URL": "https://hdl.handle.net/1839/00-97AF29EA-877D-422A-BAF7-25FA269351A6",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "The corpus has been collected to investigate of the expression of spatial relations by children with SLI and normally developing children in their spoken language production. ",
+      "Languages": ["nld"],
+      "License": "CLARIN PUB (Transcriptions), CLARIN RESTRICTED (Recordings)",
+      "Size": ["2 GB"],
+      "Annotation": ["Praat transcripts"],
+      "Infrastructure": "CLARIN", 
+      "Access": {
+	"Download": "https://hdl.handle.net/1839/00-712802F3-C245-4EF0-BE9D-D09714DEDE67"
+	},
+      "Publication": ""
+}

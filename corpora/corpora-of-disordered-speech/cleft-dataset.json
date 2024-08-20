@@ -1,0 +1,15 @@
+{
+      "Name": "The Cleft Dataset",
+      "URL": "https://ultrasuite.github.io/data/cleft/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This is a corpus of ultrasound and audio recorded with children with cleft lip and palate.",
+      "Languages": ["English (Scottish)"],
+      "License": "open access",
+      "Size": ["11 speakers"],
+      "Annotation": ["Orthographic", "phonetic"],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Download": "https://ultrasuite.github.io/download/"
+	},
+      "Publication": "Cleland et al. (2020)"
+}

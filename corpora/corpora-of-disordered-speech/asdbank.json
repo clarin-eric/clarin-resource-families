@@ -1,0 +1,15 @@
+{
+      "Name": "ASDBank",
+      "URL": "https://asd.talkbank.org/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This is a corpus of multimedia interactions for the study of communication in autism-spectrum disorder.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
+      "Languages": ["nld", "eng", "fra", "ell", "cmn", "spa"],
+      "License": "open access",
+      "Size": ["42 MB transcripts", "401 MB media"],
+      "Annotation": ["CHAT and CA/CHAT"],
+      "Infrastructure": "CLARIN", 
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/asd"
+	},
+      "Publication": ""
+}

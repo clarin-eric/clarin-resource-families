@@ -1,0 +1,15 @@
+{
+      "Name": "Ahoslabi-esophageal speech database",
+      "URL": "https://catalog.elra.info/en-us/repository/browse/ELRA-S0413/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This corpus primarily consists of recordings of 31 laryngectomees (27 males and 4 females) pronouncing 100 phonetically balanced sentences.\nEsophageal voices were recorded in a soundproof recording cubicle with a Neuman microphone.\nThe corpus also includes parallel recordings of the  sentences by 9 healthy speakers (6 males and 3 females) to facilitate  speech processing tasks that require small parallel corpora, such as  voice conversion or synthetic speech adaptation. Apart from the  sentences, the database also contains 4 sustained vowels and a small set of isolated words (14) which can be very valuable for research on  esophageal speech analysis, diagnosis and evaluation. ",
+      "Languages": ["Spanish, Castilian"],
+      "License": "Non Commercial Use - ELRA END USER",
+      "Size": ["10.8 hours"],
+      "Annotation": [],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Download": ""
+	},
+      "Publication": "Serrano García (2021)"
+}

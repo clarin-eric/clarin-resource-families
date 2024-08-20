@@ -1,0 +1,15 @@
+{
+      "Name": "Perceptual Voice Qualities Database",
+      "URL": "https://data.mendeley.com/datasets/9dz247gnyb/4",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This corpus contains voice samples which have been rated by experienced voice professionals (at least 3 different raters with a minimum of 2 years’ clinical experience) in order to provide educators with standardized materials to better train pre-service clinical voice professionals. ",
+      "Languages": ["eng"],
+      "License": "CC 4.0",
+      "Size": ["296 audio files of varying sizes"],
+      "Annotation": [],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Browse or Download": "https://data.mendeley.com/datasets/9dz247gnyb/4"
+	},
+      "Publication": "Kempster (2007)"
+}

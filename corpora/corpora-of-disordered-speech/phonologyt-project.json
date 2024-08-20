@@ -1,0 +1,15 @@
+{
+      "Name": "Phonological Development Tools and Cross-Linguistic Phonologyt Project",
+      "URL": "https://phonodevelopment.sites.olt.ubc.ca/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This corpus is used for investigating the phonological development across languages, and to evaluate intervention outcomes given a nonlinear phonological approach and ultrasound intervention outcomes across speech disorders.",
+      "Languages": ["eng", "fra", "spa", "cmn", "yue", "slv"],
+      "License": "CC 4.0 Non-commercial",
+      "Size": ["4 speakers for transcription resource"],
+      "Annotation": ["Phonemic and phonetic transcription"],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Browse": "https://phonodevelopment.sites.olt.ubc.ca/"
+	},
+      "Publication": ""
+}

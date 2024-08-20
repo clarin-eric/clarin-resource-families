@@ -1,0 +1,15 @@
+{
+      "Name": "Polish Cued Speech Corpus of Hearing-Impaired Children",
+      "URL": "https://hdl.handle.net/1839/dbcd8568-d17d-4861-94bb-aa553e943399",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This is a corpus of recordings of the DIA (Dutch Intelligibilty Assessment).\nThe corpus also contains a variety of other samples like reading passages, isolated sentences and recordings of spontaneous speech.\nThe corpus contains samples of 187 speakers with a speech disorder and samples of 122 speakers without a speech disorder. ",
+      "Languages": ["pol"],
+      "License": "open access or through email request for access",
+      "Size": ["20 children (11 girls and 9 boys)"],
+      "Annotation": ["CHAT format"],
+      "Infrastructure": "CLARIN", 
+      "Access": {
+	"Download": ""https://hdl.handle.net/1839/dbcd8568-d17d-4861-94bb-aa553e943399
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Ultraphonix",
+      "URL": "https://ultrasuite.github.io/data/uxssd/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This is a corpus of ultrasound and audio recordings from children with speech sound disorders. It contains data from 20 speakers (16 male, 4 female), aged 6-13 years. ",
+      "Languages": ["English (Scottish)"],
+      "License": "open access",
+      "Size": ["19 hours"],
+      "Annotation": ["Orthographic", "phonetic"],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Download": "https://ultrasuite.github.io/download/"
+	},
+      "Publication": "Eshky et al. (2018)"
+}

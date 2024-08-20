@@ -1,0 +1,15 @@
+{
+      "Name": "University College London Archive of Stuttered Speech (UCLASS)",
+      "URL": "https://www.uclass.psychol.ucl.ac.uk/",
+	"Family": "Corpora of Disordered Speech",
+      "Description": "This corpus consists of data from a study by <a href=\"https://www.uclass.psychol.ucl.ac.uk/Release2/hdbw.pdf\">Howell, Davis, Bartrip, and Wormald (2004)</a>.\nThe study looked at the fluency-enhancing effects of speaking at the same time as a frequency shifted version of the voice.\nThere were 14 speakers and four recording per speaker making 56 files in all. Recording are in SFS format.\nThe four recordings for a speaker were for two texts and two readings of each text.",
+      "Languages": ["eng"],
+      "License": "open access",
+      "Size": ["56 files"],
+      "Annotation": ["None"],
+      "Infrastructure": "Other", 
+      "Access": {
+	"Download": "https://www.uclass.psychol.ucl.ac.uk/uclassfsf.htm"
+	},
+      "Publication": "Howell et al. (2004)"
+}
