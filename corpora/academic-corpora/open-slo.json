@@ -7,6 +7,7 @@
       "License": "CC BY-SA",
       "Size": ["326 million tokens"],
       "Annotation": ["PoS-tagged (UD)", "MSD-tagged (UD & MULTEXT-East)", "lemmatised", "annotated for named entities and author/text metadata"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=oss10"
 	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=oss10"

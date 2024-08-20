@@ -7,6 +7,7 @@
       "License": "CC BY",
       "Size": ["32 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatised", "normalised", "author and document metadata"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#cqpweb"
 	"Download": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#download"

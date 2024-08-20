@@ -7,6 +7,7 @@
       "License": "CC BY SA",
       "Size": ["75 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatised", "author/text metadata"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.sketchengine.eu/acl-anthology-reference-corpus-arc/",
 	"Download": "https://doi.org/10.35111/rfeg-z495"

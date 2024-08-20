@@ -7,6 +7,7 @@
       "License": "CC BY",
       "Size": ["2.3 million tokens"],
       "Annotation": ["No annotation"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2016102804"
 	},

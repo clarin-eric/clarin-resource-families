@@ -7,6 +7,7 @@
       "License": "CLARIN.SI Licence ACA ID-BY-NC-INF-NORED 1.0",
       "Size": ["1.5 billion tokens"],
       "Annotation": ["MSD-tagged", "lemmatised", "marked for bilingual and monolingual term candidates"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/11356/1448"
 	},

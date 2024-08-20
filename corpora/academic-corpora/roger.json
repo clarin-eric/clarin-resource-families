@@ -7,6 +7,7 @@
       "License": "CC BY-NC-ND",
       "Size": ["3.3 million words"],
       "Annotation": [],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "https://roger-corpus.org/login.php"
 	},

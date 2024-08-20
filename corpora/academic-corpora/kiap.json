@@ -7,6 +7,7 @@
       "License": "CC-BY 4.0",
       "Size": ["3.9 million tokens"],
       "Annotation": ["PoS-tagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://clarino.uib.no/korpuskel/landing-page?identifier=kiap&view=short"
 	},
