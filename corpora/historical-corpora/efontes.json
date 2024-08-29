@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["5 million tokens"],
       "Annotation": ["tokenised", "lemmatised"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "http://scriptores.pl/efontes/"
 	},

@@ -7,6 +7,7 @@
       "License": "INT Licence for researchers",
       "Size": ["1.5 million words"],
       "Annotation": ["PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://corpusgysseling.ivdnt.org/corpus-frontend/Gysseling/search/",
 	"Download": "http://hdl.handle.net/10032/tm-a2-j4"

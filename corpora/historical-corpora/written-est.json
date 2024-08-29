@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["2 million tokens"],
       "Annotation": ["tokenised, 16.-18. century texts have been tagged with contemporary Estonian, morphological and language information. 19. century texts are unannotated."],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://vakk.ut.ee/"
 	},

@@ -7,6 +7,7 @@
       "License": "CC-BY-SA.",
       "Size": ["3.5 billion tokens"],
       "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2014091901"
 	},

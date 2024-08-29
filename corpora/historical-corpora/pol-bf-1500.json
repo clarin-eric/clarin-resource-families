@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["620,000 tokens"],
       "Annotation": ["tokenised"],
+      "Infrastructure": "Other",
       "Access": {
 	"Download": "https://ijp.pan.pl/publikacje-elektroniczne/korpus-tekstow-staropolskich"
 	},

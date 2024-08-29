@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["1.6 billion tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "semantic tags"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.english-corpora.org/hansard/"
 	},

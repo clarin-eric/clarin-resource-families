@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["30 million words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://clara.nytud.hu/mtsz/run.cgi/first_form?corpname=MTSZ"
 	},

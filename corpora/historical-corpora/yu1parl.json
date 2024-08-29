@@ -7,6 +7,7 @@
       "License": "CC BY 4.0",
       "Size": ["34,542 utterances", "578,958 sentences", "13,271,885 words", "15,403 pages"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer (noSketch)": "https://www.clarin.si/ske/#dashboard?corpname=yu1parl",
 	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=yu1parl",

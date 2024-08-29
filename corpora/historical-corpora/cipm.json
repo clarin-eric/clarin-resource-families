@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["2 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "http://cipm.fcsh.unl.pt/login.jsp"
 	},

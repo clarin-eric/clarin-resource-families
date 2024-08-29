@@ -7,6 +7,7 @@
       "License": "CC-BY-NC-SA 3.0",
       "Size": ["5,151,373 words"],
       "Annotation": ["Each word form in the composite transliterations has been assigned to a lexeme which is specified by a citation form, word class information and basic English translation."],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/20.500.14106/2518"
 	},

@@ -7,6 +7,7 @@
       "License": "CLARIN ACA",
       "Size": ["92,500 tokens"],
       "Annotation": ["tokenised", "syntactic and discursive annotation"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/sfb632",
 	"Download": "http://hdl.handle.net/11022/0000-0000-9B23-A"

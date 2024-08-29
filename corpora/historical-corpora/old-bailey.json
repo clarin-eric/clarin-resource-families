@@ -7,6 +7,7 @@
       "License": "CC-BY-NC-SA 4.0",
       "Size": ["134 million words"],
       "Annotation": ["detailed sociobiographical, pragmatic and textual annotation"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://corpora.clarin-d.uni-saarland.de/cqpweb",
 	"Download": "http://fedora.clarin-d.uni-saarland.de/oldbailey/downloads.html"

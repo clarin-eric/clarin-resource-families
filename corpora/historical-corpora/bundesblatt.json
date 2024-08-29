@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["203,585,806 tokens (German)", "239,125,036 tokens (French)", "85,223,085 tokens (Italian)"],
       "Annotation": ["tokenised", "syntactically-parsed"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "https://feuille-federale.unige.ch/"
 	},

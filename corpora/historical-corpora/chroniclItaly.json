@@ -7,6 +7,7 @@
       "License": "ODC Attribution License (ODC-By)",
       "Size": ["16.6 million words"],
       "Annotation": ["unannotated"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/10.24416/uu01-t4ymow"
 	},

@@ -7,6 +7,7 @@
       "License": "Oxford Text Archive licence",
       "Size": ["71,500 words"],
       "Annotation": ["syntactically-parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/20.500.14106/2425"
 	},

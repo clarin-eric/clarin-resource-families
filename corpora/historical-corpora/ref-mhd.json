@@ -7,6 +7,7 @@
       "License": "CC-BY-SA 4.0",
       "Size": ["2.5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "normalised", "morphosyntactic description"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://www.deutschestextarchiv.de/",
 	"Download": "http://deutschestextarchiv.de/rem/"

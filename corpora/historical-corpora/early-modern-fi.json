@@ -7,6 +7,7 @@
       "License": "EUPL v.1.1 SA",
       "Size": ["8.6 million words"],
       "Annotation": ["no linguistic annotation"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2016081203"
 	},

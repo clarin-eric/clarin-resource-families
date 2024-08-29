@@ -7,6 +7,7 @@
       "License": "",
       "Size": [],
       "Annotation": ["tokenised", "PoS-tagged", "partial semantic tagging (USAS system)"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "https://cqpweb.lancs.ac.uk/"
 	},

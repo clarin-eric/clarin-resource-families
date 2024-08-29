@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["553,000 tokens"],
       "Annotation": ["structural annotation (paragraph)"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "ihttp://hdl.grnet.gr/11500/ATHENA-0000-0000-240F-8"
 	},

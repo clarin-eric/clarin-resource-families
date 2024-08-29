@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["34.5 million words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2014102101"
 	},

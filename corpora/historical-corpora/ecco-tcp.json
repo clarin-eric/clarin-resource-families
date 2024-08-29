@@ -7,6 +7,7 @@
       "License": "CC-0",
       "Size": ["74 million tokens"],
       "Annotation": ["no linguistic annotation"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "https://quod.lib.umich.edu/e/ecco/",
 	"Download": "https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/"

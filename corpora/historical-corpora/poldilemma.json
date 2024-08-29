@@ -7,6 +7,7 @@
       "License": "CC BY-NC-SA 4.0",
       "Size": ["7 million tokens"],
       "Annotation": ["tokenised", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/11858/00-246C-0000-0023-8C44-B"
 	},

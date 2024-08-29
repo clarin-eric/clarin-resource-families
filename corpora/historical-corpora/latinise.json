@@ -7,6 +7,7 @@
       "License": "CC BY-NC-SA 4.0",
       "Size": ["13.3 million tokens"],
       "Annotation": ["sentence segmented", "PoS-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://app.sketchengine.eu/#dashboard?corpname=preloaded%2Flatinise_4",
 	"Download": "http://hdl.handle.net/11372/LRT-3170"

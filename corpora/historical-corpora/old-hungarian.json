@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["3 million tokens"],
       "Annotation": ["tokenised", "partially normalized", "partially MSD-tagged"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "http://oldhungariancorpus.nytud.hu/en-search.html",
 	"Download": "http://oldhungariancorpus.nytud.hu/en-codices.html"

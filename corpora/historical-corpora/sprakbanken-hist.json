@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["1.34 billion tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "syntactically parsed", "word sense (for materials more recent than 1800)"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://spraakbanken.gu.se/korp/?mode=all_hist#?lang=en&stats_reduce=word&cqp=%5B%5D"
 	},

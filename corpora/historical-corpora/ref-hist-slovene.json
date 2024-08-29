@@ -7,6 +7,7 @@
       "License": "CC-BY 4.0",
       "Size": ["300,000 tokens"],
       "Annotation": ["manually tokenised", "lemmatised", "PoS-tagged", "modern synonyms for archaic words"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=goo300k",
 	"Download": "http://hdl.handle.net/11356/1025"

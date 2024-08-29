@@ -7,6 +7,7 @@
       "License": "CC-BY-NC",
       "Size": ["7.1 million words"],
       "Annotation": ["normalised (added diacritics)"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2014052711"
 	},

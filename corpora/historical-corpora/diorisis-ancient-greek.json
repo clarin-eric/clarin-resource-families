@@ -7,6 +7,7 @@
       "License": "CC BY 4.0",
       "Size": ["10.2 million words"],
       "Annotation": ["PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "https://hdl.handle.net/10.6084/m9.figshare.6187256.v1"
 	},

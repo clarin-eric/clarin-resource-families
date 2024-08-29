@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["625,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "transliteration", "transcription"],
+      "Infrastructure": "Other",
       "Access": {
 	"Download": "http://korpus19.nlp.ipipan.waw.pl/static/korpus19-TEI-XML-02102018.tar.gz"
 	},

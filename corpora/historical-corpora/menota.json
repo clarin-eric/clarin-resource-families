@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["1.6 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://clarino.uib.no/menota/concordance",
 	"Download": "http://clarino.uib.no/menota/catalogue"

@@ -7,6 +7,7 @@
       "License": "CC-BY-SA",
       "Size": ["16 million tokens"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://chronopress.clarin-pl.eu/#!start"
 	},

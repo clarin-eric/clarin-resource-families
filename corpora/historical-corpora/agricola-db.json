@@ -7,6 +7,7 @@
       "License": "CC-BY-ND",
       "Size": ["428,300 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "morphological components and syntactic function"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-201407166"
 	},

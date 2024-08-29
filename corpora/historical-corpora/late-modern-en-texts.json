@@ -7,6 +7,7 @@
       "License": "CC-BY-NC-SA 4.0",
       "Size": ["34 million words"],
       "Annotation": ["PoS-tagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://fedora.clarin-d.uni-saarland.de/clmet/clmet3_1.zip"
 	},

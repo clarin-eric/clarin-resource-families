@@ -7,6 +7,7 @@
       "License": "CLARIN ACA",
       "Size": ["245,000 tokens"],
       "Annotation": ["tokenised", "syntactically-parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://srcmf.org/#sec:access"
 	},
