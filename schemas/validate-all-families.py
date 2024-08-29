@@ -2,6 +2,7 @@
 import sys
 from os import listdir
 from os.path import isfile, join
+import glob
 import getopt
 import json
 import fastjsonschema
@@ -73,8 +74,8 @@ def validate_tools():
             print("! Error in json schema, file {}:\n\t{}\n".format(schema, xc))
             sys.exit(2)
 
-    tool_dir_entries = [join(TOOLS_DIRECTORY, f) for f in listdir(TOOLS_DIRECTORY)]
-    tool_files = [f for f in tool_dir_entries if isfile(f)]
+#    tool_dir_entries = [join(TOOLS_DIRECTORY, f) for f in listdir(TOOLS_DIRECTORY)]
+    tool_files = [f for f in glob.glob(f'{TOOLS_DIRECTORY}/**/*.json', recursive=True)]
 
     failed = False
     tool_ids = set()
