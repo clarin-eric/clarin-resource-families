@@ -8,7 +8,7 @@
       "Size": ["13.3 million tokens"],
       "Annotation": ["sentence segmented", "PoS-tagged", "lemmatized"],
       "Access": {
-	"Concordancer": "https://app.sketchengine.eu/#dashboard?corpname=preloaded%2Flatinise_4"
+	"Concordancer": "https://app.sketchengine.eu/#dashboard?corpname=preloaded%2Flatinise_4",
 	"Download": "http://hdl.handle.net/11372/LRT-3170"
 	},
       "Publication": "McGillivray and Kilgarriff (2015)"

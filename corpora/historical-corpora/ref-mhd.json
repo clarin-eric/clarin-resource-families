@@ -8,7 +8,7 @@
       "Size": ["2.5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "normalised", "morphosyntactic description"],
       "Access": {
-	"Concordancer": "http://www.deutschestextarchiv.de/"
+	"Concordancer": "http://www.deutschestextarchiv.de/",
 	"Download": "http://deutschestextarchiv.de/rem/"
 	},
       "Publication": "Klein and Dipper (2016)."

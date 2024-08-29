@@ -8,7 +8,7 @@
       "Size": ["35 million tokens"],
       "Annotation": ["PoS-tagged using PennTreebank tagset", "lemmatised", "normalised"],
       "Access": {
-	"Concordancer": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#cqpweb"
+	"Concordancer": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#cqpweb",
 	"Download": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#download"
 	},
       "Publication": ""

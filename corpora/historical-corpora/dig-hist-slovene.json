@@ -8,7 +8,7 @@
       "Size": ["17.7 million tokens"],
       "Annotation": ["tokenised", "lemmatised", "PoS-tagged"],
       "Access": {
-	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=imp"
+	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=imp",
 	"Download": "http://hdl.handle.net/11356/1031"
 	},
       "Publication": "Erjavec (2015)."

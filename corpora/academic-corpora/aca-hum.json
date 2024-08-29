@@ -9,7 +9,7 @@
       "Annotation": [],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer": "https://spraakbanken.gu.se/korp/?corpus=sweachum"
+	"Concordancer": "https://spraakbanken.gu.se/korp/?corpus=sweachum",
 	"Download": "http://hdl.handle.net/10794/49"
 	},
       "Publication":""

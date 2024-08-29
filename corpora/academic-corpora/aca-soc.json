@@ -9,7 +9,7 @@
       "Annotation": ["sentence segmentation"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer": "https://spraakbanken.gu.se/korp/?corpus=sweacsam"
+	"Concordancer": "https://spraakbanken.gu.se/korp/?corpus=sweacsam",
 	"Download": "http://hdl.handle.net/10794/50"
 	},
       "Publication":""

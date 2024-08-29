@@ -1,6 +1,6 @@
 {
-      "Name": ""SETIMES - A parallel corpus of the Balkan languages,
-      "URL": ""http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2,
+      "Name": "SETIMES - A parallel corpus of the Balkan languages",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2",
 	"Family": "Newspaper corpora",
       "Description": "This parallel corpus contains online news articles extracted from the <a href=\"http://www.setimes.com/\">SETimes webpage</a>.\nThe corpus is available for download from the CLARIN:EL repository.",
       "Languages": ["ron","tur","srp","eng","bul", "mkd", "hrv","ell","sqi"],

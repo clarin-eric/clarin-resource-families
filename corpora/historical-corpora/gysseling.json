@@ -8,7 +8,7 @@
       "Size": ["1.5 million words"],
       "Annotation": ["PoS-tagged", "lemmatised"],
       "Access": {
-	"Concordancer": "https://corpusgysseling.ivdnt.org/corpus-frontend/Gysseling/search/"
+	"Concordancer": "https://corpusgysseling.ivdnt.org/corpus-frontend/Gysseling/search/",
 	"Download": "http://hdl.handle.net/10032/tm-a2-j4"
 	},
       "Publication": ""

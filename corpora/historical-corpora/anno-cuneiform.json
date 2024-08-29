@@ -8,7 +8,7 @@
       "Size": ["1,600,563 tokens"],
       "Annotation": ["tokenised", "lemmatised", "PoS-tagged", "semantically annotated"],
       "Access": {
-	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2019060601"
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2019060601",
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2019111602"
 	},
       "Publication": ""

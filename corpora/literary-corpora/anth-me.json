@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/1398",
 	"Family": "Literary corpora",
       "Description": "This corpus contains literary texts from 1100 to 1400.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["enm"), "heb"],
+      "Languages": ["enm", "heb"],
       "License": "Oxford Text Archive Licence",
       "Size": ["4,000 words"],
       "Annotation": [],

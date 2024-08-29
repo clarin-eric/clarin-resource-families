@@ -9,7 +9,7 @@
       "Annotation": ["PoS-tagged", "lemmatised", "normalised", "author and document metadata"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#cqpweb"
+	"Concordancer": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#cqpweb",
 	"Download": "http://fedora.clarin-d.uni-saarland.de/rsc_v4/access.html#download"
 	},
       "Publication": "https://www.zotero.org/groups/562080/items/FWYERQ4A"

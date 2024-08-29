@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/korp/?mode=all_hist#?lang=en&stats_reduce=word&cqp=%5B%5D",
 	"Family": "Historical corpora",
       "Description": "This collection of corpora contains – among others – diachronic legal texts, Bible translations, medieval letters, digitized newspapers from the Swedish National Library and 19th century fiction from the Swedish Literature Bank.\nThe corpora are available through the concordancer Korp.",
-      "Languages": [FIXME Swedish, German, French and others],
+      "Languages": ["swe", "deu", "fra", "and others"],
       "License": "CC-BY",
       "Size": ["1.34 billion tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "syntactically parsed", "word sense (for materials more recent than 1800)"],

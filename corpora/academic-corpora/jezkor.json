@@ -9,8 +9,8 @@
       "Annotation": ["PoS-tagged (UD)", "MSD-tagged (UD & MULTEXT-East)", "lemmatised", "annotated for named entities and author/text metadata"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=jezkor"
-	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=jezkor"
+	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=jezkor",
+	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=jezkor",
 	"Download": "http://hdl.handle.net/11356/1755"
 	},
       "Publication":""

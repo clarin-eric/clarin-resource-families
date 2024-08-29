@@ -8,7 +8,7 @@
       "Size": ["3.3 million"],
       "Annotation": ["tokenised", "PoS-tagged (2 million)", "treebanked (1.2 million)"],
       "Access": {
-	"Concordancer": "http://www.tycho.iel.unicamp.br/~tycho/corpus/texts/csquery/en/csquery.html"
+	"Concordancer": "http://www.tycho.iel.unicamp.br/~tycho/corpus/texts/csquery/en/csquery.html",
 	"Download": "http://www.tycho.iel.unicamp.br/~tycho/corpus/en/index.html"
 	},
       "Publication": ""

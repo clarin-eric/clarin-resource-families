@@ -8,7 +8,7 @@
       "Size": ["200,700 tokens"],
       "Annotation": ["tokenised", "MSD-tagged"],
       "Access": {
-	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/#_c=UmVOXzIwMTctMDYtMTU"
+	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/#_c=UmVOXzIwMTctMDYtMTU",
 	"Download": "http://hdl.handle.net/11022/0000-0007-C64C-5"
 	},
       "Publication": "Schröder (2014)."

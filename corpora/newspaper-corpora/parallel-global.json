@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25DD-E",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the https://globalvoices.org/ website, where volunteers publish and translate news stories in more than 40 languages.",
-      "Languages": [40  languages],
+      "Languages": ["40  languages"],
       "License": "CC BY",
       "Size": ["8 million units"],
       "Annotation": [],

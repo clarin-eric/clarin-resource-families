@@ -8,7 +8,7 @@
       "Size": ["1.6 million tokens"],
       "Annotation": ["tokenised"],
       "Access": {
-	"Special": "For access, contact <a href=mailto:"hmlehman@es.uzh.ch">the authors</a>."
+	"Special": "For access, contact <a href=mailto:\"hmlehman@es.uzh.ch\">the authors</a>."
 	},
       "Publication": ""
 }

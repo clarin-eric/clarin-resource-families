@@ -8,7 +8,7 @@
       "Size": ["6,578,675 tokens", "462,625 sentences"],
       "Annotation": ["sentence scrambling"],
       "Access": {
-	"Browse": "https://spraakbanken.gu.se/korp/#corpus=romi"
+	"Browse": "https://spraakbanken.gu.se/korp/#corpus=romi",
 	"Download": "http://hdl.handle.net/10794/115"
 	},
       "Publication": ""

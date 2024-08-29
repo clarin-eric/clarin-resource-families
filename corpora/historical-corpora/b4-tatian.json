@@ -8,7 +8,7 @@
       "Size": ["11,300 tokens"],
       "Annotation": ["tokenised", "MSD-tagged"],
       "Access": {
-	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/sfb632"
+	"Concordancer": "http://annis.corpora.uni-hamburg.de:8080/gui/sfb632",
 	"Download": "http://hdl.handle.net/11022/0000-0000-9B1E-1"
 	},
       "Publication": ""
