@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by/4.0/",
       "Size": ["34 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=janes_blog",
 	"Download": "http://hdl.handle.net/11356/1138"

@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["700 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatised", "syntactically parsed", "annotated for named entities and topics"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=trendi",
 	"Concordancer(KonText)": "https://www.clarin.si/kontext/query?corpname=trendi"

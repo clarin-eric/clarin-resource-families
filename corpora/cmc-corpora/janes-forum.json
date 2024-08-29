@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by/4.0/",
       "Size": ["47 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=janes_forum",
 	"Download": "http://hdl.handle.net/11356/1139"

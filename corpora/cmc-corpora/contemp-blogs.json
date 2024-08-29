@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by/4.0/",
       "Size": ["1 million tokens"],
       "Annotation": ["tokenised", "<a href=\"https://nlp.fi.muni.cz/projekty/cocb/\">sentence tagged</a>"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-000E-013B-8"
 	},

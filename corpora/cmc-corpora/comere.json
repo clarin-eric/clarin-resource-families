@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by/4.0/",
       "Size": ["80 million tokens"],
       "Annotation": ["tokenised", "mostly untagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "https://hdl.handle.net/11403/comere"
 	},

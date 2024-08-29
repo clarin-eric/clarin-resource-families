@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by/4.0/",
       "Size": ["715 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged (MULTEXT-East & UD)", "lemmatised", "annotated for text source"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=pdrs10",
 	"Concordancer(KonText)": "https://www.clarin.si/kontext/query?corpname=pdrs10",

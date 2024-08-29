@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["1,506,064,082 words"],
       "Annotation": "",
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://clarino.uib.no/korpuskel/landing-page?identifier=ntap-fra&view=short"
 	},

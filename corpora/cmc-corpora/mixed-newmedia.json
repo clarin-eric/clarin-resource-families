@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["25 million tokens"],
       "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://www.cl.ut.ee/korpused/kasutajaliides",
 	"Download": "http://www.cl.ut.ee/korpused/segakorpus/uusmeedia/"

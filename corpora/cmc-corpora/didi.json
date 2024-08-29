@@ -7,6 +7,7 @@
       "License": "https://gitlab.inf.unibz.it/commul/var/eurac-licenses/-/raw/v1.0/EULA-CLARIN-ACA-BY-NC-NORED.md",
       "Size": ["600,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/20.500.12124/7"
 	},

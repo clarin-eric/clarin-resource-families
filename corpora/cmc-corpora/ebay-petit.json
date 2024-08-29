@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "Size": ["100,000 tokens"],
       "Annotation": ["<a href=\"https://www.uni-potsdam.de/langage/la-bank/ebay.php\">see here</a>"],
+      "Infrastructure": "Other",
       "Access": {
 	"Download": "https://www.uni-potsdam.de/langage/la-bank/ebay.php"
 	},

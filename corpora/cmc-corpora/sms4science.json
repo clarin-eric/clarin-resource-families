@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["0.5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "https://sms.linguistik.uzh.ch/SMS4science/TwoCorpora#Access_to_the_corpora"
 	},

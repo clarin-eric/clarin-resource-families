@@ -7,6 +7,7 @@
       "License": "FIXME CLARIN ACA – NC",
       "Size": ["8 million tokens", "593,760 sentences", "93,602 texts"],
       "Annotation": ["PoS-tagged", "lemmatised", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2015050503",
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2014052718"

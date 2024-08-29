@@ -7,6 +7,7 @@
       "License": "FIXME CLARIN RES (download); CLARIN ACA (online)",
       "Size": ["1.8 billion words", "1.8 million texts"],
       "Annotation": "",
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2017061928",
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2017061929"

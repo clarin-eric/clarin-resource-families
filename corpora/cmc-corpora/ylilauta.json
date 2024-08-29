@@ -7,6 +7,7 @@
       "License": "https://creativecommons.org/licenses/by-nc/4.0/",
       "Size": ["26.9 million words"],
       "Annotation": ["PoS-tagged", "lemmatised", "syntactically parsed", "named entities"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2015040103",
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2016101210"

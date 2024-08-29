@@ -7,6 +7,7 @@
       "License": "unclear",
       "Size": ["7 million tokens"],
       "Annotation": ["tokenised"],
+      "Infrastructure": "Other",
       "Access": {
 	"Download": "http://techiaith.cymru/data/corpora/twitter/?lang=en"
 },

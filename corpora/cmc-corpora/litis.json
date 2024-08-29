@@ -7,6 +7,7 @@
       "License": "FIXME CLARIN_ACA",
       "Size": ["190,000 comments"],
       "Annotation": "",
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/20.500.11821/11" 
 	},
