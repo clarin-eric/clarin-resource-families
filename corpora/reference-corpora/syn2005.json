@@ -7,6 +7,7 @@
       "License": "Czech National Corpus (Shuffled Corpus Data)",
       "Size": ["100 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://kontext.korpus.cz/first_form?corpname=syn2005",
 	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-119E-8"

@@ -7,6 +7,7 @@
       "License": "proprietary",
       "Size": ["47 million words"],
       "Annotation": ["sentence segmented"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://hnc.ilsp.gr/index.php?current_page=main"
 	},

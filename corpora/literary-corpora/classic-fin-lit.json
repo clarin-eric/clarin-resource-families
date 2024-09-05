@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["1,456,658 words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "http://kaino.kotus.fi/korpus/klassikot/meta/klassikot_coll_rdf.xml"
 	},

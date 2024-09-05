@@ -7,6 +7,7 @@
       "License": "CLARIN RES",
       "Size": ["68,425 words"],
       "Annotation": ["tagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "http://lbr.csc.fi/apply-for?resource=urn:nbn:fi:lb-2014032622"
 	},

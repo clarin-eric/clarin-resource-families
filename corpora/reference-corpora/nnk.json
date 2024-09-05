@@ -7,6 +7,7 @@
       "License": "CLARIN_RES-NC-DEP",
       "Size": ["107.8 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://clarino.uib.no/korpuskel/metadata?identifier=nnk"
 	},

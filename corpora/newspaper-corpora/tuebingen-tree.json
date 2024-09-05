@@ -7,6 +7,7 @@
       "License": "CLARIN RES",
       "Size": ["1.8 million tokens"],
       "Annotation": ["tokenised","MSD tagged","lemmatised","syntactic constituency","named-entities"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Tundra"
 	},

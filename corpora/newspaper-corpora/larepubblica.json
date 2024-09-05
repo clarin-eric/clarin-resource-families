@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["380 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "https://corpora.dipintra.it/public/run.cgi/first?corpname=repubblica&reload=1&iquery=&queryselector=iqueryrow&lemma=&phrase=&word=&char=&cql=&default_attr=word&fc_lemword_window_type=both&fc_lemword_wsize=5&fc_lemword=&fc_lemword_type=all&usesubcorp=&fsca_text.id=&fsca_text.wordcount="
 	},

@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["40,231 tokens"],
       "Annotation": ["entities, events, event factuality, temporal information, semantic roles, and intra-document and cross-document event and entity coreference"],
+      "Infrastructure": "Other",
       "Access": {
 	"Download": "http://hlt-nlp.fbk.eu/technologies/witac-newsreader-wikinews-italian-corpus"
 	},

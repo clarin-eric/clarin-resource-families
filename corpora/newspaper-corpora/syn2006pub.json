@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["300 million tokens"],
       "Annotation": ["tokenised", "lemmatised", "PoS-tagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-1358-3"
 	},

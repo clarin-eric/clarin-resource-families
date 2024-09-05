@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["3.5 million tokens", "7650 texts"],
       "Annotation": ["tokenised", "lemmatised"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/21.11119/0000-0007-E18D-C"
 	},

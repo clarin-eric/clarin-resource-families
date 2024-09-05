@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": [],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://www.kielipankki.fi/corpora/nlfcl-fi-authors/"
 	},

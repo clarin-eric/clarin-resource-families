@@ -7,6 +7,7 @@
       "License": "Restricted",
       "Size": ["71,490 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/20.500.14106/2425"
 	},

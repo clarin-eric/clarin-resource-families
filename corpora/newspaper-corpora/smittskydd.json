@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["691,000 tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://spraakbanken.gu.se/korp/#corpus=smittskydd",
 	"Download": "http://spraakbanken.gu.se/eng/resource/smittskydd"

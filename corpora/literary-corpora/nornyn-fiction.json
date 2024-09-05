@@ -7,6 +7,7 @@
       "License": "CLARIN ACA",
       "Size": ["2,884,376 words", "260,285 sentences"],
       "Annotation": ["syntactically parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "http://clarino.uib.no/iness/landing-page?collection=NorGramBank"
 	},

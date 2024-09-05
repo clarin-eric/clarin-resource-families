@@ -7,6 +7,7 @@
       "License": "CLARIN RES +NC +NORED +PLAN",
       "Size": ["17,830 words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://lbr.csc.fi/apply-for?resource=urn:nbn:fi:lb-2014032620"
 	},

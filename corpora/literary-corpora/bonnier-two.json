@@ -7,6 +7,7 @@
       "License": "CC-BY 4.0",
       "Size": ["4,304,271 tokens", "298,361 sentences"],
       "Annotation": ["sentence scrambling"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://spraakbanken.gu.se/korp/#corpus=romii",
 	"Download": "http://hdl.handle.net/10794/116"

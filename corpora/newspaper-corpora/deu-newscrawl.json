@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["426 million tokens"],
       "Annotation": ["tokenised"],
+      "Infrastructure": "Other",
       "Access": {
 	"Concordancer": "http://corpora.uni-leipzig.de/en?corpusId=deu_newscrawl_2011"
 	},

@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["700 million tokens"],
       "Annotation": ["multitagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://hdl.handle.net/11495/D9B5-0349-4330-0"
 	},

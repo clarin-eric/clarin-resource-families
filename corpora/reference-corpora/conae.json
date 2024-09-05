@@ -7,6 +7,7 @@
       "License": ["CLARIN ACA (online version)", "CLARIN RES (downloadable version)"],
       "Size": ["440 million words", "190,000 texts"],
       "Annotation": ["PoS-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2017061933",
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2019031901"

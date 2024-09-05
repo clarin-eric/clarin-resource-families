@@ -7,6 +7,7 @@
       "License": "CLARIN_ACA-NC-LOC-ND",
       "Size": ["100 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://tekstlab.uio.no/glossa2/bokmal"
 	},

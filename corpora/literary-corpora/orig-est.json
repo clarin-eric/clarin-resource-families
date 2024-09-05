@@ -7,6 +7,7 @@
       "License": "CLARIN ACA",
       "Size": ["173 texts"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "http://krzwlive.kirmus.ee/et/"
 	},

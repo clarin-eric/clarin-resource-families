@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["12.2 million tokens", "9.8 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://www.korpus-kres.net/"
 	},

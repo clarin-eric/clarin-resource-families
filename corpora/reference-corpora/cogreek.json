@@ -7,6 +7,7 @@
       "License": "CC-BY-NC, ACA",
       "Size": ["27.6 million words"],
       "Annotation": "",
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.sek.edu.gr/"
 	},

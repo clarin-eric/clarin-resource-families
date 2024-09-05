@@ -7,6 +7,7 @@
       "License": "CLARIN RES",
       "Size": ["208.4 million tokens"],
       "Annotation": ["MSD-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://corpus.vdu.lt/"
 	},

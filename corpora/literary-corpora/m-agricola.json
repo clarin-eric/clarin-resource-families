@@ -7,6 +7,7 @@
       "License": "CC-BY-ND",
       "Size": ["83,678 sentences", "428,314 tokens", "38,308 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "http://urn.fi/urn:nbn:fi:lb-201803273"
 	},

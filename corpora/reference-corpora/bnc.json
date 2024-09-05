@@ -7,6 +7,7 @@
       "License": "BNC User Licence (restricted for the downloadable version)",
       "Size": ["100 million words"],
       "Annotation": ["PoS-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.natcorp.ox.ac.uk/",
 	"Download": "http://hdl.handle.net/20.500.14106/2554"

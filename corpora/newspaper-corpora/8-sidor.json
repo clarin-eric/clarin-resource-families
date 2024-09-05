@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["678,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "parsed", "compounds"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://spraakbanken.gu.se/korp/#?corpus=attasidor&stats_reduce=word&cqp=%5B%5D",
 	"Download": "http://spraakbanken.gu.se/eng/resource/attasidor"

@@ -7,6 +7,7 @@
       "License": "Individual terms of agreement",
       "Size": ["99 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://www.korpus-kres.net/"
 	},

@@ -7,6 +7,7 @@
       "License": "CC-BY 4.0",
       "Size": ["4,309,037 tokens", "321,759 sentences"],
       "Annotation": ["sentence scrambling"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://spraakbanken.gu.se/korp/#?corpus=strindbergromaner",
 	"Download": "http://hdl.handle.net/10794/79"

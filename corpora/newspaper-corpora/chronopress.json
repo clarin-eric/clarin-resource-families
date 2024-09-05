@@ -7,6 +7,7 @@
       "License": "CLARIN PUB",
       "Size": ["20 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "named entities"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://chronopress.clarin-pl.eu/"
 	},

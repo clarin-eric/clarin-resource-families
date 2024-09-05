@@ -7,6 +7,7 @@
       "License": "Public",
       "Size": ["2,351,079,191 words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"VLO": "https://vlo.clarin.eu/search?fqType=collection:or&fq=collection:Europeana+newspapers+full-text&fqType=country:or&fq=country:Austria"
 	},

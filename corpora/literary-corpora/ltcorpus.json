@@ -7,6 +7,7 @@
       "License": "CLARIN RES",
       "Size": ["1,781,083 words"],
       "Annotation": ["PoS-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/21.11115/0000-000B-D33D-3"
 	},

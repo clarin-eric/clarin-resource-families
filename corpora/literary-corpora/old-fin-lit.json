@@ -7,6 +7,7 @@
       "License": "",
       "Size": ["3,428,618 words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "http://kaino.kotus.fi/korpus/vks/meta/vks_coll_rdf.xml"
 	},

@@ -7,6 +7,7 @@
       "License": "Open For Reuse With Restrictions",
       "Size": ["341.83 million tokens"],
       "Annotation": ["sentence-aligned"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2"
 	},

@@ -7,6 +7,7 @@
       "License": "CLARIN RES + NC",
       "Size": ["3 novels", "484,010 tokens"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Browse (original)": "http://urn.fi/urn:nbn:fi:lb-2018011201",
 	"Browse (scrambled)": "http://urn.fi/urn:nbn:fi:lb-2018011202"

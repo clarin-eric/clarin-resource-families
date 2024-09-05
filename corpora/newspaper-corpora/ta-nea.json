@@ -7,6 +7,7 @@
       "License": "CC-BY-NC-SA",
       "Size": ["2 million words"],
       "Annotation": [],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.grnet.gr/11500/KEG-0000-0000-24FB-D"
 	},

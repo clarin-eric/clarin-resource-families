@@ -7,6 +7,7 @@
       "License": "Czech National Corpus (Shuffled Corpus Data)",
       "Size": ["935 million tokens"],
       "Annotation": ["tokenised", "lemmatised", "MSD-tagged"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-3B09-4"
 	},

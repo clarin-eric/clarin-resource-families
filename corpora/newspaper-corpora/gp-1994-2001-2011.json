@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["271 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "parsed", "compounds"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "https://spraakbanken.gu.se/korp/#?corpus=gp1994,gp2001,gp2002,gp2003,gp2004,gp2005,gp2006,gp2007,gp2008,gp2009,gp2010,gp2011,gp2012,gp2013&stats_reduce=word&cqp=%5B%5D",
 	"Download": "http://spraakbanken.gu.se/eng/resources"

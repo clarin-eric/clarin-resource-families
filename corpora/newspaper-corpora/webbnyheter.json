@@ -7,6 +7,7 @@
       "License": "CC-BY",
       "Size": ["272 million tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],
+      "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://spraakbanken.gu.se/korp/#corpus=webbnyheter2001",
 	"Download": "http://spraakbanken.gu.se/eng/resource/webbnyheter2001"
