@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains forum posts from the Suomi24 website from 2001 to 2016.\nThe corpus is available for download from the FIN-CLARIN repository and through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "FIXME CLARIN ACA",
+      "License": "CLARIN ACA",
       "Size": ["2.6 billion tokens"],
       "Annotation": ["tokenised", "MSD-tagged"],
       "Infrastructure": "CLARIN",

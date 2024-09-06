@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains blog posts from RTV Slovenija and Publishwall.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText",
       "Languages": ["slv"],
-      "License": "https://creativecommons.org/licenses/by/4.0/",
+      "License": "CC-BY",
       "Size": ["34 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

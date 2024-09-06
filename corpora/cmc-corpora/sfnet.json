@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains written posts from the SFNET forum in Finnish from 2002 to 2003.\nThe PoS-tagging has been done with the FI-FDG Parser, which uses a computational implementation of Functional Dependency Grammar.\nThe corpus is available for download from META-SHARE (the Finnish Language Bank)",
       "Languages": ["fin"],
-      "License": "FIXME CLARIN ACA – NC",
+      "License": "CLARIN ACA – NC",
       "Size": ["100 million words"],
       "Annotation": ["PoS-tagged", "sentence and word segmentation"],
       "Infrastructure": "CLARIN",

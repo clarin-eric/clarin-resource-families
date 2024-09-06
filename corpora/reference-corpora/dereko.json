@@ -4,7 +4,7 @@
 	"Family": "Reference corpora",
       "Description": "This corpus includes German texts in <a href=\"https://www.ids-mannheim.de/digspra/kl/projekte/korpora/archiv-1/\">a wide variety of genres</a> published from 1947 onwards. Non-linguistic metadata include rich bibliographic information and partial layout information.\nPart of the corpus is available for download from a dedicated webpage (CLARIN-D distribution), while the entire corpus can be queried online through the COSMAS II platform.",
       "Languages": ["deu"],
-      "License": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "License": "CC-BY-SA",
       "Size": ["31.7 billion words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "The corpus contains text from discussions of the <a href=\"https://ylilauta.org/\">Ylilauta</a> online discussion board from 2012 to 2014.\nThe corpus has been syntactically annotated with the TDT alpha parser, while the named entities have been assigned using the FiNER tool.\nThe corpus is available for download from META-SHARE (the Finnish Language Bank) and for online browsing through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "License": "CC-BY-NC",
       "Size": ["26.9 million words"],
       "Annotation": ["PoS-tagged", "lemmatised", "syntactically parsed", "named entities"],
       "Infrastructure": "CLARIN",

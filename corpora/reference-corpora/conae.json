@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2019031901",
 	"Family": "Reference corpora",
       "Description": "This corpus includes American English texts evenly divided into the spoken, fiction, magazine, newspaper, and academic genres (around 88 million words each) published between 1990 and 2012.\nThe corpus is available for download from the Finnish Language Bank as well as for online browsing through the concordancer Korp (FIN-CLARIN distribution).",
-      "Languages": ["FIXME eng (American)"],
+      "Languages": ["English (American)"],
       "License": ["CLARIN ACA (online version)", "CLARIN RES (downloadable version)"],
       "Size": ["440 million words", "190,000 texts"],
       "Annotation": ["PoS-tagged", "lemmatized"],

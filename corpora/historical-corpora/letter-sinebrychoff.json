@@ -6,7 +6,7 @@
       "Languages": ["fin", "swe"],
       "License": "CC-BY",
       "Size": ["8.6 million words"],
-      "Annotation": ["FIXME Finnish subset: MSD-tagged, syntactically parsed; Swedish subset: no linguistic annotation"],
+      "Annotation": ["Finnish subset: MSD-tagged, syntactically parsed; Swedish subset: no linguistic annotation"],
       "Infrastructure": "CLARIN",
       "Access": {
 	"Concordancer": "http://kirjearkisto.siff.fi/Sinebrychoff/tabid/55/Default.aspx"
