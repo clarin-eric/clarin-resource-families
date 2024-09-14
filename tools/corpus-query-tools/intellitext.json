@@ -1,0 +1,16 @@
+{
+      "Name": "Intellitext",
+      "URL": "http://corpus.leeds.ac.uk/itpubweb/html/index.xml",
+	"Family": "Corpus query tools",
+      "Description": "The Intelligent Tools for Creating and Analysing Electronic Text Corpora for Humanities Research (IntelliText) project aims to facilitate corpus use for academics working in various areas of the humanities. The project produced a user-friendly corpus interface with an array of easy-to-use functions that will benefit teaching and research in several academic disciplines.\nIt is possible to upload one's own corpus with this tool. An <a href=\"http://corpus.leeds.ac.uk/itweb/help/IntelliText_User_Guide.pdf\">online guide</a> is available.",
+      "Functionality": ["Querying/concordancing", "corpus upload"]
+      "Languages": ["ara", "ces", "zho", "eng", "fra", "deu", "ita", "jpn", "kan", "lit", "por", "rus", "spa", "ukr"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-UK",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

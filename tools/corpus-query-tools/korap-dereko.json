@@ -1,0 +1,16 @@
+{
+      "Name": "KorAP (on DeReKo)",
+      "URL": "https://korap.ids-mannheim.de/",
+	"Family": "Corpus query tools",
+      "Description": "This is a corpus analysis platform that is suited for large, multiply annotated corpora and complex search queries independent of particular research questions.\nRegistration is required only for license restricted corpora.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["deu"],
+      "License": "DeReKo-EULA",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Diewald et al. (2016)"
+}

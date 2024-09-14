@@ -1,0 +1,16 @@
+{
+      "Name": "Webcorp",
+      "URL": "https://www.webcorp.org.uk/live/",
+	"Family": "Corpus query tools",
+      "Description": "This is a dedicated concordancing tool.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

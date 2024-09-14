@@ -1,0 +1,16 @@
+{
+      "Name": "Textable",
+      "URL": "http://textable.io/",
+	"Family": "Corpus query tools",
+      "Description": "This is a free open source software application to analyze and process texts visually.\n<a href=\"https://textable.freshdesk.com/support/home\">Support</a> is available.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "GPL3",
+      "Size": [],
+      "Platform": ["Linux", "MacOS", "Windows"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

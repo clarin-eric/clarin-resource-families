@@ -1,0 +1,16 @@
+{
+      "Name": "ICECup",
+      "URL": "https://www.ucl.ac.uk/english-usage/resources/icecup/",
+	"Family": "Corpus query tools",
+      "Description": "This is a state-of-the-art corpus exploration program designed for parsed corpora such as <a href=\"https://www.ucl.ac.uk/english-usage/projects/ice-gb/\">ICE-GB</a> and <a href=\"https://www.ucl.ac.uk/english-usage/projects/dcpse/\">The Diachronic Corpus of Present-Day Spoken English</a>. This is a commercial tool that works for ICE corpora with proprietary annotation scheme.\nA <a href=\"http://www.bitcutstudios.com/products/CorpusExplorer/help/\">handbook</a> is available.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "<a href=\"https://www.ucl.ac.uk/english-usage/projects/ice-gb/iceorder2.htm\">Proprietary</a>",
+      "Size": [],
+      "Platform": ["Windows"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

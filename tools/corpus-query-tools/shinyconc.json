@@ -1,0 +1,16 @@
+{
+      "Name": "Shinyconc",
+      "URL": "http://shinyconc.de/",
+	"Family": "Corpus query tools",
+      "Description": "This is a framework for generating custom web-based concordancers. It requires R and Rstudio/Shiny.\nA detailed <a href=\"http://shinyconc.de/tutorial.pdf\">setup tutorial</a> is available.",
+      "Functionality": ["Concordancing/querying", "corpus building"]
+      "Languages": ["Language independent"],
+      "License": "GPL3",
+      "Size": [],
+      "Platform": ["Windows", "MacOS", "Linux"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

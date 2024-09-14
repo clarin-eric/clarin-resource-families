@@ -1,0 +1,16 @@
+{
+      "Name": "PaQu",
+      "URL": "https://paqu.let.rug.nl:8068/",
+	"Family": "Corpus query tools",
+      "Description": "This is an application for searching in treebanks (i.e. text corpora in which each sentence has been assigned a syntactic structure) and for analysing the search results.\nIt is possible to upload one's own corpus with this tool, for which registration is required.",
+      "Functionality": ["Querying/concordancing (treebanks)"]
+      "Languages": ["nld"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Odijk et al. (2017)"
+}

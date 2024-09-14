@@ -1,0 +1,16 @@
+{
+      "Name": "GATE",
+      "URL": "https://gate.ac.uk/",
+	"Family": "Corpus query tools",
+      "Description": "This tool allows for text and corpus analysis.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "GNU",
+      "Size": [],
+      "Platform": ["Platform-independent (Windows and generic installers available)"],
+      "Infrastructure": "CLARIN-UK",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

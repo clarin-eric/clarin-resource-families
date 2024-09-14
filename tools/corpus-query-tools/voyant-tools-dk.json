@@ -1,0 +1,16 @@
+{
+      "Name": "Voyant tools",
+      "URL": "https://clarin.dk/clarindk/forside.jsp  also: https://alf.hum.ku.dk/korp/",
+	"Family": "Corpus query tools",
+      "Description": "This tool constitutes a deployment of Voyant Tools at CLARIN-DK.",
+      "Functionality": ["Querying/concordancing", "Stylometry"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-DK",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

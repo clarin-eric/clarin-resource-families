@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus Explorer",
+      "URL": "https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/",
+	"Family": "Corpus query tools",
+      "Description": "This tool is intended for corpus linguistics and for text and data mining.",
+      "Functionality": ["Concordancing/querying", "text and data mining"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": ["Windows"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

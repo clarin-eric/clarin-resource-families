@@ -1,0 +1,16 @@
+{
+      "Name": "#LancsBox",
+      "URL": "http://corpora.lancs.ac.uk/lancsbox/",
+	"Family": "Corpus query tools",
+      "Description": "#LancsBox is a new-generation software package for the analysis of language data and corpora developed at Lancaster University. The latest version, <a href=\"https://lancsbox.lancs.ac.uk/\">#Lancsbox X</a> has increased functionality for XML texts.\nA user guide is available in English, French and Japanese, along with instructional videos. See <a href=\"http://corpora.lancs.ac.uk/lancsbox/help.php\">here</a>. ",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": [],
+      "Platform": ["Platform-independent (java)"],
+      "Infrastructure": "CLARIN-UK",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Brezina et al. (2015)"
+}

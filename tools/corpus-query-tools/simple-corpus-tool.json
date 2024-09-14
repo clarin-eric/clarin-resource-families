@@ -1,0 +1,16 @@
+{
+      "Name": "Simple Corpus Tool (SCT)",
+      "URL": "https://martinweisser.org/ling_soft.html#SCT",
+	"Family": "Corpus query tools",
+      "Description": "This is a combination of an annotation and analysis tool for use with either simple XML files or basic plain-text files.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": ["Linux", "MacOS", "Windows"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

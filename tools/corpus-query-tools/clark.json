@@ -1,0 +1,16 @@
+{
+      "Name": "CLaRK",
+      "URL": "http://bultreebank.org/bg/clark/",
+	"Family": "Corpus query tools",
+      "Description": "This tool is an XML-based system for corpus linguistics, primarily for corpus construction, but also with functionality for analysing and exploring corpora.\nThe support team is reachable through <a href=\"mailto:clark-support@bultreebank.org\">email</a>. A <a href=\"http://bultreebank.org/en/clark/clark-system-online-manual\">user manual</a> is also available.",
+      "Functionality": ["Concordancing/querying", "corpus building"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": ["Platform-independent"],
+      "Infrastructure": "CLARIN-BG",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Simov et al. (2014)"
+}

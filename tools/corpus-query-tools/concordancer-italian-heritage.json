@@ -1,0 +1,16 @@
+{
+      "Name": "Concordancer of the Italian Corpus for the dissemination of culture and the enhancement of the Italian literary heritage",
+      "URL": "http://dbtvm1.ilc.cnr.it/sitodbt/",
+	"Family": "Corpus query tools",
+      "Description": "This tool allows text and corpora querying, supporting both basic information retrieval and advanced search. It allows the customization of the query system functionalities and provides indexing also for morpho-syntactically annotated texts. The system can handle several type of text annotations and make concordances also for parallel bilingual corpora.",
+      "Functionality": ["Querying/concordancing (non-parallel and parallel)"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-IT",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

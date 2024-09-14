@@ -1,0 +1,16 @@
+{
+      "Name": "CQPweb (Lancaster)",
+      "URL": "https://cqpweb.lancs.ac.uk/",
+	"Family": "Corpus query tools",
+      "Description": "This is an online implementation of the <a href=\"https://cqpweb.lancs.ac.uk/\">CQPweb</a> system with a large number of corpora installed. #SEPIt is possible to upload one's own corpus with this tool. Note that CQPweb will be superseded by <a href=\"https://cwb.sourceforge.io/files/cl2021slides-se-ah-ziggurat.pdf\">Ziggurat</a>, which is under development. Registration is required to use this tool.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["eng", "ara", "fra", "ita", "nor", "pol", "lav"],
+      "License": "No licence",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-UK",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

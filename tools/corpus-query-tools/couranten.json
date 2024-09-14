@@ -1,0 +1,16 @@
+{
+      "Name": "Couranten",
+      "URL": "https://couranten.ivdnt.org",
+	"Family": "Corpus query tools",
+      "Description": "This is a dedicated querying tool for the Couranten Corpus, which comprises the seventeenth-century Dutch newspapers, available on Delpher.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["Dutch (17th Century)"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

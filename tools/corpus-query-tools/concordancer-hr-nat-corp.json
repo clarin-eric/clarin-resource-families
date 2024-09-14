@@ -1,0 +1,16 @@
+{
+      "Name": "Concordancer of the Croatian National Corpus",
+      "URL": "http://filip.ffzg.hr/",
+	"Family": "Corpus query tools",
+      "Description": "This is an implementation of NoSketchEngine for the <a href=\"http://hdl.handle.net/11372/LRT-233\">Croatian National Corpus</a>.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["hrv"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-HR",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

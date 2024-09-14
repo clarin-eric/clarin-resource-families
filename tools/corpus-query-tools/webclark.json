@@ -1,0 +1,16 @@
+{
+      "Name": "WebClark",
+      "URL": "http://webclark.org/",
+	"Family": "Corpus query tools",
+      "Description": "This is a dedicated concordancer for the Bulgarian National Reference Corpus.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["bul"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-BG",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

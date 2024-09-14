@@ -1,0 +1,16 @@
+{
+      "Name": "AutoSearch",
+      "URL": "https://autosearch.ivdnt.org/",
+	"Family": "Corpus query tools",
+      "Description": "This tool allows users to upload corpora annotated at the token level for (extended) part of speech, lemma and word form in FoLiA or TEI format, after which the corpus can be searched for these properties with a Corpus of Contemporary Dutch-like interface",
+      "Functionality": ["Querying/concordancing", "corpus upload and analysis"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Wordsmith Tools",
+      "URL": "https://www.lexically.net/wordsmith/",
+	"Family": "Corpus query tools",
+      "Description": "This tool is capable of finding word patterns, and has functionalities for concordance, collocation, word lists and keywords. It is a commercial tool.\nThere is a dedicated <a href=\"https://groups.google.com/g/wordsmithtools\">Google Group</a> for this tool.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "<a href=\"https://lexically.net/wordsmith/version7/user_licence.txt\">Proprietary</a>",
+      "Size": [],
+      "Platform": ["Windows"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

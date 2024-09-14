@@ -1,0 +1,16 @@
+{
+      "Name": "TEITOK",
+      "URL": "http://lindat.mff.cuni.cz/services/teitok/",
+	"Family": "Corpus query tools",
+      "Description": "This is a web-based system for viewing, creating, and editing corpora with both rich textual mark-up and linguistic annotation. For visitors, the system provides a graphical user interface in which the annotated document can be visualized in a number of different ways. And for administrators of the corpus, TEITOK uses the same interface to allow easy editing of the underlying XML document, meaning administrators can correct their corpus while they are consulting it.\nRegistration is required and Shibboleth log-in is supported. <a href=\"http://www.teitok.org/\">User documentation</a> is available.",
+      "Functionality": ["Querying/concordancing, corpus upload and processing"]
+      "Languages": ["Multiple"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIAH-CZ",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Janssen (2016)"
+}

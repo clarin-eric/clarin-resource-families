@@ -1,0 +1,16 @@
+{
+      "Name": "GrETEL 4.0",
+      "URL": "https://gretel.hum.uu.nl/ng/home",
+	"Family": "Corpus query tools",
+      "Description": "GrETEL stands for Greedy Extraction of Trees for Empirical Linguistics. It is a user-friendly search engine for the exploitation of syntactically annotated corpora or treebanks.\nIt is possible to upload one's own corpus with this tool.",
+      "Functionality": ["Querying/concordancing (treebanks)"]
+      "Languages": ["nld"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Odijk et al. (2018)"
+}

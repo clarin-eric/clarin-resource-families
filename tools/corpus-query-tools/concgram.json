@@ -1,0 +1,16 @@
+{
+      "Name": "ConcGram",
+      "URL": "https://benjamins.com/catalog/cls.1",
+	"Family": "Corpus query tools",
+      "Description": "This tool is a corpus linguistics software package which is specifically designed to find all the co-occurrences of words in a text or corpus irrespective of variation. This is a commercial tool, available for purchase on optical disc.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Greaves (2009)"
+}

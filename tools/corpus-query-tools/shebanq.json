@@ -1,0 +1,16 @@
+{
+      "Name": "SHEBANQ",
+      "URL": "https://shebanq.ancient-data.org/",
+	"Family": "Corpus query tools",
+      "Description": "This is a dedicated online environment for querying the Hebrew Bible.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["heb"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

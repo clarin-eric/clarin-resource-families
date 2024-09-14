@@ -1,0 +1,16 @@
+{
+      "Name": "NVivo",
+      "URL": "https://lumivero.com/products/nvivo/",
+	"Family": "Corpus query tools",
+      "Description": "This is a commercial software application for qualitative text and data analysis. ",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "<a href=\"https://www.qsrinternational.com/legal-and-compliance/end-user-license-agreement-qsr-software-services\">Proprietary</a>",
+      "Size": [],
+      "Platform": ["Windows", "MacOS"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

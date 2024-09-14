@@ -1,0 +1,16 @@
+{
+      "Name": "english-corpora.org",
+      "URL": "https://www.english-corpora.org/byu-corpora.asp",
+	"Family": "Corpus query tools",
+      "Description": "This is a tool for browsing the corpora available on <a href=\"https://english-corpora.org\">english-corpora.org</a>, which are formerly known as the BYU or Brigham Young University copora.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["eng"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "English Corpora"
+}

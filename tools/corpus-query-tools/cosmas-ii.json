@@ -1,0 +1,16 @@
+{
+      "Name": "COSMAS II",
+      "URL": "https://cosmas2.ids-mannheim.de",
+	"Family": "Corpus query tools",
+      "Description": "This tool is used for querying the German reference corpus DeReKo, as well as several other historical and non-historical corpora.\nTechnical support is offered through <a href=\"mailto:cosmas2@ids-mannheim.de\">email</a>.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["deu"],
+      "License": "DeReKo-EULA",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Bodmer (1996)"
+}

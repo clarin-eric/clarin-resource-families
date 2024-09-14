@@ -1,0 +1,16 @@
+{
+      "Name": "TextSTAT",
+      "URL": "http://neon.niederlandistik.fu-berlin.de/de/textstat/",
+	"Family": "Corpus query tools",
+      "Description": "This is a simple programme for the analysis of texts. It reads plain text files (in different encodings) and HTML files (directly from the internet) and it produces word frequency lists and concordances from these files. This version includes a web-spider which reads as many pages as the researcher wants from a particular website and puts them in a TextSTAT-corpus. The new news-reader, too, puts news messages in a TextSTAT-readable corpus file.\nA quickstart guide, a user guide and video tutorial are available online.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": ["Versions for Windows and platform-independent Python version"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "CLiC",
+      "URL": "https://clic.bham.ac.uk/",
+	"Family": "Corpus query tools",
+      "Description": "This tool has been developed as part of the <a href=\"https://clic.bham.ac.uk/\">CLiC Dickens project</a>, which demonstrates through corpus stylistics how computer-assisted methods can be used to study literary texts and lead to new insights into how readers perceive fictional characters. Further literary texts have been added to the online service.\nTechnical support is offered through <a href=\"mailto:clic@contacts.birmingham.ac.uk\">email</a>.",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["eng"],
+      "License": "Use of CLiC follows the University of Birmingham’s legal policy",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-UK",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Mahlberg et al. (2020)"
+}

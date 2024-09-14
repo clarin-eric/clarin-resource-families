@@ -1,0 +1,16 @@
+{
+      "Name": "Latvian National Corpora Collection (LNCC)",
+      "URL": "https://korpuss.lv/en/",
+	"Family": "Corpus query tools",
+      "Description": "Latvian National Corpora Collection (LNCC) is a diverse collection of corpora representing both written and spoken language. LNCC covers various use cases and all the important text types and genres. It is a continuous multi-institutional and multi-project effort, supported by the digital humanities and language technology communities in Latvia.\nCurrently, 34 corpora developed by 13 institutions are available in the LNCC. Most of the corpora are annotated with a uniform morpho-syntactic annotation scheme and included in the federated search. The federated search combines multiple corpora from two corpus indexer instances (endpoints) maintained by <a href=\”https://nosketch.korpuss.lv/\”>IMCS UL</a> and <a href=\”https://nosketch.lnb.lv/\”>NLL</a>. Federated search includes 28 corpora (2.4 billions tokens).",
+      "Functionality": ["Querying/concordancing"]
+      "Languages": ["lav", "ltg", "lit"],
+      "License": "",
+      "Size": [],
+      "Platform": [],
+      "Infrastructure": "CLARIN-LV",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": "Saulite et al. (2022)"
+}

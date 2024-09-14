@@ -1,0 +1,16 @@
+{
+      "Name": "The SPAADIA concordancer",
+      "URL": "http://martinweisser.org/ling_soft.html#conc",
+	"Family": "Corpus query tools",
+      "Description": "The SPAADIA concordancer (32bit Windows version): a concordancer (mainly) for use with the <a href=\"https://martinweisser.org/\">SPAADIA</a> corpus.",
+      "Functionality": ["Concordancing/querying"]
+      "Languages": ["Language independent"],
+      "License": "",
+      "Size": [],
+      "Platform": ["Windows", "MacOS"],
+      "Infrastructure": "External",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}
