@@ -1,0 +1,17 @@
+{
+      "Name": "BNC Sampler",
+      "URL": "http://hdl.handle.net/20.500.14106/2551",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus was manually post-edited to correct the PoS tags automatically assigned by CLAWS.\nThe corpus is available for online querying via CQPWeb (registration required) for download from the Oxford Text Archive",
+      "Languages": ["eng"],
+      "License": "BNC Licence",
+      "Size": ["2 million tokens"],
+      "Annotation": ["PoS tagging"],
+      "Infrastructure": "CLARIN",
+      "Group": "PoS MSD tagging",
+      "Access": {
+	"Concordancer": "https://cqpweb.lancs.ac.uk/bncsampler/",
+	"Download": "http://hdl.handle.net/20.500.14106/2551"
+	},
+      "Publication": ""
+}

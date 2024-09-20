@@ -1,0 +1,16 @@
+{
+      "Name": "Greek Textual Entailment Corpus",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23DB-2",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains texts from the domains of politics, law and travel.\nThis corpus is available for download from the clarin:el repository.",
+      "Languages": ["ell"],
+      "License": "CC-BY",
+      "Size": ["600 sentence-pairs"],
+      "Annotation": ["logical entailment"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23DB-2"
+	},
+      "Publication": ""
+}

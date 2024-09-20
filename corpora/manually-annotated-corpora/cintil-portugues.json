@@ -1,0 +1,15 @@
+{
+      "Name": "CINTIL-Corpus Internacional do Português",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D33B-5",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus contains transcriptions of spoken communication as well as written texts from several genres (news, literature, magazines, etc.).\nThe corpus is available for download from the CLARIN PORTULAN repository.",
+      "Languages": ["por"],
+      "License": "CLARIN RES",
+      "Size": ["1 million tokens"],
+      "Annotation": ["morphosyntactic tagging", "Named Entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D33B-5"
+	},
+      "Publication": ""
+}

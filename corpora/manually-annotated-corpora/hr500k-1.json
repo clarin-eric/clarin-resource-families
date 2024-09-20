@@ -1,0 +1,17 @@
+{
+      "Name": "Training corpus hr500k 1.0",
+      "URL": "http://hdl.handle.net/11356/1183",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
+      "Languages": ["hrv"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["500,000 tokens"],
+      "Annotation": ["tokenisation", "sentence segmentation", "morphosyntactic tagging", "lemmatisation", "Named Entity recognition", "Half of corpus also syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"KonText": "https://www.clarin.si/kontext/first_form?corpname=hr500k",
+	"noSketch": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=hr500k&struct_attr_stats=1",
+	"Download": "http://hdl.handle.net/11356/1183"
+	},
+      "Publication": ""
+}

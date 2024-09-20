@@ -1,0 +1,16 @@
+{
+      "Name": "WUT Relations Between Sentences Corpus",
+      "URL": "http://hdl.handle.net/11321/305",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains news items.\nThe corpus is available for download from the CLARIN.PL repository.",
+      "Languages": ["pol"],
+      "License": "CC BY-SA 3.0",
+      "Size": ["5654 sentences"],
+      "Annotation": ["relations between sentences - Cross-document Structure Theory (CST)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/305"
+	},
+      "Publication": ""
+}

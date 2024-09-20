@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian Treebank annotated with coreference relations",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0016AL",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains newspaper texts plus one scientific medical text.\nThe corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "GPL",
+      "Size": ["107,000 words"],
+      "Annotation": ["anaphora relations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0016AL"
+	},
+      "Publication": ""
+}

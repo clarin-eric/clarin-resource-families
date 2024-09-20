@@ -1,0 +1,16 @@
+{
+      "Name": "Bilingual terminology extraction dataset KAS-biterm 1.0",
+      "URL": "http://hdl.handle.net/11356/1199",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains PHD theses.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["slv", "eng"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["1,950 sentences", "78,500 tokens", "3,700 terms"],
+      "Annotation": ["bi-lingual term extraction"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1199"
+	},
+      "Publication": ""
+}

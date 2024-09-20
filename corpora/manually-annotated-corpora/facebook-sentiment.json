@@ -1,0 +1,17 @@
+{
+      "Name": "Facebook Data for Sentiment Analysis",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0022-FE82-7",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains Facebook posts.\nThe corpus is available for download from LINDAT and through the concordancer KonText.",
+      "Languages": ["ces"],
+      "License": "CC BY-SA 3.0",
+      "Size": ["10,000 Facebook posts"],
+      "Annotation": ["sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": "Sentiment analysis",
+      "Access": {
+	"KonText": "https://lindat.mff.cuni.cz/services/kontext/first_form?corpname=facebook_cs_m",
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0022-FE82-7"
+	},
+      "Publication": "Habernal et al. (2013)"
+}

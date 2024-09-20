@@ -1,0 +1,16 @@
+{
+      "Name": "TimeML annotated corpus of Estonian newspaper articles",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0015CL",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains newspaper articles.\nThe corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "CC-BY-SA",
+      "Size": ["22,000 words"],
+      "Annotation": ["morphosyntactic tagging", "syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing", "Other annotation layers"],
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0015CL"
+	},
+      "Publication": "Orasmaa (2014)"
+}

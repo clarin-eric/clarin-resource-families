@@ -1,0 +1,16 @@
+{
+      "Name": "Turku Dependency Treebank",
+      "URL": "http://bionlp.utu.fi/fintreebank.html",
+	"Family": "Manually annotated corpora",
+      "Description": "The syntactic parsing follows the <a href=\"http://universaldependencies.org/guidelines.html\">Universal Dependencies</a> schema.\nThe corpus is available for download from the Turku BioNLP Group.  ",
+      "Languages": ["fin"],
+      "License": "CC-BY-SA",
+      "Size": ["204,000 tokens"],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "http://bionlp.utu.fi/fintreebank.html"
+	},
+      "Publication": "Haverinen et al. (2013)"
+}

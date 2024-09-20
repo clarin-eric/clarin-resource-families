@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian Treebank",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00080L",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus contains fictional and newspaper texts.\nThe corpus is available for download from <a href=\"https://www.clarin.eu/glossary#META-SHARE\" title=\"Network of repositories resulting from the META-NET Network of Excellence (http://www.meta-share.eu/)\ " class=\"lexicon-term\">META-SHARE</a> (CELR distribution).",
+      "Languages": ["est"],
+      "License": "CLARIN_ACA",
+      "Size": ["1,000 sentences"],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00080L"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Tamil Dependency Treebank v0.1",
+      "URL": "http://hdl.handle.net/11234/1-1453",
+	"Family": "Manually annotated corpora",
+      "Description": "The syntactic parsing follows the rules of the https://ufal.mff.cuni.cz/pdt/.\nThe corpus is available for download from the LINDAT repository.",
+      "Languages": ["tam"],
+      "License": "CC BY-NC-SA 3.0",
+      "Size": ["600 sentences"],
+      "Annotation": ["syntactic parsing", "morphosyntactic tagging"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1453"
+	},
+      "Publication": ""
+}

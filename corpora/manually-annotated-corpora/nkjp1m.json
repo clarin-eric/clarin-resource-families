@@ -1,0 +1,16 @@
+{
+      "Name": "NKJP1M",
+      "URL": "http://clip.ipipan.waw.pl/NationalCorpusOfPolish",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus is a manually annotated subset of the National Corpus of Polish.\nThe corpus is available for download from the Computational Linguistics in Poland website.",
+      "Languages": ["pol"],
+      "License": "GNU GPL 3",
+      "Size": ["1 million tokens"],
+      "Annotation": ["morphosyntactic tagging"],
+      "Infrastructure": "CLARIN",
+      "Group": "PoS MSD tagging",
+      "Access": {
+	"Download": "http://clip.ipipan.waw.pl/NationalCorpusOfPolish"
+	},
+      "Publication": "Przepiórkowski and Murzynowski (2011)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Polish Dependency Bank in Universal Dependency format",
+      "URL": "http://zil.ipipan.waw.pl/PDB",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus also contains sentences showing certain problematic syntactic phenomena – sentences with ellipsis, comparative constructions, constructions with the bi-functional subordinating conjunction <em>jako</em>, etc. The syntactic parsing follows the <a href=\"http://universaldependencies.org/guidelines.html\">Universal Dependencies</a> schema.\nThe first version of the corpus is available for download from the Computational Linguistics in Poland website. The second version is available upon request.",
+      "Languages": ["pol"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["22,000 trees", "351,000 tokens"],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "http://zil.ipipan.waw.pl/PDB?action=AttachFile&do=view&target=NKJP1M_Skladnica_sem.conll"
+	},
+      "Publication": "Wróblewska (2018)"
+}

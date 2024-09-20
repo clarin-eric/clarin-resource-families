@@ -1,0 +1,16 @@
+{
+      "Name": "Slovenian Definition Extraction evaluation datasets RSDO-def 1.0",
+      "URL": "http://hdl.handle.net/11356/1841",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains sentences extracted from the <a href=\"http://hdl.handle.net/11356/1470\">Corpus of term-annotated texts RSDO5 1.1</a>, which contains texts with annotated terms from four different domains: biomechanics, linguistics, chemistry, and veterinary science. The file and sentence identifiers are the same as in the original RSDO corpus. The labels added to the sentences included in the dataset denote: 0: Non-definition; 1: Weak definition; 2: Definition.\nThe dataset consists of two parts: 1. RSDO-def-random employed a random sampling strategy, with 14 definitions, 98 weak-definitions and 849 non-definitions; and 2. RSDO-def-larger added sentences to the random one by the pattern-based definition extraction as presented in Pollak et al. (2014). It contains 169 definitions, 214 weak-definitions and 872 non-definitions. Both parts were manually annotated by five terminographers. In case of discrepancies between annotators, a consensus was reached and the final label was confirmed by all five annotators. Duplicates were removed in both parts.\nThe criteria for annotation are based on the standard ISO 1087-1:2000 (E/F) Terminology Work - Vocabulary, Part 1, Theory and Application, which explains a definition as follows: "Representation of a concept by a descriptive statement which serves to differentiate it from related concepts". Weak definition labels were assigned if the extracted sentences contained a term and at least one delimiting feature without a superordinate concept, or sentences consisting of superordinate concepts without delimiting features but with some typical examples. Instances were labeled as Non-definition if the sentence with the extracted concept did not contain any information about the concept or its delimiting features.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["slv"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["2,216 sentences"],
+      "Annotation": ["term definition evaluation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1841"
+	},
+      "Publication": "Tran et al. (2023)#SEPPollak (2014)"
+}

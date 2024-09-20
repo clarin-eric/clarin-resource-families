@@ -1,0 +1,17 @@
+{
+      "Name": "The ACL RD-TEX 2.0",
+      "URL": "http://hdl.handle.net/11372/LRT-1661",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains 6818 terms extracted from abstracts of computational linguistics papers.\nThe corpus is available for download from LINDAT and through KonText.",
+      "Languages": ["eng"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["33216 tokens"],
+      "Annotation": ["terminology extraction/classification"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"KonText": "https://lindat.mff.cuni.cz/services/kontext/first_form?corpname=aclrd20_en_a",
+	"Download": "http://hdl.handle.net/11372/LRT-1661"
+	},
+      "Publication": "QasemiZadeh and Schumann (2016)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Greek Coreference Corpus",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25DC-F",
+	"Family": "Manually annotated corpora",
+      "Description": "In addition to coreference, the corpus is annotated for identity and bridging relations.\nIn addition to coreference, the corpus is annotated for identity and bridging relations.",
+      "Languages": ["ell"],
+      "License": "CC-BY-NC-SA",
+      "Size": ["62,988 tokens"],
+      "Annotation": ["coreference"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25DC-F"
+	},
+      "Publication": "Ogrodnizcuk et al. (2015)"
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Polish Spatial Texts 1.0",
+      "URL": "http://hdl.handle.net/11321/543",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains travel blogs.\nThe corpus is available for download from the CLARIN-PL repository.",
+      "Languages": ["pol"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["46,000 tokens"],
+      "Annotation": ["Named Entity recognition (spatial expressions)"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/543"
+	},
+      "Publication": ""
+}

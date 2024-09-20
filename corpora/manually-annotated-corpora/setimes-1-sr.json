@@ -1,0 +1,18 @@
+{
+      "Name": "Training corpus SETimes.SR 1.0",
+      "URL": "http://hdl.handle.net/11356/1200",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains posts from the Southeast European Times news portal, which is now defunct. The syntactic parsing follows the <a href="http://universaldependencies.org/">Universal Dependencies</a> framework.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
+      "Languages": ["srp"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["87,000 tokens"],
+      "Annotation": ["tokenisation", "sentence segmentation", "morphosyntactic tagging", "lemmatisation", "syntactic parsing", "Named Entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Lemmatisation", "Syntactic parsing", "Named Entity Recognition"],
+      "Access": {
+	"KonText": "https://www.clarin.si/kontext/first_form?corpname=setimes_sr",
+	"noSketch": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=setimes_sr&struct_attr_stats=1",
+	"Download": "http://hdl.handle.net/11356/1200"
+	},
+      "Publication": "Batanović et al. (2018)."
+}

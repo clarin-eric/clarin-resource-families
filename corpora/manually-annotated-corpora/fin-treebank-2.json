@@ -1,0 +1,16 @@
+{
+      "Name": "Finnish TreeBank 2",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201407163",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains 19,000 sentences from the Large Grammar of Finnish.\nThe corpus is available for download from the Language Bank of Finland.",
+      "Languages": ["fin"],
+      "License": "CC-BY 3.0",
+      "Size": ["160,000 tokens"],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201407163"
+	},
+      "Publication": ""
+}

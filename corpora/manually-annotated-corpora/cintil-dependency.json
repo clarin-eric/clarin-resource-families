@@ -1,0 +1,16 @@
+{
+      "Name": "CINTIL DependencyBank",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D31C-8",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains literary and newspaper texts.\nThe corpus is available for download from the PORTULAN CLARIN repository.",
+      "Languages": ["por"],
+      "License": "MS-NC-No ReD-ND",
+      "Size": ["110,000 tokens"],
+      "Annotation": ["morphosyntactic tagging", "syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D31C-8"
+	},
+      "Publication": ""
+}

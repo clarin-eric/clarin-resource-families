@@ -1,0 +1,16 @@
+{
+      "Name": "Manually sentiment annotated Slovenian news corpus SentiNews 1.0",
+      "URL": "http://hdl.handle.net/11356/1110",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains news articles.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["slv"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["10,427 articles"],
+      "Annotation": ["sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": "Sentiment analysis",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1110"
+	},
+      "Publication": "Bučar et al. (2018)"
+}

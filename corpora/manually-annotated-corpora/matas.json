@@ -1,0 +1,16 @@
+{
+      "Name": "Lithuanian morphologically annotated corpus - MATAS",
+      "URL": "http://hdl.handle.net/20.500.11821/9",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus contains texts from various domains (documents, fiction, periodicals, scientific texts, wordforms).\nThis corpus is available for download from the CLARIN-LT repository.",
+      "Languages": ["lit"],
+      "License": "CLARIN ACA",
+      "Size": ["1.6 million words"],
+      "Annotation": ["morphosyntactic tagging"],
+      "Infrastructure": "CLARIN",
+      "Group": "PoS MSD tagging",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11821/9"
+	},
+      "Publication": ""
+}

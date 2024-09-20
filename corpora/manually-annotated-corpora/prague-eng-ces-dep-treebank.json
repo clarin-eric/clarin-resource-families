@@ -1,0 +1,18 @@
+{
+      "Name": "Prague Czech-English Dependency Treebank 2.0 Coref",
+      "URL": "http://hdl.handle.net/11234/1-1664",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus is an extended version of <a href=\"http://hdl.handle.net/11858/00-097C-0000-0015-8DAF-4\">Prague Czech-English Dependency Treebank 2.0</a>, with added mark-up of coreference. The syntactic parsing follows the <a href=\"https://ufal.mff.cuni.cz/pdt2.0/\">PDT 2.0 style</a>.\nThe corpus is available for download from the LINDAT repository. The version without coreference annotation is available through the concordancer KonText and the PML-TQ tool (Czech part only).",
+      "Languages": ["ces", "eng"],
+      "License": "CC-BY-NC-SA + LDC99T42 (restricted use)",
+      "Size": ["49,000 sentences"],
+      "Annotation": ["syntactic parsing", "mark-up of coreference"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing", "Other annotation layers"],
+      "Access": {
+	"KonText": "https://lindat.mff.cuni.cz/services/kontext/first_form?corpname=pcedt_20_cs_a",
+	"PML-TQ": "https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/pcedt20_cz/query/",
+	"Download": "http://hdl.handle.net/11234/1-1664"
+	},
+      "Publication": "Hajič et al. (2012)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "NoReC: The Norwegian Review Corpus",
+      "URL": "http://hdl.handle.net/11509/124",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains reviews in different domains (e.g., literature, videogames, etc.).\nThe corpus is available for download from the CLARINO repository.",
+      "Languages": ["nor"],
+      "License": "CC BY-NC 3.0",
+      "Size": ["14.8 million tokens"],
+      "Annotation": ["sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": "Sentiment analysis",
+      "Access": {
+	"Download": "http://hdl.handle.net/11509/124"
+	},
+      "Publication": "Velldal et al. (2018)"
+}

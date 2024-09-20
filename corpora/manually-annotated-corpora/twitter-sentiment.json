@@ -1,0 +1,16 @@
+{
+      "Name": "Twitter sentiment for 15 European languages",
+      "URL": "http://hdl.handle.net/11356/1054",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains Tweet IDs with sentiment annotations.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["sqi", "bos", "bul", "hrv", "eng", "deu", "hun", "pol", "por", "rus", "srp", "slk", "slv", "spa", "swe"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["1.6 million tweets"],
+      "Annotation": ["sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": "Sentiment analysis",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1054"
+	},
+      "Publication": "Mozetič et al. (2016)"
+}

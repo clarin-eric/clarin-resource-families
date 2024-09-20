@@ -1,0 +1,16 @@
+{
+      "Name": "Tübingen Treebank of Written German / Newspaper Corpus (TüBa-D/Z)",
+      "URL": "https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/corpora/tueba-dz/",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains newspaper articles.\nThe corpus is available for download from the Tübingen CLARIN Repository.",
+      "Languages": ["deu"],
+      "License": "CLARIN RES",
+      "Size": ["1.9 million tokens"],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "https://vlo.clarin.eu/record?7&docId=http_58__47__47_hdl.handle.net_47_11858_47_00-1778-0000-0005-896C-F&q=treebank+written+german&index=4&count=21"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Polish Summaries Corpus",
+      "URL": "http://zil.ipipan.waw.pl/PolishSummariesCorpus",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus is available for download from the ZIL IPI PAN repository.",
+      "Languages": ["pol"],
+      "License": "CC BY 3",
+      "Size": ["10845 summaries"],
+      "Annotation": ["summarization"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://zil.ipipan.waw.pl/PolishSummariesCorpus"
+	},
+      "Publication": "Ogrodniczuk and Kopeć (2014)"
+}

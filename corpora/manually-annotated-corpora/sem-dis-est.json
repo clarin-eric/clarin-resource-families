@@ -1,0 +1,16 @@
+{
+      "Name": "Semantically disambiguated corpus of Estonian",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00081L",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "CLARIN ACA",
+      "Size": ["375,733 tokens"],
+      "Annotation": ["word sense disambiguation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00081L"
+	},
+      "Publication": ""
+}

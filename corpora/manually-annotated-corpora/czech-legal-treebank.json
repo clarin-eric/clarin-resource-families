@@ -1,0 +1,18 @@
+{
+      "Name": "Czech Legal Text Treebank 2.0",
+      "URL": "http://hdl.handle.net/11234/1-2498",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains legal texts.\nThe corpus is available through the concordance KonText, the PML-TQ tool and for download from the LINDAT repository.",
+      "Languages": ["ces"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["1121 sentences"],
+      "Annotation": ["syntactic parsing", "labelling of semantic entities"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing", "Other annotation layers"],
+      "Access": {
+	"KonText": "https://lindat.mff.cuni.cz/services/kontext/first_form?corpname=legaltext_cs_a",
+	"PML-TQ": "https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/cltt20/query/",
+	"Download": "http://hdl.handle.net/11234/1-2498"
+	},
+      "Publication": "Kríž and Hladká (2018)"
+}

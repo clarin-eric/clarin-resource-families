@@ -1,0 +1,18 @@
+{
+      "Name": "CMC training corpus Janes-Norm 1.2",
+      "URL": "http://hdl.handle.net/11356/1084",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus is partially also manually annotated with MSD tags and lemmatized.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
+      "Languages": ["slv"],
+      "License": "CC BY-SA 4.0",
+      "Size": ["184,755 tokens"],
+      "Annotation": ["normalization"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other annotation layers",
+      "Access": {
+	"KonText": "https://www.clarin.si/kontext/first_form?corpname=janes_norm",
+	"noSketch": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=janes_norm&struct_attr_stats=1",
+	"Download": "http://hdl.handle.net/11356/1084"
+	},
+      "Publication": ""
+}

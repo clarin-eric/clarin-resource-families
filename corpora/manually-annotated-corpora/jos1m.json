@@ -1,0 +1,16 @@
+{
+      "Name": "Training corpus jos1M 1.1",
+      "URL": "http://hdl.handle.net/11356/1037",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains sampled paragraphs from the Slovenian national corpus FidaPLUS. The corpus is morphosyntactically tagged following the <a href=\"http://nl.ijs.si/ME/V4/msd/html/index.html\">MULTEXT-East Version 4 tagset</a>.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["slv"],
+      "License": "CC BY-NC 4.0",
+      "Size": ["1 million words"],
+      "Annotation": ["morphosyntactic tagging", "lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": ["PoS MSD tagging", "Lemmatisation"],
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1037"
+	},
+      "Publication": "Erjavec et al. (2010)"
+}

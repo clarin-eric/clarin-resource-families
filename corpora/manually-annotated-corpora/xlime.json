@@ -1,0 +1,16 @@
+{
+      "Name": "xLiMe Twitter Corpus XTC 1.0.1",
+      "URL": "http://hdl.handle.net/11356/1078",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains Tweets.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["deu", "ita", "spa"],
+      "License": "MIT License",
+      "Size": ["364,000 tokens"],
+      "Annotation": ["PoS tagging", "Named Entity recognition", "sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": ["PoS MSD tagging", "Named Entity Recognition", "Sentiment analysis"],
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1078"
+	},
+      "Publication": "Rei et al. (2016)"
+}

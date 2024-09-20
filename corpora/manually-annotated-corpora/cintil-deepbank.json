@@ -1,0 +1,16 @@
+{
+      "Name": "CINTIL-DeepBank",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D34F-F",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains literary and newspaper texts.\nThe corpus is available for download from the PORTULAN CLARIN repository.",
+      "Languages": ["por"],
+      "License": "MS-NC-No ReD-ND",
+      "Size": ["110,000 tokens"],
+      "Annotation": ["PoS-tagging", "syntactic parsing", "grammatical functions", "logical forms"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic parsing",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D34F-F"
+	},
+      "Publication": ""
+}
