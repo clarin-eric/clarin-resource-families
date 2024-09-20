@@ -8,7 +8,7 @@
       "Size": ["447,000 tokens"],
       "Annotation": ["chunks and selected predicate-argument relations", "Named Entity recognition", "relations between named entities", "anaphora relations", "word senses", "events", "temporal expressions", "spatial relations between entities", "keywords and semantic roles within nominal and adjective phrases"],
       "Infrastructure": "CLARIN",
-      "Group": ["Named Entity Recognition", "Other annotation layers"]
+      "Group": ["Named Entity Recognition", "Other annotation layers"],
       "Access": {
 	"Download": "http://hdl.handle.net/11321/270"
 	},

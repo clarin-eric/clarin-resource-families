@@ -2,7 +2,7 @@
       "Name": "Training corpus SETimes.SR 1.0",
       "URL": "http://hdl.handle.net/11356/1200",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus contains posts from the Southeast European Times news portal, which is now defunct. The syntactic parsing follows the <a href="http://universaldependencies.org/">Universal Dependencies</a> framework.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
+      "Description": "This corpus contains posts from the Southeast European Times news portal, which is now defunct. The syntactic parsing follows the <a href=\"http://universaldependencies.org/\">Universal Dependencies</a> framework.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
       "Languages": ["srp"],
       "License": "CC BY-SA 4.0",
       "Size": ["87,000 tokens"],

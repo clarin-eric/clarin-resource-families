@@ -2,21 +2,7 @@
       "Name": "Slovenian Word in Context dataset SloWiC 1.0",
       "URL": "http://hdl.handle.net/11356/1781",
 	"Family": "Manually annotated corpora",
-      "Description": "The SloWIC dataset is a Slovenian dataset for the Word in Context task. Each example in the dataset contains a target word with multiple meanings and two sentences that both contain the target word. Each example is also annotated with a label that shows if both sentences use the same meaning of the target word. The dataset contains 1808 manually annotated sentence pairs and additional 13150 automatically annotated pairs to help with training larger models. The dataset is stored in the JSON format following the format used in the <a href=\"https://github.com/clarinsi/classla\">SuperGLUE version</a> of the Word in Context task.#SEPEach example contains the following data fields:
-<ul>
-<li>word: The target word with multiple meanings</li>
-<li>sentence1: The first sentence containing the target word</li>
-<li>sentence2: The second sentence containing the target word</li>
-<li>idx: The index of the example in the dataset</li>
-<li>label: Label showing if the sentences contain the same meaning of the target word</li>
-<li>start1: Start of the target word in the first sentence</li>
-<li>start2: Start of the target word in the second sentence</li>
-<li>end1: End of the target word in the first sentence</li>
-<li>end2: End of the target word in the second sentence</li>
-<li>version: The version of the annotation</li>
-<li>manual_annotation: Boolean showing if the label was manually annotated</li>
-<li>group: The group of annotators that labelled the example</li>
-</ul>",
+      "Description": "The SloWIC dataset is a Slovenian dataset for the Word in Context task. Each example in the dataset contains a target word with multiple meanings and two sentences that both contain the target word. Each example is also annotated with a label that shows if both sentences use the same meaning of the target word. The dataset contains 1808 manually annotated sentence pairs and additional 13150 automatically annotated pairs to help with training larger models. The dataset is stored in the JSON format following the format used in the <a href=\"https://github.com/clarinsi/classla\">SuperGLUE version</a> of the Word in Context task.\nEach example contains the following data fields:\n<ul>\n<li>word: The target word with multiple meanings</li>\n<li>sentence1: The first sentence containing the target word</li>\n<li>sentence2: The second sentence containing the target word</li>\n<li>idx: The index of the example in the dataset</li>\n<li>label: Label showing if the sentences contain the same meaning of the target word</li>\n<li>start1: Start of the target word in the first sentence</li>\n<li>start2: Start of the target word in the second sentence</li>\n<li>end1: End of the target word in the first sentence</li>\n<li>end2: End of the target word in the second sentence</li>\n<li>version: The version of the annotation</li>\n<li>manual_annotation: Boolean showing if the label was manually annotated</li>\n<li>group: The group of annotators that labelled the example</li>\n</ul>",
       "Languages": ["slv"],
       "License": "CC BY-SA 4.0",
       "Size": ["14,958 items"],
@@ -24,7 +10,7 @@
       "Infrastructure": "CLARIN",
       "Group": "Other annotation layers",
       "Access": {
-	"Download": ""http://hdl.handle.net/11356/1781
+	"Download": "http://hdl.handle.net/11356/1781"
 	},
       "Publication": ""
 }

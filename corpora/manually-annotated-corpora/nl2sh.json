@@ -2,12 +2,7 @@
       "Name": "Natural Language 2 Semantic Hypergraph Dataset NL2SH 1.0",
       "URL": "http://hdl.handle.net/11356/1822",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus can be used to build and evaluate methods for knowledge extraction and representation based on a semantic hypergraph. Each sentence has natural language annotations and dedicated semantic hyperedge. Majority of the sentences used in this dataset are taken from the following sources:
-<ul>
-<li>John Eastwood, Oxford Guide to English Grammar, Oxford University Press, 2002.</li>
-<li>Andrew Redford, An Introduction to English Sentence Structure, Cambridge University Press, 2009.</li>
-<li>Essential English Grammar, Philip Gucker, Dover Publications, Inc. New York, 1966.</li>\n
-The corpus is available for download from the CLARIN.SI repository.",
+      "Description": "This corpus can be used to build and evaluate methods for knowledge extraction and representation based on a semantic hypergraph. Each sentence has natural language annotations and dedicated semantic hyperedge. Majority of the sentences used in this dataset are taken from the following sources:\n<ul>\n<li>John Eastwood, Oxford Guide to English Grammar, Oxford University Press, 2002.</li>\n<li>Andrew Redford, An Introduction to English Sentence Structure, Cambridge University Press, 2009.</li>\n<li>Essential English Grammar, Philip Gucker, Dover Publications, Inc. New York, 1966.</li>\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["eng"],
       "License": "CLARIN.SI Licence ACA ID-BY-NC-INF-NORED",
       "Size": ["6,851 tokens"],
