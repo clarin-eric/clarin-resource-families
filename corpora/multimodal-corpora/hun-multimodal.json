@@ -1,0 +1,17 @@
+{
+      "Name": "Hungarian Multimodal Corpus",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-001A-E17C-1",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains video and audio recordings of conversations divided into two major parts: a simulated job interview and a guided dialogue about personal topics. The participants are university students (54 females, 67 males) mostly involving the same interviewer in both scenarios.\nThe corpus is available for online browsing through the MTA RIL Language Archive Serve (HUN-CLARIN distribution) and for download from the Language Archive (CLARIAH-NL).",
+      "Languages": ["hun"],
+      "License": "open and restricted",
+      "Size": ["50 hours"],
+      "Annotation": ["non-verbal and verbal elements of communication"],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	"Concordancer": "https://tla.nytud.hu/ds/asv/",
+	"Download": "http://hdl.handle.net/1839/00-0000-0000-001A-E17C-1"
+	},
+      "Publication": "Pápay et al. (2011)"
+}

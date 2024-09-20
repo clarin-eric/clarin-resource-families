@@ -1,0 +1,16 @@
+{
+      "Name": "Natural Media Motion-Capture Corpus",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0007-C34C-8",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains data from 18 participants, whose task was to describe nine objects each to an experimenter, without using everyday vocabulary about forms, sizes or objects. The participants were recorded on audio and several video cameras, and their hand movements were recorded using an optical VICON motion capture system.\nThe corpus is available for download from the BAS CLARIN-D repository.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["3 hours"],
+      "Annotation": ["gesture types", "meta-information about encoding (e.g., difficult to encode)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0007-C34C-8"
+	},
+      "Publication": ""
+}

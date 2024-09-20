@@ -1,0 +1,16 @@
+{
+      "Name": "Eye-tracking in Multimodal Interaction Corpus",
+      "URL": "https://hdl.handle.net/1839/F35713E0-CE29-4BCA-98E9-1F2E3E912909",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus is available for download from the Language Archive (CLARIAH-NL).",
+      "Languages": ["eng"],
+      "License": "restricted",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/1839/F35713E0-CE29-4BCA-98E9-1F2E3E912909"
+	},
+      "Publication": ""
+}

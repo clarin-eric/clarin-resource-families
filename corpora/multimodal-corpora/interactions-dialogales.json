@@ -1,0 +1,17 @@
+{
+      "Name": "Corpus d'interactions dialogales",
+      "URL": "https://hdl.handle.net/11403/sldr000027/v2",
+	"Family": "Manually annotated corpora",
+      "Description": "A demo version of this corpus is available for download (<a href=\"https://hdl.handle.net/11403/sldr000027/v2\">videos</a> and <a href=\"http://hdl.handle.net/11041/sldr000720\">transcriptions</a>) from the ORTOLANG repository.",
+      "Languages": ["fra"],
+      "License": "",
+      "Size": ["8 hours"],
+      "Annotation": ["prosody", "interpausal units", "gestures", "syntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	"Videos": "http://hdl.handle.net/11403/sldr000027/v2",
+	"Transcriptions": "http://hdl.handle.net/11041/sldr000720"
+	},
+      "Publication": "Bertrand et al. (2008)"
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Unisa isiZulu Video Corpus",
+      "URL": "https://hdl.handle.net/20.500.12185/230",
+	"Family": "Manually annotated corpora",
+      "Description": "The corpus is unavailable.",
+      "Languages": ["zul"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

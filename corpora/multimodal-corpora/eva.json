@@ -1,0 +1,16 @@
+{
+      "Name": "Multimodal corpus EVA 1.0",
+      "URL": "https://hdl.handle.net/11356/1311",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains one episode of an audio/video session plus corresponding orthographic transcriptions with a duration of 57 minutes. The multi-party spontaneous discourse in the recording is from an entertaining evening TV-talk show <a href=\"https://www.imdb.com/title/tt6384412/\">A si ti tut not padu</a>, broadcasted by the POP-TV Slovene commercial TV station in 2008, and represents a part of the <a href=\"http://hdl.handle.net/11356/1040\">Slovene spoken corpus GOS</a>.\nIn addition to the original transcription and morphosyntactic annotation from the GOS corpus, the following layers of information are added:<ul><li>statement sentiment</li><li>phrase breaks within statements</li><li>prominence of statements</li><li>sentences within the statement</li><li>sentence sentiment</li><li>sentence type</li><li>speaker visibility on the scene</li><li>gesture units</li><li>gesture phrases</li><li>emotions</li><li>semiotic intent</li><li>dialogue role</li></ul>\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["slv"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["57 minutes"],
+      "Annotation": ["MSD-tagged", "non-verbal and verbal elements of communication"],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1311"
+	},
+      "Publication": "Mlakar et al. (2019)"
+}

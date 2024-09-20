@@ -1,0 +1,16 @@
+{
+      "Name": "PoliModal Corpus",
+      "URL": "http://hdl.handle.net/20.500.11752/OPEN-534",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus includes the transcripts of 56 TV face-to-face interviews (14 hours total) taken from several broadcasts of the Italian political talk show Mezz'ora, from 24 September 2017 to 14 January 2018, aired on the Rai 3 channel.\nThe audio signal has been transcribed using a semi-supervised speech-to-text methodology (Google API+ manual correction). Annotation has been done using XML as markup language and following the TEI standard for Speech Transcripts in terms of utterances.\nThe corpus is available for download from the ILC4CLARIN repository.",
+      "Languages": ["ita"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["100,870 tokens"],
+      "Annotation": ["utterance phenomena", "gesture annotations (facial, hand, body posture)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Video-Audio Corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/OPEN-534"
+	},
+      "Publication": ["Trotta et al. (2019)", "Trotta et al. (2020)"]
+}
