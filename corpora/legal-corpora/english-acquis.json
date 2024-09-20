@@ -1,0 +1,16 @@
+{
+      "Name": "English Acquis Communautaire",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D50A-A",
+	"Family": "Legal corpora",
+      "Description": "This corpus contains selected texts from the <a href=\"https://en.wikipedia.org/wiki/Acquis_communautaire\">Acquis Communautaire</a> between the 1950s and today, translated to English.\nThe corpus is available for download from PORTULAN.",
+      "Languages": ["eng"],
+      "License": "MIT (academic)",
+      "Size": ["34.6 million tokens"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D50A-A"
+	},
+      "Publication": "Steinberger et al. (2006)"
+}

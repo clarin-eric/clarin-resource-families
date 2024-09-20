@@ -1,0 +1,16 @@
+{
+      "Name": "Lithuanian Corpus of the EU Primary and Secondary Law Acts of the Period 2015–2017",
+      "URL": "http://hdl.handle.net/20.500.11821/18",
+	"Family": "Legal corpora",
+      "Description": "This corpus contains primary and secondary European law acts (32 texts) translated into Lithuanian.\nThe corpus is available for download from CLARIN-LT.",
+      "Languages": ["lit"],
+      "License": "CLARIN PUB",
+      "Size": ["274,460 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11821/18"
+	},
+      "Publication": ""
+}

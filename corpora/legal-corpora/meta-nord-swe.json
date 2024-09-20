@@ -1,0 +1,17 @@
+{
+      "Name": "META-NORD Acquis Swedish Treebank",
+      "URL": "http://hdl.handle.net/11495/D9D3-24E5-429B-9",
+	"Family": "Legal corpora",
+      "Description": "This is a subcorpus of the META-NORD Acquis Parallel Treebank.\nThe corpus is available for download and online browsing through INESS (CLARINO).",
+      "Languages": ["swe"],
+      "License": "CC BY 4.0",
+      "Size": ["102 sentences", "1982 words"],
+      "Annotation": ["syntactically parsed (constituency)", "sentence/phrase/word segmentation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Browse": "http://hdl.handle.net/11495/D9D3-24E5-429B-9",
+	"Download": "http://hdl.handle.net/11495/D9D3-24E5-429B-9"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "The JRC-Acquis Corpus, version 3.0",
+      "URL": "http://hdl.handle.net/11500/ATHENA-0000-0000-25C9-4",
+	"Family": "Legal corpora",
+      "Description": "This is a parallel corpus of Acquis Communautaire, which is the total body of European Union law applicable in European member states.\nMost texts have been manually classified according to the EUROVOC subject domains so that the collection can also be used to train and test multi-label classification algorithms and keyword-assignment software. The corpus is encoded in XML, according to the Text Encoding Initiative Guidelines. Due to the large number of parallel texts in many languages, the JRC-Acquis is particularly suitable to carry out all types of cross-language research, as well as to test and benchmark text analysis software across different languages (for instance for alignment, sentence splitting and term extraction). The sentence-level alignment was done using the <a href=\"https://github.com/danielvarga/hunalign\">hunalign</a> tool.\nThe corpus is available for download from the CLARIN:EL repository.",
+      "Languages": ["bul", "ces", "dan", "deu", "eng", "spa", "est", "fin", "fra", "hun", "ita", "lit", "lav", "mlt", "nld", "pol", "por", "ron", "slk", "slv", "swe"],
+      "License": "CC BY 4.0",
+      "Size": ["1 billion words"],
+      "Annotation": ["paragraph and sentence alignment"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11500/ATHENA-0000-0000-25C9-4"
+	},
+      "Publication": "Steinberger et al. (2006)"
+}

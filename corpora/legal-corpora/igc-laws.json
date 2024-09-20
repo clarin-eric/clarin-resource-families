@@ -1,0 +1,16 @@
+{
+      "Name": "IGC-Laws-21.05 (The Icelandic Gigaword Corpus: Law, bills and proposals)",
+      "URL": "http://hdl.handle.net/20.500.12537/116",
+	"Family": "Legal corpora",
+      "Description": "IGC-Laws is a subcorpus of the <a href=\"http://hdl.handle.net/20.500.12537/192\">The Icelandic Gigaword Corpus</a> (see also <a href=\"https://www.clarin.eu/resource-families/reference-corpora\">CLARIN reference corpora</a>). IGC-Laws contains 1) the Icelandic laws, 2) explanatory reports and observations extracted from bills submitted to Althingi, and 3) parliamentary proposals and resolutions. The corpus comes in two formats. One contains the texts untokenized and untagged while the other has been tokenized, PoS-tagged and lemmatized.\nThe corpus is available for download from the CLARIN-IS repository.",
+      "Languages": ["isl"],
+      "License": "CC BY 4.0",
+      "Size": ["2,2 million sentences", "40,6 million words"],
+      "Annotation": ["lemmatised", "MSD-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/116"
+	},
+      "Publication": "Steingrímsson et al. (2018)"
+}

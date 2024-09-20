@@ -1,0 +1,16 @@
+{
+      "Name": "Czech Court Decisions Corpus (CzCDC 1.0)",
+      "URL": "https://hdl.handle.net/11372/LRT-3052",
+	"Family": "Legal corpora",
+      "Description": "This corpus consists of around 237,000 court decisions from three top-tier courts (Supreme, Supreme Administrative, and Constitutional) in Czechia, published between 1993 and 2018.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["ces"],
+      "License": "CC BY-NC 4.0",
+      "Size": ["460 million words"],
+      "Annotation": ["unannotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "https://hdl.handle.net/11372/LRT-3052"
+	},
+      "Publication": "Novotná and Harašta (2019)"
+}

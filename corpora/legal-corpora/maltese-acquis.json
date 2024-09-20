@@ -1,0 +1,16 @@
+{
+      "Name": "Maltese Acquis Communautaire",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D4FD-9",
+	"Family": "Legal corpora",
+      "Description": "",
+      "Languages": ["mlt"],
+      "License": "MIT (academic)",
+      "Size": ["20.9 million tokens"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D4FD-9"
+	},
+      "Publication": "Steinberger et al. (2006)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of Estonian law texts",
+      "URL": "http://hdl.handle.net/11297/1-00-0000-0000-0000-0002-2",
+	"Family": "Legal corpora",
+      "Description": "This corpus contains Estonian laws (1.8 million tokens) as well as European legislation (9.6 million tokens) translated into Estonian.\nThe corpus is available for download from a dedicated webpage hosted by CLARIN Estonia.",
+      "Languages": ["est"],
+      "License": "CLARIN PUB",
+      "Size": ["11 million tokens"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "http://www.cl.ut.ee/korpused/segakorpus/seadused/"
+	},
+      "Publication": ""
+}

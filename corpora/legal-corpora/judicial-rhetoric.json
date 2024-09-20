@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of Judicial Rhetoric: cases of rapes and homicides",
+      "URL": "http://hdl.handle.net/11500/CLARIN-EL-0000-0000-6114-C",
+	"Family": "Legal corpora",
+      "Description": "This corpus consists of transcriptions of defendants’ and witnesses’ speeches in criminal cases of rape, attempted rape, murder, and attempted murder.\nThe corpus is available for download from the CLARIN:EL repository.",
+      "Languages": ["ell"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11500/CLARIN-EL-0000-0000-6114-C"
+	},
+      "Publication": ""
+}

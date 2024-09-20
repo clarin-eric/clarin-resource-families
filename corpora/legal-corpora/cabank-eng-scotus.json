@@ -1,0 +1,17 @@
+{
+      "Name": "CABank English SCOTUS Oral Arguments Corpus",
+      "URL": "https://hdl.handle.net/10.21415/T5Z315",
+	"Family": "Legal corpora",
+      "Description": "This corpus consists of transcripts and recordings of oral arguments at the Supreme Court of the United States.\nThe transcripts and audio recordings are aligned at the utterance level; the utterances are annotated based on speaker role (the primary one being Justice) and name, as well as gender.\nThe corpus is part of the CABank collection and available for download from and online browsing through TalkBank.",
+      "Languages": ["eng"],
+      "License": "CC BY-NC-SA 3.0",
+      "Size": [],
+      "Annotation": ["speaker segmentation", "sociolinguistic annotation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/ca/SCOTUS/OralArguments",
+	"Download": "https://ca.talkbank.org/data/SCOTUS/OralArguments.zip"
+	},
+      "Publication": "Johnson and Goldman (2009)"
+}

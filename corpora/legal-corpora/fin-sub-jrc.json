@@ -1,0 +1,17 @@
+{
+      "Name": "The Finnish Sub-corpus of the JRC-Acquis Multilingual Parallel Corpus, Downloadable Version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2016042710",
+	"Family": "Legal corpora",
+      "Description": "This is the legal subcorpus of the <a href=\"http://urn.fi/urn:nbn:fi:lb-2016042602\">Helsinki Korp Version of the Finnish TreeBank 3</a>.\nThe corpus is available for online browsing through the concordancer Korp (FIN-CLARIN distribution) and for download from the Finnish Language Bank.",
+      "Languages": ["fin"],
+      "License": "CC BY",
+      "Size": ["44.1 million tokens"],
+      "Annotation": ["syntactically parsed (constituency)", "sentence/phrase/word segmentation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Browse": "http://urn.fi/urn:nbn:fi:lb-2016042709",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2019102401"
+	},
+      "Publication": ""
+}

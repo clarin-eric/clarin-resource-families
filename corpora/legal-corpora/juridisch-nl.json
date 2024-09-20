@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus Juridisch Nederlands",
+      "URL": "http://hdl.handle.net/10032/tm-a2-u2",
+	"Family": "Legal corpora",
+      "Description": "This corpus contains legal texts from 1814 to 1989, compiled year by year.\nThe corpus is available for online browsing on a dedicated webpage",
+      "Languages": ["nld"],
+      "License": "CLARIN PUB",
+      "Size": ["5,856 texts"],
+      "Annotation": ["lemmatised", "PoS-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Browse": "https://corpusjuridischnederlands.ivdnt.org/corpus-frontend/juridisch-corpus/search/"
+	},
+      "Publication": "de Does et al. (2017)"
+}
