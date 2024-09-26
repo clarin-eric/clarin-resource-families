@@ -1,0 +1,18 @@
+{
+      "Name": "Collection VPRO Selma van der Perre",
+      "URL": "https://www.vpro.nl/programmas/ovt/speel~RBX_VPRO_15812838~het-spoor-terug-mijn-naam-is-selma-deel-1~.html",
+	"Family": "Oral history corpora",
+      "Description": "A single interview with Selma van der Perre, divided in three parts of about 45 min, complementary to her memoirs <em>Mijn naam is Selma</em>. The interview was made by Mathijs Deen for the Dutch broadcast organisation VPRO in the series <em>Het spoor terug</em> (\"The Trace Back\"). Extensive metadata is available <a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7708-3\">here</a>.",
+      "Languages": ["nld"],
+      "License": "Open access",
+      "Size": ["1 interview related to Ravensbrück"],
+      "Annotation": ["None"],
+      "Infrastructure": "CLARIN",
+      "Group": "Voices from Ravensbrück",
+      "Access": {
+	"Streaming 1": "https://www.vpro.nl/programmas/ovt/speel~RBX_VPRO_15812838~het-spoor-terug-mijn-naam-is-selma-deel-1~.html",
+	"Streaming 2": "https://www.vpro.nl/programmas/ovt/speel~RBX_VPRO_15824983~het-spoor-terug-mijn-naam-is-selma-deel-2~.html",
+	"Streaming 3": "https://www.vpro.nl/programmas/ovt/"
+	},
+      "Publication": "Van der Perre (2021)"
+}
