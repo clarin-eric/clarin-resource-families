@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/21.11129/0000-000D-FE69-0",
 	"Family": "Legal corpora",
       "Description": "This is a multilingual corpus of the <a href=\"https://eur-lex.europa.eu/homepage.html\">European Union Law</a> pertaining to COVID-19 period.\nThe corpus is available for download from the PORTULAN repository.",
-      "Languages": ["mlt", "hun", "lit", "lav", "pol", "por", "eng", "slv", "ell", Spanish (Castilian), "ron", "slk", Moldavian, "swe", "bul", "ita", "deu", "hrv", "fra", Dutch (Flemish), "ces", "fin", "dan", Irish, "est"],
+      "Languages": ["mlt", "hun", "lit", "lav", "pol", "por", "eng", "slv", "ell", "Spanish (Castilian)", "ron", "slk", "Moldavian", "swe", "bul", "ita", "deu", "hrv", "fra", "Dutch (Flemish)", "ces", "fin", "dan", "Irish", "est"],
       "License": "CC BY",
       "Size": ["475,931 translation pairs"],
       "Annotation": [],
