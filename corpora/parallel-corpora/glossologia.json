@@ -1,0 +1,16 @@
+{
+      "Name": "GLOSSOLOGIA",
+      "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-257A-E",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains articles from Glossologia, a journal of general and historical Greek linguistics, in French, Greek, English, and German.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["4 languages"],
+      "License": "CC-BY",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/UOA-0000-0000-257A-E"
+	},
+      "Publication": ""
+}

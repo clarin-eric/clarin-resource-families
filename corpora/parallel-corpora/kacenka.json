@@ -1,0 +1,15 @@
+{
+      "Name": "Kacenka",
+      "URL": "http://hdl.handle.net/11372/LRT-891",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains both fictional and non-fictional texts. Most of the English texts for KACENKA have been retrieved from the Internet resources. The rest (andd nearly all the Czech texts) had to be scanned from fiction books (e.g., Czech translations of <i>The Jungle Book</i> by Rudyard Kipling, <i>Lucky Jim</i> by Kingsley Amis, and <i>Sons and Lovers</i> by D.H. Lawrence, among others) with the use of the OCR programme <a href=\"https://www.qub.ac.uk/research-centres/CentreforDataDigitisationandAnalysis/ServicesandOutputs/OCROpticalCharacterRecognition/ProLector/\">ProLector 1.2</a>.",
+      "Languages": ["English-Czech"],
+      "License": "",
+      "Size": ["3.3 million tokens"],
+      "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

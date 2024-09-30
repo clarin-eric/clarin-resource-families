@@ -1,0 +1,16 @@
+{
+      "Name": "QTLeap News Corpus",
+      "URL": "http://metashare.ilsp.gr:8080/repository/browse/qtleap-news-corpus/834dfa6ca12a11e6a2aa782bcb074135a731473a10da4b04b0523d389854400d/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains news articles in the following language pairs: English-Czech, English-German and English-Spanish.",
+      "Languages": ["4 languages"],
+      "License": "CC-BY",
+      "Size": ["1,104 sentences"],
+      "Annotation": ["sentence-aligned"],
+      "Infrastructure": "Other",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Special": "For access, contact the resource managers."
+	},
+      "Publication": ""
+}

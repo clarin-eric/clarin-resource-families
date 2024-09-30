@@ -1,0 +1,16 @@
+{
+      "Name": "SETimes",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from the setimes.com website.\nThe corpus is available for download from the CLARIN:EL repository.",
+      "Languages": ["9 languages"],
+      "License": "CC-BY",
+      "Size": ["43 million tokens"],
+      "Annotation": ["partially sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2"
+	},
+      "Publication": "Tyers and Alperen (2010)"
+}

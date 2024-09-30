@@ -1,0 +1,16 @@
+{
+      "Name": "A parallel corpus collected from the European Constitution",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258B-A",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains European Constitution documents.\nThe corpus is available for download through the CLARIN:el repository.",
+      "Languages": ["21 languages"],
+      "License": "Open For Reuse With Restrictions",
+      "Size": ["3 million tokens"],
+      "Annotation": ["tokenised", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258B-A"
+	},
+      "Publication": ""
+}

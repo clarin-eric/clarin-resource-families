@@ -1,0 +1,16 @@
+{
+      "Name": "JRC-Acquis Multilingual Parallel Corpus",
+      "URL": "https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains legislative and legal texts from the Acquis Communautaire from various periods beginning in the 1950s.\nThe corpus is available for download from the webpage of the European Commission.",
+      "Languages": ["22 languages"],
+      "License": "<a href=\"https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis#Usage%20conditions%20/%20Licensing%20issues\">Usage Conditions</a>",
+      "Size": ["1 billion tokens"],
+      "Annotation": ["tokenised", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://ec.europa.eu/jrc/en/language-technologies/jrc-acquis"
+	},
+      "Publication": "Steinberger et al. (2014)."
+}

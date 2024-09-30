@@ -1,0 +1,16 @@
+{
+      "Name": "DGT-Translation Memory",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258C-9",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains legislative texts of the European Legislation.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["Approx. 20 languages"],
+      "License": "Open For Reuse With Restrictions",
+      "Size": ["10.1 million tokens"],
+      "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://inventory.clarin.gr/resources/browse/dgt-translation-memory/5307a4e499cd11e5b369aa3fc0b846a025030d74a89b4a4695d1a519dc3418ca/"
+	},
+      "Publication": ""
+}

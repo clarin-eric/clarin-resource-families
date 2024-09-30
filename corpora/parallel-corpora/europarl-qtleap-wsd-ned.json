@@ -1,0 +1,16 @@
+{
+      "Name": "Europarl QTLeap WSD/NED corpus",
+      "URL": "http://hdl.handle.net/11234/1-1477",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains debates of the European Parliament in the following language pairs: Bulgarian-English, Czech-English, Portuguese-English, Spanish-English, and Basque-English.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["6 languages"],
+      "License": "CC-BY",
+      "Size": ["52 million tokens"],
+      "Annotation": ["tokenised", "WSD", "NER", "CR-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1477"
+	},
+      "Publication": ""
+}

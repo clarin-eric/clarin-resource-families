@@ -1,0 +1,16 @@
+{
+      "Name": "Parallel English-Irish corpus of legal texts",
+      "URL": "http://www.gaois.ie/crp/en/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains legal texts.\nThe corpus is available  through a dedicated concordancer.",
+      "Languages": ["English-Irish"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["sentence aligned "],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://www.gaois.ie/crp/en/"
+	},
+      "Publication": ""
+}

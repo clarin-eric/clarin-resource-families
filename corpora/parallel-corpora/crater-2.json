@@ -1,0 +1,16 @@
+{
+      "Name": "CRATER 2 Corpus",
+      "URL": "https://catalog.elra.info/en-us/repository/browse/ELRA-W0033/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from the telecommunications domain.\nThe corpus is available for download from the ELRA catalogue.",
+      "Languages": ["3 languages"],
+      "License": "ELRA END USER/ELRA VAR",
+      "Size": ["4 million tokens"],
+      "Annotation": ["tokenised", "morphosyntactically tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "https://catalog.elra.info/en-us/repository/browse/ELRA-W0033/"
+	},
+      "Publication": ""
+}

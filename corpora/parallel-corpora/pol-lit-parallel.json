@@ -1,0 +1,16 @@
+{
+      "Name": "The Polish-Lithuanian Parallel Corpus",
+      "URL": "http://hdl.handle.net/11321/309",
+	"Family": "Parallel corpora",
+      "Description": "The corpus is available for download from the CLARIN-PL repository.",
+      "Languages": ["Polish-Lithuanian"],
+      "License": "IS PAS",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://clarin-pl.eu/dspace/handle/11321/309"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "QTLP Portuguese-Greek Corpus for the MEDICAL domain",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2455-8",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains medical texts. Almost all of the acquired documents were acquired from the official site of the European Union.",
+      "Languages": ["Portuguese-Greek"],
+      "License": "MS-NC-NoReD",
+      "Size": ["62,608 sentence pairs"],
+      "Annotation": ["sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Special": "For access, contact the resource managers."
+	},
+      "Publication": ""
+}

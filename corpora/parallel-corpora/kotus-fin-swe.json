@@ -1,0 +1,17 @@
+{
+      "Name": "The KOTUS Finnish-Swedish Parallel Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201406036",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains corporate press releases, surveys, reports, laws and regulations, as well as governmental proposals from 1993 to 2004.\nThe corpus is available for download from FIN-CLARIN and through the concordancer Korp.",
+      "Languages": ["Finnish-Swedish"],
+      "License": "CC-BY",
+      "Size": ["4.3 million tokens"],
+      "Annotation": ["tokenised", "sentence-aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2015101601",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201406036"
+	},
+      "Publication": ""
+}

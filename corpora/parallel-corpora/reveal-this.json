@@ -1,0 +1,16 @@
+{
+      "Name": "REVEAL-THIS Corpus",
+      "URL": "http://metashare.ilsp.gr:8080/repository/browse/reveal-this-corpus/3d1c4f0e614a11e289f6842b2b6a04d7c69218b49aab4ab78249dd27add9d4a3/",
+	"Family": "Parallel corpora",
+      "Description": "This is a multilingual corpus of English, French and Greek.",
+      "Languages": ["3 languages"],
+      "License": "under negotiation",
+      "Size": ["325,000 words"],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Special": "For access, contact the resource managers."
+	},
+      "Publication": ""
+}

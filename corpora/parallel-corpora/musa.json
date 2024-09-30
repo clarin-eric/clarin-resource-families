@@ -1,0 +1,15 @@
+{
+      "Name": "MUSA Multilingual Multimodal Corpus",
+      "URL": "http://metashare.ilsp.gr:8080/repository/browse/musa-multilingual-multimodal-corpus/9f5d29a263c211e29fc5842b2b6a04d7a2d7266c56224f90ae4cb8f4757bf8ed/",
+	"Family": "Parallel corpora",
+      "Description": "This parallel multimodal corpus contains English, Greek, and French.\nThe corpus is distributed by CLARIN:EL.",
+      "Languages": ["3 languages"],
+      "License": "Academic",
+      "Size": ["1.2 million words"],
+      "Annotation": ["subtitle alignment"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

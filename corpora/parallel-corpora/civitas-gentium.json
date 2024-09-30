@@ -1,0 +1,16 @@
+{
+      "Name": "Civitas Gentium",
+      "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-2578-0",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains scientific papers and book reviews in English, Greek, and French.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["3 languages"],
+      "License": "CC-BY",
+      "Size": ["31 articles"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/UOA-0000-0000-2578-0"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Tourism English-Croatian Parallel Corpus 2.0",
+      "URL": "http://hdl.handle.net/11356/1049",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains automatically crawled texts from 25 tourist websites.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Languages": ["English-Croatian"],
+      "License": "CLARIN.SI User Licence for Internet Corpora",
+      "Size": ["140,000 tokens"],
+      "Annotation": ["tokenised", "sentence-aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1049"
+	},
+      "Publication": ""
+}

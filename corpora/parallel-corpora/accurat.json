@@ -1,0 +1,16 @@
+{
+      "Name": "ACCURAT balanced test corpus for under resourced languages",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23BD-4",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts in Greek, Slovenian, Romanian, Latvian, Estonian, Croatian, and Lithuanian.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["7 languages"],
+      "License": "CC-BY",
+      "Size": ["4,608 sentences"],
+      "Annotation": ["sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23BD-4"
+	},
+      "Publication": ""
+}

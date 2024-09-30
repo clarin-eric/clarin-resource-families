@@ -1,0 +1,16 @@
+{
+      "Name": "MultiJur: Multilingual Parallel Corpus of Legal Texts",
+      "URL": "https://kitwiki.csc.fi/twiki/bin/view/KitWiki/FinClarinCorpusResourceMultilingualCorpusOfJuridicalTexts",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains international conventions and treaties in the following languages: English, Russian, German, Finnish, and Swedish.\nThe corpus is available through the concordancer Korp.",
+      "Languages": ["5 languages"],
+      "License": "CLARIN PUB",
+      "Size": ["1.2 million tokens"],
+      "Annotation": ["paragraph aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Concordancer": "https://korp.csc.fi/?mode=other_languages#corpus=mulcold_ru."
+	},
+      "Publication": ""
+}

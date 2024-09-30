@@ -1,0 +1,16 @@
+{
+      "Name": "DGT-Acquis",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2592-1",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains articles from the Official Journal of the European Union from  2004 to 2011.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["23 languages"],
+      "License": "Open For Reuse With Restrictions",
+      "Size": [],
+      "Annotation": ["sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2592-1"
+	},
+      "Publication": ""
+}

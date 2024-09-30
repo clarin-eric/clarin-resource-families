@@ -1,0 +1,16 @@
+{
+      "Name": "EnTam: An English-Tamil Parallel Corpus (EnTam v2.0)",
+      "URL": "http://hdl.handle.net/11234/1-1454",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains news articles and texts related to film.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["English-Tamil"],
+      "License": "CC-BY",
+      "Size": ["169,871 sentences"],
+      "Annotation": ["sentence-aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1454"
+	},
+      "Publication": ""
+}

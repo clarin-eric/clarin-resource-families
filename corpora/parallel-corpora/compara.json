@@ -1,0 +1,16 @@
+{
+      "Name": "COMPARA : Portuguese - English parallel translation corpus",
+      "URL": "http://hdl.handle.net/11372/LRT-866",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains fictional texts and academic, newspaper and tourist articles.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["Portuguese-English"],
+      "License": "CC-BY",
+      "Size": [],
+      "Annotation": ["sentence-aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://www.linguateca.pt/COMPARA/"
+	},
+      "Publication": "Frankenberg Garcia and Santos (2003)."
+}

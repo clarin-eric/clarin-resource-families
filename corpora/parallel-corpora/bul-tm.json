@@ -1,0 +1,16 @@
+{
+      "Name": "Greek-Bulgarian Bul-TM parallel corpus",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23E4-7",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains societal and political texts.\nThe corpus is available for download through the CLARIN:el repository.",
+      "Languages": ["Greek-Bulgarian"],
+      "License": "CC-BY",
+      "Size": ["10 million tokens"],
+      "Annotation": ["tokenised", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23E4-7"
+	},
+      "Publication": ""
+}

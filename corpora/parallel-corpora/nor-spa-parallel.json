@@ -1,0 +1,17 @@
+{
+      "Name": "The Norwegian-Spanish Parallel Corpus",
+      "URL": "http://hdl.handle.net/11509/73",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains fictional and non-fictional texts from 2000 to 2009.\nThe corpus is available through the concordancer Corpuscle and for download in the CLARINO repository.",
+      "Languages": ["Norwegian-Spanish"],
+      "License": "CLARIN ACA",
+      "Size": ["6 million tokens"],
+      "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://clarino.uib.no/korpuskel/landing-page?identifier=nspc&view=short",
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0001-4909-7"
+	},
+      "Publication": ""
+}

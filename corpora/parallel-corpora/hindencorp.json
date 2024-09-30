@@ -1,0 +1,17 @@
+{
+      "Name": "HindEnCorp 0.5",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-625F-0",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains TED talks, news articles, Wikipedia articles, etc.\nThe corpus is available for download from LINDAT and can be queried through KonText.",
+      "Languages": ["English-Hindi"],
+      "License": "CC-BY",
+      "Size": ["132,300 sentences"],
+      "Annotation": ["sentence-aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://lindat.mff.cuni.cz/services/kontext/first_form?corpname=hindmonocorp_05_m",
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-625F-0"
+	},
+      "Publication": ""
+}

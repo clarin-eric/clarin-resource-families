@@ -1,0 +1,16 @@
+{
+      "Name": "QTLP English-Greek Corpus for the AUTOMOTIVE domain",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2453-A",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains automatically detected pairs of parallel documents that were acquired from the web (i.e. from multilingual sites which contain content in the targeted languages and domain). The majority of the crawled sites were: i) websites of automobile manufacturers and ii) websites of companies that produce car accessories or car parts.",
+      "Languages": ["English-Greek"],
+      "License": "MS-NC-NoReD",
+      "Size": ["2,946 sentence pairs"],
+      "Annotation": ["sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Special": "For access, contact the resource managers."
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "PaGeS",
+      "URL": "https://www.corpuspages.eu/corpus/about/about",
+	"Family": "Parallel corpora",
+      "Description": "This corpus is comprised of two major parts: the core corpus and the supplements.#SEPThe core corpus is comprised of original texts in German and Spanish and their respective translations, as well as a small percentage (approx. 6%) of German and Spanish texts translated from a third language. The core corpus includes samples from 178 works of fiction (novels and short stories) as well as samples from non-fiction (essays and popular texts).\nThe text have been manually verified at different levels and the automatic alignment of the bisegments, performed by <a href=\"https://sourceforge.net/projects/aligner/\">LF-Aligner</a>, has been manually reviewed. The German texts have been lemmatized and PoS-tagged with <a href=\"http://hdl.handle.net/11022/1007-0000-0000-8E4D-B\">Treetagger</a> (part of the <a href=\"https://www.clarin.eu/resource-families/tools-part-speech-tagging-and-lemmatization\">PoS taggers and lemmatizers Resource Family</a>) and the Spanish texts with <a href=\"https://nlp.lsi.upc.edu/freeling/node/1\">Freeling</a>. The tags of both have been mapped to the Universal PoS tags.\nThe supplements include so far: <a href=\"https://www.statmt.org/europarl/\">Europarl v7</a>, a corpus that collects the proceedings (Verbatim reports) of the European Parliament from 1996 to 2011 (also part of the <a href=\"https://www.clarin.eu/resource-families/parliamentary-corpora\">Parliamentary Corpora Resource Family</a>); and Ted-Talks (part of this family), a corpus that collects the German and Spanish translations of the transcriptions of Ted-Talks from 2006 to 2020.\nThe corpus is available for online browsing via a dedicated interface.",
+      "Languages": ["German-Spanish"],
+      "License": "<a href=\"https://www.corpuspages.eu/corpus/about/privacyterms?lang=en\">Terms of Use</a>",
+      "Size": ["Main part: 38 million tokens; 1.1 million bisegments (alignments). Supplements: 80 million tokens"],
+      "Annotation": ["sentence aligned", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Browse": "https://www.corpuspages.eu/corpus/search/search"
+	},
+      "Publication": "Doval et al. (2018)"
+}

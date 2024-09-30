@@ -1,0 +1,17 @@
+{
+      "Name": "OPUS corpus",
+      "URL": "http://opus.lingfil.uu.se/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains various subcorpora that compile texts from a great number of domains, such as literary texts, political documents, subtitles, UN documents, and the debates of the European Parliament.\nThe corpus is available for download from a dedicated webpage and through a dedicated concordancer.",
+      "Languages": ["Approx. 100 languages"],
+      "License": "CC-BY",
+      "Size": ["A great many subcorpora"],
+      "Annotation": ["sentence-aligned"],
+      "Infrastructure": "Other",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Concordancer": "http://opus.lingfil.uu.se/bin/opuscqp.pl",
+	"Download": "http://opus.lingfil.uu.se/"
+	},
+      "Publication": "Tiedemann (2009)"
+}

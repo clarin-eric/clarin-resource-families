@@ -1,0 +1,16 @@
+{
+      "Name": "Scielo corpus",
+      "URL": "http://www.statmt.org/wmt16/biomedical-translation-task.html",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains scientific articles from the Scielo database in the following language pairs: English-French, English-Spanish, and English-Portuguese.",
+      "Languages": ["4 languages"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Special": "For access, contact the resource managers."
+	},
+      "Publication": ""
+}

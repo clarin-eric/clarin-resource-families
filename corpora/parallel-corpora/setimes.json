@@ -1,0 +1,16 @@
+{
+      "Name": "SETimes",
+      "URL": "http://metashare.ilsp.gr:8080/repository/browse/south-east-european-parallel-corpus/d200935e67cc11e28a985ef2e4e6c59ef6e70e681f7745a191deeb0b0537e60a/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from the setimes.com website.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["10 languages"],
+      "License": "CC-BY",
+      "Size": ["43 million tokens"],
+      "Annotation": ["partially sentence aligned"],
+      "Infrastructure": "Other",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://nlp.ffzg.hr/resources/corpora/setimes/"
+	},
+      "Publication": "Tyers and Alperen (2010)."
+}

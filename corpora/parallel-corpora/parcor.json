@@ -1,0 +1,16 @@
+{
+      "Name": "ParCor - A Parallel Pronoun-Coreference Corpus",
+      "URL": "http://opus.lingfil.uu.se/ParCor/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains TED talks and EU Bookshop publications.\nThe corpus is available for download from the OPUS webpage.",
+      "Languages": ["English-German"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["pronoun coreference"],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://opus.lingfil.uu.se/ParCor/"
+	},
+      "Publication": "Guillou et al. (2014)."
+}

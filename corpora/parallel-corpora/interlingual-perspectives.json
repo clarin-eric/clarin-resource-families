@@ -1,0 +1,16 @@
+{
+      "Name": "Interlingual Perspectives",
+      "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-2577-1",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains research articles published from 2010 onwards focusing on the interaction of Greek with other languages through translation.\nThe corpus is available for download from the CLARIN:EL repository.",
+      "Languages": ["English-Greek"],
+      "License": "CC-BY",
+      "Size": ["18 articles"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/UOA-0000-0000-2577-1"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "FREL",
+      "URL": "http://hdl.grnet.gr/11500/AUTH-0000-0000-24DF-D",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains literary texts translated from French to Greek.",
+      "Languages": ["French-Greek"],
+      "License": "under negotiation",
+      "Size": ["701,401 tokens"],
+      "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

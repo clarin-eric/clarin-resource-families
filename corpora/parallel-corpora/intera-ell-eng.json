@@ -1,0 +1,16 @@
+{
+      "Name": "INTERA Corpus - the Greek-English part",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25B2-D",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from the law, education, environment, tourism and health domains.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["Greek-English"],
+      "License": "CC-BY",
+      "Size": ["4 million tokens"],
+      "Annotation": ["sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25B2-D"
+	},
+      "Publication": ""
+}

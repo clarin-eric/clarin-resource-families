@@ -1,0 +1,16 @@
+{
+      "Name": "SPC - Stockholm Parallel Corpora",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25D3-8",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains legal texts in English, Afrikaans, Chinese, and Greek.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["4 languages"],
+      "License": "Open For Reuse With Restrictions",
+      "Size": ["1.32 million tokens"],
+      "Annotation": ["tokenised", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25D3-8"
+	},
+      "Publication": ""
+}

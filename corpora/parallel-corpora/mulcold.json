@@ -1,0 +1,16 @@
+{
+      "Name": "MULCOLD - Multilingual Corpus of Legal Documents",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201405278",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains international conventions and treaties in Russian, English, Swedish, and Finnish.\nThe corpus is available through the concordancer Korp.",
+      "Languages": ["4 languages"],
+      "License": "CC-BY",
+      "Size": ["1.2 million tokens"],
+      "Annotation": ["tokenised", "paragraph aligned", "PoS-tagged", "lemmatized"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Concordancer": "http://korp.csc.fi/?mode=parallel#?parallel_corpora=fi&corpus=mulcold_fi&cqp_fi=%5B%5D"
+	},
+      "Publication": ""
+}

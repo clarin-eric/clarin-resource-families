@@ -1,0 +1,16 @@
+{
+      "Name": "ParRus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730173",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from classical and 20th century literature.\nThe corpus is available through the concordancer Korp.",
+      "Languages": ["Russian-Finnish"],
+      "License": "CLARIN RES",
+      "Size": ["5.9 million tokens"],
+      "Annotation": ["tokenised", "paragraph-aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2016121604"
+	},
+      "Publication": ""
+}

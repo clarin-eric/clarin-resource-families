@@ -1,0 +1,16 @@
+{
+      "Name": "European Central Bank parallel corpus",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2590-3",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from the European Central Bank.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["19 languages"],
+      "License": "Open For Reuse With Restrictions",
+      "Size": ["757 million tokens"],
+      "Annotation": ["tokenised", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2590-3"
+	},
+      "Publication": ""
+}

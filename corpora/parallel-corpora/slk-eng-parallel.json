@@ -1,0 +1,16 @@
+{
+      "Name": "Slovak-English Parallel Corpus",
+      "URL": "https://metashare.korpus.sk/repository/browse/slovak-english-parallel-corpus-free/719fe518665b11e2b2e800163e0000784f67c82f54f44ce3b06749baf33bfbd2/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from language books. It is bidirectional.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["Slovak-English"],
+      "License": "proprietary",
+      "Size": ["556 million tokens"],
+      "Annotation": ["tokenised", "sentence-aligned"],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Concordancer": "http://korpus.juls.savba.sk/sken.html"
+	},
+      "Publication": ""
+}

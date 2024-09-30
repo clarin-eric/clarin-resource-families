@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian Open Parallel Corpus 2012. Estonian-English",
+      "URL": "http://metashare.tilde.com/repository/browse/estonian-open-parallel-corpus-2012-estonian-english/1ebafd00a96111e5aa3b001dd8b71c66ec3a43cb0e0f4669b64f85347efd43a7/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains Biblical and legal texts.\nThe corpus is available for download from META-SHARE.",
+      "Languages": ["Estonian-English"],
+      "License": "CC-BY",
+      "Size": ["2.5 million tokens"],
+      "Annotation": ["tokenised"],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://metashare.tilde.com/repository/download/1ebafd00a96111e5aa3b001dd8b71c66ec3a43cb0e0f4669b64f85347efd43a7/"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "The English-Swedish Parallel Corpus",
+      "URL": "https://spraakbanken.gu.se/en/resources/espc",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains fictional and non-fictional texts. It is bidirectional. The corpus is not available.",
+      "Languages": ["English-Swedish"],
+      "License": "",
+      "Size": ["3.5 million tokens"],
+      "Annotation": ["tokenised", "paragraph aligned"],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

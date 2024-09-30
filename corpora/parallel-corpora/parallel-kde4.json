@@ -1,0 +1,16 @@
+{
+      "Name": "A parallel corpus of KDE4 localization files (v.2)",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258F-6",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains KDE4 localization files.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["92 languages"],
+      "License": "CC-BY",
+      "Size": ["60 million tokens"],
+      "Annotation": ["tokenised", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258F-6"
+	},
+      "Publication": ""
+}

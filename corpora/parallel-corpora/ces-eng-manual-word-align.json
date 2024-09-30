@@ -1,0 +1,16 @@
+{
+      "Name": "Czech-English Manual Word Alignment",
+      "URL": "http://hdl.handle.net/11234/1-1804",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains texts from e-books, Reader’s Digest, the Kačenka magazine, Acquis Communautaire, the Project Syndicate and the PCEDT project.\nThe corpus is available for download from the LINDAT repository.",
+      "Languages": ["Czech-English"],
+      "License": "CC-BY",
+      "Size": ["113,000 tokens", "2500 sentences"],
+      "Annotation": ["tokenised", "word-aligned (manually)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1804"
+	},
+      "Publication": ""
+}

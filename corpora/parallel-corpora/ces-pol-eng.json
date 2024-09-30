@@ -1,0 +1,16 @@
+{
+      "Name": "Manually aligned CES Polish-English parallel corpus",
+      "URL": "http://metashare.ilsp.gr:8080/repository/browse/manually-aligned-ces-polish-english-parallel-corpus/314b93d26b0011e284b6000423bfd61c36a51e4b609742288e99ba691f07dfdb/",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains CES reports.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["Polish-English"],
+      "License": "CC-BY",
+      "Size": ["1.4 million tokens"],
+      "Annotation": ["tokenised", "sentence-aligned"],
+      "Infrastructure": "Other",
+      "Group": "Bilingual corpora",
+      "Access": {
+	"Download": "http://metashare.ilsp.gr:8080/repository/browse/manually-aligned-ces-polish-english-parallel-corpus/314b93d26b0011e284b6000423bfd61c36a51e4b609742288e99ba691f07dfdb/"
+	},
+      "Publication": ""
+}
