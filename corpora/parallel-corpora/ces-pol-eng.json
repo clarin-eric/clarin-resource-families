@@ -6,7 +6,7 @@
       "Languages": ["Polish-English"],
       "License": "CC-BY",
       "Size": ["1.4 million tokens"],
-      "Annotation": ["tokenised", "sentence-aligned"],
+      "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "Other",
       "Group": "Bilingual corpora",
       "Access": {
