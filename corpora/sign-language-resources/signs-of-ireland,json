@@ -1,0 +1,15 @@
+{
+      "Name": "Signs of Ireland",
+      "URL": "https://www.igi-global.com/chapter/online-delivery-deaf-studies-curricula/46372",
+	"Family": "Sign language resources",
+      "Description": "The Signs of Ireland Corpus is a collection of Irish Sign Language (ISL) video data from 40 signers of Ireland. The project was based at the Trinity College Dublin, took place in 2004 and was led by <a href=\"https://www.tcd.ie/slscs/staff/leesonl\">Lorraine Leeson</a>.",
+      "Languages": ["Irish Sign Language (ISL)"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Group": "Corpora",
+      "Access": {
+	},
+      "Publication": "Leeson (2011)"
+}

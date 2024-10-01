@@ -1,0 +1,16 @@
+{
+      "Name": "ECHO NGT lexicon, Male signer 2",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0008-1751-9",
+	"Family": "Sign language resources",
+      "Description": "This lexicon forms part of the <a href=\"https://hdl.handle.net/1839/00-0000-0000-0001-494E-3\">ECHO</a> case study on sign languages.\nThe lexicon is available for download from the MPI Language Archive.",
+      "Languages": ["Dutch Sign Language (NGT)"],
+      "License": "Public",
+      "Size": ["300 signs"],
+      "Annotation": ["unannotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lexical resources",
+      "Access": {
+	"Download": "https://archive.mpi.nl/islandora/object/tla%3A1839_00_0000_0000_0008_1751_9#"
+	},
+      "Publication": ""
+}

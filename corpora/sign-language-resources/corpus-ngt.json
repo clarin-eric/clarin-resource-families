@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus NGT",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0021-2A75-B",
+	"Family": "Sign language resources",
+      "Description": "This corpus contains sessions with linked media files and ELAN annotation files (EAF); about 15% of the sessions are glossed and translated.",
+      "Languages": ["Dutch Sign Language (NGT)"],
+      "License": "CC-BY-NC-SA 3.0 NL",
+      "Size": ["2375 sessions"],
+      "Annotation": ["ID-Glosses, sentence-level translations, and mouth actions for a subset of the sessions"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://hdl.handle.net/1839/b0c69aeb-222a-41df-b7c5-979001b635b3"
+	},
+      "Publication": "Crasborn et al. (2008)"
+}

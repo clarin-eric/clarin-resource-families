@@ -1,0 +1,16 @@
+{
+      "Name": "Hotel Review Corpus – Spanish Sign Language",
+      "URL": "http://hdl.handle.net/10032/tm-a2-x6",
+	"Family": "Sign language resources",
+      "Description": "This is a multimodal parallel corpus of hotel reviews that were originally written in Dutch, subsequently translated into Spanish and finally into Spanish Sign Language by 6 professionals, all of whom are deaf translators.\nThe corpus is available for download from the Institute of Dutch Language.",
+      "Languages": ["Spanish Sign Language (LSE)", "spa"],
+      "License": "CC BY-NC 3.0",
+      "Size": ["20,609 words", "3 hours of videos"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-x6"
+	},
+      "Publication": ""
+}

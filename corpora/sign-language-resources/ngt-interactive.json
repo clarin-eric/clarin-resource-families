@@ -1,0 +1,16 @@
+{
+      "Name": "The NGT Interactive Corpus",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0021-8357-B",
+	"Family": "Sign language resources",
+      "Description": "This corpus contains 15 spontaneous dialogues and multi-participant conversations by deaf signers, 10 of which were recorded in authentic settings like a deaf club and a bar, 5 were recorded in the lab. In addition, two informal three-party conversations were filmed where each participant was wearing a mobile eye trackers.",
+      "Languages": ["Dutch Sign Language (NGT)"],
+      "License": "Restricted access, unspecified",
+      "Size": ["23 hours"],
+      "Annotation": ["Unannotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Browse": "https://hdl.handle.net/1839/00-0000-0000-0021-8357-B"
+	},
+      "Publication": ""
+}

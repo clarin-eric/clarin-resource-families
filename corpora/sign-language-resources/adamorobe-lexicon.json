@@ -1,0 +1,16 @@
+{
+      "Name": "Adamorobe Sign Language Lexicon",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0016-8A57-F",
+	"Family": "Sign language resources",
+      "Description": "This lexicon contains 250 signs in isolation. For a subset of the signs, encodings about phonological and iconic features are available.\nThe lexicon is available for download from the MPI Language Archive.",
+      "Languages": ["Adamorobe Sign Language"],
+      "License": "Restricted",
+      "Size": ["250 signs"],
+      "Annotation": ["partial (phonology and iconicity)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lexical resources",
+      "Access": {
+	"Download": "https://archive.mpi.nl/islandora/object/tla%3A1839_00_0000_0000_0016_8A57_F#"
+	},
+      "Publication": ""
+}

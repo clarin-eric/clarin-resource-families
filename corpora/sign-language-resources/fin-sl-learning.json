@@ -1,0 +1,16 @@
+{
+      "Name": "Finnish Sign Language Learning Material",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073017",
+	"Family": "Sign language resources",
+      "Description": "This corpus contains written and recorded (audio and video) materials pertaining to Finnish sign language greetings, names of family members, numbers and telling the time, as well as basic verbs and related words.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["Finnish Sign Language (FinSL)"],
+      "License": "Under negotiation",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Browse": "http://oppiminen.yle.fi/viittomakieli"
+	},
+      "Publication": ""
+}

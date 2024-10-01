@@ -1,0 +1,17 @@
+{
+      "Name": "Corpus Vlaamse Gebarentaal",
+      "URL": "http://hdl.handle.net/10032/tm-a2-v6 ",
+	"Family": "Sign language resources",
+      "Description": "This is a collection of videos in Flemish Sign Language. 120 deaf people contributed to the Corpus VGT as informants. Age, region and gender were taken into account when selecting the informants. The informats were given a series of themes to talk about in pairs: telling a story, making agreements, discussing a theme, telling about their school days, etc. The conversations were recorded on video and edited them for each assignment.\nThe corpus is available for download from the Dutch Language Institute and for browsing through a dedicated website.",
+      "Languages": ["Flemish Sign Language (VGT)"],
+      "License": "CC BY.NC 3.0",
+      "Size": ["140 hrs", "5 TB"],
+      "Annotation": ["ID-glosses"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Browse": "https://corpusvgt.be/nl/corpussearch",
+	"Download": "http://hdl.handle.net/10032/tm-a2-v6"
+	},
+      "Publication": ""
+}

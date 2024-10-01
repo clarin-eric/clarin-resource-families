@@ -1,0 +1,16 @@
+{
+      "Name": "News in Finnish Sign Language",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073012",
+	"Family": "Sign language resources",
+      "Description": "This corpus contains recordings of Finnish news.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["Finnish Sign Language (FinSL)"],
+      "License": "Under negotiation",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Browse": "https://yle.fi/uutiset/18-38128"
+	},
+      "Publication": ""
+}

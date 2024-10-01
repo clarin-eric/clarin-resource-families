@@ -1,0 +1,16 @@
+{
+      "Name": "ECHO SSL Lexicon, signer LM",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0008-176C-2",
+	"Family": "Sign language resources",
+      "Description": "This lexicon forms part of the <a href=\"https://hdl.handle.net/1839/00-0000-0000-0001-494E-3\">ECHO</a> case study on sign languages.\nThe lexicon is available for download from the MPI Language Archive.",
+      "Languages": ["Swedish Sign Language (SSL/STS)"],
+      "License": "Public",
+      "Size": ["300 signs"],
+      "Annotation": ["unannotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lexical resources",
+      "Access": {
+	"Download": "https://archive.mpi.nl/islandora/object/tla%3A1839_00_0000_0000_0008_176C_2#"
+	},
+      "Publication": ""
+}

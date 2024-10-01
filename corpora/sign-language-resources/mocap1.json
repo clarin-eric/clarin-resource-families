@@ -1,0 +1,16 @@
+{
+      "Name": "MOCAP1",
+      "URL": "https://hdl.handle.net/11403/mocap1/v2",
+	"Family": "Sign language resources",
+      "Description": "This is a corpus of French Sign Language (LSF) captured with a motion capture system and an HD camera. It was designed with the objective of carrying out multidisciplinary studies in Movement Sciences, Linguistics and Computer Science. The corpus consists of 5 tasks of different natures: description, explanation, narration and translation, performed by 4 speakers (8 for the description task).\nThe corpus is available for download from the Ortolang repository.",
+      "Languages": ["French Sign Language (LSF)"],
+      "License": "CC BY NC-ND 4.0",
+      "Size": [],
+      "Annotation": ["partially annotated corpus"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://hdl.handle.net/11403/mocap1/v2"
+	},
+      "Publication": "Benchiheub et al. (2016)"
+}

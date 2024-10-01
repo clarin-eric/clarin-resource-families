@@ -1,0 +1,16 @@
+{
+      "Name": "VIDI Sign Space Corpus",
+      "URL": "https://www.nwo.nl/en/projects/276-70-009 ",
+	"Family": "Sign language resources",
+      "Description": "This is a corpus of DGS and TİD data collected by the Max Planck Institute for Psycholinguistics under the lead of Asli Özyürek from March 2007 to September 2012.",
+      "Languages": ["Turkish Sign Language (TİD)", "German Sign Language (DGS)"],
+      "License": "Restricted",
+      "Size": [],
+      "Annotation": ["EAF transcripts"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://archive.mpi.nl/tla/islandora/object/tla:1839_00_0000_0000_0008_68DB_A?asOfDateTime=2018-03-02T11:00:00.000Z"
+	},
+      "Publication": ""
+}

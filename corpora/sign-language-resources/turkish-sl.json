@@ -1,0 +1,16 @@
+{
+      "Name": "Turkish sign language database",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0008-4252-6",
+	"Family": "Sign language resources",
+      "Description": "This corpus collects Turkish sign language (TID) data. For this project, native, early, and late TID signers were recorded performing different tasks (narratives of short picture stories/cartoon clips) and engaging in free conversation.  These recordings and their annotations are stored in this corpus.\nThe corpus is available for download from the MIP (CLARIAH-NL distribution).",
+      "Languages": ["Turkish sign language (TİD)"],
+      "License": "Restricted, see <a href=\"https://archive.mpi.nl/tla/access-levels\">here</a>",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://archive.mpi.nl/islandora/object/tla%3A1839_00_0000_0000_0008_4252_6#"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "SIGNOR Corpus of SZJ",
+      "URL": "http://lojze.lugos.si/signor",
+	"Family": "Sign language resources",
+      "Description": "This corpus is available for querying in its transcribed version providing an avatar demonstration of each sign. The corpus contains interviews with 80 informants. The entire corpus is currently not publishable due to data protection issues; however, permissions for publication are being collected in order to release the recordings too.",
+      "Languages": ["Slovene Sign Language (SZJ)"],
+      "License": "Not freely accessible. contact person: prof. dr. Špela Vintar, University of Ljubljana, spela.vintar at ff.uni-lj.si",
+      "Size": [],
+      "Annotation": ["tokenised", "lemmatised", "gestural annotation", "mouth shape", "ID-gloss"],
+      "Infrastructure": "Other",
+      "Group": "Corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Tactile Swedish Sign Language Corpus",
+      "URL": "https://www.ling.su.se/teckenspr%C3%A5ksresurser/teckenspr%C3%A5kskorpusar/korpus-f%C3%B6r-taktilt-teckenspr%C3%A5k",
+	"Family": "Sign language resources",
+      "Description": "This corpus contains dialogues and elicited narratives with 9 deafblind informants. The entire corpus is currently not publishable due to data protection issues; however, some parts are available through the STS-korpus. The project was funded by Mo Gård Research Fund.",
+      "Languages": ["Swedish Sign Language (STS)", "swe"],
+      "License": "CC BY-NC-SA 2.5",
+      "Size": ["4.5 hours"],
+      "Annotation": ["partially annotated corpus"],
+      "Infrastructure": "Other",
+      "Group": "Corpora",
+      "Access": {
+	"Concordancer": "https://www.ling.su.se/teckenspr%C3%A5ksresurser/teckenspr%C3%A5kskorpusar/korpus-f%C3%B6r-taktilt-teckenspr%C3%A5k"
+	},
+      "Publication": ""
+}

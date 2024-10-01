@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus Maurician Sign Language by Univ Paris 8 & INJS",
+      "URL": "https://cocoon.huma-num.fr/exist/crdo/search2.xql?page=1&max=500&lang=en&nonce=MTcyNTc0MA%3D%3D&keyword=LSM&del_1=&del_2=&keyword2=&limit=10",
+	"Family": "Sign language resources",
+      "Description": "This is a corpus of 19 discourses (narratives and other genres).\nThe corpus is available for download from the Huma-num repository (COCOON).",
+      "Languages": ["Maurician sign Language (LSM)"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": ["19 discourses (narratives and other genres)"],
+      "Annotation": ["partially annotated corpus"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://cocoon.huma-num.fr/exist/crdo/search2.xql?page=1&max=500&lang=en&nonce=MTcyNTc0MA%3D%3D&keyword=LSM&del_1=&del_2=&keyword2=&limit=10"
+	},
+      "Publication": ""
+}

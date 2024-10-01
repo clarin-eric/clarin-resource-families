@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of Finnish Sign Language",
+      "URL": "http://r.jyu.fi/AB7",
+	"Family": "Sign language resources",
+      "Description": "The corpus consists of video-recorded conversations and elicited narratives from 21 Finnish Sign Language signers who belong to different age groups and live in different parts of Finland. The signers perform seven fixed tasks which are <ul><li>introductions</li>, <li>discussing work/hobbies,</li> <li>narrating about short cartoon strips,</li><li>narrating about a video,</li><li>narrating a story from the picture book</li><em>The Snowman or Frog, Where are you?</em>,</li><li>discussing a topic related to the deaf world, and</li><li>free discussion (e.g. on travel, sports)</li></ul>. All of the video data (14.5 hours by six camera angles) has been annotated for signs and translations. According to the tasks performed by the signers, the corpus has been divided into two subcorpora: one that contains the elicited narratives, and another that contains the conversations.\nThe corpus is available for download from the Meta-Share (FIN-CLARIN Distribution).",
+      "Languages": ["Finnish Sign Language (FinSL)", "fin"],
+      "License": "CC BY-NC-SA 4.0",
+      "Size": ["14 hours 22 minutes"],
+      "Annotation": ["ID-glosses and translations"],
+      "Infrastructure": "Other",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2019012321"
+	},
+      "Publication": "Salonen et al. (2020)"
+}

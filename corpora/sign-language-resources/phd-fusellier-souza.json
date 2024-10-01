@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus-PhD-Fusellier-Souza-2004",
+      "URL": "https://cocoon.huma-num.fr/exist/crdo/search2.xql?lang=fr&keyword=Fusellier",
+	"Family": "Sign language resources",
+      "Description": "This is a corpus containing 10 discourses with 3 Deaf emerging signers in Brasil.\nThe corpus is available for download from the Huma-num repository (COCOON).",
+      "Languages": ["Emerging Sign Languages (in Brazil)"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": ["10 discourses with 3 Deaf emerging signers in Brasil"],
+      "Annotation": ["partially annotated corpus"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://cocoon.huma-num.fr/exist/crdo/search2.xql?lang=fr&keyword=Fusellier"
+	},
+      "Publication": ""
+}

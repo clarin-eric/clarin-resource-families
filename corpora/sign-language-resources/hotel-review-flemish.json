@@ -1,0 +1,16 @@
+{
+      "Name": "Hotel Review Corpus – Flemish Sign Language",
+      "URL": "http://hdl.handle.net/10032/tm-a2-x4 ",
+	"Family": "Sign language resources",
+      "Description": "This is a multimodal parallel corpus of hotel reviews that were originally written in Dutch, and subsequently translated into the Flemish Sign Language by 6 professionals, all of whom are deaf translators.\nThe corpus is available for download from the Institute of Dutch Language.",
+      "Languages": ["Flemish Sign Language (VGT)", "nld"],
+      "License": "CC BY-NC 4.0",
+      "Size": ["21,825 words", "4 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-x4 "
+	},
+      "Publication": ""
+}

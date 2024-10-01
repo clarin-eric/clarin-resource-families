@@ -1,0 +1,16 @@
+{
+      "Name": "The Kipo Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2020112921",
+	"Family": "Sign language resources",
+      "Description": "This is a video corpus of the language policy program for the National Sign Languages in Finland translated by two people who speak the sign language as their mother tongue.\nThe corpus is available for download from the Finnish Language Bank.",
+      "Languages": ["Finnish Sign Language (FinSL)"],
+      "License": "CC-BY-NC-SA",
+      "Size": ["163 minutes"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://korp.csc.fi/download/kipo/"
+	},
+      "Publication": ""
+}

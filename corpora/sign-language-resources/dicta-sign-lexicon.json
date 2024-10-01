@@ -1,0 +1,16 @@
+{
+      "Name": "DICTA-SIGN lexicon",
+      "URL": "http://hdl.handle.net/11500/ATHENA-0000-0000-28C4-6",
+	"Family": "Sign language resources",
+      "Description": "This is a multilingual lexicon in which concepts are linked to graphically represented signs and accompanying videos showcasing the signing process.\nThe videos are annotated with <a href=\"https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/hamnosys-97.html\">HamNoSys</a> (\"Hamburg Sign Language Notation System\").\nThe lexicon is available for online browsing via a dedicated interface.",
+      "Languages": ["fra", "ell", "deu", "eng", "Modern Greek Sign Language", "British Sign Language", "German Sign Language", "French Sign Language"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": ["1000 entries per language (video and text)"],
+      "Annotation": ["annotated, see description"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lexical resources",
+      "Access": {
+	"Browse": "http://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html"
+	},
+      "Publication": "Efthimiou, S-E. Fotinea, et al. (2010)"
+}

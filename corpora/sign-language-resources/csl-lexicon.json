@@ -1,0 +1,16 @@
+{
+      "Name": "CSL lexicon",
+      "URL": "https://hdl.handle.net/1839/00-0000-0000-0001-2BF4-3",
+	"Family": "Sign language resources",
+      "Description": "This lexicon demostrates how a Deaf adult signs a story to Deaf children.\nThe lexicon is available for download from the MPI Language Archive.",
+      "Languages": ["Chinese Sign Language (CSL)"],
+      "License": "Restricted",
+      "Size": [],
+      "Annotation": ["unannotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lexical resources",
+      "Access": {
+	"Download": "https://archive.mpi.nl/islandora/object/lat%3A1839_00_0000_0000_0001_2BF4_3#"
+	},
+      "Publication": ""
+}

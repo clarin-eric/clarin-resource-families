@@ -1,0 +1,16 @@
+{
+      "Name": "LS-Colin corpus",
+      "URL": "https://cocoon.huma-num.fr/exist/crdo/search2.xql?page=1&max=500&lang=fr&nonce=OTM3NzMwNg%3D%3D&language=http%3A%2F%2Flexvo.org%2Fid%2Fiso639-3%2Ffsl&contributor=http%3A%2F%2Fviaf.org%2Fviaf%2F197871692&keyword=CUXAC&del_1=&del_2=&keyword2=&limit=10",
+	"Family": "Sign language resources",
+      "Description": "This is a reference corpus for LSF, recorded in January 2002 in Paris, involving 13 Deaf adults (monologues). The corpus is divided in 5 video files of various length. It contains a description in French (some metadata) and a translation in French of narratives and other discourses following the time code. The topics and genres included are: \"Le Récit du Cheval\" (narrative), \"Le Récit des Oiseaux\" (narrative), \"L'Euro\" (argumentative discourse), \"La Recette de Cuisine\" (cooking recipe), \"Le 11 septembre 2001\" (argumentative and narrative discourse) et \"Le Thème Linguistique\" (metalinguistic discourse).\nThe corpus is available for download from the Huma-num repository.",
+      "Languages": ["French Sign Language (LSF)"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": ["2 hours"],
+      "Annotation": ["ELAN annotations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora",
+      "Access": {
+	"Download": "https://doi.org/10.34847/cocoon.30180d73-59a4-316f-aff8-a9a0399e666a "
+	},
+      "Publication": "Cuxac et al. (2002)"
+}
