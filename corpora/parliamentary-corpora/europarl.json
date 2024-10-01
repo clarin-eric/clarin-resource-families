@@ -1,0 +1,15 @@
+{
+      "Name": "Europarl: European Parliament Proceedings Parallel Corpus 1996-2011",
+      "URL": "https://www.statmt.org/europarl/",
+	"Family": "Parliamentary corpora",
+      "Description": "This corpus contains parliamentary debates from the European Parliament from 1996 to 2011.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["21 languages"],
+      "License": "CC0",
+      "Size": ["33.7 million tokens"],
+      "Annotation": ["sentence/aligned"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://www.statmt.org/europarl/"
+	},
+      "Publication": ""
+}

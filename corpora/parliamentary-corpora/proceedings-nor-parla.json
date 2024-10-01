@@ -1,0 +1,15 @@
+{
+      "Name": "Proceedings of Norwegian Parliamentary Debates",
+      "URL": "http://hdl.handle.net/11495/DA65-D02F-0EB0-9",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Norwegian parliamentary debates from 2008 to 2015.\nThe corpus is available through the concordancer Corpuscle.",
+      "Languages": ["nor"],
+      "License": "NLOD",
+      "Size": ["29 million tokens"],
+      "Annotation": ["tokenised", "sentence segmentation", "speaker metadata (name, party, time, type of utterance)"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/11495/DA65-D02F-0EB0-9"
+	},
+      "Publication": ""
+}

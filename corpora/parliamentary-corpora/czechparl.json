@@ -1,0 +1,15 @@
+{
+      "Name": "CzechParl",
+      "URL": "https://www.muni.cz/en/research/publications/914268",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Czech parliamentary debates from 1993 to 2010. It is annotated with <a href=\"https://nlp.fi.muni.cz/projekty/ajka/\">ajka</a>.\nThe corpus is available through the Sketch Engine.",
+      "Languages": ["ces"],
+      "License": "",
+      "Size": ["81.9 million tokens"],
+      "Annotation": ["tokenised", "MSD-tagged and lemmatised"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "https://the.sketchengine.co.uk/login/?next=%2Fcorpus%2Ffirst_form%3Fcorpname%3Dpreloaded%2Fczechparl2012%3B"
+	},
+      "Publication": "Jakubíček and Kovář (2010)"
+}

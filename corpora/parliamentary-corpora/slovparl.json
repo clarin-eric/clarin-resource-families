@@ -1,0 +1,16 @@
+{
+      "Name": "Slovenian parliamentary corpus SlovParl 2.0",
+      "URL": "http://hdl.handle.net/11356/1167",
+	"Family": "Parliamentary corpora",
+      "Description": "The SlovParl corpus contains minutes of the Assembly of the Republic of Slovenia for the legislative period 1990-1992, i.e. it covers the period before, during, and after Slovenia became an independent country in 1991. The corpus comprises 232 sessions, 58,813 speeches and 10.8 million words. The corpus contains extensive meta-data about the speakers, a typology of sessions etc. and structural and editorial annotations.",
+      "Languages": ["slv"],
+      "License": "CC-BY",
+      "Size": ["3.2 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=slovparl",
+	"Download": "http://hdl.handle.net/11356/1167"
+	},
+      "Publication": "Pančur and Šorn (2016)"
+}

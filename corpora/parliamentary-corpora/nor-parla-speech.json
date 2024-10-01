@@ -1,0 +1,15 @@
+{
+      "Name": "Norwegian Parliamentary Speech Corpus",
+      "URL": "https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/",
+	"Family": "Parliamentary corpora",
+      "Description": "This corpus consists of audio recordings of meetings in <a href=\"https://www.stortinget.no/no/\">Stortinget</a> (the Norwegian parliament), and corresponding orthographic transcriptions in either Norwegian Bokmål or Norwegian Nynorsk, as well as various metadata about the speakers. The official proceedings from the meetings are also included in the corpus for reference.\nTranscription was first done automatically; subsequently, the output of the automatic process was manually checked and corrected by trained linguists and philologists. Finally, all transcriptions were proofread to ensure consistency and accuracy. The audio files in the corpus contain the speech of entire days of plenary meetings from 2017 and 2018 (or, if a meeting lasts more than six hours, the first six hours of a day).\nThe corpus is available for download from the Norwegian Language Bank.",
+      "Languages": ["nor"],
+      "License": "CC-ZERO",
+      "Size": ["140 hours", "65,000 sentences", "1.2 million words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/"
+	},
+      "Publication": "Solberg and Ortiz (2022)"
+}

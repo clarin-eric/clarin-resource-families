@@ -1,0 +1,15 @@
+{
+      "Name": "Hellenic Parliament Minutes (1989-1994, 1997-2018)",
+      "URL": "http://hdl.grnet.gr/11500/AEGEAN-0000-0000-57FA-5",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Greek parliamentary debates for two periods: 1989-1994 and 1997-2018.\nThe corpus is available for download from the CLARIN:el repository.",
+      "Languages": ["ell"],
+      "License": "CC-BY-NC",
+      "Size": ["181 million words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/AEGEAN-0000-0000-57FA-5"
+	},
+      "Publication": ""
+}

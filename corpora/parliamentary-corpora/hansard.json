@@ -1,0 +1,15 @@
+{
+      "Name": "Hansard corpus",
+      "URL": "http://www.clarin.ac.uk/hansard-corpus",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains British parliamentary debates from 1803 to 2005. It is semantically tagged with the <a href=\"http://ucrel.lancs.ac.uk/usas/\">USAS semantic tagger</a> and the <a href=\"http://www.sciencedirect.com/science/article/pii/S0885230816302121\">Historical Thesaurus Semantic Tagger</a> (HTST).\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": ["1.6 billion tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "semantic tagging"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://www.hansard-corpus.org/x.asp"
+	},
+      "Publication": "Rayson et al. (2015)"
+}

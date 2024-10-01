@@ -1,0 +1,16 @@
+{
+      "Name": "The Icelandic Parliamentary Corpus",
+      "URL": "https://clarin.is/en/resources/parliament/",
+	"Family": "Parliamentary corpora",
+      "Description": "This corpus contains debates in the Icelandic parliament (Alþingi) from 1911 to 2017.\nThe corpus is available for download from CLARIN-IS (as a part of the Icelandic Gigaword Corpus) and for search through the concordancer Korp.",
+      "Languages": ["isl"],
+      "License": "CC-BY 4.0",
+      "Size": ["238 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://malheildir.arnastofnun.is/?mode=rmh2018#?stats_reduce=word&isCaseInsensitive&searchBy=word&cqp=%5B%5D&lang=en&corpus=rmh2018_althingi",
+	"Download": "http://www.malfong.is/index.php?lang=en&pg=&dlid=95"
+	},
+      "Publication": "Steingrímsson et al. (2018)"
+}

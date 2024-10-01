@@ -1,0 +1,15 @@
+{
+      "Name": "HanDeSeT: Hansard Debates with Sentiment Tags",
+      "URL": "https://data.mendeley.com/datasets/xsvp45cbt4/2",
+	"Family": "Parliamentary corpora",
+      "Description": "This corpus contains English parliamentary debates from 1997 to 2017.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["eng"],
+      "License": "Open Parliament Licence V3.0 and Open Data Commons Open Database License (OdbL)",
+      "Size": ["1251 motion-speech units taken from 129 separate debates"],
+      "Annotation": ["sentiment tags"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Download": "https://data.mendeley.com/datasets/xsvp45cbt4/2"
+	},
+      "Publication": "Abercrombie and Batista-Navarro (2018)"
+}

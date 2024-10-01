@@ -1,0 +1,16 @@
+{
+      "Name": "Polish Parliamentary Corpus",
+      "URL": "http://hdl.handle.net/11321/467",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Polish parliamentary debates from 1991 to 2017. It is annotated with <a href=\"http://sgjp.pl/morfeusz/\">Morfeusz SGJP</a> (morphological analyser), <a href=\"http://zil.ipipan.waw.pl/PANTERA\">Pantera</a> (disambiguating tagger), <a href=\"http://zil.ipipan.waw.pl/Spejd\">Spejd</a> (shallow parser), <a href=\"http://zil.ipipan.waw.pl/Nerf\">Nerf</a> (named entity recognizer).\nThe corpus is available for download from a dedicated webpage and through the concordancer NKJP. ",
+      "Languages": ["pol"],
+      "License": "",
+      "Size": ["300 million tokens"],
+      "Annotation": ["tokenised, MSD-tagged, named entities, etc."],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://sejm.nlp.ipipan.waw.pl/",
+	"Download": "http://clip.ipipan.waw.pl/PSC"
+	},
+      "Publication": "Ogrodniczuk (2018)"
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "PTPARL Corpus",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D33C-4",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Portuguese parliamentary debates from 1970 to 2008. It is annotated with <a href=\"http://lxcenter.di.fc.ul.pt/tools/en/LXTokenizerEN.html\">LX-Tokenizer</a>, <a href=\"http://lxcenter.di.fc.ul.pt/tools/en/conteudo/LXTagger.html\">LX-Tagger</a>, MBT, <a href=\"https://ilk.uvt.nl/mbma/\">MBLEM</a> (lemmatisation).\nThe corpus is available for download from the CLARIN PORTUGAL repository.",
+      "Languages": ["por"],
+      "License": "CLARIN RES",
+      "Size": ["1 million tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D33C-4"
+	},
+      "Publication": "Généreux et al. (2012)"
+}

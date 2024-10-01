@@ -1,0 +1,15 @@
+{
+      "Name": "Parliamentary Debates on Europe at the Assemblée nationale (2002-2012)",
+      "URL": "https://hdl.handle.net/11403/fr-parl/v1",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains French parliamentary debates from 2002 to 2012. The contextual metadata in the corpus concern the dates of the council meetings, the description of the main topic(s) of the European council meeting, the place where the European Council meeting took place; they also correspond to information about the government and the legislative session. The speaker metadata correspond to name, gender, occupation, parliamentary group, political orientation and the opposition and majority division.\nThe corpus is available for download from Ortolang.",
+      "Languages": ["fra"],
+      "License": "CC-BY",
+      "Size": ["137,000 tokens"],
+      "Annotation": ["contextual and speaker metadata"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/11403/fr-parl/v1"
+	},
+      "Publication": "Truan and Romary (2021)"
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "ParlAT beta",
+      "URL": "https://www.oeaw.ac.at/acdh/tools/parlat/",
+	"Family": "Parliamentary corpora",
+      "Description": "This corpus contains Austrian parliamentary proceedings from 1996 to 2017.\nCurrently in development, ParlAT is planned to be a monitor corpus with new material added over time.",
+      "Languages": ["German (Austrian)"],
+      "License": "",
+      "Size": ["75.2 million tokens"],
+      "Annotation": ["tokenised", "linked data (e.g., speaker information)"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	},
+      "Publication": "Wissik and Pirker (2018)"
+}

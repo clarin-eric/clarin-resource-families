@@ -1,0 +1,16 @@
+{
+      "Name": "Transcripts of Riigikogu (Estonian Parliament)",
+      "URL": "http://www.cl.ut.ee/korpused/segakorpus/riigikogu/",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Estonian parliamentary debates from 1995 to 2001.\nThe corpus is available for download from a dedicated webpage and through a concordancer on the same webpage.",
+      "Languages": ["est"],
+      "License": "CLARIN_ACA",
+      "Size": ["13 million tokens"],
+      "Annotation": ["tokenised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://www.keeleveeb.ee/",
+	"Download": "http://www.cl.ut.ee/korpused/segakorpus/riigikogu/"
+	},
+      "Publication": ""
+}

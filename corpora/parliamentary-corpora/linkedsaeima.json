@@ -1,0 +1,15 @@
+{
+      "Name": "LinkedSAEIMA",
+      "URL": "http://dati.saeima.korpuss.lv/",
+	"Family": "Parliamentary corpora",
+      "Description": "The corpus contains Latvian parliamentary debates from 1993 to 2016.\nThe corpus is available through noSketchEngine.",
+      "Languages": ["lav"],
+      "License": "",
+      "Size": ["12.5 million tokens"],
+      "Annotation": ["tokenised", "lemmatised"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "http://nosketch.korpuss.lv/run.cgi/first_form?corpname=saeima"
+	},
+      "Publication": ""
+}

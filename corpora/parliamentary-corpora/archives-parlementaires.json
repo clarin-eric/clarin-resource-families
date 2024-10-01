@@ -1,0 +1,15 @@
+{
+      "Name": "Archives Parlementaires",
+      "URL": "https://sul-philologic.stanford.edu/philologic/archparl/",
+	"Family": "Parliamentary corpora",
+      "Description": "The Archives parlementaires is a chronologically-ordered edited collection of sources on the French Revolution. It was conceived in the mid 19th century as a project to produce a definitive record of parliamentary deliberations and also includes letters, reports, speeches, and other first-hand accounts from a great variety of published and archival sources. FRDA currently contains the AP volumes covering the years 1787-1794, which can be searched using ARTFL's PhiloLogic 4 open source software platform. The texts have been marked up using TEI so that speakers, places, dates, and terms in the published index can be easily found. Users can see both scanned images of the AP pages or just the texts.  ",
+      "Languages": ["fra"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "https://sul-philologic.stanford.edu/philologic/archparl/"
+	},
+      "Publication": ""
+}
