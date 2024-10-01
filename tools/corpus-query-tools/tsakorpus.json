@@ -1,0 +1,16 @@
+{
+      "Name": "Tsakorpus",
+      "URL": "https://tsakorpus.readthedocs.io/en/latest/",
+	"Family": "Corpus query tools",
+      "Description": "This is a platform for publishing corpora online.\nThe platform is free and open source, and amongst others supports annotated and parallel corpora, as well as the use of regular expressions.",
+      "Functionality": ["Querying/concordancing"],
+      "Languages": ["Language independent"],
+      "License": "MIT License",
+      "Size": [],
+      "Platform": ["Ubuntu", "Windows"],
+      "Infrastructure": "Non-CLARIN",
+      "Access": {
+	"Browse": ""
+	},
+      "Publication": ""
+}
