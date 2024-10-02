@@ -2,7 +2,7 @@
       "Name": "ACL Anthology Reference Corpus",
       "URL": "https://hdl.handle.net/10.35111/rfeg-z495",
 	"Family": "Academic corpora",
-      "Description": "This corpus contains research papers in computational linguistics published between 1979 and 2015. The corpus data are in the XML format.#SEPThe corpus is available for online querying through the Sketch Engine (log-in required) and for download from a dedicated website.",
+      "Description": "This corpus contains research papers in computational linguistics published between 1979 and 2015. The corpus data are in the XML format.\nThe corpus is available for online querying through the Sketch Engine (log-in required) and for download from a dedicated website.",
       "Languages": ["eng"],
       "License": "CC BY SA",
       "Size": ["75 million tokens"],

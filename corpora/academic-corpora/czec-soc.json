@@ -2,7 +2,7 @@
       "Name": "Czech Sociological Review",
       "URL": "https://hdl.handle.net/11372/LRT-2703",
 	"Family": "Academic corpora",
-      "Description": "This corpus contains research papers in sociology published between 1993 and 2016. The corpus data are in the TSV format.#SEPThe corpus is available for download from the LINDAT repository.",
+      "Description": "This corpus contains research papers in sociology published between 1993 and 2016. The corpus data are in the TSV format.\nThe corpus is available for download from the LINDAT repository.",
       "Languages": ["ces"],
       "License": "MIT",
       "Size": ["3 million words"],

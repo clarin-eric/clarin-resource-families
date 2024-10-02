@@ -2,7 +2,7 @@
       "Name": "Croatian corpus of non-professional written language by typical speakers and speakers with language disorders RAPUT 1.0",
       "URL": "http://hdl.handle.net/11356/1435",
 	"Family": "Corpora of Disordered Speech",
-      "Description": "The corpus consists of texts produced by nonprofessional typical speakers and speakers with different language disorders (developmental language disorder, dyslexia, traumatic brain injury, aphasia, other).#SEPRoughly half of the corpus consists of texts of typical speakers, and the other half of speakers with language disorders.\nLanguage samples were elicited by six groups of tasks representing different writing styles (descriptive, expository, narrative, and letter) and different levels of formality.",
+      "Description": "The corpus consists of texts produced by nonprofessional typical speakers and speakers with different language disorders (developmental language disorder, dyslexia, traumatic brain injury, aphasia, other).\nRoughly half of the corpus consists of texts of typical speakers, and the other half of speakers with language disorders.\nLanguage samples were elicited by six groups of tasks representing different writing styles (descriptive, expository, narrative, and letter) and different levels of formality.",
       "Languages": ["hrv"],
       "License": "CC-BY-SA 4.0",
       "Size": ["6760 texts", "34469 sentences", "426187 tokens"],

@@ -2,7 +2,7 @@
       "Name": "Corpus Gysseling",
       "URL": "http://hdl.handle.net/10032/tm-a2-j4",
 	"Family": "Historical corpora",
-      "Description": "This corpus contains texts from the 13th century.#SEPThe texts were prepared and originally published in the 1970s and 1980s by the Ghent linguist <a href=\"https://en.wikipedia.org/wiki/Maurits_Gysseling\">Maurits Gysseling</a>.\nThe corpus is available for download from the Instituut voor de Nederlandse Taal and through a dedicated concordancer.",
+      "Description": "This corpus contains texts from the 13th century.\nThe texts were prepared and originally published in the 1970s and 1980s by the Ghent linguist <a href=\"https://en.wikipedia.org/wiki/Maurits_Gysseling\">Maurits Gysseling</a>.\nThe corpus is available for download from the Instituut voor de Nederlandse Taal and through a dedicated concordancer.",
       "Languages": ["nld"],
       "License": "INT Licence for researchers",
       "Size": ["1.5 million words"],

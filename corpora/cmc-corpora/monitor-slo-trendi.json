@@ -12,5 +12,5 @@
 	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=trendi",
 	"Concordancer(KonText)": "https://www.clarin.si/kontext/query?corpname=trendi"
 	},
-      "Publication":"Kosem (2022)#SEPKosem et al. (2022)"
+      "Publication": ["Kosem (2022)", "Kosem et al. (2022)"]
 }

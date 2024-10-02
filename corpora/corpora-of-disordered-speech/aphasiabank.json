@@ -2,7 +2,7 @@
       "Name": "AphasiaBank",
       "URL": "https://aphasia.talkbank.org/",
 	"Family": "Corpora of Disordered Speech",
-      "Description": "This is a corpus of multimedia interactions for the study of communication in aphasia.#SEP Access to the data in AphasiaBank is password protected and restricted to members of the AphasiaBank consortium group.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
+      "Description": "This is a corpus of multimedia interactions for the study of communication in aphasia.\n Access to the data in AphasiaBank is password protected and restricted to members of the AphasiaBank consortium group.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
       "Languages": ["yue", "hrv", "eng", "fra", "deu", "ell", "hun", "ita", "jpn", "cmn", "ron", "spa"],
       "License": "email request for access",
       "Size": ["380 MB transcripts", "827 GB media"],
