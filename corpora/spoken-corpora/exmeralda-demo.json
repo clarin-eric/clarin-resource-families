@@ -1,0 +1,16 @@
+{
+      "Name": "EXMARaLDA Demo Corpus 1.0",
+      "URL": "http://hdl.handle.net/11022/0000-0000-4F70-A",
+      "Family": "Spoken corpora",
+      "Description": "This corpus is a demo of the <a href=\"http://exmaralda.org/en/about-exmaralda/\">EXMARaLDA</a> system.\nThe corpus is available for download from a CLARIN-D repository.",
+      "Languages": ["deu", "eng", "fra", "spa", "tur", "pol", "vie", "swe", "nor", "ita", "rus", "afr", "por"],
+      "License": "HZSK-PUB (public, non-commercial only)",
+      "Size": ["2 hours"],
+      "Annotation": ["suprasegmental information", "accentuation/stress marking"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0000-4F70-A"
+	},
+      "Publication": ""
+}

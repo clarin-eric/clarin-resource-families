@@ -1,0 +1,17 @@
+{
+      "Name": "Samples of Spoken Finnish",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201407141",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT platform and through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "CC-BY",
+      "Size": ["100 hours"],
+      "Annotation": ["syntactically parsed (TDT alpha)", "named entities (FiNER)", "PoS-tagged", "lemmatized", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2015040101",
+	"LAT Platform": "http://urn.fi/urn:nbn:fi:lb-1001100134"
+	},
+      "Publication": ""
+}

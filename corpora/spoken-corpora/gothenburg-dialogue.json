@@ -1,0 +1,16 @@
+{
+      "Name": "Gothenburg Dialogue Corpus",
+      "URL": "https://spraakbanken.gu.se/swe/resurs/gdc#tabs=information",
+	"Family": "Spoken corpora",
+      "Description": "This corpus is available through the concordancer Korp (account needed).",
+      "Languages": ["swe"],
+      "License": "CC-BY",
+      "Size": ["1,470,000 tokens"],
+      "Annotation": ["MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions only",
+      "Access": {
+	"Concordancer": "http://spraakbanken.gu.se/korp/#corpus=gdc"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Griffith Corpus of Spoken Australian English",
+      "URL": "https://www.ausnc.org.au/corpora/gcsause",
+	"Family": "Spoken corpora",
+      "Description": "This corpus is available for download and through the concordancer of the Australian National Corpus.",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": ["32,134 words"],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "https://www.ausnc.org.au/corpora/gcsause",
+	"Download": "https://www.ausnc.org.au/corpora/gcsause"
+	},
+      "Publication": ""
+}

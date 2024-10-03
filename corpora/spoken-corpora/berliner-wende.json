@@ -1,0 +1,17 @@
+{
+      "Name": "Berliner Wendekorpus",
+      "URL": "http://hdl.handle.net/10932/00-0332-BD7C-3EF5-0B01-4",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains narrative interviews on German reunification.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
+      "Languages": ["deu"],
+      "License": "CLARIN RES",
+      "Size": ["260,000 words", "28 hours"],
+      "Annotation": ["literal and PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10932/00-0332-BD7C-3EF5-0B01-4",
+	"Download": "http://hdl.handle.net/10932/00-0332-BD7C-3EF5-0B01-4"
+	},
+      "Publication": ""
+}

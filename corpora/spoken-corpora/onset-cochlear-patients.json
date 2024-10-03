@@ -1,0 +1,16 @@
+{
+      "Name": "Voice Onset Time in Cochlear Implant Patients",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0001-AE7E-F",
+      "Family": "Spoken corpora",
+      "Description": "This corpous contains German speech recordings of 48 cochlear implant users (CI) and 48 speakers without hearing impairment (control group, KG). It contains recordings used for the analysis of voice onset time in /t/ in the word 'teilen'. ",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["35 min"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0001-AE7E-F"
+	},
+      "Publication": ""
+}

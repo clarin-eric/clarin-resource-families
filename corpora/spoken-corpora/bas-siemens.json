@@ -1,0 +1,16 @@
+{
+      "Name": "BAS Siemens Hoergeraete Corpus",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0002-1303-5",
+      "Family": "Spoken corpora",
+      "Description": "This is a corpus of spontaneous, relatively casual dialogues in German. Each pair of dialogue partners is recorded conversing under real-noise conditions (in a noisy cafeteria and in a car going at different velocities), as well as in a studio at various levels of lombard noise played directly into the subjects' ears.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["24 hours"],
+      "Annotation": ["Turn segmentation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0002-1303-5"
+	},
+      "Publication": ""
+}

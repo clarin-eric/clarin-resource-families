@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus LIP",
+      "URL": "http://badip.uni-graz.at/it/corpus-lip/descrizione",
+	"Family": "Spoken corpora",
+      "Description": "This corpus is available through a dedicated concordancer.",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": ["490,000 words"],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "http://badip.uni-graz.at/it/corpus-lip/cerca"
+	},
+      "Publication": ""
+}

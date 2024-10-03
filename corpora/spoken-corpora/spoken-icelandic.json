@@ -1,0 +1,17 @@
+{
+      "Name": "The Icelandic Spoken Language Corpus",
+      "URL": "https://clarin.is/en/resources/spoken/",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains four different subcorpora: (1) Spontaneous conversations, from the project ÍSTAL (An Icelandic Spoken Language Bank), (2) Group conversations, from the project MIN (Modern loanwords in the Nordic languages), (3) Parliamentary debates, (4) Conversations of teenagers with other teenagers and adults\nThe corpus is available for download from CLARIN-IS (as a part of the <a href=\"https://clarin.is/en/resources/gigaword/\">Icelandic Gigaword Corpus</a>) and for search through the concordancer Korp.",
+      "Languages": ["isl"],
+      "License": "CC-BY 4.0",
+      "Size": ["536,000 tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "https://malheildir.arnastofnun.is/?mode=mim#?lang=en&stats_reduce=word&isCaseInsensitive&searchBy=word&cqp=%5B%5D&corpus=mim_talmal",
+	"Download": "http://www.malfong.is/index.php?lang=en&pg=&dlid=95"
+	},
+      "Publication": "Steingrímsson et al. (2018)"
+}

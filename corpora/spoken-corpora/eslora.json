@@ -1,0 +1,15 @@
+{
+      "Name": "ESLORA 2.0",
+      "URL": "http://eslora.usc.es/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus consists of spontaneous conversations and semi-structured interviews recorded in Galicia between 2007 and 2015, which were orthographically transcribed and manually aligned to the audio files. The transcripts have been morphologically tagged and lemmatized with the statistical PoS-tagger <a href=\"https://github.com/crpih/xiada\">XIADA</a>.\nThe corpus can be browsed via a dedicated search engine. The multiple functions of the search engine are fully described in the <a href=\"http://eslora.usc.es/guide_description\">User Guide</a>.",
+      "Languages": ["spa"],
+      "License": "academic, non-commercial",
+      "Size": ["83 documents", "768,005 words", "898,914 tokens"],
+      "Annotation": ["manual alignment", "orthographic transcription", "PoS-tagging", "lemmatisation"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "http://eslora.usc.es/search/"
+	},
+      "Publication": ["Barcala et al. (2018)", "Vázquez Rozas and Barcala (2020)"]
+}

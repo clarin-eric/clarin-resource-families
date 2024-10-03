@@ -1,0 +1,17 @@
+{
+      "Name": "Budapest Sociolinguistic Interview - version 2",
+      "URL": "http://buszi.nytud.hu/",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains sociolinguistic interviews conducted with 50 individuals.\nThe corpus is available for download and through a dedicated concordancer.",
+      "Languages": ["hun"],
+      "License": "CLARIN RES",
+      "Size": ["270,000 words"],
+      "Annotation": ["MSD-tagged", "spoken language phenomena (hesitation, consonant drops)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://buszi.nytud.hu/keresoprogramok",
+	"Download": "http://buszi.nytud.hu/buszi-2-iranyitott-beszelgetesek"
+	},
+      "Publication": "Kontra and Váradi (1997)"
+}

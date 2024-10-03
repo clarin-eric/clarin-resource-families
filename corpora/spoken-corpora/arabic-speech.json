@@ -1,0 +1,16 @@
+{
+      "Name": "Arabic Speech Corpus",
+      "URL": "http://hdl.handle.net/20.500.14106/2561",
+      "Family": "Spoken corpora",
+      "Description": "This corpus is available for download from the Oxford Text Archive.",
+      "Languages": ["ara"],
+      "License": "CC BY 4.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2561"
+	},
+      "Publication": "Halabi (2016)"
+}

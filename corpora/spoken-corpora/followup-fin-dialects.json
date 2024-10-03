@@ -1,0 +1,16 @@
+{
+      "Name": "Follow-up Study of Dialects of Finnish",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073043",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT-platform.",
+      "Languages": ["fin"],
+      "License": "CLARIN RES",
+      "Size": ["12,200 Hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"LAT Platform": "http://urn.fi/urn:nbn:fi:lb-100110017700"
+	},
+      "Publication": ""
+}

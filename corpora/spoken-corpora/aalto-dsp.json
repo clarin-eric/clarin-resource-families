@@ -1,0 +1,16 @@
+{
+      "Name": "Aalto University DSP Course Conversation Corpus 2013-2016, Downloadable Version",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2017092133",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains spontaneous conversations.\nThe corpus is available for download from FIN-CLARIN.",
+      "Languages": ["fin"],
+      "License": "CLARIN ACA",
+      "Size": ["5200 utterances"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201708251"
+	},
+      "Publication": ""
+}

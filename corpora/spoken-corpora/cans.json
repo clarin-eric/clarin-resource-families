@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of American Nordic Speech (CANS)",
+      "URL": "http://tekstlab.uio.no/norskiamerika/english/corpus.html",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews, conversations. Norwegian and Swedish dialects in America.\nThe corpus is available through a Tekstlab concordancer.",
+      "Languages": ["nor", "swe"],
+      "License": "CLARIN ACA",
+      "Size": ["251,000 tokens"],
+      "Annotation": ["orthographically and phonetically transcribed", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "https://tekstlab.uio.no/glossa2/cans"
+	},
+      "Publication": "Johannessen (2015)"
+}

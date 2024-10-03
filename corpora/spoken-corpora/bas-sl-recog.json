@@ -1,0 +1,16 @@
+{
+      "Name": "BAS Database for Signer-Independent Continuous Sign Language Recognition",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0000-D8A5-2",
+      "Family": "Spoken corpora",
+      "Description": "The contains both isolated and continuous utterances of various signers. Since we use a vision-based approach for sign language recognition the corpus was recorded on video. For quick random access to individual frames, each video clip is stored as a sequence of images. The vocabulary comprises 450 basic signs in German Sign Language (DGS) representing different word types. Based on this vocabulary, overall 780 sentences were constructed.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["55 hours"],
+      "Annotation": ["Sign language"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0000-D8A5-2"
+	},
+      "Publication": ""
+}

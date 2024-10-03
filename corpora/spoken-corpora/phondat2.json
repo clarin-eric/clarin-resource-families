@@ -1,0 +1,16 @@
+{
+      "Name": "PhonDat 2",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0001-D288-8",
+      "Family": "Spoken corpora",
+      "Description": "The corpus contains read speech of 16 different speakers, 6 women and 10 men. Each speaker reads a corpus of 200 different sentences from a train query task. They were recorded at three different sites in Germany (University of Kiel, University of Bonn, University of Munich). The language is German. The corpus contains a total of 3200 recorded utterances.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["4.3 hours"],
+      "Annotation": ["orthographically transcribed", "phonemic", "phonetic"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0001-D288-8"
+	},
+      "Publication": ""
+}

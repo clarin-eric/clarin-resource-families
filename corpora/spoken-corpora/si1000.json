@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus SI1000",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0007-EBFB-6",
+      "Family": "Spoken corpora",
+      "Description": "The corpus contains read speech of 10 different speakers. Each speaker has read approx. 1000 sentences from a German news paper corpus, thus resulting in a total of approx. 10000 recorded utterances. The recording took place at the Institut fuer Phonetik, University of Munich, Germany in 1994.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["32.8 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0007-EBFB-6"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,14 @@
+{
+      "Name": "Babel - A Multi Language Database",
+      "URL": "http://metashare.ilsp.gr:8080/repository/browse/hungarian-babel/9c27b9d481b611e2892a000c29bfc0d46a94c6ce19b843b3a452b382e2e64832/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains various elicited speech tasks.",
+      "Languages": ["hun"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "Other",
+      "Access": {
+	},
+      "Publication": ""
+}

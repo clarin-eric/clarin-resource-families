@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus HEMPEL",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0002-F80E-8",
+      "Family": "Spoken corpora",
+      "Description": "This corpus is a collection of more than 3900 spontaneous speech items recorded as extra material during the German SpeechDat-II project. Speakers were asked to report what they had been doing during the last hour: \"Was haben Sie in der letzten Stunde gemacht?\". This item was recorded as the last item of the recording session. Speakers had become acquainted with the recording procedure and they were quite relaxed because they knew that this item was the last to be recorded. This resulted in quite natural, colloquial speech, sometimes with marked regional accent.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["25.5 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0002-F80E-8"
+	},
+      "Publication": ""
+}

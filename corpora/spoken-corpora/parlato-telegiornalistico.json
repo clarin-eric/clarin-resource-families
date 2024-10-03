@@ -1,0 +1,15 @@
+{
+      "Name": "Selezione dal \"Corpus di parlato telegiornalistico\". Anni Sessanta vs. 2005",
+      "URL": "http://www.parlaritaliano.it/index.php/it/corpora-di-parlato/647-selezione-dal-qcorpus-di-parlato-telegiornalistico-anni-sessanta-vs-2005q",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains news broadcast.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Download": "http://www.parlaritaliano.it/index.php/it/corpora-di-parlato/647-selezione-dal-qcorpus-di-parlato-telegiornalistico-anni-sessanta-vs-2005q"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus BROTHERS",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0001-55C3-3",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains recordings of pairs of brothers between the ages of 19 and 31. The native and recorded language is German. Recordings consist of minimal pairs in carrier sentences, a different set of sentences aimed at elicitating the full range of German vowels ('Berliner Sätze'), and a spontaneous dialogue about a TV-series. Recordings were made via a table microphone (studio quality) and via telephone (telephone quality). ",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["1.5 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0001-55C3-3"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Hamburg Adult Bilingual LAnguage (HABLA)",
+      "URL": "http://hdl.handle.net/11022/0000-0000-5C64-9",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.",
+      "Languages": ["deu", "fra", "ita"],
+      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Size": ["79 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	},
+      "Publication": "Kupisch et al. (2012)"
+}

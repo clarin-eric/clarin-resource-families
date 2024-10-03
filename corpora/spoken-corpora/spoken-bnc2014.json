@@ -1,0 +1,15 @@
+{
+      "Name": "Spoken BNC2014",
+      "URL": "http://cass.lancs.ac.uk/cass-projects/spoken-bnc2014/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains face-to-face conversations between people who speak British English as their first language.\nThe corpus is available through the CQP concordancer.",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": ["10 million words"],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "http://corpora.lancs.ac.uk/bnc2014"
+	},
+      "Publication": ""
+}

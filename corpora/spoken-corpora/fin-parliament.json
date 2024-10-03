@@ -1,0 +1,17 @@
+{
+      "Name": "Plenary Sessions of the Parliament of Finland",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201407305",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains the proceedings of the Finnish Parliament.\nThe corpus is available through a dedicated webpage and through the concordancer Korp.",
+      "Languages": ["fin", "swe"],
+      "License": "CC-BY-NC-ND",
+      "Size": ["22.5 million words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2017020201",
+	"Download": "https://www.eduskunta.fi/FI/lakiensaataminen/taysistunnon_verkkolahetykset/tallenteet/Sivut/default.aspx"
+	},
+      "Publication": ""
+}

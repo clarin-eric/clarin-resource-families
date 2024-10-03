@@ -1,0 +1,16 @@
+{
+      "Name": "Spoken production of gender-neutral nouns in German",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0003-FF39-F",
+      "Family": "Spoken corpora",
+      "Description": "This corpus examines the pronunciation of different genderneutral forms in German. Various source texts were used, like newspaper articles, websites, etc.",
+      "Languages": ["deu"],
+      "License": "CLARIN PUB",
+      "Size": ["2 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0003-FF39-F"
+	},
+      "Publication": ""
+}

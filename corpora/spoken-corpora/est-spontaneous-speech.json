@@ -1,0 +1,16 @@
+{
+      "Name": "Phonetic Corpus of Estonian Spontaneous Speech v.1.0.4",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00154L",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains spontaneous speech by speakers with different dialectological and social backgrounds.\nThe corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "CLARIN_RES",
+      "Size": ["635,000 words", "90 hours"],
+      "Annotation": ["orthographically and phonetically transcribed, syllables, prosodic feet, intonation phrases, changes in voice quality"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00154L"
+	},
+      "Publication": ""
+}

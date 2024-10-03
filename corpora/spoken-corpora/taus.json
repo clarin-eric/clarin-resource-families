@@ -1,0 +1,16 @@
+{
+      "Name": "TAUS",
+      "URL": "http://www.tekstlab.uio.no/nota/taus/english.html",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains informal interviews in Oslo sociolects.\nThe corpus is available through a Tekstlab concordancer (account needed).",
+      "Languages": ["nor"],
+      "License": "CLARIN ACA",
+      "Size": ["270 000 tokens"],
+      "Annotation": ["MSD-tagged", "lemmatised", "orthographically and partially phonetically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "https://tekstlab.uio.no/glossa2/taus2"
+	},
+      "Publication": ""
+}

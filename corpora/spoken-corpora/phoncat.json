@@ -1,0 +1,15 @@
+{
+      "Name": "Catalan in a bilingual context (PhonCAT)",
+      "URL": "http://hdl.handle.net/11022/0000-0000-772F-7",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains read, elicited and spontaneous speech.",
+      "Languages": ["Spanish (Catalan)"],
+      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Size": ["144 hours"],
+      "Annotation": ["orthographically and phonetically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	},
+      "Publication": "Benet et al. (2012)"
+}

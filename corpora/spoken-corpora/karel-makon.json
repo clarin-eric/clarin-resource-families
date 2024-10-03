@@ -1,0 +1,16 @@
+{
+      "Name": "Spoken corpus of Karel Makoň",
+      "URL": "http://hdl.handle.net/11234/1-3422",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains talks on Christian mysticism given by Karel Makoň.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["ces"],
+      "License": "CC BY-SA 3.0",
+      "Size": ["1000 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3422"
+	},
+      "Publication": ""
+}

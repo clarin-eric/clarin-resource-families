@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian North Wind and the Sun Corpus v.1.0.3",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00129L",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains recordings of the tale \"Põhjatuul ja päike\" (North Wind and the Sun) read by the same speakers who participated in the Phonetic Corpus of Estonian Spontaneous Speech.\nThe corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["word segmentation and phonemes in SAMPA"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00129L"
+	},
+      "Publication": ""
+}

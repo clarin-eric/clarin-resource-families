@@ -1,0 +1,16 @@
+{
+      "Name": "ELFA Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201403262",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains recorded lectures and seminars.\nThe corpus is available for download from FIN-CLARIN.",
+      "Languages": ["eng"],
+      "License": "CLARIN RES, MS-C-No ReD-ND-FF",
+      "Size": ["13 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2014052721"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian Dialect Corpus",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00076L",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThe corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "CLARIN ACA",
+      "Size": ["1.3 million words"],
+      "Annotation": ["phonetically transcribed", "MSD-tagged", "partly syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00076L"
+	},
+      "Publication": ""
+}

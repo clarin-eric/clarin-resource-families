@@ -1,0 +1,16 @@
+{
+      "Name": "The Longitudinal Corpus of Finnish Spoken in Helsinki (1970s, 1990s and 2010s)",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073041",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThe corpus is available for online querying through the LAT platform and through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "restricted",
+      "Size": ["210 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"LAT Platform": "http://urn.fi/urn:nbn:fi:lb-100110016072"
+	},
+      "Publication": ""
+}

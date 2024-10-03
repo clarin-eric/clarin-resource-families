@@ -1,0 +1,15 @@
+{
+      "Name": "Hungarian Gigaword Corpus / \"spoken language\" subcorpus",
+      "URL": "http://hnc.nytud.hu/index_eng.html",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains radio broadcasts (reading aloud and spontaneous conversation)\nThe corpus is available through the Hungarian Gigaword Corpus concordancer.",
+      "Languages": ["hun"],
+      "License": "",
+      "Size": ["76 million words"],
+      "Annotation": ["PoS-tagged", "MSD-tagged"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "http://clara.nytud.hu/mnsz2-dev/bonito/run.cgi/first_form?uilang=en"
+	},
+      "Publication": ""
+}

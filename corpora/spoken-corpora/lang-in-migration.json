@@ -1,0 +1,17 @@
+{
+      "Name": "Languages in Migration",
+      "URL": "http://hdl.handle.net/11372/LRT-4777",
+	"Family": "Spoken corpora",
+      "Description": "This corpus is a representation of authentic spoken Czech and German.\nIt contains transcriptions of informal speech (private environment, spontaneity, unpreparedness etc.) by Czech-German bilingual speakers born in Czechoslovakia around 1955 and who departed for Germany after becoming 12 years old. The corpus is composed of interviews conducted from 2018–2020 with 20 speakers on language biographies and narrated in Czech and German respectively.\nThe corpus is available for download from LINDAT and for online browsing through the KonText concordancer.",
+      "Languages": ["ces", "deu"],
+      "License": "Czech National Corpus (Shuffled Corpus Data)",
+      "Size": [],
+      "Annotation": ["syntactic dependencies"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions only",
+      "Access": {
+	"Concordancer": "https://www.korpus.cz/kontext/query?corpname=jazyky_v_migraci",
+	"Download": "http://hdl.handle.net/11372/LRT-4777"
+	},
+      "Publication": "this list of publications"
+}

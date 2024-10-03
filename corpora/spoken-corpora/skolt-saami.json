@@ -1,0 +1,16 @@
+{
+      "Name": "Skolt Saami Documentation Corpus (2016)",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073037",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT platform.",
+      "Languages": ["Skolt Saami"],
+      "License": "CLARIN RES",
+      "Size": ["19 hours"],
+      "Annotation": ["MSD-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"LAT Platform": "http://hdl.handle.net/11113/00-0000-0000-0000-32A7-7@view"
+	},
+      "Publication": ""
+}

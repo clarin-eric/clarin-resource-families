@@ -1,0 +1,17 @@
+{
+      "Name": "Forschungs- und Lehrkorpus gesprochenes Deutsch",
+      "URL": "http://hdl.handle.net/10932/00-0332-C1B2-A5E3-2A01-D",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains authentic interactions from various domains.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
+      "Languages": ["deu"],
+      "License": "CLARIN RES",
+      "Size": ["2.3 million words", "230 hours"],
+      "Annotation": ["literal and PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10932/00-0332-C1B2-A5E3-2A01-D",
+	"Download": "http://hdl.handle.net/10932/00-0332-C1B2-A5E3-2A01-D"
+	},
+      "Publication": ""
+}

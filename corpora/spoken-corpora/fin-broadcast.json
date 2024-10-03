@@ -1,0 +1,17 @@
+{
+      "Name": "Finnish Broadcast Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201403265",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains radio and TV broadcasts.\nThe corpus is available for download from FIN-CLARIN and for online querying through the LAT-platform.",
+      "Languages": ["fin"],
+      "License": "CLARIN RES",
+      "Size": ["18 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-1001100133",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2016021201"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Consecutive and Simultaneous Interpreting (CoSi)",
+      "URL": "http://hdl.handle.net/11022/0000-0000-5225-A",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains lectures in Portuguese with simultaneous interpretation in English.",
+      "Languages": ["por", "eng"],
+      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Size": ["6 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	},
+      "Publication": ""
+}

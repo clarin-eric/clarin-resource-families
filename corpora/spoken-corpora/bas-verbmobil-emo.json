@@ -1,0 +1,16 @@
+{
+      "Name": "BAS Verbmobil Emotion",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0004-2BCC-7",
+      "Family": "Spoken corpora",
+      "Description": "This database contains speech signals of dialogues in which a subject was recorded during a conversation via a spontaneous speech translation system. The response of the system was designed to invoke emotions (e.g. anger) in the subjects. It is part of the larger Verbmobil 2 speech data collection. Starting from BAS Clarin Respository version 2, the database is also distributed as an emuR comptatible emu database.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["17 hours"],
+      "Annotation": ["orthographically transcribed", "emotions"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0004-2BCC-7"
+	},
+      "Publication": ""
+}

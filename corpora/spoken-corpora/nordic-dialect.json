@@ -1,0 +1,16 @@
+{
+      "Name": "Nordic Dialect Corpus v. 4.0",
+      "URL": "http://www.tekstlab.uio.no/nota/scandiasyn/nsd.html",
+      "Family": "Spoken corpora",
+      "Description": "This corpus consists of pontaneous speech data from dialects of the North Germanic languages across all of the Nordic countries. The linguistic data in the corpus comes from a variety of sources, (see homepage - Data Collection), recorded in 1998 - 2015. The corpus transcribed and linked to audio and video, has a map function, and can be searched in a large variety of ways.#SEPThe corpus can be accessed online via a concordancer provided by the TekstLab (a CLARINO node).",
+      "Languages": ["nor", "swe", "dan", "fao", "isl", "Övdalian"],
+      "License": "CLARIN ACA",
+      "Size": ["2,754,289 tokens"],
+      "Annotation": ["MSD-tagged", "phonetically transcribed", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://www.tekstlab.uio.no/nota/scandiasyn/nsd.html"
+	},
+      "Publication": ""
+}

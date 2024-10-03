@@ -1,0 +1,17 @@
+{
+      "Name": "Spoken corpus Gos VideoLectures 3.0 (transcription)",
+      "URL": "http://hdl.handle.net/11356/1190",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains public academic speech.\nThe corpus is available for download from CLARIN.SI and through the concordancer KonText.\nFor the version with audio recordings, click <a href=\"http://hdl.handle.net/11356/1189\">here</a>.",
+      "Languages": ["slv"],
+      "License": "CC BY 4.0",
+      "Size": ["126,000 words"],
+      "Annotation": ["PoS-tagged", "lemmatised", "orthographically and phonetically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions only",
+      "Access": {
+	"Concordancer": "https://www.clarin.si/kontext/first_form?corpname=gos_vl",
+	"Download": "http://hdl.handle.net/11356/1190"
+	},
+      "Publication": "Verdonik (2018)"
+}

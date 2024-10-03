@@ -1,0 +1,16 @@
+{
+      "Name": "The Corpus of Border Karelia",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073033",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThe corpus is available for download from FIN-CLARIN.",
+      "Languages": ["fin", "krl"],
+      "License": "CC-BY",
+      "Size": ["120 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://www.uef.fi/fi/finka/finka"
+	},
+      "Publication": ""
+}

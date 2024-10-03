@@ -1,0 +1,16 @@
+{
+      "Name": "Buckeye Corpus of Conversational Speech",
+      "URL": "http://hdl.handle.net/11041/sldr000776",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains an interview.\nThe corpus is available for download from ORTOLANG.",
+      "Languages": ["eng"],
+      "License": "CLARIN RES",
+      "Size": [],
+      "Annotation": ["phonetic labels"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11041/sldr000776"
+	},
+      "Publication": "Pitt et al. (2005)"
+}

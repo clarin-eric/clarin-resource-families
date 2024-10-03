@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus for the Study of Contemporary French",
+      "URL": "https://hdl.handle.net/11403/cefc-orfeo/v1",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains debates, classroom interactions, literary and scientific texts, regional and national press, etc.\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["fra"],
+      "License": "CC-BY 4.0",
+      "Size": ["10 million words", "350 hours"],
+      "Annotation": ["orthographically aligned", "PoS-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "https://repository.ortolang.fr/api/content/cefc-orfeo/4/documentation/site-orfeo/index.html"
+	},
+      "Publication": ""
+}

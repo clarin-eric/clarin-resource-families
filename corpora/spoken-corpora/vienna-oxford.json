@@ -1,0 +1,15 @@
+{
+      "Name": "Vienna-Oxford International Corpus of English",
+      "URL": "http://voice.univie.ac.at/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains naturally occurring, non-scripted face-to-face interactions in English as a lingua franca (ELF).\nThe corpus is available through a dedicated concordancer.",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "http://voice.univie.ac.at/"
+	},
+      "Publication": ""
+}

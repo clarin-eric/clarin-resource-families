@@ -1,0 +1,16 @@
+{
+      "Name": "Route to A wing",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014101401",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains spontaneous conversations.\nThis corpus is available for online querying through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "CC-0",
+      "Size": ["218 tokens"],
+      "Annotation": ["PoS-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2015050502"
+	},
+      "Publication": ""
+}

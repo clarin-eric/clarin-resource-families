@@ -1,0 +1,17 @@
+{
+      "Name": "Dialogstrukturen",
+      "URL": "http://hdl.handle.net/10932/00-0332-C0BE-562F-C101-E",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains authentic interaction from various domains.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
+      "Languages": ["deu"],
+      "License": "CLARIN RES",
+      "Size": ["140,000 words", "15 hours"],
+      "Annotation": ["orthographically transcribed", "intonation", "lemmatised", "PoS-tagged", "time alignment"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10932/00-0332-C0BE-562F-C101-E",
+	"Download": "http://hdl.handle.net/10932/00-0332-C0BE-562F-C101-E"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Prague DaTabase of Spoken Czech 1.0",
+      "URL": "http://hdl.handle.net/11234/1-2375",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains spontaneous dialogue.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["ces"],
+      "License": "CC BY-NC SA 4.0",
+      "Size": ["770,000 tokens", "7324 minutes"],
+      "Annotation": ["MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-2375"
+	},
+      "Publication": "Hajič et al. (2008)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "CLIPS : corpora e lessici di italiano parlato e scritto",
+      "URL": "http://hdl.handle.net/11372/LRT-865",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains speech from 15 different cities in Italy.",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": ["100 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://www.clips.unina.it/it/corpus.jsp"
+	},
+      "Publication": ""
+}

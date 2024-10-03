@@ -1,0 +1,17 @@
+{
+      "Name": "DIALEKT v1: dialectal corpus with multi-tier transcription",
+      "URL": "https://wiki.korpus.cz/doku.php/en:cnk:dialekt",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains traditional dialectological material, mostly unprepared monologue-type speech.\nThe corpus is available download (upon request) and through the concordancer KonText.",
+      "Languages": ["ces"],
+      "License": "Academic Licence Agreement for Czech National Corpus Data",
+      "Size": ["100,000 words"],
+      "Annotation": ["orthographically and phonetically (dialect features) transcribed", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "https://kontext.korpus.cz/first_form?corpname=dialekt_v1_dial",
+	"Download": "http://wiki.korpus.cz/doku.php/en:cnk:dialekt"
+	},
+      "Publication": "Komrsková et al. (2018)"
+}

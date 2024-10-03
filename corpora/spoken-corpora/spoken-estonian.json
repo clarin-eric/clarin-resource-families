@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus of Spoken Estonian",
+      "URL": "http://hdl.handle.net/11372/LRT-253",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains transcripts of recordings from various domains.",
+      "Languages": ["est"],
+      "License": "",
+      "Size": ["1 million words"],
+      "Annotation": ["unspecified tagging"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions only",
+      "Access": {
+	},
+      "Publication": ""
+}

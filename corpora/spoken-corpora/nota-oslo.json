@@ -1,0 +1,16 @@
+{
+      "Name": "NoTa-Oslo",
+      "URL": "http://www.tekstlab.uio.no/nota/oslo/english.html",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews and conversations in Oslo sociolects.\nThe corpus is available through a Tekstlab concordancer (account needed).",
+      "Languages": ["nor"],
+      "License": "CLARIN ACA",
+      "Size": ["1 million tokens"],
+      "Annotation": ["orthographically transcribed", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "https://tekstlab.uio.no/glossa2/nota_oslo"
+	},
+      "Publication": ""
+}

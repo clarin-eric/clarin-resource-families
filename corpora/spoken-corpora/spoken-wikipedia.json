@@ -1,0 +1,16 @@
+{
+      "Name": "The Spoken Wikipedia Corpora",
+      "URL": "http://hdl.handle.net/11022/0000-0007-C641-0",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains transcripts of read Wikipedia articles.\nThe corpus is available for download from a CLARIN-D repository.",
+      "Languages": ["eng", "deu", "nld"],
+      "License": "CC-BY SA 4.0",
+      "Size": ["1005 hours"],
+      "Annotation": ["text segmentation", "normalization", "time-alignment"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions only",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0007-C641-0"
+	},
+      "Publication": "Köhn et al. (2016)"
+}

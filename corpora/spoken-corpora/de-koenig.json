@@ -1,0 +1,17 @@
+{
+      "Name": "Deutsche Standardsprache: König-Korpus",
+      "URL": "http://hdl.handle.net/10932/00-0332-C489-C64D-6D01-9",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews and elicited speech in standard German\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
+      "Languages": ["deu"],
+      "License": "CLARIN RES",
+      "Size": ["50,000 words", "6 hours"],
+      "Annotation": ["PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10932/00-0332-C489-C64D-6D01-9",
+	"Download": "http://hdl.handle.net/10932/00-0332-C489-C64D-6D01-9"
+	},
+      "Publication": ""
+}

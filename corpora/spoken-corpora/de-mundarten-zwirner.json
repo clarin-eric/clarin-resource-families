@@ -1,0 +1,17 @@
+{
+      "Name": "Deutsche Mundarten: Zwirner-Korpus",
+      "URL": "http://hdl.handle.net/10932/00-0332-D40A-3CEE-B901-4",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews and elicited speech in German dialects.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
+      "Languages": ["German, (some Frisian and Dutch)"],
+      "License": "CLARIN RES",
+      "Size": ["4 million words", "1076 hours"],
+      "Annotation": ["PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10932/00-0332-D40A-3CEE-B901-4",
+	"Download": "http://hdl.handle.net/10932/00-0332-D40A-3CEE-B901-4"
+	},
+      "Publication": ""
+}

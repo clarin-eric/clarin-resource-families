@@ -1,0 +1,15 @@
+{
+      "Name": "Hungarian Kindergarten Language Corpus",
+      "URL": "http://metashare.nytud.hu/repository/browse/hungarian-kindergarten-language-corpus/b572a8106ba711e2aa7c68b599c26a06a4db2e695cf94a1cad6bf6793d747d2a/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains elicited speech tasks (picture descriptions) and guided conversation with children.\nThe corpus is available for download through META-SHARE.",
+      "Languages": ["hun"],
+      "License": "restricted",
+      "Size": ["192,000 words"],
+      "Annotation": ["PoS-tagged", "MSD-tagged"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Download": "http://metashare.nytud.hu/repository/browse/hungarian-kindergarten-language-corpus/b572a8106ba711e2aa7c68b599c26a06a4db2e695cf94a1cad6bf6793d747d2a/"
+	},
+      "Publication": ""
+}

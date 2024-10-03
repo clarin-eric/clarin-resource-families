@@ -1,0 +1,16 @@
+{
+      "Name": "Czech Malach Cross-lingual Speech Retrieval Test Collection",
+      "URL": "http://hdl.handle.net/11234/1-1912",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews with survivors of the Holocaust.\nThe corpus is available for download from LINDAT.",
+      "Languages": ["ces", "eng", "fra", "deu", "spa"],
+      "License": "CC BY-NC-ND 4.0",
+      "Size": ["592 hours"],
+      "Annotation": ["manual annotations of selected topics and interviews' metadata"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1912"
+	},
+      "Publication": ""
+}

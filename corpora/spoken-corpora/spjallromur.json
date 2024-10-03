@@ -1,0 +1,16 @@
+{
+      "Name": "Spjallromur - Icelandic Conversational Speech",
+      "URL": "http://hdl.handle.net/20.500.12537/187",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains recordings of 54 conversations by 102 speakers, recorded between September 2020 and September 2021.\nThe corpus is available for download from the CLARIN.IS repository.",
+      "Languages": ["isl"],
+      "License": "CC BY 4.0",
+      "Size": ["21 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/187"
+	},
+      "Publication": ""
+}

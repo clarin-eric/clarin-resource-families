@@ -1,0 +1,16 @@
+{
+      "Name": "SmartWeb Motorbike Corpus SMC",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0005-C50F-D",
+      "Family": "Spoken corpora",
+      "Description": "The corpus comprises a collection of user queries to a naturally spoken Web interface with the main focus on the soccer world series in 2006. The SMC corpus itself contains 36 mobile recordings performed on a BMW motorbike.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["6.3 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0005-C50F-D"
+	},
+      "Publication": ""
+}

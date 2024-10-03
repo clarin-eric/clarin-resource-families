@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of Radio Interviews",
+      "URL": "http://hdl.handle.net/10.15155/9-00-0000-0000-0000-00022L",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains telephone interviews from different radio programmes.\nThe corpus is available for download from META-SHARE (CELR distribution).",
+      "Languages": ["est"],
+      "License": "CC-BY",
+      "Size": ["36 hours"],
+      "Annotation": ["speech annotation to orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/10.15155/9-00-0000-0000-0000-00022L"
+	},
+      "Publication": ""
+}

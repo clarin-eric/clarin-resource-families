@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus of Orleans",
+      "URL": "http://purl.org/poi/crdo.vjf.cnrs.fr/cocoon-5569b8dc-b40f-3ccd-95d1-86d20a1a836c",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains recordings of the everyday speech of Orléans residents between 1969 and 1974.\nThe corpus is available for download from the Huma-num repository.",
+      "Languages": ["fra"],
+      "License": "CC BY-NC-SA 3.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "https://doi.org/10.34847/cocoon.5569b8dc-b40f-3ccd-95d1-86d20a1a836c"
+	},
+      "Publication": ""
+}

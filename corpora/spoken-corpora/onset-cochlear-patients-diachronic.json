@@ -1,0 +1,16 @@
+{
+      "Name": "Voice Onset Time in Cochlear Implant Patients (diachronic data)",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0000-A9CB-D",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains diachronic speech recordings from three cochlear implant (CI) users. For data used in the corresponding synchronic study, please refer to the CI_2 corpora.  CI_3_Sibilants contains recordings used for the analysis of /s/ and /ʃ/ in the following words: 'Tasse', 'Tasche'. CI_3_VOT contains recordings used for the analysis of voice onset time in /t/ in the word 'teilen'.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["unknown"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0000-A9CB-D"
+	},
+      "Publication": ""
+}

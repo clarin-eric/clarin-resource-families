@@ -1,0 +1,15 @@
+{
+      "Name": "Medical Speech Database",
+      "URL": "http://metashare.elda.org/repository/browse/hungarian-medical-speech-database/76a0c9f881b611e2892a000c29bfc0d4ed0651f675914bb2805e26819a60167d/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus is available for download (upon request) from META-SHARE.",
+      "Languages": ["hun"],
+      "License": "META-SHARE C-NoReD-FF",
+      "Size": [],
+      "Annotation": ["phonetic transcription"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Download": "http://metashare.elda.org/repository/browse/hungarian-medical-speech-database/76a0c9f881b611e2892a000c29bfc0d4ed0651f675914bb2805e26819a60167d/"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus BITS",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0007-C2C0-4",
+      "Family": "Spoken corpora",
+      "Description": "This is a corpus for speech synthesis using concatenative technique.",
+      "Languages": ["deu"],
+      "License": "CLARIN RES",
+      "Size": ["16.5 hours"],
+      "Annotation": ["orthographically transcribed", "phonetic", "phonemic", "prosodic"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0007-C2C0-4"
+	},
+      "Publication": ""
+}

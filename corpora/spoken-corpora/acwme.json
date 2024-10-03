@@ -1,0 +1,15 @@
+{
+      "Name": "The Aston Corpus of West Midlands English (ACWME)",
+      "URL": "https://researchdata.aston.ac.uk/id/eprint/162/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains recordings of performances - comedy, drama, poetry, song and story-telling - and related interviews with performers, members of the audience and local and national celebrities.\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["eng"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Download": "http://www.aston.ac.uk/lss/research/lss-research/ccisc/discourse-and-culture/acwme/"
+	},
+      "Publication": ""
+}

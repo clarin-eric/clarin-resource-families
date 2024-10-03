@@ -1,0 +1,16 @@
+{
+      "Name": "PhonDat 1",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0001-D20B-6",
+      "Family": "Spoken corpora",
+      "Description": "The corpus contains read speech of 201 different speakers. Each speaket read a subcorpus of 450 different sentence equivalents (including alphanumericals and two shorter passages of prose text); 8 speakers read the whole sentence corpus; 40 speakers read the subcorpora BR and MR; 112 speakers read 70 utterances of the rest corpus, including alphabet, numbers 0 to 12 and stories. The corpus contains a total of 21587 recorded utterances.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["21.4 hours"],
+      "Annotation": ["orthographically transcribed", "phonemic"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0001-D20B-6"
+	},
+      "Publication": ""
+}

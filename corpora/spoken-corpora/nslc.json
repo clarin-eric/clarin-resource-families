@@ -1,0 +1,17 @@
+{
+      "Name": "Nganasan Spoken Language Corpus (NSLC)",
+      "URL": "http://hdl.handle.net/11022/0000-0007-C6F2-8",
+      "Family": "Spoken corpora",
+      "Description": "This second version 0.2 of the corpus is a subcorpus that comprises 177 communications, 136 of which contain an aligned audio recording, with glossed (Toolbox/FLEx) and annotated (EXMARaLDA) transcripts from 57 speakers. All texts have been translated into Russian and English, some also into German. The corpus also contains rich metadata on the communications and speakers.",
+      "Languages": ["nio", "rus"],
+      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Size": ["32 hours"],
+      "Annotation": ["alignment of transcriptions and audio recordings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "",
+	"Download": ""
+	},
+      "Publication": ""
+}

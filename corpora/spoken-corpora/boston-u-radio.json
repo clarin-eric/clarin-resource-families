@@ -1,0 +1,16 @@
+{
+      "Name": "Boston University Radio Speech Corpus",
+      "URL": "https://catalog.ldc.upenn.edu/LDC96S36",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains recordings and texts from radio news.",
+      "Languages": ["eng"],
+      "License": "CLARIN RES",
+      "Size": ["7 hours"],
+      "Annotation": ["PoS-tagged", "phonetic alignment", "prosodic markers"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://catalog.ldc.upenn.edu/LDC96S36"
+	},
+      "Publication": ""
+}

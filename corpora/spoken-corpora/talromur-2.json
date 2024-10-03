@@ -1,0 +1,16 @@
+{
+      "Name": "Talrómur 2",
+      "URL": "http://hdl.handle.net/20.500.12537/167",
+      "Family": "Spoken corpora",
+      "Description": "This corpus consists of recordings of forty different speakers reading short sentences and is intended for modelling prosody.\nThe corpus is available for download from the CLARIN.IS repository.",
+      "Languages": ["isl"],
+      "License": "CC BY 4.0",
+      "Size": ["56,225 utterances"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/167"
+	},
+      "Publication": ""
+}

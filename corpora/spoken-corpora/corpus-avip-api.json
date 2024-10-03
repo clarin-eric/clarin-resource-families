@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus AVIP-API",
+      "URL": "http://www.parlaritaliano.it/api/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains quasi-spontaneous dialogues (a map task).\nThe corpus is available for download from a dedicated webpage.",
+      "Languages": ["ita"],
+      "License": "",
+      "Size": [],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "Other",
+      "Access": {
+	"Download": "http://www.parlaritaliano.it/api/"
+	},
+      "Publication": ""
+}

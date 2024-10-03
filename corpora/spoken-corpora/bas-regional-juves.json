@@ -1,0 +1,16 @@
+{
+      "Name": "BAS Regional Variants of German - Juveniles",
+      "URL": "http://hdl.handle.net/11022/1009-0000-0004-AE1D-9",
+      "Family": "Spoken corpora",
+      "Description": "The corpus contains both read and non-scripted German utterances. It comprises the original RVG prompts (telephone numbers, sentences, commands, digits, etc.) plus spellings, date and time expressions, and free form responses to questions, e.g. \"What are you wearing?\", \"How did you get here?\", etc. The speakers were adolescents between 13 and 20 years of age, recruited in public schools in Munich and the suburbs. More than 95% of the speakers have German as their mother language, and almost all of them attended school in Bavaria; 89 of them were male and 93 female.",
+      "Languages": ["deu"],
+      "License": "CLARIN ACA",
+      "Size": ["100 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/1009-0000-0004-AE1D-9"
+	},
+      "Publication": ""
+}

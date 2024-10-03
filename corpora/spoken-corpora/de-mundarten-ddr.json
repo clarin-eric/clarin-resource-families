@@ -1,0 +1,17 @@
+{
+      "Name": "Deutsche Mundarten: DDR",
+      "URL": "http://hdl.handle.net/10932/00-0332-BE28-4317-5D01-B",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews and elicited speech in German dialects.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
+      "Languages": ["German, (some Sorbian)"],
+      "License": "CLARIN RES",
+      "Size": ["212,000 words", "385 hours"],
+      "Annotation": ["PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10932/00-0332-BE28-4317-5D01-B",
+	"Download": "http://hdl.handle.net/10932/00-0332-BE28-4317-5D01-B"
+	},
+      "Publication": ""
+}

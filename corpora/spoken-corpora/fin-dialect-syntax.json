@@ -1,0 +1,17 @@
+{
+      "Name": "The Finnish Dialect Syntax Archive",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014052716",
+      "Family": "Spoken corpora",
+      "Description": "This corpus contains interviews.\nThe corpus is available for online querying through the LAT platform and through the concordancer Korp.",
+      "Languages": ["fin"],
+      "License": "CC-BY-NC-ND",
+      "Size": ["1.2 million words"],
+      "Annotation": ["MSD-tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+	"Concordancer": "http://urn.fi/urn:nbn:fi:lb-2014052715",
+	"LAT Platform": "http://urn.fi/urn:nbn:fi:lb-1001100111532"
+	},
+      "Publication": ""
+}
