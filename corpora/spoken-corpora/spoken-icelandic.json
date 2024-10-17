@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains four different subcorpora: (1) Spontaneous conversations, from the project ÍSTAL (An Icelandic Spoken Language Bank), (2) Group conversations, from the project MIN (Modern loanwords in the Nordic languages), (3) Parliamentary debates, (4) Conversations of teenagers with other teenagers and adults\nThe corpus is available for download from CLARIN-IS (as a part of the <a href=\"https://clarin.is/en/resources/gigaword/\">Icelandic Gigaword Corpus</a>) and for search through the concordancer Korp.",
       "Languages": ["isl"],
-      "License": "CC-BY 4.0",
+      "Licence": "CC-BY 4.0",
       "Size": ["536,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains sociolinguistic interviews conducted with 50 individuals.\nThe corpus is available for download and through a dedicated concordancer.",
       "Languages": ["hun"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["270,000 words"],
       "Annotation": ["MSD-tagged", "spoken language phenomena (hesitation, consonant drops)"],
       "Infrastructure": "CLARIN",

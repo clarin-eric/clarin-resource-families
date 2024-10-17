@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains MA and PhD theses published between 1999 and 2016.\nThe corpus is available for online querying through the concordancer Korp (FIN-CLARIN distribution).",
       "Languages": ["deu"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["560,000 tokens"],
       "Annotation": ["No annotation"],
       "Infrastructure": "CLARIN",

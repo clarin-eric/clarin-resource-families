@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains e-mails, forum posts, online chats, tweets and SMS.\nThe corpus is available for download from Ortolang.",
       "Languages": ["fra"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["80 million tokens"],
       "Annotation": ["tokenised", "mostly untagged"],
       "Infrastructure": "CLARIN",

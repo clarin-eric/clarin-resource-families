@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus consists of Facebook posts gathered from 136 Facebook users from South Tyrol. All texts are anonymised.\nThe corpus is available for download from the EURAC Research CLARIN repository.",
       "Languages": ["deu","ita","eng","lad"],
-      "License": "ACA-BY-NC-NORED 1.0",
+      "Licence": "ACA-BY-NC-NORED 1.0",
       "Size": ["600,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

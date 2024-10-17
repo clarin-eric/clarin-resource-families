@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This is a parallel corpus of George Orwell's 1984 and its translations.\nThe corpus is available for download from CLARIN.SI.",
       "Languages": ["bul", "ces", "eng", "est", "hun", "mkd", "fas", "pol", "ron", "srp", "slk", "slv"],
-      "License": "CC BY-NC SA 4.0",
+      "Licence": "CC BY-NC SA 4.0",
       "Size": ["12 texts", "79,718 sentences", "1,064,424 words"],
       "Annotation": ["sentence-alignment", "MSD tagging"],
       "Infrastructure": "CLARIN",

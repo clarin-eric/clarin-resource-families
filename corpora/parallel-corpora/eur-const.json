@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains European Constitution documents.\nThe corpus is available for download through the CLARIN:el repository.",
       "Languages": ["21 languages"],
-      "License": "Open For Reuse With Restrictions",
+      "Licence": "Open For Reuse With Restrictions",
       "Size": ["3 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

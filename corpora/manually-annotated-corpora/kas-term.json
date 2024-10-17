@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains term candidates from PhD theses in chemistry, computer science and political science.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["slv"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["22,950 term candidates"],
       "Annotation": ["monolingual term extraction"],
       "Infrastructure": "CLARIN",

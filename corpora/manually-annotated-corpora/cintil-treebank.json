@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains literary and newspaper texts.\nThe corpus is available for download from the PORTULAN CLARIN repository.",
       "Languages": ["por"],
-      "License": "MS-NC-No ReD-ND",
+      "Licence": "MS-NC-No ReD-ND",
       "Size": ["110,000 tokens"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

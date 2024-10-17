@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "This corpus contains speeches delivered by 5 members of parliament: Dimitris Anagnostakis, Nikos Tsoukalis, Paros Koukoulopoulos, Niki Founta, and Panayiotis Kammenos.\nThe corpus is available for download from the CLARIN:el repository.",
       "Languages": ["ell"],
-      "License": "CC-BY-NC",
+      "Licence": "CC-BY-NC",
       "Size": ["258,036 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

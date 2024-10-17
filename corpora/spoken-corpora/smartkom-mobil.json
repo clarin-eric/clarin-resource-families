@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains multi modal recordings of 73 actors who use the SmartKom system. SmartKom Mobil is a portable PDA equipped with a net link and additional intelligent communication devices. Naive users were asked to test a 'prototype' for a market study not knowing that the system was in fact controlled by two human operators. They were asked to solve two tasks in a period of 4,5 min while they were left alone with the system. The instruction was kept to a minimum; in fact the user only knew that the system is able to understand speech, gestures and should more or less communicate like a human. Experiments were not performed in the field but rather in a studio-like environment.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["11 hours"],
       "Annotation": ["orthographically transcribed", "phonemic", "gestures", "mimic", "emotions"],
       "Infrastructure": "CLARIN",

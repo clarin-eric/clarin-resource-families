@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This is a subcorpus of the META-NORD Acquis Parallel Treebank. The corpus is syntactically parsed using the <a href=\"http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf\">FinnTreeBank 2</a> schema and is available for download and online browsing through INESS (CLARINO).",
       "Languages": ["fin"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["122 sentences", "1464 words"],
       "Annotation": ["syntactically parsed (constituency)", "sentence/phrase/word segmentation"],
       "Infrastructure": "CLARIN",

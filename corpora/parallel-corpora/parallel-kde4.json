@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains KDE4 localization files.\nThe corpus is available for download from the CLARIN:el repository.",
       "Languages": ["92 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["60 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

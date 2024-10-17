@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains environmental and legislative texts in English and their French and Greek translations.\nThe corpus is available for download from the ELRA catalogue.",
       "Languages": ["3 languages"],
-      "License": "ELRA END USER",
+      "Licence": "ELRA END USER",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus contains Estonian-English translations of the Acts of Estonian law.\nThe corpus is available for download from PORTULAN.",
       "Languages": ["Estonian-English"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["47,000 units"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

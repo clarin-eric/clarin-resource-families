@@ -5,7 +5,7 @@
       "Description": "This is a free corpus query tool for linguists, lexicographers, translators, and anybody who wishes to search and analyse a text corpus. The tool works with any corpus, with installers for a number of widely used ones.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "GPL3",
+      "Licence": "GPL3",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",

@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous speech.",
       "Languages": ["hun"],
-      "License": "restricted",
+      "Licence": "restricted",
       "Size": ["465 recordings"],
       "Annotation": ["partial transcription"],
       "Infrastructure": "Other",

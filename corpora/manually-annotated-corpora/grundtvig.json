@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains the literary works of the Danish bishop N.F.S Grundtvig.\nThe corpus is available for download from the CLARIN-DK repository.",
       "Languages": ["dan"],
-      "License": "CC BY-NC 4.0",
+      "Licence": "CC BY-NC 4.0",
       "Size": ["11,417,194 words"],
       "Annotation": ["linked data (places, persons, bible citations, etc.)"],
       "Infrastructure": "CLARIN",

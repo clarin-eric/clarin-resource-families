@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains debates of the European Parliament in the following language pairs: Bulgarian-English, Czech-English, Portuguese-English, Spanish-English, and Basque-English.\nThe corpus is available for download from LINDAT.",
       "Languages": ["6 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["52 million tokens"],
       "Annotation": ["tokenised", "WSD", "NER", "CR-tagged"],
       "Infrastructure": "CLARIN",

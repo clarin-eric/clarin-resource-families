@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts related to computer and IT troubleshooting for the following language pairs: Bulgarian-English, Czech-English, Portuguese-English, Spanish-English, and Basque-English\nThe corpus available for download from META-SHARE under the CC-BY license.",
       "Languages": ["5 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["140,000 tokens"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "Other",

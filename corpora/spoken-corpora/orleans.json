@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of the everyday speech of Orléans residents between 1969 and 1974.\nThe corpus is available for download from the Huma-num repository.",
       "Languages": ["fra"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

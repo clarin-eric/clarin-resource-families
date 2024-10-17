@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains narratives (e.g., folk storites).\nThe corpus is available for download from a dedicated website.",
       "Languages": ["Udmurt", "Tundra Nenets", "Synya Khanty", "Surgut Khanty"],
-      "License": "",
+      "Licence": "",
       "Size": ["108,000 tokens", "4 hours"],
       "Annotation": ["MSD-tagged", "time-alignment", "phonetic and orthographic transcription"],
       "Infrastructure": "Other",

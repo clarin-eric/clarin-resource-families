@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "The corpus has been collected to investigate of the expression of spatial relations by children with SLI and normally developing children in their spoken language production. ",
       "Languages": ["nld"],
-      "License": "CLARIN PUB (Transcriptions), CLARIN RESTRICTED (Recordings)",
+      "Licence": "CLARIN PUB (Transcriptions), CLARIN RESTRICTED (Recordings)",
       "Size": ["2 GB"],
       "Annotation": ["Praat transcripts"],
       "Infrastructure": "CLARIN", 

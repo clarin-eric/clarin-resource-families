@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains poems from 1564 to 1939.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["fin", "krl", "lud", "lat", "swe", "olo", "izh", "vot"],
-      "License": "CC-BY-NC",
+      "Licence": "CC-BY-NC",
       "Size": ["7.1 million words"],
       "Annotation": ["normalised (added diacritics)"],
       "Infrastructure": "CLARIN",

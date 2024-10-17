@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of communication between air traffic controllers and pilots.\nThe corpus is available for download from LINDAT and through the concordancer KonText.",
       "Languages": ["eng"],
-      "License": "CC BY-NC-ND 3.0",
+      "Licence": "CC BY-NC-ND 3.0",
       "Size": ["20 hours"],
       "Annotation": ["speaker information"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from a large variety of Finnish and Swedish newspapers (over 100 for each language) from 1770 to 2011.\nThe corpus can be accessed through the concordancer Korp.",
       "Languages": ["swe","fin"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["8.8 billion tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",

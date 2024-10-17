@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 24,164 issues of 10 newspapers published in Finland between 1900 and 1910.",
       "Languages": ["fin","swe"],
-      "License": "Public",
+      "Licence": "Public",
       "Size": ["393,776,815 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

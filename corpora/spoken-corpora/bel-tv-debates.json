@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains broadcast TV debates.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
       "Languages": ["deu"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["10 hours"],
       "Annotation": ["orthographically transcribed", "lemmatized"],
       "Infrastructure": "CLARIN",

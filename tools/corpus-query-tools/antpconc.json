@@ -5,7 +5,7 @@
       "Description": "This is a freeware parallel corpus analysis toolkit for concordancing and text analysis using UTF-8 encoded text files.",
       "Functionality": ["Parallel Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",

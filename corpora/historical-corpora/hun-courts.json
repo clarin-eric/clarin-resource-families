@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains private letters and testimonies from the 16th to the 18th  century.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["hun"],
-      "License": "",
+      "Licence": "",
       "Size": ["850,000 words"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised", "sociolinguistic metadata"],
       "Infrastructure": "Other",

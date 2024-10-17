@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "A small sample is available for download from the GitHub webpage of the corpus.",
       "Languages": ["deu"],
-      "License": "",
+      "Licence": "",
       "Size": ["Only a small sample available"],
       "Annotation": [],
       "Infrastructure": "Other",

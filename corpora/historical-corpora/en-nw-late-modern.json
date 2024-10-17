@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1761 to 1790.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["eng"],
-      "License": "Oxford Text Archive licence",
+      "Licence": "Oxford Text Archive licence",
       "Size": ["300,000 words"],
       "Annotation": ["COCOA-style"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus consists of 60 transcripts from interactions in everyday contexts between 6 children and their caregivers (10 transcripts per child), recorded longitudinally, for the period when the children are 18 to 27 months of age. All six children are growing up in middle class environments, in Sweden and Thailand (Bangkok area) respectively. The videos of the corpus are linked to the transcripts, on an utterance-by-utterance basis using the software CLAN (MacWhinney <a href=\"https://talkbank.org/manuals/CLAN.pdf\">2020</a>).\nThe corpus is available for <a href=\"http://hdl.handle.net/10050/00-0000-0000-0000-0002-7@view\">online browsing</a> (CLARIN K-Centre Lund University Humanities Lab).",
       "Languages": ["swe", "tha"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": ["video-transcription alignment", "word segmentation", "phonetic transcription"],
       "Infrastructure": "CLARIN",

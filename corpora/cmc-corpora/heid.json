@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "The corpus contains tweets.",
       "Languages": ["pol"],
-      "License": "",
+      "Licence": "",
       "Size": ["160 milllion tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

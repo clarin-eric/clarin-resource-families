@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the https://globalvoices.org/ website, where volunteers publish and translate news stories in more than 40 languages.",
       "Languages": ["40  languages"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["8 million units"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

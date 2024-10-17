@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains transcripts and audio recordings of spoken  academic discourse, primarily talks including discussions and oral exams.",
       "Languages": ["German (L2 and L1)", "eng", "pol", "Italian (L1)"],
-      "License": "",
+      "Licence": "",
       "Size": ["1.4 million tokens", "123 hours"],
       "Annotation": ["code switching"],
       "Infrastructure": "CLARIN",

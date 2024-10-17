@@ -5,7 +5,7 @@
       "Description": "This is a combination of an annotation and analysis tool for use with either simple XML files or basic plain-text files.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",

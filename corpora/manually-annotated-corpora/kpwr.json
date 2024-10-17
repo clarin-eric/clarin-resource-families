@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains texts in a variety of domains (blogs, science, stenographic recordings, etc.).\nThe corpus is available for download from the CLARIN-PL repository.",
       "Languages": ["pol"],
-      "License": "CC BY-SA 3.0",
+      "Licence": "CC BY-SA 3.0",
       "Size": ["447,000 tokens"],
       "Annotation": ["chunks and selected predicate-argument relations", "Named Entity recognition", "relations between named entities", "anaphora relations", "word senses", "events", "temporal expressions", "spatial relations between entities", "keywords and semantic roles within nominal and adjective phrases"],
       "Infrastructure": "CLARIN",

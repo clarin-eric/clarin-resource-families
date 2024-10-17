@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains Old French texts.\nThe corpus is available for download from the IMS CLARIN-D repository.",
       "Languages": ["fra"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["245,000 words"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

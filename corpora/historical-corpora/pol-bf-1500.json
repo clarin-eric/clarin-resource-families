@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts until 1500.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["pol","lat"],
-      "License": "",
+      "Licence": "",
       "Size": ["620,000 tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

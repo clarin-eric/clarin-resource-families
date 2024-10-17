@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of adolescent pupils in Switzerland.",
       "Languages": ["Swiss German"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["92 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

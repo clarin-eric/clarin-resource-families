@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of ultrasound tongue imaging and audio data, gathered from children with speech sound disorders by speech and language therapists in hospital environments.\n11 female speakers and 26 male, aged 5-12 years. There is one recording per child.\nThe following metadata are available for each recording: speech waveform, raw ultrasound data, ultrasound parameters, and prompt text with date/time of utterance recording. ",
       "Languages": ["English (Scottish)"],
-      "License": "open access",
+      "Licence": "open access",
       "Size": ["37 speakers"],
       "Annotation": ["Orthographic", "phonetic"],
       "Infrastructure": "Other", 

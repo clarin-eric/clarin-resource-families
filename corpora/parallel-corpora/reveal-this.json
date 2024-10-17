@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This is a multilingual corpus of English, French and Greek.",
       "Languages": ["3 languages"],
-      "License": "under negotiation",
+      "Licence": "under negotiation",
       "Size": ["325,000 words"],
       "Annotation": [],
       "Infrastructure": "Other",

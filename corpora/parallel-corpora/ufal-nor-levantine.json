@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains multiparallel sentences in English, French, German, Greek, Spanish, and Standard Arabic.\nThe sentences have been selected from the <a href=\"http://opus.nlpl.eu/OpenSubtitles2018.php\">OpenSubtitles2018</a> corpus and are manually translated into the North Levantine Arabic language.\nThe corpus is available for download from LINDAT.",
       "Languages": ["6 languages"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["844,200 sentences", "6.2 million words"],
       "Annotation": ["sentence aligned"],
       "Infrastructure": "CLARIN",

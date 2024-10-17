@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous conversations.\nThis corpus is available for online querying through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "CC-0",
+      "Licence": "CC-0",
       "Size": ["218 tokens"],
       "Annotation": ["PoS-tagged"],
       "Infrastructure": "CLARIN",

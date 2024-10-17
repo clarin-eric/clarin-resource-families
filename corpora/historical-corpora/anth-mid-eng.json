@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains literary texts from 1100 to 1400.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["enm","heb"],
-      "License": "Oxford Text Archive licence",
+      "Licence": "Oxford Text Archive licence",
       "Size": ["4000 words"],
       "Annotation": ["no linguistic annotation"],
       "Infrastructure": "CLARIN",

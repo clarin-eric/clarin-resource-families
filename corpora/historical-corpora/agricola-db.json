@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1544 to 1551 written by the clergyman <a href=\"https://en.wikipedia.org/wiki/Mikael_Agricola\">Mikael Agricola</a>.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "CC-BY-ND",
+      "Licence": "CC-BY-ND",
       "Size": ["428,300 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "morphological components and syntactic function"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "ACADEMIC (PDTSL)",
+      "Licence": "ACADEMIC (PDTSL)",
       "Size": ["120,000 words"],
       "Annotation": ["syntactic dependencies"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains tracts from 1640 to 1740.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["eng"],
-      "License": "CC-BY-NC-SA 3.0",
+      "Licence": "CC-BY-NC-SA 3.0",
       "Size": ["50,797,916 words"],
       "Annotation": ["no linguistic annotation"],
       "Infrastructure": "CLARIN",

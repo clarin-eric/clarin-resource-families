@@ -5,7 +5,7 @@
       "Description": "This tool includes a concordancer, vocabulary profiler, exercise maker, interactive exercises, and much more.\nIt is possible to upload one's own corpus with this tool (10 MB limit",
       "Functionality": ["Querying/concordancing", "corpus upload and analysis"]
       "Languages": ["eng", "fra"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "External",

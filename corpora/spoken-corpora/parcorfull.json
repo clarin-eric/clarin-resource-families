@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains planned speech and newswire.\nThe corpus is available for download from LINDAT.",
       "Languages": ["eng", "deu"],
-      "License": "CC BY-NC-ND 4.0",
+      "Licence": "CC BY-NC-ND 4.0",
       "Size": ["160,000 tokens"],
       "Annotation": ["coreference (nominal and clausal)"],
       "Infrastructure": "CLARIN",

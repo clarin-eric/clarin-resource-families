@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This corpus covers spontaneous child-caregiver interactions focused on five deaf and eight hearing children acquiring Kata Kolok natively. Ages range between 4 months and 8;4 years of age.\nThe corpus is not freely accessible due to the vulnerable target group. Contact person: <a href=\"mailto: h.lutzenberger@bham.ac.uk\">Hannah Lutzenberger</a>",
       "Languages": ["Kata Kolok (Benkala Sign Language)"],
-      "License": "Restricted",
+      "Licence": "Restricted",
       "Size": ["Data from four focal deaf children accumulates to 95h 24min (Lutzenberger 2022:282)."],
       "Annotation": ["Translations in Indonesian and English, ID-glosses linked to the Kata Kolok SignBank"],
       "Infrastructure": "CLARIN",

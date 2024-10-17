@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The Visibase corpus is a collection of digitised and described NGT material that was present in the late 1990s at the sign language research groups at the University of Amsterdam and at Leiden University. The project lasted from 1996–2001 and was based at Radboud University, University of Amsterdam and Utrecht University.",
       "Languages": ["Dutch Sign Language (NGT)"],
-      "License": "Restricted",
+      "Licence": "Restricted",
       "Size": ["32 recordings"],
       "Annotation": ["yes"],
       "Infrastructure": "CLARIN",

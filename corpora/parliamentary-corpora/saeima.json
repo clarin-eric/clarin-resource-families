@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "This corpus contains parliamentary debates from seven parliamentary terms (5th–12th Saeima) covering years 1993–2017. The available metadata for each utterance includes the date and type of the parliamentary session and speakers’ names and affiliations.\nThe corpus is available for online browsing through the noSketch Engine (CLARIN-LV) concordancer.",
       "Languages": ["lav"],
-      "License": "",
+      "Licence": "",
       "Size": ["21 million words"],
       "Annotation": ["tokenised", "msd-tagged", "lemmatised", "syntactically parsed", "named entities"],
       "Infrastructure": "CLARIN",

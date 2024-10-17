@@ -5,7 +5,7 @@
       "Description": "This tool is part of a linguistic development environment, which includes functionality for text and corpus analysis.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "GPL Academic - Non-commercial (Java version)",
+      "Licence": "GPL Academic - Non-commercial (Java version)",
       "Size": [],
       "Platform": ["Windows (cut-down java version also available for other OS)"],
       "Infrastructure": "External",

@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains scientific articles and PhD theses. The corpus data are in the P5 format.",
       "Languages": ["est"],
-      "License": "CLARIN ACA-NC",
+      "Licence": "CLARIN ACA-NC",
       "Size": ["5 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

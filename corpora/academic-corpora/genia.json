@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains journal paper abstracts in biomedicine. The corpus data are in various formats, e.g., PTB.\nThe corpus is available for download from PORTULAN.",
       "Languages": ["eng"],
-      "License": "free but unspecified",
+      "Licence": "free but unspecified",
       "Size": ["437,000 words"],
       "Annotation": ["PoS-tagged", "syntactically parsed", "annotated for terms, events, semantic relations and coreference", "text metadata"],
       "Infrastructure": "CLARIN",

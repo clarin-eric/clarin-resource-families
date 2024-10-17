@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains early Italian texts before 1375.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["ita"],
-      "License": "",
+      "Licence": "",
       "Size": ["23 million tokens"],
       "Annotation": ["tokenised", "lemmatised"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains speech recordings of normal hearing speakers and speakers equipped with Cochlear Implants (CI). Speech data were collected with the software SpeechRecorder, for each recording a BPF file was generated (*.par).",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["5 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

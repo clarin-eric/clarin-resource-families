@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "",
       "Languages": ["mlt"],
-      "License": "MIT (academic)",
+      "Licence": "MIT (academic)",
       "Size": ["20.9 million tokens"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

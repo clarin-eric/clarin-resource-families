@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This is a parallel corpus of the <a href=\"https://eur-lex.europa.eu/homepage.html\">European Union Law</a> pertaining to COVID-19 period.\nThe corpus is available for download from the PORTULAN repository.",
       "Languages": ["eng", "por"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["21,000 units"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

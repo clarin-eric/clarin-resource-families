@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus is available through the concordancer Korp (account needed).",
       "Languages": ["swe"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["1,470,000 tokens"],
       "Annotation": ["MSD-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

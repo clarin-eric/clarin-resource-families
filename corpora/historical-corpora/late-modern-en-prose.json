@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains fictional texts from 1837 to 1926.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["eng"],
-      "License": "Oxford Text Archive licence",
+      "Licence": "Oxford Text Archive licence",
       "Size": ["580,056 words"],
       "Annotation": ["no annotation"],
       "Infrastructure": "CLARIN",

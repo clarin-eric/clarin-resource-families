@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.",
       "Languages": ["deu", "fra", "ita"],
-      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["79 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

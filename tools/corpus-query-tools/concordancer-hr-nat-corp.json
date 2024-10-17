@@ -5,7 +5,7 @@
       "Description": "This is an implementation of NoSketchEngine for the <a href=\"http://hdl.handle.net/11372/LRT-233\">Croatian National Corpus</a>.",
       "Functionality": ["Querying/concordancing"]
       "Languages": ["hrv"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "CLARIN-HR",

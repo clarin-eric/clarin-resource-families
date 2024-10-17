@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The corpus is made up of 25 dialogs of interlocutors (50), who engage in a spatial communication task combining direction-giving and sight description. Six of those dialogues with data only from the direction giver are available including audio (*.wav) and video (*.mp4) data.  There are 1764 isolated gestures in the corpus",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["9881 words"],
       "Annotation": ["Annotations of gestures and speech-gesture referents"],
       "Infrastructure": "CLARIN",

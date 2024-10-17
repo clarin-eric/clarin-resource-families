@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This corpus consists of video material from 31 signers of DTS from Denmark. The Corpus is used to build a DTS-Danish Dictionary. The Danish Sign Language Dictionary project building the corpus is based at the Bachelor’s Degree Programme in Danish Sign Language and Speech-to-text Interpreter at the University College Copenhagen and led by Mads Jonathan Pedersen and Thomas Troelsgård. The project started 2014 and is still ongoing.",
       "Languages": ["Danish Sign Language (DTS)"],
-      "License": "Only for internal use (= the dictionary staff) and guest researchers",
+      "Licence": "Only for internal use (= the dictionary staff) and guest researchers",
       "Size": ["4.5 hours"],
       "Annotation": ["ID-glosses and (ideally) sense indicators"],
       "Infrastructure": "Other",

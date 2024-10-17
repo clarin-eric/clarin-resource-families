@@ -5,7 +5,7 @@
       "Description": "This tool is a corpus linguistics software package which is specifically designed to find all the co-occurrences of words in a text or corpus irrespective of variation. This is a commercial tool, available for purchase on optical disc.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "External",

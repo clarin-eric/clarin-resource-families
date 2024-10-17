@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The corpus contains recordings of human-machine interaction and read speech performed by children, non-native speakers and senior people.\nThe corpus is available download from the Dutch Language Institute.",
       "Languages": ["nld"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["115 hours"],
       "Annotation": ["PoS-tagged", "lemmatised", "phonetically transcribed"],
       "Infrastructure": "CLARIN",

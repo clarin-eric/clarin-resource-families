@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "The corpus is listed in the LINDAT repository. ",
       "Languages": ["hrv"],
-      "License": "",
+      "Licence": "",
       "Size": ["1 million tokens"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains manually annotated Croatian tweets. It is meant as a gold-standard training and testing dataset for tokenisation, sentence segmentation, word normalisation, morphosyntactic tagging, lemmatisation and named entity recognition of non-standard Serbian. Each tweet is also annotated for its automatically assigned standardness levels (T = technical standardness, L = linguistic standardness)..\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["hrv"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["89,855 tokens"],
       "Annotation": ["tokenisation", "sentence segmentation", "word normalisation", "morphosyntactic tagging", "lemmatisation", "Named Entity recognition"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is manually annotated at several levels – aside from syntactic parsing and morphological information, it is annotation for sentence information structure, multiword expression, coreference, bridging relations and discourse relations.\nThe corpus is available for download from the LINDAT repository.",
       "Languages": ["ces"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["2 million words"],
       "Annotation": ["syntactic parsing", "morphosyntactic tagging"],
       "Infrastructure": "CLARIN",

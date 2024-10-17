@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains complete parliamentary speeches in the key legislative chambers of Austria, the Czech Republic, Germany, Denmark, the Netherlands, New Zealand, Spain, Sweden, and the United Kingdom, covering periods between 21 and 32 years.\nThe corpus is available for download from the Harvard Dataverse repository.",
       "Languages": ["deu", "ces", "dan", "nld", "eng", "spa", "swe"],
-      "License": "CC0",
+      "Licence": "CC0",
       "Size": ["6.3 million parliamentary speeches"],
       "Annotation": ["date, speaker, party, agenda item metadata"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Czech parliamentary debates from 1993 to 2010. It is annotated with <a href=\"https://nlp.fi.muni.cz/projekty/ajka/\">ajka</a>.\nThe corpus is available through the Sketch Engine.",
       "Languages": ["ces"],
-      "License": "",
+      "Licence": "",
       "Size": ["81.9 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged and lemmatised"],
       "Infrastructure": "Other",

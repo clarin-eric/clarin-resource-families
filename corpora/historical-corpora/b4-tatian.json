@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains the OHG Tatian, which is one of the largest prose texts from the Old High German period.\nThe corpus is available for download and through a concordancer from the repository of the University of Hamburg.",
       "Languages": ["lat", "goh"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["11,300 tokens"],
       "Annotation": ["tokenised", "MSD-tagged"],
       "Infrastructure": "CLARIN",

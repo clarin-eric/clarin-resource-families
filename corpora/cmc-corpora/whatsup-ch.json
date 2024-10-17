@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains 216 WhatsApp chats from 2014.\nThe corpus is accessible online through the ANNIS system.",
       "Languages": ["gsw","deu","fra","ita","roh"],
-      "License": "",
+      "Licence": "",
       "Size": ["5 million tokens"],
       "Annotation": "",
       "Infrastructure": "Other",

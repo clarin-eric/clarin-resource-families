@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus contains legal texts from 1814 to 1989, compiled year by year.\nThe corpus is available for online browsing on a dedicated webpage",
       "Languages": ["nld"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["5,856 texts"],
       "Annotation": ["lemmatised", "PoS-tagged"],
       "Infrastructure": "CLARIN",

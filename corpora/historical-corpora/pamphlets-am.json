@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains pamphlets of the American Revolution from 1750 to 1776.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["eng"],
-      "License": "CC-BY-NC-SA 3.0",
+      "Licence": "CC-BY-NC-SA 3.0",
       "Size": ["431,013 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

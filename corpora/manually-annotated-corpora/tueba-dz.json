@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains newspaper articles.\nThe corpus is available for download from the Tübingen CLARIN Repository.",
       "Languages": ["deu"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["1.9 million tokens"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

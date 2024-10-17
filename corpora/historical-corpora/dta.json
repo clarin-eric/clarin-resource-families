@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 17th to the 20th century.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["deu"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["215,168,761 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

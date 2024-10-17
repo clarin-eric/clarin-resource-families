@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains 19,000 sentences from the Large Grammar of Finnish.\nThe corpus is available for download from the Language Bank of Finland.",
       "Languages": ["fin"],
-      "License": "CC-BY 3.0",
+      "Licence": "CC-BY 3.0",
       "Size": ["160,000 tokens"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

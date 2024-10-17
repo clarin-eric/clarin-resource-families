@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This is a corpus of 19 discourses (narratives and other genres).\nThe corpus is available for download from the Huma-num repository (COCOON).",
       "Languages": ["Maurician sign Language (LSM)"],
-      "License": "CC BY-NC-ND 4.0",
+      "Licence": "CC BY-NC-ND 4.0",
       "Size": ["19 discourses (narratives and other genres)"],
       "Annotation": ["partially annotated corpus"],
       "Infrastructure": "CLARIN",

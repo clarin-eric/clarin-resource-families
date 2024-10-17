@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This is a collection of six datasets recorded and created by the <a href=\"https://content4all-project.eu/\">Content4All research project</a>. The datasets are hosted by University of Surrey and are password protected. To request download credentials, please contact <a href=\"mailto: r.bowden@surrey.ac.uk\">Richard Bowden</a>.",
       "Languages": ["Flemish Sign Language (VGT)", "Swiss-German Sign Language (DSGS)"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "Other",

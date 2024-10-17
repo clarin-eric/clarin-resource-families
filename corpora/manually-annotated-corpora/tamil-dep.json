@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "The syntactic parsing follows the rules of the https://ufal.mff.cuni.cz/pdt/.\nThe corpus is available for download from the LINDAT repository.",
       "Languages": ["tam"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["600 sentences"],
       "Annotation": ["syntactic parsing", "morphosyntactic tagging"],
       "Infrastructure": "CLARIN",

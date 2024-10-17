@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains scientific texts and argumentative essays in humanities, experimental sciences, and applied/technical sciences.\nThe corpus is available for online querying through a dedicated webpage.",
       "Languages": ["fra","eng"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["20 million words"],
       "Annotation": [],
       "Infrastructure": "Other",

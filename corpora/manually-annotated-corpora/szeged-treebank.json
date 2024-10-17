@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from a dedicated webpage.",
       "Languages": ["hun"],
-      "License": "<a href=\"http://www.inf.u-szeged.hu/projectdirs/hlt/en/Sz.T.%202.0_licenc-en.doc\">licence agreement</a>",
+      "Licence": "<a href=\"http://www.inf.u-szeged.hu/projectdirs/hlt/en/Sz.T.%202.0_licenc-en.doc\">licence agreement</a>",
       "Size": ["82,000 sentences"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

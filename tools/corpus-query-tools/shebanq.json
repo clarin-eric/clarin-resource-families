@@ -5,7 +5,7 @@
       "Description": "This is a dedicated online environment for querying the Hebrew Bible.",
       "Functionality": ["Querying/concordancing"]
       "Languages": ["heb"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "CLARIAH-NL",

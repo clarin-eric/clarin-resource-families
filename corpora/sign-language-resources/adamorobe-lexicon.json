@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This lexicon contains 250 signs in isolation. For a subset of the signs, encodings about phonological and iconic features are available.\nThe lexicon is available for download from the MPI Language Archive.",
       "Languages": ["Adamorobe Sign Language"],
-      "License": "Restricted",
+      "Licence": "Restricted",
       "Size": ["250 signs"],
       "Annotation": ["partial (phonology and iconicity)"],
       "Infrastructure": "CLARIN",

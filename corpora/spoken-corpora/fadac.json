@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains informal interviews.",
       "Languages": ["fao", "dan"],
-      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": [],
       "Annotation": ["<a href=\"https://exmaralda.org/en/2018/11/26/eadh-workshop-annotation-of-digital-oral-data-collections-in-the-humanities-and-social-sciences-3/\">EXMARaLDA</a>"],
       "Infrastructure": "CLARIN",

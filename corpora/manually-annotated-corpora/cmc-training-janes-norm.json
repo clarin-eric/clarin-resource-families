@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is partially also manually annotated with MSD tags and lemmatized.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
       "Languages": ["slv"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["184,755 tokens"],
       "Annotation": ["normalization"],
       "Infrastructure": "CLARIN",

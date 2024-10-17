@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "The corpus of Early Modern Finnish contains Finnish-language works in various fields published during the 19th century, annual issues of the oldest periodicals and newspapers, almanac and decree texts, and some dictionaries. An effort has been made to include the earliest, most important and (based on the number of reprints, for example) most widely distributed works. The selection of publications has also been made with a view to achieving the widest possible thematic coverage, although more works originally written in Finnish have been included than translations. These have been alphabetised by the name of their translator, seasonal publications by their title, and other works by their author. The Finnish translations of unknown authors are in the Anonymous folder, the texts of unknown authors in the Other folder. The materials cover the period between Old and Modern English and a little beyond. The earliest book dates from 1809, the latest from 1891, but there are texts of the regulations right up to the end of the century. However, most of the material is from 1810-1880. This later material can also be found in the Classics corpus.",
       "Languages": ["fin"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

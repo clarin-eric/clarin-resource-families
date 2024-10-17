@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews in German extraterritorial varieties.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
       "Languages": ["deu"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["225,000 words", "51 hours"],
       "Annotation": ["PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],
       "Infrastructure": "CLARIN",

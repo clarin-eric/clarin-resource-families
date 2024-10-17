@@ -5,7 +5,7 @@
       "Description": "The SPAADIA concordancer (32bit Windows version): a concordancer (mainly) for use with the <a href=\"https://martinweisser.org/\">SPAADIA</a> corpus.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": ["Windows", "MacOS"],
       "Infrastructure": "External",

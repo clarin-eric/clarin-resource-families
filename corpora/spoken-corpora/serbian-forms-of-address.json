@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus consists of transcripts of audio-recorded biographical interviews with 19 participants. The interviews are about forms of address that speakers use in colloquial and in formal settings, and about their attitudes and evaluations concerning particular forms of address.\nWe provide original transcripts (written according to GAT conventions), as well as transcripts in CoNLL-U and TEI-XML format. The corpus has been normalised, tagged with morphosyntactic and lemma information using the CLASSLA-StanfordNLP tagger, and aligned with the respective turns in the audio files. Time alignments as well as partial annotation corrections are stored in TEI-XML.\nThe corpus is available for download from CLARIN.SI as well as through the noSketchEngine and KonText concordancers.",
       "Languages": ["srp"],
-      "License": "CC BY-NC-SA 4.1",
+      "Licence": "CC BY-NC-SA 4.1",
       "Size": ["171,546 words"],
       "Annotation": ["MSD-tagged", "lemmatised", "normalised"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the newspaper <a href=\"http://www.ub.gu.se/kvinn/digtid/04/\">Rösträtt för Kvinnor</a> from 1912 to 1919.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
       "Languages": ["swe"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["2.2 million tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],
       "Infrastructure": "CLARIN",

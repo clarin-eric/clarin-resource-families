@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains tweets, chats and SMS from 2005 to 2012.\nThe corpus is available for searching online through the OpenSONAR environment.",
       "Languages": ["nld"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["35 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

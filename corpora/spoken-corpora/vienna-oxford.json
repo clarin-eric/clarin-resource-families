@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains naturally occurring, non-scripted face-to-face interactions in English as a lingua franca (ELF).\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["eng"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "Other",

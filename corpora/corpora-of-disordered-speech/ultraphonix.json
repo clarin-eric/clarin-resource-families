@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of ultrasound and audio recordings from children with speech sound disorders. It contains data from 20 speakers (16 male, 4 female), aged 6-13 years. ",
       "Languages": ["English (Scottish)"],
-      "License": "open access",
+      "Licence": "open access",
       "Size": ["19 hours"],
       "Annotation": ["Orthographic", "phonetic"],
       "Infrastructure": "Other", 

@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus consists of audio recordings and manual transcripts from the Južne Vesti website and its host show called the <a href=\"https://www.juznevesti.com/Tagovi/Intervju-15-minuta.sr.html\">15 minuta</a>. The processing of the audio and its alignment to the manual transcripts followed the pipeline of the <a href=\"http://hdl.handle.net/11356/1494\">ParlaSpeech-HR dataset</a> as closely as possible. Segments in this dataset range from 2 to 30 seconds. Train-dev-test split has been performed with 80:10:10 ratio.\nAs with the ParlaSpeech-HR dataset, two transcriptions are provided; one with transcripts in their raw form (with punctuation, capital letters, numerals) and another normalised with the same rule-based normaliser as was used in ParlaSpeech-HR dataset creation, which is lowercased, punctuation is removed and numerals are replaced with words. The speaker_info attribute is less abundant due to the fact that compared to parliamentary corpora less data is available in this domain, so it covers only the guest name, guest description, host name, and speaker breakdown (when the host or the guest are speaking).\nThis corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["srp"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["50.55 hours", "10811 entries"],
       "Annotation": ["normalised transcriptions (lowercased, punctuation removed, numerals spelled out)", "speaker metadata", "word-level alignment to the recordings"],
       "Infrastructure": "CLARIN",

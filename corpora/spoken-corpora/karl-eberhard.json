@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains 79 speakers of Southern German. Two speakers, usually acquainted with each other, had an one hour long conversation in separate booths. ",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["40 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

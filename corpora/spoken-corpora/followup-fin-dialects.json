@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT-platform.",
       "Languages": ["fin"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["12,200 Hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

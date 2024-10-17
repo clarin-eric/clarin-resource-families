@@ -5,7 +5,7 @@
       "Description": "This is a dedicated concordancer for the Bulgarian National Reference Corpus.",
       "Functionality": ["Querying/concordancing"]
       "Languages": ["bul"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "CLARIN-BG",

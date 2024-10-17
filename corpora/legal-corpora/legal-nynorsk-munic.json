@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus contains 50,000 legal documents and meeting minutes collected with the web crawler Veidemann. Around 88.5 million words are in Nynork, while the rest are in Bokmal (Bokmål).\nThe corpus is available for download from the Norwegian Language Bank.",
       "Languages": ["Norwegian (Nynorsk and Bokmål)"],
-      "License": "CC0 1.0 Universal",
+      "Licence": "CC0 1.0 Universal",
       "Size": ["127 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

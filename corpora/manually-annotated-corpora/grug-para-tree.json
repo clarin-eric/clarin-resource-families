@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "The corpus is syntactically parsed following the <a href=\"https://www.lrde.epita.fr/~tiger/tiger.split/Syntactic-Specifications.html\">TIGER guidelines</a>.\nThe corpus is available for download from a dedicated website provided by the CLARIN-D consortium.",
       "Languages": ["kat", "ukr", "rus", "deu"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["10,400 sentence pairs"],
       "Annotation": ["syntactic parsing", "PoS tagging"],
       "Infrastructure": "CLARIN",

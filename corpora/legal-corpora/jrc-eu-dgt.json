@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "",
       "Languages": ["bul", "hrv", "ces", "dan", "nld", "eng", "est", "fin", "fra", "deu", "hun", "gle", "ita", "lav", "lit", "ell", "pol", "por", "ron", "slk", "slv", "spa", "swe"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["2.1 billion tokens"],
       "Annotation": ["syntactically parsed (Universal Dependencies)"],
       "Infrastructure": "CLARIN",

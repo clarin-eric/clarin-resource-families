@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains TED talks and EU Bookshop publications.\nThe corpus is available for download from the OPUS webpage.",
       "Languages": ["English-German"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": ["pronoun coreference"],
       "Infrastructure": "Other",

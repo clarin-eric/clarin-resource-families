@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from a large variety of Finnish and Swedish newspapers (over 100 for each language) from 1771 to 1874.\nThe corpus can be downloaded from FIN-CLARIN.",
       "Languages": ["swe","fin"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus is available for download (upon request) from META-SHARE.",
       "Languages": ["hun"],
-      "License": "META-SHARE C-NoReD-FF",
+      "Licence": "META-SHARE C-NoReD-FF",
       "Size": [],
       "Annotation": ["phonetic transcription"],
       "Infrastructure": "Other",

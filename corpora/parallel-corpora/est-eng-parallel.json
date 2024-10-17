@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Estonian laws and their translations into English and EU legislation translated into Estonian.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["Estonian-English"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["307,000 sentences"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "CLARIN",

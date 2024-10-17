@@ -5,7 +5,7 @@
       "Description": "This is a simple concordancer.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "GPL3",
+      "Licence": "GPL3",
       "Size": [],
       "Platform": ["Linux", "Windows"],
       "Infrastructure": "External",

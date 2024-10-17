@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains literary, newspaper and biography texts.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["eng"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["260,000 words"],
       "Annotation": ["identification of reported speech"],
       "Infrastructure": "CLARIN",

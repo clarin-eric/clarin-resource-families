@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains texts from the domains of politics, law and travel.\nThis corpus is available for download from the clarin:el repository.",
       "Languages": ["ell"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["600 sentence-pairs"],
       "Annotation": ["logical entailment"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains talks on Christian mysticism given by Karel Makoň.\nThe corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "CC BY-SA 3.0",
+      "Licence": "CC BY-SA 3.0",
       "Size": ["1000 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

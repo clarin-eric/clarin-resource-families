@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains elicited speech tasks (picture descriptions) and guided conversation with children.\nThe corpus is available for download through META-SHARE.",
       "Languages": ["hun"],
-      "License": "restricted",
+      "Licence": "restricted",
       "Size": ["192,000 words"],
       "Annotation": ["PoS-tagged", "MSD-tagged"],
       "Infrastructure": "Other",

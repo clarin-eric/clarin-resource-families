@@ -5,7 +5,7 @@
       "Description": "This tool provides a web interface to the English <a href=\"https://ucrel.lancs.ac.uk/usas/\">USAS</a> and <a href=\"https://ucrel.lancs.ac.uk/claws/\">CLAWS</a> corpus annotation tools, and standard corpus linguistic methodologies such as frequency lists and concordances. It also extends the keywords method to key grammatical categories and key semantic domains.\nIt is possible to upload one's own corpus with this tool. The tool is free for UK government and academic researchers in countries on the <a href=\"https://www.oecd.org/\">OECD DAC</a> list, £50 per username per year for non commercial research and teaching. Technical support is offered <a href=\"http://www.lancaster.ac.uk/staff/rayson/\">here</a>.",
       "Functionality": ["Querying/concordancing", "corpus upload and processing"]
       "Languages": ["eng", "spa"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "CLARIN-UK",

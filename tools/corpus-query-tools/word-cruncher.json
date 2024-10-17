@@ -5,7 +5,7 @@
       "Description": "This tool offers a wide variety of tools for searching, studying, and analyzing texts.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": ["Windows", "iOS"],
       "Infrastructure": "External",

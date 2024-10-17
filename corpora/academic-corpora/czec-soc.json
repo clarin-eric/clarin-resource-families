@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains research papers in sociology published between 1993 and 2016. The corpus data are in the TSV format.\nThe corpus is available for download from the LINDAT repository.",
       "Languages": ["ces"],
-      "License": "MIT",
+      "Licence": "MIT",
       "Size": ["3 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains sentences from Finnish social media that have been manually annotated for sentiment polarity by three native annotators.\nThe corpus is available for download from META-SHARE (the Finnish Language Bank).",
       "Languages": ["fin"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["27,000 sentences"],
       "Annotation": ["sentiment analysis"],
       "Infrastructure": "CLARIN",

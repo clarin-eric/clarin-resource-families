@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 16th century.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["pol","lat"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": ["lemmatised", "transliteration"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus consists of around 237,000 court decisions from three top-tier courts (Supreme, Supreme Administrative, and Constitutional) in Czechia, published between 1993 and 2018.\nThe corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "CC BY-NC 4.0",
+      "Licence": "CC BY-NC 4.0",
       "Size": ["460 million words"],
       "Annotation": ["unannotated"],
       "Infrastructure": "CLARIN",

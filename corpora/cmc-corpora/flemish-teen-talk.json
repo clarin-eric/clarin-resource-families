@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains Facebook posts and WhatsApp messages from 2015 and 2016.",
       "Languages": ["nld"],
-      "License": "",
+      "Licence": "",
       "Size": ["2.9 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

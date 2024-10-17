@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This corpus consists of a set of video recordings of signers who express themselves in LSE, presented together with the glosses of both hands and the Spanish translation. In the first stage, a set of videos with their corresponding glosses and translations are available, which will be expanded in successive phases. You can consult the list of recordings and select by genre or theme criteria, and also by the sex or age range of the signers.The resource can be useful for all those people who need this type of linguistic data for their work, for example, for class exercises, interpretation practices, language evaluations, research on LSE, etc.\nThe corpus is available through a dedicated sarch engine that allows you to explore the corpus and observe the context in which the searched glosses appear.",
       "Languages": ["Spanish Sign Language (LSE)"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": ["annotated for right-hand and left-hand id-glosses and glosses for classifiers and Spanish translations"],
       "Infrastructure": "Other",

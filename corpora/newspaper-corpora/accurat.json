@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This comparable corpus contains sentence pairs extracted from news comparable corpora.\nThe corpus is available for download from the CLARIN:EL repository.\nLanguage pairs: English-Croatian, English- Greek, English-Estonian, English-Latvian, English-Lithuanian, English-Romanian, English-Slovenian, Greek-Romanian, Latvian-Lithuanian, Romanian-German, Romanian-Lithuanian and German-English",
       "Languages": ["eng","hrv","ell","est","lav","lit","ron","slv","deu"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["23,820 sentences"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

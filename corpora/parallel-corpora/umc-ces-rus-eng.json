@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains news articles and commentaries in Czech, Russian, and English from the Project Syndicate website from 1995 to 2008.\nThe corpus is available for download from LINDAT and through the concordancer Korp.",
       "Languages": ["3 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["1.8 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

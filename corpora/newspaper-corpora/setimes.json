@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This parallel corpus contains online news articles extracted from the <a href=\"http://www.setimes.com/\">SETimes webpage</a>.\nThe corpus is available for download from the CLARIN:EL repository.",
       "Languages": ["ron","tur","srp","eng","bul", "mkd", "hrv","ell","sqi"],
-      "License": "Open For Reuse With Restrictions",
+      "Licence": "Open For Reuse With Restrictions",
       "Size": ["341.83 million tokens"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "CLARIN",

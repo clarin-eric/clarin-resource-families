@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains 2274 recordings (approx. 360h) of spoken dialectal German (Saxonian) recorded in Transilvania (Romania) in approx. 250 different locations. This up-to-now unpublished material has been collected on analog tape in the 1960s and 70s by different linguists based at the universities of Bukarest, Hermannstadt and Klausenburg.",
       "Languages": ["Bavarian", "deu", "ron"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["450,000 words"],
       "Annotation": ["Geomapping", "orthographic/partial phonetic transcription", "semantic labelling"],
       "Infrastructure": "CLARIN",

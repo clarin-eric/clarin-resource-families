@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "The corpus contains all legal acts of the Republic of Latvia published on the website <a href=\"https://likumi.lv/\">likumi.lv</a> (until February 2022).\nThe corpus is available for download from the CLARIN.LV repository.",
       "Languages": ["lav"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["116 million tokens", "73 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

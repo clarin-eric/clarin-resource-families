@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains subtitles from the OpenSubtitles website.\nThe corpus is available for download from the CLARIN:el repository.",
       "Languages": ["54 languages"],
-      "License": "Open For Reuse With Restrictions ",
+      "Licence": "Open For Reuse With Restrictions ",
       "Size": ["8.31G tokens"],
       "Annotation": ["tokenised", "sentence and word aligned"],
       "Infrastructure": "CLARIN",

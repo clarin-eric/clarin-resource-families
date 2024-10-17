@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This historical corpus consists of <a href=\"http://www.oldbaileyonline.org/\">Proceedings of the Old Bailey</a>; the Old Bailey was London’s central criminal court between 1674 and 1913. The corpus consists of texts from 1970 to 1913, and is annotated for detailed utterance-level sociolinguistic annotation at the following three levels: sociobiographical speaker information (gender, age, occupation, social class), pragmatic information (speaker role in the courtroom such as judge, witness, etc.), and metatextual information (the scribe, printer, and publisher of the individual Proceeding).\nThe corpus is available for download from CLARIN-D (Saarland University) and for online browsing through CQPWeb.",
       "Languages": ["English (Late Modern)"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["24.4 million words"],
       "Annotation": ["sociolinguistic annotation"],
       "Infrastructure": "CLARIN",

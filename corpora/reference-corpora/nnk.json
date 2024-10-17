@@ -4,7 +4,7 @@
 	"Family": "Reference corpora",
       "Description": "This corpus includes representative Norwegian (Nynorsk) texts published between 1866 and 2012. The corpus is encoded in XML.\nThe corpus is available for online browsing through the Corpuscle concordancer (CLARINO).",
       "Languages": ["nno"],
-      "License": "CLARIN_RES-NC-DEP",
+      "Licence": "CLARIN_RES-NC-DEP",
       "Size": ["107.8 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
       "Infrastructure": "CLARIN",

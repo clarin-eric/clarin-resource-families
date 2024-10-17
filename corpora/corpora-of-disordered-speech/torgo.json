@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of dysarthric articulation and consists of aligned acoustics and measured 3D articulatory features from speakers with either cerebral palsy (CP) or amyotrophic lateral sclerosis (ALS), which are two of the most prevalent causes of speech disability, and matched controls.\nThis dataset contains 2000 samples for dysarthric males, dysarthric females, non-dysarthric males, and non-dysarthric females.",
       "Languages": ["eng"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["Originally TORGO database contains 18GB of data"],
       "Annotation": [],
       "Infrastructure": "Other", 

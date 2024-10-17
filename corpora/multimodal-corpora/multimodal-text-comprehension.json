@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains reading comprehension exercises in a high school setting involving 2 high school students and their teacher. The goal of the sessions is to represent how the interaction between a teacher and more than one students is performed: what is the structure of the conversation, how turn-taking is coordinated, what are the multimodal feedback and attention signals the speakers employ.\nThe corpus is available for download from CLARIN:EL.",
       "Languages": ["ell"],
-      "License": "CC BY-NC-SA",
+      "Licence": "CC BY-NC-SA",
       "Size": [],
       "Annotation": ["orthographic transcription", "gaze/head/eye/lip movements"],
       "Infrastructure": "CLARIN",

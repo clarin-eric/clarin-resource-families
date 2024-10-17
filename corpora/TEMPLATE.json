@@ -1,14 +1,13 @@
 {
       "Name": "",
       "URL": "",
-      "Family": "Spoken corpora",
+	"Family": "Manually annotated corpora",
       "Description": "",
-      "Languages": [],
+      "Language": [],
       "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",
-      "Group": "Corpora with transcriptions and audio recordings",
       "Access": {
 	"Concordancer": "",
 	"Download": ""

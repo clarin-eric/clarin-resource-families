@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is a manually annotated subset of the National Corpus of Polish.\nThe corpus is available for download from the Computational Linguistics in Poland website.",
       "Languages": ["pol"],
-      "License": "GNU GPL 3",
+      "Licence": "GNU GPL 3",
       "Size": ["1 million tokens"],
       "Annotation": ["morphosyntactic tagging"],
       "Infrastructure": "CLARIN",

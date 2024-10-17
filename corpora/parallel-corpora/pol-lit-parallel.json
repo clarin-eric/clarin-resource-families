@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "The corpus is available for download from the CLARIN-PL repository.",
       "Languages": ["Polish-Lithuanian"],
-      "License": "IS PAS",
+      "Licence": "IS PAS",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

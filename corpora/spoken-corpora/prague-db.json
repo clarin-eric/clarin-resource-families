@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous dialogue.\nThe corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "CC BY-NC SA 4.0",
+      "Licence": "CC BY-NC SA 4.0",
       "Size": ["770,000 tokens", "7324 minutes"],
       "Annotation": ["MSD-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

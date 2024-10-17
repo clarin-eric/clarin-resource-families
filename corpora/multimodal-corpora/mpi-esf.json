@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus was built under the ESF Foreign Language Speakers project. It contains a lot of annotated audio recordings containing multimodal interaction.",
       "Languages": ["nld", "eng", "fra", "deu", "swe"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

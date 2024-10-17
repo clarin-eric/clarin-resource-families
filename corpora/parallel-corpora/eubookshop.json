@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from EU law books and related publications.\nThe corpus is available for download from the OPUS webpage.",
       "Languages": ["48 languages"],
-      "License": "",
+      "Licence": "",
       "Size": ["3.5 billion tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "Other",

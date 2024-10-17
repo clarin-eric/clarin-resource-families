@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains legal texts in English, Afrikaans, Chinese, and Greek.\nThe corpus is available for download from the CLARIN:el repository.",
       "Languages": ["4 languages"],
-      "License": "Open For Reuse With Restrictions",
+      "Licence": "Open For Reuse With Restrictions",
       "Size": ["1.32 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

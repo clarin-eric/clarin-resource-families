@@ -5,7 +5,7 @@
       "Description": "This is a collection of open-source tools for managing and querying large text corpora (up to 2 billion words) with linguistic annotations. Its central component is the flexible and efficient query processor CQP.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "GPL3",
+      "Licence": "GPL3",
       "Size": [],
       "Platform": ["Linux", "MacOS", "VM images (CQPwebinABox)"],
       "Infrastructure": "External",

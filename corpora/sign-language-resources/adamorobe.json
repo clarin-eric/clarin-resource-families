@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The Adamorobe Sign Language Corpus contains almost 36 hours of videorecordings of Adamorobe Sign Language, filmed in Adamorobe in Ghana between 2000 and 2004 by Victoria Nyst. The deposit contains recordings of approximately 20 signers. The 39 original tapes were digitized, cut, compressed and converted into MPG1 and MPEG2 digital clips using the standard settings of the MPI in Nijmegen. The total number of clips is 90 MPG1 and 90 MPEG2. There are 27 complete synchronized Elan-transcriptions in English and in Twi, which is the Akwapim variety of Akan, the spoken language in Adamorobe. The recordings include spontaneous narratives, personal stories and stories about the history of Adamorobe, elicited data, retellings of cartoons and picture stories.",
       "Languages": ["Adamorobe Sign Language"],
-      "License": "Restricted",
+      "Licence": "Restricted",
       "Size": ["90 MPG1 and 90 MPEG2 clips"],
       "Annotation": ["EAF transcripts"],
       "Infrastructure": "CLARIN",

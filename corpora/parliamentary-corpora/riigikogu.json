@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Estonian parliamentary debates from 1995 to 2001.\nThe corpus is available for download from a dedicated webpage and through a concordancer on the same webpage.",
       "Languages": ["est"],
-      "License": "CLARIN_ACA",
+      "Licence": "CLARIN_ACA",
       "Size": ["13 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

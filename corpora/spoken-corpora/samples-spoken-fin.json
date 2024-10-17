@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT platform and through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["100 hours"],
       "Annotation": ["syntactically parsed (TDT alpha)", "named entities (FiNER)", "PoS-tagged", "lemmatized", "orthographically transcribed"],
       "Infrastructure": "CLARIN",

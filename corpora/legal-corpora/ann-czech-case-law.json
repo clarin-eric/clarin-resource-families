@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus consists of 350 manually annotated decisions at Czech top-tier courts (Supreme Court, Supreme Administrative Court, Constitutional Court). Each decision has been manually annotated by two trained annotators; the corpus is primarily developed as training and testing materials for reference recognition tasks. See also the variant of this corpus annotated for <a href=\"https://hdl.handle.net/11372/LRT-2901\">segmentation tasks</a>.\nThe corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": [],
       "Annotation": ["legal references (identifier of court decision; author of law book or article, etc.)"],
       "Infrastructure": "CLARIN",

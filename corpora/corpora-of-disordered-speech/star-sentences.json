@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a collection of multiple audio-articulatory speech-disorder corpora.\nDatabase items are composite videos containing (i) midsagittal tongue movement, imaged with ultrasound tongue imaging (UTI), (ii) optional profile lip movement, recorded with a headset-mounted camera, and (iii) synchronised audio.\nRecordings in this database are of sentences produced by child speakers (aged 6,1-13,4) who were either reading orthographic stimuli from a screen, or repeating sentences produced by a researcher. Diagnoses are based on clinicians' reports.",
       "Languages": ["English (Scottish)"],
-      "License": "CC BY-NC-ND",
+      "Licence": "CC BY-NC-ND",
       "Size": ["18 speakers"],
       "Annotation": ["orthographic", "phonemic", "phonetic"],
       "Infrastructure": "Other", 

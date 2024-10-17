@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This is the first scientific corpus of narrative discourses in Tunisian Sign Language (LST) by Deaf adults. The data were filmed in the Tunis region.\nThe corpus is available for download from the Ortolang repository.",
       "Languages": ["Tunisian Sign Language (TSL)"],
-      "License": "CC BY-NC-ND 3.0",
+      "Licence": "CC BY-NC-ND 3.0",
       "Size": ["10 narrative discourses"],
       "Annotation": ["ELAN annotations"],
       "Infrastructure": "CLARIN",

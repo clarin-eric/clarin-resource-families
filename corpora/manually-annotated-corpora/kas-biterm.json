@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains PHD theses.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["slv", "eng"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["1,950 sentences", "78,500 tokens", "3,700 terms"],
       "Annotation": ["bi-lingual term extraction"],
       "Infrastructure": "CLARIN",

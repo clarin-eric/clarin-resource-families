@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains validated speech-recordings and is a result of a crowd-sourcing effort run by the <a href=\"https://lvl.ru.is/\">Language and Voice Lab</a> at Reykjavik University in cooperation with <a href=\"https://www.almannaromur.is/en\">Almannarómur, Center for Language Technology</a>.\nThe corpus contains recordings by 8,392 different speakers, with the average recording lenth being 5.2 seconds. Transcriptions of the read texts are also available.\nThe corpus is available for download from the CLARIN.IS repository.",
       "Languages": ["isl"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["145 hours", "100,000 utterances"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains approximately 380,000 documents coming from about 1,000 different websites, for a total of about 250 million words. Approximately 260,000 documents are from Wikipedia, approx. 5,600 from other Wikimedia Foundation projects. About 9,300 documents come from Indymedia, and we estimate that about 65,000 documents come from blog services.\nThe corpus is available for download from the EURAC Research CLARIN repository.",
       "Languages": ["ita"],
-      "License": "CC-BY-NC-SA 4.0",
+      "Licence": "CC-BY-NC-SA 4.0",
       "Size": ["380,000 pages", "250 million words"],
       "Annotation": "",
       "Infrastructure": "CLARIN",

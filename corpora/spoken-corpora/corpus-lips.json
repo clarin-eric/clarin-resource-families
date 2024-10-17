@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This is a L2-learner corpus.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["ita"],
-      "License": "",
+      "Licence": "",
       "Size": ["700,000 words", "100 hours"],
       "Annotation": ["PoS-tagged", "lemmatised"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains 6818 terms extracted from abstracts of computational linguistics papers.\nThe corpus is available for download from LINDAT and through KonText.",
       "Languages": ["eng"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["33216 tokens"],
       "Annotation": ["terminology extraction/classification"],
       "Infrastructure": "CLARIN",

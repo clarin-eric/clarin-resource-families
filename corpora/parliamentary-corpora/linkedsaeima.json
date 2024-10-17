@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Latvian parliamentary debates from 1993 to 2016.\nThe corpus is available through noSketchEngine.",
       "Languages": ["lav"],
-      "License": "",
+      "Licence": "",
       "Size": ["12.5 million tokens"],
       "Annotation": ["tokenised", "lemmatised"],
       "Infrastructure": "Other",

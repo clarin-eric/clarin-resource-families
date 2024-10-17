@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains an interview.\nThe corpus is available for download from ORTOLANG.",
       "Languages": ["eng"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": [],
       "Annotation": ["phonetic labels"],
       "Infrastructure": "CLARIN",

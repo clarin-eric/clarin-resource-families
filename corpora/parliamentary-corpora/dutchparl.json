@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Dutch parliamentary debates from 1814 to 2014. It is annotated with <a href=\"https://github.com/proycon/python-frog\">Frog</a>. See also the <a href=\"http://schema.politicalmashup.nl/\">information on the schema</a> used.\nThe corpus is available for download (the authors needs to be contacted) and is also accessible online through the Political Mashup environment.",
       "Languages": ["nld"],
-      "License": "",
+      "Licence": "",
       "Size": ["800 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains automatically crawled texts from 25 tourist websites.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["English-Croatian"],
-      "License": "CLARIN.SI User Licence for Internet Corpora",
+      "Licence": "CLARIN.SI User Licence for Internet Corpora",
       "Size": ["140,000 tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous speech by speakers with different dialectological and social backgrounds.\nThe corpus is available for download from META-SHARE (CELR distribution).",
       "Languages": ["est"],
-      "License": "CLARIN_RES",
+      "Licence": "CLARIN_RES",
       "Size": ["635,000 words", "90 hours"],
       "Annotation": ["orthographically and phonetically transcribed, syllables, prosodic feet, intonation phrases, changes in voice quality"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Reference corpora",
       "Description": "This corpus includes Czech fiction, professional literature, newspapers etc. published between 2005 and 2009. The corpus is encoded in XML.\nThe corpus is available for online browsing through the KonText concordancer and can be downloaded from the LINDAT repository.",
       "Languages": ["ces"],
-      "License": "Czech National Corpus (Shuffled Corpus Data)",
+      "Licence": "Czech National Corpus (Shuffled Corpus Data)",
       "Size": ["100 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],
       "Infrastructure": "CLARIN",

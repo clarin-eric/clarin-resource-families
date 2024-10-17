@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus consists of two legal documents: Accounting Act (563/1991 Coll., as amended) and Decree on Double-entry Accounting for undertakers (500/2002 Coll., as amended).\nThe corpus is available for download from LINDAT and online browsing through the treebank viewer PML-TQ and the concordancer KonText.",
       "Languages": ["ces"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["1128 sentences"],
       "Annotation": ["manual syntactic annotation; manual annotation of entities from the accouting domain and relations definition, obligation, right"],
       "Infrastructure": "CLARIN",

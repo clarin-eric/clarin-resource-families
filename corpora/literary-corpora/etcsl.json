@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus presents a selection of nearly 400 literary compositions recorded on sources which come from ancient Mesopotamia and date to the late third and early second millennia BCE.\nThe corpus is available for online browsing through an external interface.",
       "Languages": ["sux"],
-      "License": "",
+      "Licence": "",
       "Size": ["400 literary compositions"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

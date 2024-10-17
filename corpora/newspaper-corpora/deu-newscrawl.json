@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from various German newspapers from 2011.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["deu"],
-      "License": "",
+      "Licence": "",
       "Size": ["426 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

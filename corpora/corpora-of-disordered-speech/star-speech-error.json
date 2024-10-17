@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a collection of multiple audio-articulatory speech disorder corpora.\nThe corpus is constituted of composite videos containing (i) midsagittal tongue movement, imaged with ultrasound tongue imaging (UTI), (ii) optional profile lip movement, recorded with a headset-mounted camera, and (iii) synchronised audio.\nRecordings in this database are of single words, or short phrases, produced by child speakers who were either reading orthographic stimuli from a screen, naming pictures, or repeating words produced by a researcher.  Phonemic transcriptions are provided in order that those who are not familiar with the (rhotic) central Scottish accent can be aware of the speech sound targets.",
       "Languages": ["English (Scottish)"],
-      "License": "CC BY-NC-ND",
+      "Licence": "CC BY-NC-ND",
       "Size": ["162 audio files"],
       "Annotation": ["orthographic", "phonemic", "phonetic"],
       "Infrastructure": "Other", 

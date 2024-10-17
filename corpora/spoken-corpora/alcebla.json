@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains Speech tasks performed by bilingual children.",
       "Languages": ["deu", "spa"],
-      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["72 hours"],
       "Annotation": ["orthographic and phonetic transcription"],
       "Infrastructure": "CLARIN",

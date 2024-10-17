@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This syntactic parsing is modelled after the Prague Dependency Treebank.\nThe corpus is available for download from the LINDAT repository.",
       "Languages": ["ces"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["106,000 tokens", "10,600 sentences"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

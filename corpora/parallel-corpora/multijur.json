@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains international conventions and treaties in the following languages: English, Russian, German, Finnish, and Swedish.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["5 languages"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["1.2 million tokens"],
       "Annotation": ["paragraph aligned"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains informal conversations.\nThe corpus is available for download from LINDAT and through the concordancer KonText.",
       "Languages": ["ces"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["1 million tokens"],
       "Annotation": ["orthographically and phonetically transcribed", "MSD-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

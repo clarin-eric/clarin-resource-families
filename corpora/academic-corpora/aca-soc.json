@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains academic texts from social sciences disciplines published between 1997 and 2012. The corpus data are in the XML format and plain text.\nThe corpus is available for download from the SWECLARIN repository and for online querying through the concordancer Korp (SWECLARIN distribution).",
       "Languages": ["swe"],
-      "License": "CC BY",
+      "Licence": "CC BY",
       "Size": ["10.8 million tokens"],
       "Annotation": ["sentence segmentation"],
       "Infrastructure": "CLARIN",

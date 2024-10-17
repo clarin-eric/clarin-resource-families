@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains abstracts of published by authors from the <a href=\"https://ufal.mff.cuni.cz/home-page\">Institute of Formal and Applied Linguistics, Charles University</a>, as reported in the institute's system <a href=\"http://ufal.mff.cuni.cz/biblio\">Biblio</a>.\nNo filtering was performed, except for removing entries missing the Czech or English abstract, and replacing newline and tabulator characters by spaces.\nThe corpus is available for download from the LINDAT repository.",
       "Languages": ["Czech-English"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["1556 entries", "12,000 sentences", "200,000 words"],
       "Annotation": ["tokenised", "document-aligned"],
       "Infrastructure": "CLARIN",

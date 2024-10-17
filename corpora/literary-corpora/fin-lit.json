@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains prose fiction, plays, poetry and aphorisms (some written originally in Swedish) of established Finnish authors published from 1880s to 1949.\nThe corpus is available for online browsing through Korp.",
       "Languages": ["fin"],
-      "License": "EUPL v.1.1 SA",
+      "Licence": "EUPL v.1.1 SA",
       "Size": ["1,500,000 words"],
       "Annotation": ["syntactically parsed (TDT alpha)", "named entities (FiNER)", "MSD-tagged", "lemmatized"],
       "Infrastructure": "CLARIN",

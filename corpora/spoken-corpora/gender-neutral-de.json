@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus examines the pronunciation of different genderneutral forms in German. Various source texts were used, like newspaper articles, websites, etc.",
       "Languages": ["deu"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["2 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

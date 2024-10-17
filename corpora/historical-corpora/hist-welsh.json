@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains 30 texts from 1500 to 1850.\nThe corpus is available for download from a dedicated website and through a dedicated concordancer.",
       "Languages": ["cym"],
-      "License": "",
+      "Licence": "",
       "Size": ["420,000 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

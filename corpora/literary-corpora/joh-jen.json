@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus presents the collected works of the Danish author Johannes Jensen.\nThe corpus is available for download from CLARIN-DK and for online browsing through a dedicated concordancer.",
       "Languages": ["dan"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["1,760,093 words", "8,489 pages"],
       "Annotation": ["unannotated"],
       "Infrastructure": "CLARIN",

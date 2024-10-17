@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains literary texts translated from French to Greek.",
       "Languages": ["French-Greek"],
-      "License": "under negotiation",
+      "Licence": "under negotiation",
       "Size": ["701,401 tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

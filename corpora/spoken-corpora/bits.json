@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This is a corpus for speech synthesis using concatenative technique.",
       "Languages": ["deu"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["16.5 hours"],
       "Annotation": ["orthographically transcribed", "phonetic", "phonemic", "prosodic"],
       "Infrastructure": "CLARIN",

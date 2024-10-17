@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains fiction texts from a journal of undergraduate creative writing at the Faculty of English Language and Literature.\nThe corpus is available for download from clarin:el.",
       "Languages": ["ell","eng"],
-      "License": "CC-BY-NC",
+      "Licence": "CC-BY-NC",
       "Size": ["376,250 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

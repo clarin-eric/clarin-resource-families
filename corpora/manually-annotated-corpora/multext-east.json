@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains 11 human translations of George Orwell’s <em>Nineteen Eighty-Four</em>, as well as the original text. The corpus is morphosyntactically tagged following the <a href=\"http://nl.ijs.si/ME/V4/msd/html/index.html\">MULTEXT-East Version 4 tagset</a>.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["bul", "ces", "eng", "est", "hun", "mkd", "fas", "pol", "ron", "srp", "slk", "slv"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["80,000 sentences", "1 million words"],
       "Annotation": ["morphosyntactic tagging", "lemmatisation", "sentence alignment"],
       "Infrastructure": "CLARIN",

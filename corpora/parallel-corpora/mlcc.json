@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains articles from the Official Journal of the European Communities from 1986 to 1994 in the following languages: Danish, Dutch, English, French, German, Greek, Italian, Portuguese, and Spanish.\nThe corpus is available for download from the ELRA catalogue.",
       "Languages": ["9 language"],
-      "License": "ELRA END USER",
+      "Licence": "ELRA END USER",
       "Size": ["10.2 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

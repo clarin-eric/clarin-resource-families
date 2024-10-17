@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains online user-product reviews.\nThe corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["2200 reviews"],
       "Annotation": ["sentiment analysis"],
       "Infrastructure": "CLARIN",

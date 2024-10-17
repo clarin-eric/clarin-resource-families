@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from the Dutch Language Institute and through the online environments PaQu and GrETEL.",
       "Languages": ["nld"],
-      "License": "VAGUE",
+      "Licence": "VAGUE",
       "Size": ["1 million tokens"],
       "Annotation": ["PoS tagging", "syntactic parsing"],
       "Infrastructure": "CLARIN",

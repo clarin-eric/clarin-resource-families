@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This is a corpus of sign language practiced in Soure, on the island of Marajó (Brazil, Pará). These data were collected between July and August 2015 and in March 2017.\nThis corpus is available for download from the Ortolang repository. The videos made available for download represent part of the total corpus of 8 hours and 27 minutes. They consist of elicited stories (9 minutes and 27 seconds) and spontaneous speech (17 minutes and 13 seconds).",
       "Languages": ["Marajó Sign Language (Brazil)"],
-      "License": "CC BY-NC-ND 4.0",
+      "Licence": "CC BY-NC-ND 4.0",
       "Size": ["27 minutes"],
       "Annotation": ["annotated corpus"],
       "Infrastructure": "CLARIN",

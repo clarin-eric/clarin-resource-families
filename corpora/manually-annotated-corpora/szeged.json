@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from a dedicated webpage.\nTo download the versions of the Szeged Corpus and Szeged Treebank, you are obliged to fill and send a Licence Agreement.",
       "Languages": ["hun"],
-      "License": "<a href=\"http://www.inf.u-szeged.hu/projectdirs/hlt/en/Sz.K.%201.0_licenc-en.doc\">Licence agreement</a>",
+      "Licence": "<a href=\"http://www.inf.u-szeged.hu/projectdirs/hlt/en/Sz.K.%201.0_licenc-en.doc\">Licence agreement</a>",
       "Size": ["1.5 million tokens"],
       "Annotation": ["morphosyntactic tagging"],
       "Infrastructure": "CLARIN",

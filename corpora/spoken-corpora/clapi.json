@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This is a collection containing around 40 corpora which contain social interactions in different contexts: professional, private, institutional, commercial, medical, and educational situations.\nMost of the corpora can be downloaded and queried through a dedicated concordancer.",
       "Languages": ["fra"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["323,595 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

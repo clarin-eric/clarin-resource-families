@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "The corpus is available for download from META-SHARE (CELR distribution).",
       "Languages": ["est"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["375,733 tokens"],
       "Annotation": ["word sense disambiguation"],
       "Infrastructure": "CLARIN",

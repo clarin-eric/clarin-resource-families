@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains George Orwell’s 1984 original novel in English and its translations into the following languages: Bulgarian, Czech, Estonian, Hungarian, Macedonian, Persian, Polish, Romanian, Serbian, Slovak, and Slovenian.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["11 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["1.06 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This dictionary contains video recorded signs paired with Modern Greek translations. The dictionary incorporates explanatory remarks that help non-native GSL users understand the meaning of the sign, while at the same time allowing for native GSL signers to enrich their Modern Greek vocabulary. The dictionary allows users to search by lemma, which means either by (i) hand shape, (ii) lemma classification according to syntactic category, or (iii) by the alphabetic ordering of the sign translations in Modern Greek.\nThe dictionary is not available online.",
       "Languages": ["Greek Sign Language (GSL)"],
-      "License": "",
+      "Licence": "",
       "Size": ["3,000 video entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

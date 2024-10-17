@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains personal correspondence from 1540 to 1750.\nthe corpus consists of transcripts of original letter manuscripts. The texts are reproduced without any modernisation or normalisation. Language-external variables such as date, region, gender, addressee, hand and script type have been coded.\nThe writers originate from fifteen different regions of Scotland. A fifth of the correspondents in the corpus are women.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["eng"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["500,000 tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

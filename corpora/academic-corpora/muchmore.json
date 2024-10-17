@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This paper contains journal paper abstracts from medical disciplines. The corpus is encoded in MuchMore XML.\nThe corpus is available for download from a dedicated website.",
       "Languages": ["eng","deu"],
-      "License": "free but unspecified",
+      "Licence": "free but unspecified",
       "Size": ["1 million tokens"],
       "Annotation": ["PoS/MSD-tagged", "phrase chunking", "semantic class and relations", "document structure"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 13th century to the middle of the 17th century.\nThe corpus is available for download from the repository of the University of Hamburg through the ANNIS environment.",
       "Languages": ["gml"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["200,700 tokens"],
       "Annotation": ["tokenised", "MSD-tagged"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus consists of answers to reading comprehension questions written by American college students learning German.\nThe corpus is available for download from the Tübingen CLARIN Repository.",
       "Languages": ["deu"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["109 sentences"],
       "Annotation": ["PoS tagging", "syntactic parsing"],
       "Infrastructure": "CLARIN",

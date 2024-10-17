@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The corpus contains read and non-prompted German and mother tongue speech of 70 different speakers from 17 mother tongues (L1) in a variety of speaking styles e.g. reading, retelling, free talk etc.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["10 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

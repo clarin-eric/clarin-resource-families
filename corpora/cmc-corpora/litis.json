@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains forum posts from portals delfi.lt and lrytas.lt from 2010 to 2014.\nThe corpus is available for download from the CLARIN-LT repository.",
       "Languages": ["lit"],
-      "License": "CLARIN_ACA",
+      "Licence": "CLARIN_ACA",
       "Size": ["190,000 comments"],
       "Annotation": "",
       "Infrastructure": "CLARIN",

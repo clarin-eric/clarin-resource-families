@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus, which is based on OCR data from the National Library of Norway, is available for online browsing through INESS.",
       "Languages": ["nob"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["26,903,637 words", "2,469,916 sentences"],
       "Annotation": ["syntactically parsed"],
       "Infrastructure": "CLARIN",

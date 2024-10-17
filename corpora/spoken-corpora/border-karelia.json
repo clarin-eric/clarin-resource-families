@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThe corpus is available for download from FIN-CLARIN.",
       "Languages": ["fin", "krl"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["120 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

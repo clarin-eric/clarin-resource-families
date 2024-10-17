@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download through the concordancer <em>Corpuscle</em>.",
       "Languages": ["bul"],
-      "License": "MS-NC-NoReD",
+      "Licence": "MS-NC-NoReD",
       "Size": ["214,000 tokens"],
       "Annotation": ["morphosyntactic tagging"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains the official records and other parliamentary documents of the United Nations that are in the public domain in the following languages: English, Russian, Spanish, French, Chinese, and Arabic.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["6 languages"],
-      "License": "",
+      "Licence": "",
       "Size": ["335 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

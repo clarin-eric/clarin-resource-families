@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus is a demo of the <a href=\"http://exmaralda.org/en/about-exmaralda/\">EXMARaLDA</a> system.\nThe corpus is available for download from a CLARIN-D repository.",
       "Languages": ["deu", "eng", "fra", "spa", "tur", "pol", "vie", "swe", "nor", "ita", "rus", "afr", "por"],
-      "License": "HZSK-PUB (public, non-commercial only)",
+      "Licence": "HZSK-PUB (public, non-commercial only)",
       "Size": ["2 hours"],
       "Annotation": ["suprasegmental information", "accentuation/stress marking"],
       "Infrastructure": "CLARIN",

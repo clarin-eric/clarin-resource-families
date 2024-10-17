@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains both literary and non-literary texts from 1543 to 1810.\nIn terms of genre, the texts correspond to bible translations and religious texts (for instance, all of the clergyman <a href=\"https://en.wikipedia.org/wiki/Mikael_Agricola\">Mikael Agricola</a>'s Finnish works), legal texts, poems, and texts concerning agriculture, nature, health, and so on.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "EUPL v.1.1 SA",
+      "Licence": "EUPL v.1.1 SA",
       "Size": ["4.1 million words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",

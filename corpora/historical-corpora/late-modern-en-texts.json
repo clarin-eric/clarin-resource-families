@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts written by British and Irish authors from 1710 to 1920.\nIn terms of genre, the texts correspond to narrative fiction and non-fiction, drama, letters, treatises, and miscellaneous written works.\nThe corpus is available for download from a CLARIN-D repository.  ",
       "Languages": ["English (Late Modern)"],
-      "License": "CC-BY-NC-SA 4.0",
+      "Licence": "CC-BY-NC-SA 4.0",
       "Size": ["34 million words"],
       "Annotation": ["PoS-tagged"],
       "Infrastructure": "CLARIN",

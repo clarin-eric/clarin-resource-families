@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains samples of Finnish literature published by the WSOY publishing company in the 1990.\nThe corpus is available online through FIN-CLARIN.",
       "Languages": ["fin"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["68,425 words"],
       "Annotation": ["tagged"],
       "Infrastructure": "CLARIN",

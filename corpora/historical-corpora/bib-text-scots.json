@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains Biblical texts.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["sco"],
-      "License": "Oxford Text Archive licence",
+      "Licence": "Oxford Text Archive licence",
       "Size": ["35,506 words"],
       "Annotation": ["no annotation"],
       "Infrastructure": "CLARIN",

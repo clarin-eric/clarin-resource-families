@@ -5,7 +5,7 @@
       "Description": "This is a concordance programme. It is made available on a commercial basis.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "No licence",
+      "Licence": "No licence",
       "Size": [],
       "Platform": ["Windows"],
       "Infrastructure": "External",

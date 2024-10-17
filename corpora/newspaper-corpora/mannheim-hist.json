@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from 21 German newspapers from the 18th and 19th century.\nThe corpus is available for download from the CLARIN-D repository.",
       "Languages": ["deu"],
-      "License": "",
+      "Licence": "",
       "Size": ["4.1 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

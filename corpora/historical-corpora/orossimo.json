@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains historic academic texts.\nThe corpus is available for download from the clarin:el repository.",
       "Languages": ["ell"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["553,000 tokens"],
       "Annotation": ["structural annotation (paragraph)"],
       "Infrastructure": "CLARIN",

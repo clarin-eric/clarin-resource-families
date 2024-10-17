@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the telecommunications domain.\nThe corpus is available for download from the ELRA catalogue.",
       "Languages": ["3 languages"],
-      "License": "ELRA END USER/ELRA VAR",
+      "Licence": "ELRA END USER/ELRA VAR",
       "Size": ["4 million tokens"],
       "Annotation": ["tokenised", "morphosyntactically tagged"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains 76 texts written by authors born between 1380 and 1881.\nThe corpus is available for download and through a dedicated concordancer.",
       "Languages": ["por"],
-      "License": "",
+      "Licence": "",
       "Size": ["3.3 million"],
       "Annotation": ["tokenised", "PoS-tagged (2 million)", "treebanked (1.2 million)"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the United Nations website from 2000 to 2009 in the following language pairs: Spanish-Chinese, Chinese-Spanish, French-Chinese, and Chinese-French.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["3 languages"],
-      "License": "",
+      "Licence": "",
       "Size": ["1 billion tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "Other",

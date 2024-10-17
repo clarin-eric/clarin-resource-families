@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "The corpus contains transcriptions of spoken communication as well as written texts from several genres (news, literature, magazines, etc.).\nThe corpus is available for download from the CLARIN PORTULAN repository.",
       "Languages": ["por"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["1 million tokens"],
       "Annotation": ["morphosyntactic tagging", "Named Entity recognition"],
       "Infrastructure": "CLARIN",

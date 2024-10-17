@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains parliamentary debates from 1803 to 2005.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["eng"],
-      "License": "",
+      "Licence": "",
       "Size": ["1.6 billion tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "semantic tags"],
       "Infrastructure": "CLARIN",

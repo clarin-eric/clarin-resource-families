@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The Hungarian Sign Language Corpus is a collection of Hungarian Sign Language (HSL) video data of 147 signers from Hungarian. Overall, 1,750 hours were recorded. The HSL corpus project ran from 2016 to 2017, was based at the Research Institute for Linguistics at the Hungarian Academy of Sciences and led by <a href=\"http://www.ieas-szeged.hu/eal/people/bartha-csilla\">Csilla Bartha</a>.",
       "Languages": ["Hungarian Sign Language"],
-      "License": "",
+      "Licence": "",
       "Size": ["30 hours (Grammatical Corpus)"],
       "Annotation": [],
       "Infrastructure": "Other",

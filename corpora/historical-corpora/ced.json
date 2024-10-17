@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains dialogues from literary and didactic works from 1560 to 1760.\n There are five text-types in the CED. The text-types representative of constructed dialogue are drama comedy, didactic works (language manuals and other handbooks) and fiction; the text-types representative of authentic dialogue are trial proceedings and witness depositions. In addition, a small group of miscellaneous dialogic texts is included in the collection.\nThe corpus is available for download from the Oxford Text Archive.",
       "Languages": ["eng"],
-      "License": "Oxford Text Archive licence",
+      "Licence": "Oxford Text Archive licence",
       "Size": ["1.2 million words"],
       "Annotation": ["no annotation"],
       "Infrastructure": "CLARIN",

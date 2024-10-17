@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus consists of transcripts and recordings of oral arguments at the Supreme Court of the United States.\nThe transcripts and audio recordings are aligned at the utterance level; the utterances are annotated based on speaker role (the primary one being Justice) and name, as well as gender.\nThe corpus is part of the CABank collection and available for download from and online browsing through TalkBank.",
       "Languages": ["eng"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": [],
       "Annotation": ["speaker segmentation", "sociolinguistic annotation"],
       "Infrastructure": "CLARIN",

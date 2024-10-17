@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The Dogon Sign Language Corpus contains 32 hours of video data, recorded in the Dogon area in Mali between 2010 and 2012. These recordings are cut into 341 shorter clips varying lengths, in MPG1 and MPG2 format. The recordings feature the signing of 41 men and 27 women. The average age of all signers was 30 years. Recordings were made in 13 locations. Following approaches developed in earlier sign language corpora, the following he types of data were collected for the the Dogon Sign Language Corpus: <ul> <li>personal narratives</li> <li>interviews about personal history</li> <li>signed guided tours by deaf signers around the house, fields and nature</li> <li>elicited lexical data</li> <li>reports by the team members of the data collection</li></ul> Metadata are stored in the IMDI sign language format, using the <a href=\"https://portal.clarin.nl/node/14320\">ARBIL editor software</a>. The entire corpus, i.e. the video clips, annotations and metadata, is stored in the DoBeS archive at the Max Planck Institute for Psycholinguistics in Nijmegen.",
       "Languages": ["Dogon Sign Language"],
-      "License": "Restricted",
+      "Licence": "Restricted",
       "Size": ["341 clips in MPG1 and MPG2 format"],
       "Annotation": ["EAF transcripts"],
       "Infrastructure": "CLARIN",

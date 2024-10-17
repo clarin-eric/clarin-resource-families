@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Wikipedia texts in the following language pairs: English-German, English-Romanian, and English-Spanish.",
       "Languages": ["4 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "Other",

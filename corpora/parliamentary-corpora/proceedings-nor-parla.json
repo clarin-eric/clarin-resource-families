@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Norwegian parliamentary debates from 2008 to 2015.\nThe corpus is available through the concordancer Corpuscle.",
       "Languages": ["nor"],
-      "License": "NLOD",
+      "Licence": "NLOD",
       "Size": ["29 million tokens"],
       "Annotation": ["tokenised", "sentence segmentation", "speaker metadata (name, party, time, type of utterance)"],
       "Infrastructure": "CLARIN",

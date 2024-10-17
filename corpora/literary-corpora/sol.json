@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus is available for download from SWE-CLARIN and for online browsing through Korp.",
       "Languages": ["spa"],
-      "License": "CC-BY 4.0",
+      "Licence": "CC-BY 4.0",
       "Size": ["1,267,391 tokens", "69,270 sentences"],
       "Annotation": ["sentence scrambled"],
       "Infrastructure": "CLARIN",

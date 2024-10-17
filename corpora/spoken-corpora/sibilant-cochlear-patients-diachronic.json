@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains diachronic speech recordings from three cochlear implant (CI) users. For data used in the corresponding synchronic study, please refer to the CI_2 corpora.  CI_3_Sibilants contains recordings used for the analysis of /s/ and /ʃ/ in the following words: 'Tasse', 'Tasche'.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["unknown"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

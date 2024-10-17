@@ -5,7 +5,7 @@
       "Description": "This is a system for managing, annotating, visualising and analysing spoken language corpora.",
       "Functionality": ["Concordancing/querying", "corpus building"]
       "Languages": ["Language independent"],
-      "License": "GPL3",
+      "Licence": "GPL3",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",

@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus contains primary and secondary European law acts (32 texts) translated into Lithuanian.\nThe corpus is available for download from CLARIN-LT.",
       "Languages": ["lit"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["274,460 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

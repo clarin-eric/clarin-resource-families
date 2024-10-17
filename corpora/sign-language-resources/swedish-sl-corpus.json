@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This is a web-based version of the <a href=\"https://snd.gu.se/en/catalogue/study/ext0409/1#dataset\">Swedish Sign Language Corpus</a>, consisting of approximately 93,000 annotated sign tokens. Previously, the corpus was only available through the special-purpose video annotation tool <a href=\"https://www.mpi.nl/corpus/html/elan/index.html\">ELAN</a>. The aim of this corpus is to provide a picture of what sign language sentences look like, but also contribute new characters and variants to the <a href=\"https://snd.gu.se/en/catalogue/study/ext0408\">Swedish Sign Language Dictionary</a>. It can also be used to develop teaching materials.",
       "Languages": ["Swedish Sign Language (STS)", "swe"],
-      "License": "CC BY-NC-SA 2.5",
+      "Licence": "CC BY-NC-SA 2.5",
       "Size": ["24 hours"],
       "Annotation": ["ID-glosses", "PoS tags"],
       "Infrastructure": "Other",

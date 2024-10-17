@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "This corpus, which consists of both audio recordings and transcriptions, is extracted from the Finnish parliamentary plenary session transcripts and videos by the Aalto Speech Recognition group. The original session transcripts and videos are available on the websites of the Parliament of Finland (see here and here). The corpus is split into three parts:\n<ol>\n<li>the 2015–2020 set</li>\n<li>the 2008–2016 set</li>\n<li>development and test sets</li>\n</ol>\nThe corpus is available for download from the Language Bank of Finland.",
       "Languages": ["fin"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["119.3 million words", "3,130 hours of recordings"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

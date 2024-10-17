@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The speech corpus aGender contains speech sample recordings over public telephone lines with read and (semi-)spontaneous speech. Native German speakers called a voice portal from their private phone, and read text + answered some open questions. The purpose of the corpus is the automatic detection of gender and/or age (7 mixed classes ranging from 7 - 80 years). The corpus contains the voices of 945 German speakers (approx. minimum of 100 speakers per class), each delivering 18 speech items in up to six different sessions.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["47 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

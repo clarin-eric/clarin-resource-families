@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains radio and TV broadcasts.\nThe corpus is available for download from FIN-CLARIN and for online querying through the LAT-platform.",
       "Languages": ["fin"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["18 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

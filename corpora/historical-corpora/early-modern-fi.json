@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1809 to 1899.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["fin", "rus", "deu", "lat"],
-      "License": "EUPL v.1.1 SA",
+      "Licence": "EUPL v.1.1 SA",
       "Size": ["8.6 million words"],
       "Annotation": ["no linguistic annotation"],
       "Infrastructure": "CLARIN",

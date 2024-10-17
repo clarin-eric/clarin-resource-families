@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT platform.",
       "Languages": ["Skolt Saami"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["19 hours"],
       "Annotation": ["MSD-tagged"],
       "Infrastructure": "CLARIN",

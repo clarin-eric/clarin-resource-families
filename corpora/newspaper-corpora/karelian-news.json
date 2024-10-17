@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the Finnish newspaper <a href=\"http://karjalansanomat.sampo.ru/\">Karjalan Sanomat</a> from 2012 to 2014.\nThe corpus is available through the concordancer Korp.",
       "Languages": ["fin"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["500,000 tokens"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

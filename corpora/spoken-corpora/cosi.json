@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains lectures in Portuguese with simultaneous interpretation in English.",
       "Languages": ["por", "eng"],
-      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["6 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

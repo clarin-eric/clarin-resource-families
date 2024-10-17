@@ -5,7 +5,7 @@
       "Description": "This is an open source version of Sketch Engine with certain functionality limitations (for instance, WordSketch is not available).",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "Components available under separate licences: GPLv2+, GPLv3",
+      "Licence": "Components available under separate licences: GPLv2+, GPLv3",
       "Size": [],
       "Platform": ["Linux"],
       "Infrastructure": "External",

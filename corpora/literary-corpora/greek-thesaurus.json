@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains prose, poetry, drama, and essays from the 18th century onwards.\nThe corpus is available for online browsing through a dedicated webpage.",
       "Languages": ["ell"],
-      "License": "proprietary",
+      "Licence": "proprietary",
       "Size": ["1 million tokens"],
       "Annotation": ["semantic"],
       "Infrastructure": "CLARIN",

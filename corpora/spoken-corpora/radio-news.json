@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains public broadcast news.\nThe corpus is available for download from META-SHARE (CELR distribution).",
       "Languages": ["est"],
-      "License": "",
+      "Licence": "",
       "Size": ["19 hours"],
       "Annotation": ["speech annotation to orthographically transcribed"],
       "Infrastructure": "CLARIN",

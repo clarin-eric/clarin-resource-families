@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains speeches by 200 important political figures for the period between 1982 and 2020.\nA large part of the corpus contains speeches by the holders of the four highest German state offices: the Federal President, the Federal Chancellor, the President of the Bundestag and Foreign Ministers with terms of offie between 1982 and 2020.\nThe corpus is available for online browsing through the DWDS platform and a subset encoded in XML with 6,685 speeches until 2019 can be downloaded.",
       "Languages": ["deu"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["15,240 speeches", "27 million texts"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

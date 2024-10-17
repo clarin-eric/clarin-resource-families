@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the newspaper <a href=\"http://www.fredrikabremer.se/tidskriften-hertha/\">Hertha</a> from 1914 to 2015.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
       "Languages": ["swe"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["3.8 million tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This parallel multimodal corpus contains English, Greek, and French.\nThe corpus is distributed by CLARIN:EL.",
       "Languages": ["3 languages"],
-      "License": "Academic",
+      "Licence": "Academic",
       "Size": ["1.2 million words"],
       "Annotation": ["subtitle alignment"],
       "Infrastructure": "CLARIN",

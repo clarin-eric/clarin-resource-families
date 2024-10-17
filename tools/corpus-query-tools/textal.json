@@ -5,7 +5,7 @@
       "Description": "This is a free smartphone app that allows users to analyze websites, tweet streams, and documents, as you explore the relationships between words in the text via an intuitive word cloud interface. It can generate graphs and statics, and share the data and visualizations. ",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": ["iPhone app"],
       "Infrastructure": "External",

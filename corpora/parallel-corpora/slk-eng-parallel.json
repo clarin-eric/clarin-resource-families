@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from language books. It is bidirectional.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["Slovak-English"],
-      "License": "proprietary",
+      "Licence": "proprietary",
       "Size": ["556 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "Other",

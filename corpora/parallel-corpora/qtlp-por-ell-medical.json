@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains medical texts. Almost all of the acquired documents were acquired from the official site of the European Union.",
       "Languages": ["Portuguese-Greek"],
-      "License": "MS-NC-NoReD",
+      "Licence": "MS-NC-NoReD",
       "Size": ["62,608 sentence pairs"],
       "Annotation": ["sentence aligned"],
       "Infrastructure": "CLARIN",

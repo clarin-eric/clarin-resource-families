@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "The corpus contains texts in various domains (e.g., fiction, newspaper texts, religious texts) from 1500 on.\nThe corpus is available through the CQPConcordancer.",
       "Languages": ["eng"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": ["tokenised", "PoS-tagged", "partial semantic tagging (USAS system)"],
       "Infrastructure": "Other",

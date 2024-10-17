@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The corpus contains read speech of 10 different speakers with screen prompted 'automobil diagnosis phrases' recorded under real conditions in two different car maintenance halls. The language is German. All speakers are male native Germans and have never participated in such a task before. They are all experts in the field of car diagnosis. Each speaker has spoken 800 3-7 word utterances derived from 100 different sentences (see sc2_ort.txt) resulting in a total of 8000 utterances.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["9 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

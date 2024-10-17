@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains face-to-face conversations between people who speak British English as their first language.\nThe corpus is available through the CQP concordancer.",
       "Languages": ["eng"],
-      "License": "",
+      "Licence": "",
       "Size": ["10 million words"],
       "Annotation": [],
       "Infrastructure": "Other",

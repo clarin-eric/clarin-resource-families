@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains PhD theses from the following disciplines: agriculture, psychology, food science, technology, meteorology, and history. The data are encoded in ASCII and HTML.\nThe corpus is not available because it is restricted at present to staff and researchers at the University of Reading, and it is only available 'on-site'. However, it is possible for people outside the University to make use of the corpus on a Research Attachment arrangement.",
       "Languages": ["eng"],
-      "License": "restricted",
+      "Licence": "restricted",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "Other",

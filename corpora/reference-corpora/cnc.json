@@ -4,7 +4,7 @@
 	"Family": "Reference corpora",
       "Description": "This corpus includes Croatian texts taken from newspapers, magazines, popular texts, and fiction.\nThe corpus is available for online browsing through the noSketch Engine.",
       "Languages": ["hrv"],
-      "License": "",
+      "Licence": "",
       "Size": ["101 million tokens"],
       "Annotation": "",
       "Infrastructure": "CLARIN",

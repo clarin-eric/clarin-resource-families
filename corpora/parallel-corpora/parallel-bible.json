@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains historical and contemporary translations of the Bible.",
       "Languages": ["Approx. 100 languages"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

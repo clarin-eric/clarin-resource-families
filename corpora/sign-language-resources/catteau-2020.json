@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This corpus contains eleven poetic works in LSF (French sign language) and their fifty-seven translations into oral French.\nThe corpus is available for download from the Ortolang repository.",
       "Languages": ["French Sign Language (LSF)", "fra"],
-      "License": "CC BY-NC-ND 3.0",
+      "Licence": "CC BY-NC-ND 3.0",
       "Size": ["11 poems in LSF and 57 translations in French (several versions for each poem)"],
       "Annotation": ["multimodal annotation", "prosodic annotation"],
       "Infrastructure": "CLARIN",

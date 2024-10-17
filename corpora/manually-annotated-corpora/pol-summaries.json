@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from the ZIL IPI PAN repository.",
       "Languages": ["pol"],
-      "License": "CC BY 3",
+      "Licence": "CC BY 3",
       "Size": ["10845 summaries"],
       "Annotation": ["summarization"],
       "Infrastructure": "CLARIN",

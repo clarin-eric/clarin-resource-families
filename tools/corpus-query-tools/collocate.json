@@ -5,7 +5,7 @@
       "Description": "This tool is a Windows software program that can be used to find collocations or terms in a corpus. It is a commercial tool.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "No licence",
+      "Licence": "No licence",
       "Size": [],
       "Platform": ["Windows"],
       "Infrastructure": "External",

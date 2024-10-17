@@ -5,7 +5,7 @@
       "Description": "This tool constitutes a deployment of Voyant Tools used at SADILAR.",
       "Functionality": ["Querying/concordancing", "Stylometry"]
       "Languages": ["ara", "bos", "hrv", "ces", "eng", "fra", "deu", "heb", "ita", "jpn", "por", "srp", "spa"],
-      "License": "GPL3 (code)",
+      "Licence": "GPL3 (code)",
       "Size": [],
       "Platform": [],
       "Infrastructure": "SADiLAR",

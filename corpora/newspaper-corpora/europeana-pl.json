@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 15,130 issues of 10 newspapers published in Poland between 1866 and 1939.",
       "Languages": ["pol","deu","ukr","rus"],
-      "License": "Public",
+      "Licence": "Public",
       "Size": ["181,102,489 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

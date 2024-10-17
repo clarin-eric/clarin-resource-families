@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The ZipTel telephone speech database contains recordings of people applying for a SpeechDat prompt sheet via telephone. For the SpeechDat data collection, calls for participation were published in \"phone\", the customer magazine of the mobile telephone provider \"e-plus\", and in numerous newspapers all over Germany. In these calls, a telephone number was given where callers could order a SpeechDat prompt sheet. The calls were recorded by an automatic telephone server; callers were asked to provide name, address and telephone number. The ZipTel telephone speech database consists of 1957 recording sessions with a total of 7746 signal files. A recording session corresponds to one phone call, each signal file contains a single recorded utterance from the recording session. ",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["14 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

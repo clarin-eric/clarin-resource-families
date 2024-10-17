@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews, conversations. Norwegian and Swedish dialects in America.\nThe corpus is available through a Tekstlab concordancer.",
       "Languages": ["nor", "swe"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["251,000 tokens"],
       "Annotation": ["orthographically and phonetically transcribed", "MSD-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

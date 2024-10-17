@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "The corpus consists of newspaper articles from three Greek newspapers (<a href=\"https://www.tanea.gr/\">Ta Nea</a>, <a href=\"https://www.rizospastis.gr/\">Risospastis</a>, and <a href=\"https://www.tovima.gr/\">To Vima</a>) dealing with Germany from the Greek perspective.\nBibliographical information is encoded in the path to the file: It is composed of title of the newspaper, year, month, day, and rubric. The lemmata are stored in a separate tree of the same structure, the text files in that tree contain one lemma per line.\nThe corpus is available for download from CLARIN-D (Saarland University B-centre).",
       "Languages": ["ell"],
-      "License": "",
+      "Licence": "",
       "Size": ["3.5 million tokens", "7650 texts"],
       "Annotation": ["tokenised", "lemmatised"],
       "Infrastructure": "CLARIN",

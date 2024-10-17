@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains letters from 1895 to 1909.\nThe corpus is available through a dedicated online search environment.",
       "Languages": ["fin", "swe"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["8.6 million words"],
       "Annotation": ["Finnish subset: MSD-tagged, syntactically parsed; Swedish subset: no linguistic annotation"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus consists of 820 texts spanning between the beginnings of the Ancient Greek literary tradition (Homer) to the fifth century AD.\nThe texts are sourced from the <a href=\"https://github.com/PerseusDL/canonical-greekLit\">Perseus Canonical Greek Lit Repository</a>, <a href=\"http://www.mikrosapoplous.gr/en/texts1en.html\">\"The Little Sailing\" digital library</a>, and the <a href=\"http://www.hs-augsburg.de/~harsch/augustana.html#gr\">Bibliotheca Augustana digital library</a>.\nThe corpus is available for download from Figshare.",
       "Languages": ["grc"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["10.2 million words"],
       "Annotation": ["PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts crawled from the Global Voices webpage.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["Approx. 50 languages"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["174,629 documents"],
       "Annotation": ["sentence aligned"],
       "Infrastructure": "CLARIN",

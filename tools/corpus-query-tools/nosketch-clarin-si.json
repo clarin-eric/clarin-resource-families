@@ -5,7 +5,7 @@
       "Description": "This is an open-source version of the commercial Sketch Engine, produced by Lexical Computing. This installation of noSketch Engine at CLARIN.SI offers over 50 richly annotated corpora in Slovenian and other languages.",
       "Functionality": ["Querying/concordancing"]
       "Languages": ["slv", "hrv", "bos", "srp", "cnr", "mkd", "hbs", "bul", "ces", "slk", "pol", "eng", "dan", "nld", "est", "fin", "fra", Gaelic, "deu", "ell", "hun", "isl", "ita", "jpn", "lav", "lit", "por"],
-      "License": "no",
+      "Licence": "no",
       "Size": [],
       "Platform": [],
       "Infrastructure": "CLARIN.SI",

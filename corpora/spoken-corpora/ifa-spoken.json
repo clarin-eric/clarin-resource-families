@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The corpus is available for download from an informal webpage.",
       "Languages": ["nld"],
-      "License": "CLARIN PUB",
+      "Licence": "CLARIN PUB",
       "Size": ["50,000 words (41 minutes/speaker)"],
       "Annotation": ["Hand-segmented speech"],
       "Infrastructure": "CLARIN",

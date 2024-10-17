@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from LINDAT.",
       "Languages": ["ces"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["5868 sentences", "35220 NEs"],
       "Annotation": ["Named Entity recognition"],
       "Infrastructure": "CLARIN",

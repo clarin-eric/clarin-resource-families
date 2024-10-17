@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from the LINDAT repository.",
       "Languages": ["ara"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": [],
       "Annotation": ["syntactic parsing", "morphosyntactic tagging"],
       "Infrastructure": "CLARIN",

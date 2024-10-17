@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from newsfeed from 2014 to 2017.\nThe corpus is available through noSketchEingine.",
       "Languages": ["18 languages"],
-      "License": "",
+      "Licence": "",
       "Size": ["35 billion tokens"],
       "Annotation": ["tokenised", "PoS-tagged"],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus is available for download from the CLARIN PL repository.",
       "Languages": ["3 languages"],
-      "License": "IS PAS corpora license",
+      "Licence": "IS PAS corpora license",
       "Size": ["55 texts"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

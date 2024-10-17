@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains tasks, where one subject (the instructor) describes different Tangram figures to another subject (the receiver) so that the receiver can recreate the same order of figures that the instructor has in front of them. The subjects initially don't know each other and work together to solve these tasks in three consecutive sessions. This edition features the complete recordings, but lacking phone and word segmentation. Subjects audio tracks are combined into stereo files. If you would like just the transcribed segments with separate files for the subjects or want the word and phone segmentation see corpus ZTC_BAS.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["48 hours"],
       "Annotation": ["orthographically transcribed", "turn segmentation"],
       "Infrastructure": "CLARIN",

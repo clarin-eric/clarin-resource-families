@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The Italian Sign Language Corpus is a collection of Italian Sign Language (LIS) data from 180 signers from Italy. The core part of the project involved three universities: University of Milan-Bicocca, University Ca’Foscari and Sapienza University.\nThe corpus is available for download from MPI's Language Archive (CLARIAH-NL).",
       "Languages": ["Italian Sign Language (LIS)"],
-      "License": "Restricted, see <a href=\"https://archive.mpi.nl/tla/access-levels\">here</a>",
+      "Licence": "Restricted, see <a href=\"https://archive.mpi.nl/tla/access-levels\">here</a>",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

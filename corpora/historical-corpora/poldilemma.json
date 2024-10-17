@@ -4,7 +4,7 @@
       "Family": "Historical corpora",
       "Description": "This corpus contains political, religious and scientific texts from the 16th to the 18th century.\nThe corpus is available for download from the CLARIN-D repository.",
       "Languages": ["ces","lat","deu","pol"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["7 million tokens"],
       "Annotation": ["tokenised", "lemmatised"],
       "Infrastructure": "CLARIN",

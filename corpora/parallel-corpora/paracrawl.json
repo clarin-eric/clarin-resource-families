@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains webcrawled data in the following languages: Czech, Dutch, English, Estonian, Finnish, French, German, Italian, Latvian, Polish, Portuguese, Romanian, Russian, and Spanish.\nThe corpus is available for download from LINDAT. Additionally, the 2.0 version of the corpus, which includes six new languages (Irish, Croatian, Maltese, Lithuanian, Hungarian, and Estonian), can be downloaded from the corpus's <a href=\"https://paracrawl.eu/releases.html\">dedicated website.</a>",
       "Languages": ["11 languages"],
-      "License": "CC Zero",
+      "Licence": "CC Zero",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

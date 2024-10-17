@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains law documents and texts related to education and culture.\nThe corpus is available for download through the CLARIN:el repository.",
       "Languages": ["50 languages"],
-      "License": "Open For Reuse With Restrictions",
+      "Licence": "Open For Reuse With Restrictions",
       "Size": ["320,000 tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

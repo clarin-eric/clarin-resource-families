@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "The corpus contains texts from 2003.",
       "Languages": ["English-Romanian"],
-      "License": "MS-BY-NC-ND",
+      "Licence": "MS-BY-NC-ND",
       "Size": ["1.6 million tokens"],
       "Annotation": [],
       "Infrastructure": "Other",

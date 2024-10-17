@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus of heritage Bosnian/Croatian/Montenegrin/Serbian (BCMS) consists of elicited conversations (map tasks) by 29 second-generation BCMS speakers originating from different regions of former Yugoslavia and living in German-speaking Switzerland. The corpus is suited for researchers of heritage BCMS, as well as students and teachers of BCMS living in diaspora.\nThe corpus contains 30 turn-aligned transcripts with an average length of 6 minutes. The texts are annotated with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA pipeline</a> on the levels lemmatisation, MULTEXT-East Version 6 morphosyntactic descriptions, Universal Dependencies part-of-spech and morphological features. The corpus is enriched with corpus-specific annotations of truncations, elongations, stutter and code-switches. It is distributed in source TEI and derived vertical formats.\nThe corpus is available for download from CLARIN.SI as well as through the noSketchEngine and KonText concordancers.",
       "Languages": ["bos", "hrv", "cnr", "srp"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["12,988 tokens"],
       "Annotation": ["PoS-tagged (UD)", "MSD-tagged (UD & MULTEXT-East)", "lemmatised", "annotated with corpus-specific annotations"],
       "Infrastructure": "CLARIN",

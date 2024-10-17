@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains TED talks, news articles, Wikipedia articles, etc.\nThe corpus is available for download from LINDAT and can be queried through KonText.",
       "Languages": ["English-Hindi"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["132,300 sentences"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "CLARIN",

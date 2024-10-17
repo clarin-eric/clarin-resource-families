@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "This corpus contains British parliamentary debates of the House of Commons from 2013 to 2016.\nThe corpus is available for download from Google Drive.",
       "Languages": ["eng"],
-      "License": "",
+      "Licence": "",
       "Size": ["354,400 tokens"],
       "Annotation": ["fine-grained topic annotation", "additional semantic information (entity links)"],
       "Infrastructure": "Other",

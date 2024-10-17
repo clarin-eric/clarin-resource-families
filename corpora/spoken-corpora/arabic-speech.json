@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus is available for download from the Oxford Text Archive.",
       "Languages": ["ara"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

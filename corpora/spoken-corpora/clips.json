@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains speech from 15 different cities in Italy.",
       "Languages": ["ita"],
-      "License": "",
+      "Licence": "",
       "Size": ["100 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

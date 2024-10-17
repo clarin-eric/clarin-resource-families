@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains <i>Kerttu Vuolab's</i> novel <i>Cheppari cháráhus</i>.\nThe corpus is available for online browsing through the TAITO shell.",
       "Languages": ["sme"],
-      "License": "CLARIN RES +NC +NORED +PLAN",
+      "Licence": "CLARIN RES +NC +NORED +PLAN",
       "Size": ["17,830 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

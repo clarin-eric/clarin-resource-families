@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "The corpus is available for download from the Language Archive (CLARIAH-NL).",
       "Languages": ["eng"],
-      "License": "restricted",
+      "Licence": "restricted",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

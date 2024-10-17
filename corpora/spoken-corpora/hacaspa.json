@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous speech and reading tasks.",
       "Languages": ["Spanish (Argentinian)"],
-      "License": "HZSK-RES (restricted, non-commercial only)",
+      "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["19 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

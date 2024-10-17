@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts crawled from top-level Slovenian .si domains. The corpus was built with <a href=\"https://github.com/abumatran/spidextor\">Spidextor</a>, a tool that glues together the output of SpiderLing used for crawling and Bitextor used for bitext extraction. The accuracy of the extracted bitext on the segment level is around 67% and on the word level around 68%.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["Slovenian-English"],
-      "License": "CLARIN.SI User License for Internet Corpora",
+      "Licence": "CLARIN.SI User License for Internet Corpora",
       "Size": ["718,315 tokens"],
       "Annotation": ["tokenised", "sentenced-aligned"],
       "Infrastructure": "CLARIN",

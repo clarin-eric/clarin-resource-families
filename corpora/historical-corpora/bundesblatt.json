@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1849 to 2014.\nThe corpus is available through the CQPWeb concordancer.",
       "Languages": ["deu","fra","ita"],
-      "License": "",
+      "Licence": "",
       "Size": ["203,585,806 tokens (German)", "239,125,036 tokens (French)", "85,223,085 tokens (Italian)"],
       "Annotation": ["tokenised", "syntactically-parsed"],
       "Infrastructure": "Other",

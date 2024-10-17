@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains tourist brochures produced by the city of Helsinki, Finland, is fully annotated using XML schema provided for the Genre and Multimodality (GeM) model (Bateman <a href=\"https://www.palgrave.com/gp/book/9780230002562\">2008</a>).\nThe corpus is available for download from FIN-CLARIN.",
       "Languages": ["fin"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["58 double pages"],
       "Annotation": ["content", "layout", "graphic", "typographic appearance", "rhetorical structure"],
       "Infrastructure": "CLARIN",

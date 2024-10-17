@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains recorded lectures and seminars.\nThe corpus is available for download from FIN-CLARIN.",
       "Languages": ["eng"],
-      "License": "CLARIN RES, MS-C-No ReD-ND-FF",
+      "Licence": "CLARIN RES, MS-C-No ReD-ND-FF",
       "Size": ["13 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

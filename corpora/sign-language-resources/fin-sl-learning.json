@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This corpus contains written and recorded (audio and video) materials pertaining to Finnish sign language greetings, names of family members, numbers and telling the time, as well as basic verbs and related words.\nThe corpus is available for download from a dedicated webpage.",
       "Languages": ["Finnish Sign Language (FinSL)"],
-      "License": "Under negotiation",
+      "Licence": "Under negotiation",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1570 to 1756.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["pol"],
-      "License": "",
+      "Licence": "",
       "Size": ["1.5 million tokens"],
       "Annotation": ["transcription"],
       "Infrastructure": "Other",

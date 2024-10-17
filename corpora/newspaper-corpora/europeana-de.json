@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 126,564 issues of 11 newspapers published in Germany (chiefly Berlin and Hamburg) between 1792 and 1945.",
       "Languages": ["deu", "eng"],
-      "License": "Public",
+      "Licence": "Public",
       "Size": ["5,593,768,847 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

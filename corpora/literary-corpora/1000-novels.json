@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus is available for download from CLARIN-PL.",
       "Languages": ["pol"],
-      "License": "CC-BY 4.0",
+      "Licence": "CC-BY 4.0",
       "Size": ["1000 texts"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

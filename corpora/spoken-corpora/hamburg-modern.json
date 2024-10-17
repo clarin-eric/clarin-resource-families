@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains task-oriented communcation (e.g., a film retelling) in the context of studying adult L2 acquisition.",
       "Languages": ["deu"],
-      "License": "HZSK-ACA (academic, non-commercial only)",
+      "Licence": "HZSK-ACA (academic, non-commercial only)",
       "Size": ["3 hours"],
       "Annotation": ["manual annotation of phonetic phenomena", "accent/stress marking"],
       "Infrastructure": "CLARIN",

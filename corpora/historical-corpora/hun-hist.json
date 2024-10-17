@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains historical texts from the 18th century to the 2000s.\nThe corpus is available through a dedicated concordancer.",
       "Languages": ["hun"],
-      "License": "",
+      "Licence": "",
       "Size": ["30 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

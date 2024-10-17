@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The corpus contains recorded sign narrations of five fable stories, a small lexicon, and interviews with the signers for each of the three languages. In addition, there is sign language poetry from BSL, NGT and SSL. Finally, the corpus includes two annotated segments of the <a href=\"http://www.signum-verlag.de/\">Gehörlos So!</a> corpus of German Sign Language (DGS) by <a href=\"https://forschung-sachsen-anhalt.de/pl/hessmann-32628\">Jens Heßmann</a>.",
       "Languages": ["Dutch Sign Language (NGT)", "British Sign Language (BSL)", "Swedish Sign Language (SSL)", "German Sign Language (DGS)"],
-      "License": "CC BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["76 MPEG1 recordings"],
       "Annotation": ["EAF transcripts"],
       "Infrastructure": "CLARIN",

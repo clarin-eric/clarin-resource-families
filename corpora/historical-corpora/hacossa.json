@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts written in the Late Old Swedish period (from 1375 to 1550).\nThe corpus is available for download from the repository of the University of Hamburg.",
       "Languages": ["eng", "deu", "lat", "non", "swe"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["128,000 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",

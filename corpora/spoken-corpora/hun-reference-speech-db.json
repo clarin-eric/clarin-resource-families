@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains reading tasks.\nThe corpus is available for download (upon request) from META-SHARE.",
       "Languages": ["hun"],
-      "License": "META-SHARE No-Redistribution Commercial FF",
+      "Licence": "META-SHARE No-Redistribution Commercial FF",
       "Size": ["6 hours"],
       "Annotation": ["partial phonemic-level annotation"],
       "Infrastructure": "Other",

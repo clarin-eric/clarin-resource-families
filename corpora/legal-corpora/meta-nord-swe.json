@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This is a subcorpus of the META-NORD Acquis Parallel Treebank.\nThe corpus is available for download and online browsing through INESS (CLARINO).",
       "Languages": ["swe"],
-      "License": "CC BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["102 sentences", "1982 words"],
       "Annotation": ["syntactically parsed (constituency)", "sentence/phrase/word segmentation"],
       "Infrastructure": "CLARIN",

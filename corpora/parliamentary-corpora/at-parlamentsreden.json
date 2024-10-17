@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Austrian parliamentary debates from 2013 to 2015. It is annotated with the <a href=\"https://nlp.stanford.edu/software/tagger.shtml\">Stanford Tagger</a>.\nThe corpus currently is not available.",
       "Languages": ["German (Austrian)"],
-      "License": "",
+      "Licence": "",
       "Size": ["1.2 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged"],
       "Infrastructure": "Other",

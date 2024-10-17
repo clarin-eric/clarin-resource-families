@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This corpus contains journal articles in literary and translation studies. This is a plain text corpus.\nThe corpus is available for download from the CLARIN:EL repository.",
       "Languages": ["ell"],
-      "License": "CC-BY-SA",
+      "Licence": "CC-BY-SA",
       "Size": ["48,300 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

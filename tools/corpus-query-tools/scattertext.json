@@ -5,7 +5,7 @@
       "Description": "This is a tool for finding distinguishing terms in corpora and displaying them in an interactive HTML scatter plot. Points corresponding to terms are selectively labelled so that they don't overlap with other labels or points.",
       "Functionality": ["Concordancing/querying"]
       "Languages": ["Language independent"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Platform": [],
       "Infrastructure": "External",

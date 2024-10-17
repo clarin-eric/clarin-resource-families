@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains 25 dialogues of interlocutors (50), who engage in a spatial communication task combining direction-giving and sight description. The stimulus is a model of a town presented in a Virtual Reality (VR) environment. Upon finishing a “bus ride” through the VR town along five landmarks, a router explained the route as well as the wayside landmarks to an unknown and naive follower.\nThe corpus is available for download from the BAS CLARIN-D repository.",
       "Languages": ["deu", "eng"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["9881 isolated words", "1764 gestures"],
       "Annotation": ["alignment of speech and gestures"],
       "Infrastructure": "CLARIN",

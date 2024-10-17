@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This parallel corpus contains texts extracted from the <a href=\"https://www.flytap.com/en-ee/on-board/up-magazine?v=m\">TAP UP magazine</a>.\nThe corpus is available for download from the CLARIN:EL repository.",
       "Languages": ["English-Portuguese"],
-      "License": "CC-BY",
+      "Licence": "CC-BY",
       "Size": ["31,849 sentences"],
       "Annotation": ["PoS-tagged", "sentence aligned"],
       "Infrastructure": "CLARIN",

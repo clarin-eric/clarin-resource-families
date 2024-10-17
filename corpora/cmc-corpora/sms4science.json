@@ -4,7 +4,7 @@
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains around 25000 SMS from 2009.\nThe corpus comes in two different versions which are available through separate concordancers - <em>SMS Navigator</em> and <em>ANNIS</em>. The version accessible through <em>ANNIS</em> is more richly annotated and includes PoS-tagging, normalization, annotation of nonce borrowings, etc. Access through the concordancers requires free registration.",
       "Languages": ["gsw","deu","fra","ita","roh"],
-      "License": "",
+      "Licence": "",
       "Size": ["0.5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "Other",

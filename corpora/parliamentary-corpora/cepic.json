@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The CEPIC consists of transcripts of speeches delivered by top political figures from Hong Kong, Beijing, Washington DC and London, as well as their translated/interpreted texts.\nThe main speech types of CEPIC include the reading of government reports such as policy addresses and budget speeches, Q&A at press conferences, parliamentary debates, as well as remarks delivered at bilateral meetings.\nThe corpus features a parallel display of up to six versions of the same speech segment, aligned at paragraph level.\nThe corpus is available for online querying through a dedicated concordancer.",
       "Languages": ["zho", "eng"],
-      "License": "<a href=\"https://digital.lib.hkbu.edu.hk/cepic/terms.php\">Terms of Use</a>",
+      "Licence": "<a href=\"https://digital.lib.hkbu.edu.hk/cepic/terms.php\">Terms of Use</a>",
       "Size": ["6.5 million words"],
       "Annotation": ["PoS-tagged", "prosodic and paralinguistic features"],
       "Infrastructure": "Other",

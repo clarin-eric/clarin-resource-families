@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "The corpus contains read speech of 10 different speakers. Each speaker has read approx. 1000 sentences from a German news paper corpus, thus resulting in a total of approx. 10000 recorded utterances. The recording took place at the Institut fuer Phonetik, University of Munich, Germany in 1994.",
       "Languages": ["deu"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["32.8 hours"],
       "Annotation": ["orthographically transcribed"],
       "Infrastructure": "CLARIN",

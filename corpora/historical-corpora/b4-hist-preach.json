@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains sermons from an Upper German (Balvarian-Alemannic) dialect area.\nThe corpus is available for download from the repository of the University of Hamburg and through the ANNIS environment.",
       "Languages": ["gmh"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["92,500 tokens"],
       "Annotation": ["tokenised", "syntactic and discursive annotation"],
       "Infrastructure": "CLARIN",

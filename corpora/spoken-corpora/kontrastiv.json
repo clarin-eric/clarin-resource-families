@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains academic interaction.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
       "Languages": ["deu", "eng", "pol", "bul"],
-      "License": "CLARIN RES",
+      "Licence": "CLARIN RES",
       "Size": ["760,000 words", "92 hours"],
       "Annotation": ["literal and PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed", "annotation of discourse phenomena and language mixing"],
       "Infrastructure": "CLARIN",

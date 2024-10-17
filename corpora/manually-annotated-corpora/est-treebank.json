@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "The corpus contains fictional and newspaper texts.\nThe corpus is available for download from <a href=\"https://www.clarin.eu/glossary#META-SHARE\" title=\"Network of repositories resulting from the META-NET Network of Excellence (http://www.meta-share.eu/)\" class=\"lexicon-term\">META-SHARE</a> (CELR distribution).",
       "Languages": ["est"],
-      "License": "CLARIN_ACA",
+      "Licence": "CLARIN_ACA",
       "Size": ["1,000 sentences"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",

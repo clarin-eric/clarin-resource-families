@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains scientific articles from the Scielo database in the following language pairs: English-French, English-Spanish, and English-Portuguese.",
       "Languages": ["4 languages"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "Other",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "The corpus contains texts from 1600 to 1999.\nThe corpus is available through the CQPConcordancer. ",
       "Languages": ["eng"],
-      "License": "",
+      "Licence": "",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "Other",

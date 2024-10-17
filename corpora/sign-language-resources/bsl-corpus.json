@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "The British Sign Language Corpus is a collection of British Sign Language (BSL) video clips of 249 deaf signers from the UK. The BSL Corpus project is based at the Deafness Cognition and Language Research Centre, University College London, lasted from 2008–2011 and was led by Adam Schembri. A related dataset is the BSL Signbank.",
       "Languages": ["British Sign Language (BSL)"],
-      "License": "",
+      "Licence": "",
       "Size": ["BSL video data from 249 deaf signers of BSL"],
       "Annotation": ["yes"],
       "Infrastructure": "Other",

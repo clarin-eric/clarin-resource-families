@@ -4,7 +4,7 @@
 	"Family": "Legal corpora",
       "Description": "This corpus consists of transcriptions of defendants’ and witnesses’ speeches in criminal cases of rape, attempted rape, murder, and attempted murder.\nThe corpus is available for download from the CLARIN:EL repository.",
       "Languages": ["ell"],
-      "License": "CC BY-NC-ND 4.0",
+      "Licence": "CC BY-NC-ND 4.0",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

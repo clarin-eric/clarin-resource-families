@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This training corpus contains around 100,000 tokens manually annotated on the levels of tokenisation, sentence segmentation, morphosyntactic tagging, lemmatisation, syntactic dependencies, and named entities. The annotation formalisms followed in the SETimes.SR corpus are (1) <a href=\"http://nl.ijs.si/ME/V6/msd/\">MULTEXT-East V6 morphosyntactic specifications</a>, (2) the <a href=\"http://universaldependencies.org/guidelines.html\">UDv2 Guidelines</a>, and (3) <a href=\"http://nl.ijs.si/janes/wp-content/uploads/2017/09/SlovenianNER-eng-v1.1.pdf\">Janes annotation guidelines for named entities</a>. The difference to the previous version of the corpus are (1) the extension of the corpus with 502 sentences from various news sources and (2) improvements in the annotations of the corpus.\nThe corpus is available for download from the CLARIN.SI repository.",
       "Languages": ["srp"],
-      "License": "CC BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["97,673 tokens"],
       "Annotation": ["tokenisation", "sentence segmentation", "morphosyntactic tagging", "lemmatisation", "syntactic dependencies", "named entities"],
       "Infrastructure": "CLARIN",

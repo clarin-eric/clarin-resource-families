@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus consists of Latin texts from the 2nd century B.C. to the 21st century. Non-linguistic metadata include information on genre, title, century and specific date.\nThe corpus is available for download from LINDAT and for search online through Sketch Engine.",
       "Languages": ["lat"],
-      "License": "CC BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["13.3 million tokens"],
       "Annotation": ["sentence segmented", "PoS-tagged", "lemmatized"],
       "Infrastructure": "CLARIN",

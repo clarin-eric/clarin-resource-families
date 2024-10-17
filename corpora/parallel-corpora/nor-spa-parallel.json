@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains fictional and non-fictional texts from 2000 to 2009.\nThe corpus is available through the concordancer Corpuscle and for download in the CLARINO repository.",
       "Languages": ["Norwegian-Spanish"],
-      "License": "CLARIN ACA",
+      "Licence": "CLARIN ACA",
       "Size": ["6 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",
