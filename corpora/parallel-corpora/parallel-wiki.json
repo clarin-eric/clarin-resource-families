@@ -3,7 +3,7 @@
       "URL": "http://metashare.ilsp.gr:8080/repository/browse/parallel-wiki-english-german/424504fadc7411e5aa0b00237df3e358380903df1e5642df8582c0a852c36359/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Wikipedia texts in the following language pairs: English-German, English-Romanian, and English-Spanish.",
-      "Languages": ["4 languages"],
+      "Language": ["4 languages"],
       "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],

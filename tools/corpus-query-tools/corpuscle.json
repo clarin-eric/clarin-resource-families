@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a corpus management and analysis system for annotated corpora, with sophisticated query language. It is a reimplementation of Corpuscle featuring an improved user experience and many new features that is now available as a <a href=\"https://clarino\"></a>",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "",
       "Size": [],
       "Platform": [],

@@ -3,7 +3,7 @@
       "URL": "https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-30/",
 	"Family": "Sign language resources",
       "Description": "This corpus contains texts produced during a 2013 exhibition about languages - \"Leve Språket\". The exhibition aimed at showing the linguistic diversity in Norway, and it covered topics such as language conflict, the understanding of neighbouring languages and linguistic humor. The target audience was teenagers in school, and the texts are formulated accordingly. The texts were translated into Norwegian Sign Language and either Norwegian Bokmål or Nynorsk. The texts were also recorded to serve as an audio guide in the exhibition room. ",
-      "Languages": ["Norwegian Bokmål", "Norwegian Nynorsk", "Norwegian", "Norwegian Sign Language (NSL)"],
+      "Language": ["Norwegian Bokmål", "Norwegian Nynorsk", "Norwegian", "Norwegian Sign Language (NSL)"],
       "Licence": "CC ZERO",
       "Size": ["23 texts"],
       "Annotation": [],

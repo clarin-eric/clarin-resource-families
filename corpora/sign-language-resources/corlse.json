@@ -3,7 +3,7 @@
       "URL": "https://corpuslse.es/",
 	"Family": "Sign language resources",
       "Description": "This corpus is intended for the analysis of LSE argument structure, focusing on how signers organize the names (and the forms similar to the names) and the verbs (and other forms that have a predicative function) to communicate who does what, or feels what, or talks about what, etc. It was not intended to create a representative and structured corpus, but rather a set of examples that would allow basing the grammatical description on contextualized uses. Only a part is accessible through the <a href=\"http://isignos.uvigo.es\">iSignos website</a>. The corpus is annotated as follows: there are right-hand and left-hand id-glosses and glosses for classifiers, translation into Spanish and role-shift, PoS, argument structure, locus and animacy (2 hours and 21 minutes). Other part just with glosses, translation into Spanish and role-shift; some recordings (16) also have analysis of the non-manual component",
-      "Languages": ["Spanish Sign Language (LSE)"],
+      "Language": ["Spanish Sign Language (LSE)"],
       "Licence": "",
       "Size": ["4 hours 52 minutes", "48 recordings"],
       "Annotation": ["partly annotated"],

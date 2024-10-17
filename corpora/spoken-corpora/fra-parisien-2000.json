@@ -3,7 +3,7 @@
       "URL": "https://doi.org/10.34847/cocoon.8bc96a4e-9899-30e4-99be-c72d216eb38b",
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["fra"],
+      "Language": ["fra"],
       "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],

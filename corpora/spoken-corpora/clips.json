@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-865",
       "Family": "Spoken corpora",
       "Description": "This corpus contains speech from 15 different cities in Italy.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "",
       "Size": ["100 hours"],
       "Annotation": [],

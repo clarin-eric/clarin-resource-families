@@ -3,7 +3,7 @@
       "URL": "https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/corpora/tueba-dz/",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains newspaper articles.\nThe corpus is available for download from the Tübingen CLARIN Repository.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["1.9 million tokens"],
       "Annotation": ["syntactic parsing"],

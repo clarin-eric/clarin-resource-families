@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-773",
 	"Family": "Literary corpora",
       "Description": "This corpus contains works by established Finnish fiction writers from the 1880s to the 1930s. There are different types of prose and plays, as well as lyrics and aphorisms.\nThis corpus is available for online browsing through an external interface.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "",
       "Size": ["1,456,658 words"],
       "Annotation": [],

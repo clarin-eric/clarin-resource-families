@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/eng/resource/smittskydd",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the newspaper <a href=\"http://www.liv.se/For-vardgivare-och-samarbeten1/Smittskydd-Varmland/Smittskydd/Nyheter-Smittskydd/\">Smittskyd</a> from 2002 to 2010.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "CC-BY",
       "Size": ["691,000 tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],

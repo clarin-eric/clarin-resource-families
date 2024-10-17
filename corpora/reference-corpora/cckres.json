@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1034",
 	"Family": "Reference corpora",
       "Description": "This corpus includes balanced Slovenian texts (newspapers, magazines, computer-mediated communication, fiction and non-fiction) published between 1990 and 2011. The corpus is encoded in TEI. Non-linguistic metadata includes information on source, year of publication, text type, title, author.\nThis corpus is a downloadable subset of the balanced <a href=\"http://www.korpus-kres.net/\">Kres corpus</a>. It can be downloaded from the CLARIN.SI repository.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["12.2 million tokens", "9.8 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/AEGEAN-0000-0000-5808-5",
 	"Family": "Parliamentary corpora",
       "Description": "This corpus contains speeches delivered by 5 members of parliament: Dimitris Anagnostakis, Nikos Tsoukalis, Paros Koukoulopoulos, Niki Founta, and Panayiotis Kammenos.\nThe corpus is available for download from the CLARIN:el repository.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY-NC",
       "Size": ["258,036 words"],
       "Annotation": [],

@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated querying tool for the Couranten Corpus, which comprises the seventeenth-century Dutch newspapers, available on Delpher.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["Dutch (17th Century)"],
+      "Language": ["Dutch (17th Century)"],
       "Licence": "",
       "Size": [],
       "Platform": [],

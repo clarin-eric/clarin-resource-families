@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11321/312",
 	"Family": "Literary corpora",
       "Description": "This corpus is available for download from CLARIN-PL.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "CC-BY 4.0",
       "Size": ["1000 texts"],
       "Annotation": [],

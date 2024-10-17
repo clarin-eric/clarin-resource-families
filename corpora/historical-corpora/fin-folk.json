@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014052712",
 	"Family": "Historical corpora",
       "Description": "This corpus contains poems from 1564 to 1939.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["fin", "krl", "lud", "lat", "swe", "olo", "izh", "vot"],
+      "Language": ["fin", "krl", "lud", "lat", "swe", "olo", "izh", "vot"],
       "Licence": "CC-BY-NC",
       "Size": ["7.1 million words"],
       "Annotation": ["normalised (added diacritics)"],

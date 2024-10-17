@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This a user-friendly corpus tool for English language teaching, linguistic analysis and self-tutoring based on the <a href=\"https://doi.org/10.4324/9780203327630\">Lexical Priming</a> theory of language.\n<a href=\"https://www.theprimemachine.net/help.html\">Online support</a> is available.",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "<a href=\"https://www.theprimemachine.net/files/End-User-License-Agreement-tPMv3.pdf\">Proprietary</a>",
       "Size": [],
       "Platform": ["iOS", "MacOS", "Android", "Windows"],

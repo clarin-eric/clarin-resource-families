@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-2572-6",
 	"Family": "Reference corpora",
       "Description": "This corpus includes Greek texts published in the 20th century.\nThe corpus is available for download from CLARIN:EL.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY-NC",
       "Size": ["20 million words"],
       "Annotation": "",

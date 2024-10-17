@@ -3,7 +3,7 @@
       "URL": "https://clarin.is/en/resources/parice/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Icelandic and English texts from 11 different sources.\nThe corpus is available for download from CLARIN-IS and for search through the concordancer Korp.",
-      "Languages": ["Icelandic-English"],
+      "Language": ["Icelandic-English"],
       "Licence": "CC-BY 4.0",
       "Size": ["3,589,000 sentence pairs"],
       "Annotation": ["tokenised", "PoS-tagged", "sentence-aligned", "word-aligned"],

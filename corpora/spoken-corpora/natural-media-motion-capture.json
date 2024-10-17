@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-C34C-8",
       "Family": "Spoken corpora",
       "Description": "The corpus consists of data from 18 participants, whose task was to describe nine objects each to an experimenter, without using everyday vocabulary about forms, sizes or objects. The participants were recorded on audio and several video cameras, and their hand movements were recorded using an optical VICON motion capture system.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["3 hours"],
       "Annotation": ["orthographically transcribed", "gestures", "motion capture of hands"],

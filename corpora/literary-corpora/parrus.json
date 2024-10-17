@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-20140730173",
 	"Family": "Literary corpora",
       "Description": "This corpus contains Russian literary texts (classical literature & 20th century) and their translations into Finnish aligned at paragraph level.\nThe corpus is available for online browsing through Korp.",
-      "Languages": ["fin","rus"],
+      "Language": ["fin","rus"],
       "Licence": "CLARIN RES +NC +INF +ND",
       "Size": ["5,900,000 tokens"],
       "Annotation": ["MSD-tagged, syntactically parsed"],

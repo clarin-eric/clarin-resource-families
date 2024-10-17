@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1007-0000-0000-9D2B-0",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 9th to the 13th century.\nThe syntactic categories of the SRCMF annotation and the grammatical principles of the annotation are explained in detail in the <a href=\"http://srcmf.org/fiches/index.html\">documentation</a>.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["fro"],
+      "Language": ["fro"],
       "Licence": "CLARIN ACA",
       "Size": ["245,000 tokens"],
       "Annotation": ["tokenised", "syntactically-parsed"],

@@ -3,7 +3,7 @@
       "URL": "http://stnt.ijp.pan.pl/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains Biblical texts from 1380 to 1500.\nThis corpus is available through a dedicated concordancer.",
-      "Languages": ["pol","lat"],
+      "Language": ["pol","lat"],
       "Licence": "",
       "Size": ["400,000 tokens"],
       "Annotation": ["tokenised"],

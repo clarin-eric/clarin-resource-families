@@ -3,7 +3,7 @@
       "URL": "http://voice.univie.ac.at/",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains naturally occurring, non-scripted face-to-face interactions in English as a lingua franca (ELF).\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

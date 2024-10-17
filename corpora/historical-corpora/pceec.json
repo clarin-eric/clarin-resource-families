@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2510",
 	"Family": "Historical corpora",
       "Description": "This corpus contains correspondence from around 1410 to 1681.\nThere are 4970 personal letters by 666 writers. The letters have been selected to be as socially representative of the literate social ranks of the time as possible.\nThis corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "Oxford Text Archive licence",
       "Size": ["2.2 million words"],
       "Annotation": ["tokenised", "PoS-tagged", "syntactically parsed"],

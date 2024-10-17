@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1139",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains forum posts from Avtomobilizem.com, MedOver.net and RTV Slovenija.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["47 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],

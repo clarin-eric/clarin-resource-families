@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-0372-30C6-B67F-ED01-5",
       "Family": "Spoken corpora",
       "Description": "This corpus contains elicitation tasks with pre-school children.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["17,000 words", "13 hours"],
       "Annotation": ["literal and PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],

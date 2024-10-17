@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23DE-F",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains debates of the European Parliament from 1996 to 2011.\nThe corpus is available for download from the CLARIN:el repository.",
-      "Languages": ["Greek-English"],
+      "Language": ["Greek-English"],
       "Licence": "CC-ZERO",
       "Size": ["1.2 million sentences"],
       "Annotation": ["sentence-aligned"],

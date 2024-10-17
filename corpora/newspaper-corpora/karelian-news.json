@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014092601",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the Finnish newspaper <a href=\"http://karjalansanomat.sampo.ru/\">Karjalan Sanomat</a> from 2012 to 2014.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CLARIN ACA",
       "Size": ["500,000 tokens"],
       "Annotation": [],

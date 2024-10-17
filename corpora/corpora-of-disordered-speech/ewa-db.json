@@ -3,7 +3,7 @@
       "URL": "https://catalogue.elra.info/en-us/repository/browse/ELRA-S0489/",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus contains data from 3 clinical groups: Alzheimer's disease, Parkinson's disease, mild cognitive impairment, and a control group of healthy subjects.\nSpeech samples of each clinical group were obtained using the EWA smartphone application, which contains 4 different language tasks: sustained vowel phonation, diadochokinesis, object and action naming (30 objects and 30 actions), and picture description (two single pictures and three complex pictures).",
-      "Languages": ["slk"],
+      "Language": ["slk"],
       "Licence": "Non-commercial and commercial options",
       "Size": ["150 hours"],
       "Annotation": [],

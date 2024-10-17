@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/0000-0000-A0D3-C",
       "Family": "Spoken corpora",
       "Description": "This corpus contains informal interviews.",
-      "Languages": ["fao", "dan"],
+      "Language": ["fao", "dan"],
       "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": [],
       "Annotation": ["<a href=\"https://exmaralda.org/en/2018/11/26/eadh-workshop-annotation-of-digital-oral-data-collections-in-the-humanities-and-social-sciences-3/\">EXMARaLDA</a>"],

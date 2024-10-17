@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/AUTH-0000-0000-2C4C-B",
 	"Family": "Newspaper corpora",
       "Description": "The corpus contains newspaper articles.\nThe corpus is available for download from the CLARIN:EL repository.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY-NC-SA",
       "Size": ["20 units"],
       "Annotation": [],

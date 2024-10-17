@@ -3,7 +3,7 @@
       "URL": "https://www.hf.uio.no/iln/english/about/organization/text-laboratory/projects/doctor-patient/index.html",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains doctor-patient conversations.\nThe corpus is available through a Tekstlab concordancer (account needed).",
-      "Languages": ["nor"],
+      "Language": ["nor"],
       "Licence": "CLARIN ACA",
       "Size": ["958,830 tokens"],
       "Annotation": ["orthographically transcribed", "MSD-tagged", "lemmatised"],

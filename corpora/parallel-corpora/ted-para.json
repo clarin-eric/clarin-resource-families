@@ -3,7 +3,7 @@
       "URL": "https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains TED talks in English and translations into the following languages: Arabic, Simplified Chinese, Traditional Chinese, Dutch, French, German, Hebrew, Italian, Japanese, Korean, and Russian.\nThe corpus is available for download from GIT-HUB.",
-      "Languages": ["11 languages"],
+      "Language": ["11 languages"],
       "Licence": "",
       "Size": ["300,000 sentences"],
       "Annotation": [],

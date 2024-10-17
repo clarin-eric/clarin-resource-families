@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2018071121",
 	"Family": "Historical corpora",
       "Description": "This corpus contains cuneiform texts from Ancient history.\nThe texts come from the <a  href=\"http://oracc.museum.upenn.edu/projectlist.html\">Oracc project</a> and include collections such as the Corpus of Ancient Mesopotamian Scholarship, The Digital Corpus of Cuneiform Lexical Texts, and Royal Inscriptions of Babylonia online.\nThe corpus is available through the concordancer Korp and for download from the repository of FIN-CLARIN.",
-      "Languages": ["akk"],
+      "Language": ["akk"],
       "Licence": "CC-BY-SA",
       "Size": ["1,600,563 tokens"],
       "Annotation": ["tokenised", "lemmatised", "PoS-tagged", "semantically annotated"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11858/00-097C-0000-0001-4872-3",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from the LINDAT repository.",
-      "Languages": ["ara"],
+      "Language": ["ara"],
       "Licence": "CC BY-NC-SA 3.0",
       "Size": [],
       "Annotation": ["syntactic parsing", "morphosyntactic tagging"],

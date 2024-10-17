@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/21.11120/0000-0005-0ABA-F",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 17th to the 20th century.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN PUB",
       "Size": ["215,168,761 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],

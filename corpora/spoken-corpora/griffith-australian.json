@@ -3,7 +3,7 @@
       "URL": "https://www.ausnc.org.au/corpora/gcsause",
 	"Family": "Spoken corpora",
       "Description": "This corpus is available for download and through the concordancer of the Australian National Corpus.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "",
       "Size": ["32,134 words"],
       "Annotation": [],

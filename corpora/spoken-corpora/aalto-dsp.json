@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2017092133",
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous conversations.\nThe corpus is available for download from FIN-CLARIN.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CLARIN ACA",
       "Size": ["5200 utterances"],
       "Annotation": [],

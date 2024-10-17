@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-C059-C",
 	"Family": "Manually annotated corpora",
       "Description": "The corpus contains a collection of user queries to a naturally spoken Web interface with the main focus on the soccer world series in 2006. The recordings include 156 field recordings using a hand-held UMTS device (one person, <a href=\"http://catalog.elra.info/en-us/repository/browse/ELRA-S0278/\">SmartWeb Handheld Corpus SHC</a>), 99 field recordings with video capture of the primary speaker and a secondary speaker (<a href=\"https://www.clarin.eu/resource-families/SmartWeb%20Video%20Corpus%20(SVC)\">SmartWeb Video Corpus SVC</a>) as well as 36 mobile recordings performed on a BMW motorbike (one speaker, SmartWeb Motorbike Corpus SMC).\nThe corpus is available for download from the BAS CLARIN-D repository.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["36 hours"],
       "Annotation": ["orthography", "phonology", "speaker turn", "noise", "prosody", "gaze direction"],

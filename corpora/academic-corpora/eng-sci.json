@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11858/00-246C-0000-0023-8CF9-6",
 	"Family": "Academic corpora",
       "Description": "This corpus contains journal articles in the following disciplines:\n<ul><li>computer science,</li><li>computational linguistics,</li><li>informatics,</li><li>digital construction,</li><li>microelectronics,</li><li>linguistics,</li><li>biology,</li><li>mechanical engineering, and</li><li>electrical engineering.</li></ul>\nThe articles were published in the 1970s, 1980s and the 200s.\nThe corpus is available for online querying through CQPWeb (CLARIN-D distribution).",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "restricted",
       "Size": ["35 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatised", "author/text metadata", "document structure"],

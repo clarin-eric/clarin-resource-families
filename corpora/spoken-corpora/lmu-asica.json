@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0000-A531-E",
       "Family": "Spoken corpora",
       "Description": "This corpus is a documentation of the South Italian dialect 'Calabrese'. The main objects when building this corpus were the analysis of syntactical structures and their geolinguistic mapping in form of interactive, webbased cartography. The corpus consists of several audio files containing recordings of some sixty speakers of Calabrese one half of which having migration experience in Germany the other half almost always having stayed in Calabria. Furthermore the informants were selected equally balanced regarding gender, age and geographical origin. Of most of the informants there exist at least one recording with spontanous speech and one recording based on stimuli each.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "CLARIN RES",
       "Size": ["47 hours"],
       "Annotation": ["phonetic transcription"],

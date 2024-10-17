@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/10.24416/uu01-t4ymow",
 	"Family": "Historical corpora",
       "Description": "This corpus contains Italian language newspapers published in the United States between 1898 and 1920. The corpus includes seven Italian language newspapers published in California, Massachusetts, Pennsylvania, Vermont, and West Virginia. The collection includes the following titles: L’Italia, Cronaca sovversiva, La libera parola, The patriot, La ragione, La rassegna, and La sentinella del West Virginia.\nThe corpus is available for download from the repository of the University of Utrecht.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "ODC Attribution License (ODC-By)",
       "Size": ["16.6 million words"],
       "Annotation": ["unannotated"],

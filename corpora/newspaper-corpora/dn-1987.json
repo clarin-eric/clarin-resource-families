@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/eng/resource/dn1987",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the Swedish newspaper <a href=\"http://dagens.dn.se/\">Dagens Nyheter</a> from 1987.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "CC-BY",
       "Size": ["5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "parsed", "compounds"],

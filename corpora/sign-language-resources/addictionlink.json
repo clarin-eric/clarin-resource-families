@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014073022",
 	"Family": "Sign language resources",
       "Description": "This corpus contains written and recorded (audio and video) materials pertaining to alcohol, drugs and addictions, on independent change programs and a self-assessment test on the use of alcohol.",
-      "Languages": ["Finnish Sign Language (FinSL)"],
+      "Language": ["Finnish Sign Language (FinSL)"],
       "Licence": "Under negotiation",
       "Size": [],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/0000-0000-772F-7",
       "Family": "Spoken corpora",
       "Description": "This corpus contains read, elicited and spontaneous speech.",
-      "Languages": ["Spanish (Catalan)"],
+      "Language": ["Spanish (Catalan)"],
       "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["144 hours"],
       "Annotation": ["orthographically and phonetically transcribed"],

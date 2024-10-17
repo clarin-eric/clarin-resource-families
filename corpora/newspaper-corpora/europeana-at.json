@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/VC-1091",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 147,515 issues of 77 newspapers published in Austria between 1683 and 1930.",
-      "Languages": ["deu","ell","hrv"],
+      "Language": ["deu","ell","hrv"],
       "Licence": "Public",
       "Size": ["2,351,079,191 words"],
       "Annotation": [],

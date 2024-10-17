@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-201405278",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains international conventions and treaties in Russian, English, Swedish, and Finnish.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["4 languages"],
+      "Language": ["4 languages"],
       "Licence": "CC-BY",
       "Size": ["1.2 million tokens"],
       "Annotation": ["tokenised", "paragraph aligned", "PoS-tagged", "lemmatized"],

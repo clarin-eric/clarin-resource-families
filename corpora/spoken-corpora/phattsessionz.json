@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0000-CC6A-4",
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of 1019 adolescent speakers of German (age range 12-20). The recordings were performed via the WWW in public schools (Gymnasium) in 45 locations in Germany. The speech material recorded is a superset of the German SpeechDat-II and RVG-I corpora.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["208 hours"],
       "Annotation": ["orthographically transcribed"],

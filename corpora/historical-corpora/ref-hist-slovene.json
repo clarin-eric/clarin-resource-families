@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1025",
 	"Family": "Historical corpora",
       "Description": "This corpus contains 89 unique texts from 1584 to 1899.\nThe corpus is available for download from the CLARIN.SI repository and through the concordancer KonText.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY 4.0",
       "Size": ["300,000 tokens"],
       "Annotation": ["manually tokenised", "lemmatised", "PoS-tagged", "modern synonyms for archaic words"],

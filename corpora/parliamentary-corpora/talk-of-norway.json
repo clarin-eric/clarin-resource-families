@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11509/123",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Norwegian parliamentary debates from 1998 to 2016.\nThe corpus is available for download from the CLARINO repository.",
-      "Languages": ["nor"],
+      "Language": ["nor"],
       "Licence": "NLOD",
       "Size": ["63.8 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],

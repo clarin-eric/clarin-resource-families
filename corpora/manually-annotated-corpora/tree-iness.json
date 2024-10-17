@@ -3,7 +3,7 @@
       "URL": "http://clarino.uib.no/iness/page",
 	"Family": "Manually annotated corpora",
       "Description": "This is a collection of treebanks made available through the Infrastructure for the <em>Exploration of Syntax and Semantics</em> (INESS).\nThe corpora are available for online querying through INESS.",
-      "Languages": ["71 languages"],
+      "Language": ["71 languages"],
       "Licence": "CC-BY",
       "Size": ["532 treebanks"],
       "Annotation": ["syntactic parsing"],

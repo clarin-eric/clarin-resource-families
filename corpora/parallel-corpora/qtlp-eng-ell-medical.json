@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11500/ATHENA-0000-0000-2457-6",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains automatically detected pairs of parallel documents that were acquired from the web (i.e. from multilingual sites which contain content in the targeted languages and domain). The majority of the crawled sites were: i) websites that contain abstracts of scientific papers and ii) websites of organizations from the public or private sector that are related to medical/health services (e.g. medical centers, institutes, hospitals, etc.).",
-      "Languages": ["English-Greek"],
+      "Language": ["English-Greek"],
       "Licence": "MS-NC-NoReD",
       "Size": ["62,452 sentence pairs"],
       "Annotation": ["sentence aligned"],

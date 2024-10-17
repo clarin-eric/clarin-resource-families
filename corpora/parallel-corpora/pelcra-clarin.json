@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23C2-D",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the CORDIC and RAPID websites, and the press releases of the European Parliament and the European Southern Observatory.\nThe corpus is available for download from the CLARIN:EL repository.",
-      "Languages": ["25 languages"],
+      "Language": ["25 languages"],
       "Licence": "CC-BY",
       "Size": ["143 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],

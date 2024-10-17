@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-D89D-5",
       "Family": "Spoken corpora",
       "Description": "This corpus contains tasks, where one subject (the instructor) describes different Tangram figures to another subject (the receiver) so that the receiver can recreate the same order of figures that the instructor has in front of them. The subjects initially don't know each other and work together to solve these tasks in three consecutive sessions. This edition only features the transcribed segments, not those in between, and uses separate files for the subject.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["48 hours"],
       "Annotation": ["orthographically transcribed", "word and phonemic segmentation"],

@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/eng/resources",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Swedish parliamentary debates from 1971 to 2016. It is annotated with <a href=\"https://spraakbanken.gu.se/swe/forskning/infrastruktur/sparv\">Sparv</a>.\nThe corpus is available for download from Språkbanken (all entries with \"Riksdag's Open Data\" in the subtitle) and through the concordancer Korp.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "CC-BY",
       "Size": ["1.25 billion tokens"],
       "Annotation": ["tokenised", "lemmatised"],

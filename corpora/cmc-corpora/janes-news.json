@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1140",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains news comments from RTV Slovenija, Mladina and Reporter.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["14 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],

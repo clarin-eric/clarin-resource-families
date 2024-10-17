@@ -3,7 +3,7 @@
       "URL": "http://doi.org/10.21415/T5131S",
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous conversations among 617 speakers from all Croatian counties, and it comprises more than 250 000 tokens and more than 100 000 types. Data for the corpus were collected from 2010 to 2012, from 2014 to 2015 and during 2016. Participants were adults who spoke Croatian as their mother tongue and first language. Transcripts were annotated with the ages and genders of the speakers, as well as the location of the conversation. A separate spreadsheet lists the speakers' origin, where they have spent most of their life and their level of education. The coverage of metadata for individual samples varies, and is in general more complete for samples collected from 2014 onwards.\nThe corpus is available for download and browsing from a dedicated website.",
-      "Languages": ["hrv"],
+      "Language": ["hrv"],
       "Licence": "author attribution required",
       "Size": ["250,000 tokens"],
       "Annotation": ["speaker metadata"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-03BC-7412-E7EA-4101-3",
       "Family": "Spoken corpora",
       "Description": "This corpus contains academic interaction.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["deu", "eng", "pol", "bul"],
+      "Language": ["deu", "eng", "pol", "bul"],
       "Licence": "CLARIN RES",
       "Size": ["760,000 words", "92 hours"],
       "Annotation": ["literal and PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed", "annotation of discourse phenomena and language mixing"],

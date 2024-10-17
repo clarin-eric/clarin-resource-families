@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This tool gives researchers access to a large collection (corpus) of newspaper articles spanning three decades. The tool has been created by linguists to encourage curiosity in language learners. WebCorp Learn promotes playful and context-based inductive learning and enables you to discover language through exploratory experimentation.\nRegistration is required.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "",
       "Size": [],
       "Platform": [],

@@ -3,7 +3,7 @@
       "URL": "http://metashare.elda.org/repository/browse/bulgarian-x-language-parallel-corpus/b8ecf7fe66cd11e281b65cf3fcb88b70394683c3b32549349cf039716e61a92b/",
 	"Family": "Parallel corpora",
       "Description": "This corpus is a part of the Bulgarian National Corpus.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["50 languages"],
+      "Language": ["50 languages"],
       "Licence": "CC-BY",
       "Size": ["1.2 billion tokens"],
       "Annotation": ["tokenised"],

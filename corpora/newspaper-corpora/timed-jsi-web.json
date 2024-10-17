@@ -3,7 +3,7 @@
       "URL": "https://www.sketchengine.co.uk/jozef-stefan-institute-newsfeed-corpus/",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from newsfeed from 2014 to 2017.\nThe corpus is available through noSketchEingine.",
-      "Languages": ["18 languages"],
+      "Language": ["18 languages"],
       "Licence": "",
       "Size": ["35 billion tokens"],
       "Annotation": ["tokenised", "PoS-tagged"],

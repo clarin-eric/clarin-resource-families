@@ -3,7 +3,7 @@
       "URL": "https://videoarchiv-ravensbrueck.de/de/einfuehrung",
 	"Family": "Oral history corpora",
       "Description": "The corpus contains 7 interviews with Aenne Meier, Frieda Hummler, Gertrud Frühschütz, Gertrud Müller, Gretel Pressl, Maria Zeh, Victoria Ahrend Kupersztajn. You need to request an account to get access to Loretta Walz’ collection of video interviews. To get to the single interviews use the search function in the online database. Below you can find the metadata of the interviews. <ul><li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7701-A\">Aenne Meier</a></li> <li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7702-9\">Frieda Hummler</a></li>  <li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7703-8\">Gertrud Frühschütz</a></li>  <li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7704-7\">Gertrud Müller</a></li> <li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7705-6\">Gretel Pressl</a></li> <li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7706-5\">Maria Zeh</a></li>  <li><a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-7707-4\">Victoria Ahrend Kupersztajn</a></li></ul>",
-      "Languages": ["German (mainly)", "fra", "eng", "others"],
+      "Language": ["German (mainly)", "fra", "eng", "others"],
       "Licence": "Restricted access (account required)",
       "Size": ["7 interviews related to Ravensbrück"],
       "Annotation": ["None"],

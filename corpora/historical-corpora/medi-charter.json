@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-1952",
 	"Family": "Historical corpora",
       "Description": "This corpus contains Latin charters created in the era of John the Bling, King of Bohemia.\nThe corpus is available for download from LINDAT.",
-      "Languages": ["ces","lat"],
+      "Language": ["ces","lat"],
       "Licence": "CC-BY-NC-SA 4.0",
       "Size": ["57 chapters"],
       "Annotation": ["manually-tagged", "named entities"],

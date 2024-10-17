@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/signes-en-famille/v1",
 	"Family": "Sign language resources",
       "Description": "This is a corpus of spontaneous exhanges between either hearing and deaf children on the one hand and either hearing or deaf parents on the other.\nA sample of the corpus is available for download from the Ortolang repository.",
-      "Languages": ["French Sign Language (LSF)", "fra"],
+      "Language": ["French Sign Language (LSF)", "fra"],
       "Licence": "CC BY-NC-ND 3.0",
       "Size": ["approx. 10 samples"],
       "Annotation": ["partially annotated corpus"],

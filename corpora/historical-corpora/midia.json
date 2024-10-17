@@ -3,7 +3,7 @@
       "URL": "http://www.corpusmidia.unito.it/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 13th to the 20th century.\nThe corpus is available through a dedicated concordancer",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "CC-BY-NC 4.0",
       "Size": ["7.5 million tokens"],
       "Annotation": ["tokenised"],

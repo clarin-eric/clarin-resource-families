@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23DE-F",
 	"Family": "Parliamentary corpora",
       "Description": "This corpus is a bilingual Greek-English subset of the <a href=\"https://www.clarin.eu/resource-families/parliamentary-corpora#Europarl\">Europal parallel corpus</a>.\nThe corpus is available for download from the CLARIN:EL repository.",
-      "Languages": ["Greek-English"],
+      "Language": ["Greek-English"],
       "Licence": "CC ZERO",
       "Size": ["31.9 million words (English)", "1.2 million sentences (Greek)"],
       "Annotation": ["sentence aligned"],

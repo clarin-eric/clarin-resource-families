@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/corpus-catteau-2020/v1",
 	"Family": "Sign language resources",
       "Description": "This corpus contains eleven poetic works in LSF (French sign language) and their fifty-seven translations into oral French.\nThe corpus is available for download from the Ortolang repository.",
-      "Languages": ["French Sign Language (LSF)", "fra"],
+      "Language": ["French Sign Language (LSF)", "fra"],
       "Licence": "CC BY-NC-ND 3.0",
       "Size": ["11 poems in LSF and 57 translations in French (several versions for each poem)"],
       "Annotation": ["multimodal annotation", "prosodic annotation"],

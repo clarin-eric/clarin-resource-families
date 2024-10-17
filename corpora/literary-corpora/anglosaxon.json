@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-867",
 	"Family": "Literary corpora",
       "Description": "This corpus is available for online browsing through an external interface.",
-      "Languages": ["ang"],
+      "Language": ["ang"],
       "Licence": "",
       "Size": [],
       "Annotation": ["none"],

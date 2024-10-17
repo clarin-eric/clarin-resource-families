@@ -3,7 +3,7 @@
       "URL": "https://www.frantext.fr/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 10th to the 21st century.\nThe corpus is available through a dedicated concordancer (restricted access).",
-      "Languages": ["fra"],
+      "Language": ["fra"],
       "Licence": "",
       "Size": ["300 million words"],
       "Annotation": ["PoS-tagged", "lemmatised"],

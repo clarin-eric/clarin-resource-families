@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11372/LRT-426",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus was built under the ESF Foreign Language Speakers project. It contains a lot of annotated audio recordings containing multimodal interaction.",
-      "Languages": ["nld", "eng", "fra", "deu", "swe"],
+      "Language": ["nld", "eng", "fra", "deu", "swe"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0002-0B76-E",
       "Family": "Spoken corpora",
       "Description": "The corpus contains speech of 88 different speakers, reading the German story 'Der Nordwind und die Sonne'. Subcorpus T contains the recordings of 16 native Germans (L1). The other 72 speakers which were born and educated in other countries (L2) are pooled in subcorpus C. Every speaker has a distinct accent.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["1.5 hours"],
       "Annotation": ["orthographically transcribed"],

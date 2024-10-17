@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated concordancer for the <a href=\"https://cc.oulu.fi/~scoats/CoANZSE.html\">Corpus of Australian and New Zealand Spoken English</a>.\nThe corpus contains 195 million words of geolocated automatic speech recognition transcripts of video content from local governments in Australia and New Zealand, created for the study of lexical, grammatical, phonetic, and discourse-pragmatic phenomena of spoken language. Additionally, the corpus contains complete textual content of the corpus, audio files and forced alignments in <a href=\"https://www.fon.hum.uva.nl/praat/manual/TextGrid.html\">Praat's TextGrid</a> format for most transcripts.\nThe corpus can be accessed through the <a href=\"https://www.clarin.eu/content/service-provider-federation\">CLARIN Service Provider Federation</a>.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "",
       "Size": [],
       "Platform": [],

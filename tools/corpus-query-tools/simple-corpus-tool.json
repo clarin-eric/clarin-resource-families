@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a combination of an annotation and analysis tool for use with either simple XML files or basic plain-text files.",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],

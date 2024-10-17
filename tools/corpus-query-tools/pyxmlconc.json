@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a simple concordancer. It is supposed to be used in exploratory analysis of XML-annotated corpora. Its primary feature lies in the automatic detection of XML tags and attributes. The search/concordancing function supports regular expressions.",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "MIT",
       "Size": [],
       "Platform": ["Platform-independent (requires Python)"],

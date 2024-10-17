@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0000-A9EE-6",
       "Family": "Spoken corpora",
       "Description": "This is a sub-corpus of the original Italian CLIPS corpus (Corpora e Lessici dell'Italiano Parlato e Scritto) that is manually annotated and covers only 15 maptask dialogues recorded in 15 locations by local speaker pairs. this corpus contains 3228 inspected and partially repaired WAV signal files, each containing one dialogue turn (*.wav), 3228 corrected original CLIPS annotation files (*.acs, *.phn, *.std, *.wrd), 3228 BAS Partitur files containing the annotation tiers ORT, KAN and SAP (*.par), 3228 EMU database annotation files (*.vot, *.hlb) covering 30 maptask dialogues performed by 30 speakers (each speaker pair performing two different map tasks) recorded in 15 different locations in Italy in 2000-2004.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "CLARIN ACA",
       "Size": ["3 hours"],
       "Annotation": ["orthographically transcribed", "phonemic", "phonetic"],

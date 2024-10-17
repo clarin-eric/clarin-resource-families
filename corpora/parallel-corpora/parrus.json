@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-20140730173",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from classical and 20th century literature.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["Russian-Finnish"],
+      "Language": ["Russian-Finnish"],
       "Licence": "CLARIN RES",
       "Size": ["5.9 million tokens"],
       "Annotation": ["tokenised", "paragraph-aligned"],

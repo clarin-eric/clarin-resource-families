@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-0332-BD7C-3EF5-0B01-4",
       "Family": "Spoken corpora",
       "Description": "This corpus contains narrative and biographic interviews.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["50,000 words", "6 hours"],
       "Annotation": ["orthographically transcribed"],

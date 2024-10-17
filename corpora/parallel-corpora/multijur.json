@@ -3,7 +3,7 @@
       "URL": "https://kitwiki.csc.fi/twiki/bin/view/KitWiki/FinClarinCorpusResourceMultilingualCorpusOfJuridicalTexts",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains international conventions and treaties in the following languages: English, Russian, German, Finnish, and Swedish.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["5 languages"],
+      "Language": ["5 languages"],
       "Licence": "CLARIN PUB",
       "Size": ["1.2 million tokens"],
       "Annotation": ["paragraph aligned"],

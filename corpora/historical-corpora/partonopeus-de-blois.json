@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2499",
 	"Family": "Historical corpora",
       "Description": "This corpus contains transcriptions of the manuscripts and fragments of the romance <a href=\"https://en.wikipedia.org/wiki/Partonopeus_de_Blois\"><i>Partonopeus de Blois</i></a>.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["fro"],
+      "Language": ["fro"],
       "Licence": "CC BY-NC-SA 3.0",
       "Size": ["21,736,766 words"],
       "Annotation": ["no linguistic annotation"],

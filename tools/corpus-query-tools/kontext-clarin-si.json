@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is the CLARIN.SI installation of <a href=\"https://ufal.mff.cuni.cz/lindat-kontext\">LINDAT's KonText</a>, comprised of the <a href=\"https://github.com/czcorpus/kontext\">KonText front-end</a> developed by the Czech National Corpus team and the <a href=\"https://nlp.fi.muni.cz/raslan/2007/papers/12.pdf\">Manatee</a> back-end, developed by Lexical Computing. This installation offers over 50 richly annotated corpora in Slovenian and other languages.\nShibboleth log-in is supported.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["slv", "hrv", "bos", "srp", "cnr", "mkd", "hbs", "bul", "ces", "slk", "pol", "eng", "dan", "nld", "est", "fin", "fra", Gaelic, "deu", "ell", "hun", "isl", "ita", "jpn", "lav", "lit", "por"],
+      "Language": ["slv", "hrv", "bos", "srp", "cnr", "mkd", "hbs", "bul", "ces", "slk", "pol", "eng", "dan", "nld", "est", "fin", "fra", Gaelic, "deu", "ell", "hun", "isl", "ita", "jpn", "lav", "lit", "por"],
       "Licence": "No licence",
       "Size": [],
       "Platform": [],

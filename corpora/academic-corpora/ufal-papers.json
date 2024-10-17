@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11234/1-1731",
 	"Family": "Academic corpora",
       "Description": "This parallel corpus contains research paper abstracts in formal and applied linguistics. For each publication, the authors were obliged to provide both the original abstract in Czech or English, and its translation into English or Czech, respectively. The corpus data are in the TSV format.\nThe corpus is available for download from the LINDAT repository.",
-      "Languages": ["ces","eng"],
+      "Language": ["ces","eng"],
       "Licence": "CC BY",
       "Size": ["2 million words"],
       "Annotation": ["document aligned"],

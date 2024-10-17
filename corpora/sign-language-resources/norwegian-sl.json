@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11509/141",
 	"Family": "Sign language resources",
       "Description": "This corpus consists of data collected in 2007 for the purposes of a doctoral research project about boundary markers in Norwegian Sign Language. Four signers were filmed: two men and two women, both young and old. They are all deaf with deaf parents, siblings, or other family members. They live in central Eastern Norway, and all have gone to the deaf school in the area. The signers were asked to retell a children’s picture book entitled \"Frog, Where Are You?\" by Mercer Mayer and also to respond to the question \"What happened on 9/11 and what did you do?\" Video recordings of the signers were made in a studio, and sessions were led by a deaf adult man who is an L1 signers of Norwegian Sign Language. No other people were present during the recordings.\nThe corpus is available for download from the CLARINO repository.",
-      "Languages": ["Norwegian Sign Language (NSL)"],
+      "Language": ["Norwegian Sign Language (NSL)"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["8 video clips", "18 minutes"],
       "Annotation": ["EAF transcripts, ELAN annotations"],

@@ -3,7 +3,7 @@
       "URL": "http://metashare.ilsp.gr:8080/repository/browse/hungarian-mrba/92067ce281b611e2892a000c29bfc0d48e6c8e9c745d446a9a64e48ba4c6462d/",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains reading tasks.\nThe corpus is available for download (upon request) from META-SHARE.",
-      "Languages": ["hun"],
+      "Language": ["hun"],
       "Licence": "META-SHARE No-Redistribution Commercial FF",
       "Size": ["6 hours"],
       "Annotation": ["partial phonemic-level annotation"],

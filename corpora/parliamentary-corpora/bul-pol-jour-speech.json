@@ -3,7 +3,7 @@
       "URL": "http://www.political.webclark.org/?locale=bg",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Bulgarian parliamentary debates from 2006 to 2012.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["bul"],
+      "Language": ["bul"],
       "Licence": "",
       "Size": ["10 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],

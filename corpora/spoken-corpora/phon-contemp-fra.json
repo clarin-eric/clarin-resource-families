@@ -3,7 +3,7 @@
       "URL": "http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-794340",
       "Family": "Spoken corpora",
       "Description": "This corpus is available for download from a dedicated webpage.",
-      "Languages": ["fra"],
+      "Language": ["fra"],
       "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],

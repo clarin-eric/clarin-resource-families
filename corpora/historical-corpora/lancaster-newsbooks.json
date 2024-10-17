@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2531",
 	"Family": "Historical corpora",
       "Description": "This corpus contains two collections of English printed pamphlets, books, and newspapers from 1654 to 1655.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CC-BY-NC-SA 3.0",
       "Size": ["3,001,604 words"],
       "Annotation": [],

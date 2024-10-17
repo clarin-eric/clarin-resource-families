@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-0332-C35C-4849-7B01-7",
       "Family": "Spoken corpora",
       "Description": "This corpus contains broadcasts in standard German.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["10,000 words", "2 hours"],
       "Annotation": ["PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],

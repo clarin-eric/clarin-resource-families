@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11234/1-3126",
 	"Family": "Parliamentary corpora",
       "Description": "This corpus contains audio recordings of Czech parliamentary sessions along with the corresponding transcriptions. The whole corpus has been segmented to short audio snippets making it suitable for both training and evaluation of automatic speech recognition (ASR) systems.\nThe corpus is available for download form the LINDAT reposiory.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC BY 4.0",
       "Size": ["444 hours"],
       "Annotation": [],

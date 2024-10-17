@@ -3,7 +3,7 @@
       "URL": "https://catalog.ldc.upenn.edu/LDC2021S04",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of Tamil Dysarthric Speech.\nThe corpus contains approximately eight hours of Tamil speech data, time-aligned transcripts and metadata collected from 30 speakers (20 dysarthric speakers and 10 non-dysarthric speakers).\nThe non-dysarthric speakers consisted of five female and five male subjects. The dysarthric speakers (7 female, 13 male) reported a diagnosis of cerebral palsy and ranged in age from 12 years old to 37 years ol.\nIn total, each speaker recorded 365 utterances consisting of single words and of sentences that included a combination of common and uncommon Tamil phrases.\nThe corpus includes time-aligned phonetic transcripts for all collected speech data. Additional documentation includes phoneme mappings and speaker metadata. Audio data is presented as 16-bit 16kHz FLAC compressed linear pcm wav. Transcripts are presented as UTF-8 encoded plain text.",
-      "Languages": ["tam"],
+      "Language": ["tam"],
       "Licence": "<a href=\"https://catalog.ldc.upenn.edu/license/the-ssnce-database-of-tamil-dysarthric-speech-agreement.pdf\">LDC</a>",
       "Size": ["30 speakers"],
       "Annotation": ["phonetic"],

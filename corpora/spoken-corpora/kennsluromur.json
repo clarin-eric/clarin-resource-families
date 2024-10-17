@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12537/171",
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of lectures at <a href=\"https://en.ru.is\">Reykjavik University</a> and the <a href=\"https://english.hi.is/university_of_iceland\">University of Iceland</a>. The lectures were donated by the lecturers (172 lectures by 14 lecturers), transcribed with an Icelandic speech recognizer and then manually corrected by human transcribers and finally verified by a proofreader.",
-      "Languages": ["isl"],
+      "Language": ["isl"],
       "Licence": "CC BY 4.0",
       "Size": ["51 hours"],
       "Annotation": ["sentence-segmented orthographic transcriptions"],

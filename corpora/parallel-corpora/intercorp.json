@@ -3,7 +3,7 @@
       "URL": "https://wiki.korpus.cz/doku.php/en:cnk:intercorp",
 	"Family": "Parallel corpora",
       "Description": "The corpus consists of two main parts: manually aligned fiction and a number of collections: political commentaries published by Project Syndicate and VoxEurop, EU legal texts form the Acquis Communautaire corpus, proceedings of the European Parliament from the Europarl corpus, film subtitles from the Open Subtitles database, and the Bible.\nThe corpus is available primarily through the KonText concordancer. For research purposes, tailor-made linguistic data derived from the InterCorp corpus can be provided upon request. The contact e-mail is cnk@korpus.cz.",
-      "Languages": ["40 languages"],
+      "Language": ["40 languages"],
       "Licence": "proprietary",
       "Size": ["1.5 billion tokens"],
       "Annotation": ["sentence aligned"],

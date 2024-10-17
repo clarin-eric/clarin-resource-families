@@ -3,7 +3,7 @@
       "URL": "http://www.parlaritaliano.it/index.php/it/corpora-di-parlato/644-spit-mdb-spoken-italian-multilevel-database",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous speech.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "",
       "Size": [],
       "Annotation": ["orthographically transcribed"],

@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "The acronym CATMA stands for Computer Assisted Text Markup and Analysis.\nIt is possible to upload one's own corpus with this tool.",
       "Functionality": ["Querying/concordancing", "corpus upload and analysis"]
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "",
       "Size": [],
       "Platform": [],

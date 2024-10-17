@@ -3,7 +3,7 @@
       "URL": "http://zil.ipipan.waw.pl/PolishSummariesCorpus",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available for download from the ZIL IPI PAN repository.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "CC BY 3",
       "Size": ["10845 summaries"],
       "Annotation": ["summarization"],

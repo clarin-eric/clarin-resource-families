@@ -3,7 +3,7 @@
       "URL": "https://psychosis.talkbank.org/",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus intended for the study of language in psychosis.\nThe site is noted as under construction.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
-      "Languages": ["English (various dialects)", "spa"],
+      "Language": ["English (various dialects)", "spa"],
       "Licence": "email request for access",
       "Size": ["Not available"],
       "Annotation": ["CHAT and CA/CHAT"],

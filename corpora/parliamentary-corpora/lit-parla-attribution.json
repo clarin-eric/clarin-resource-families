@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.11821/17",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Lithuanian parliamentary debates from 1990 to 2013. It is annotated with <a href=\"http://www.lvb.lt/primo_library/libweb/action/dlDisplay.do?vid=LDB&amp;docId=TLITLIJ.04~2000~1367182714637&amp;fromSitemap=1&amp;afterPDS=true\">Lemuoklis</a> (morphological analyzer for lemmatization) and <a href=\"http://www.maltparser.org/\">MaltParser</a> (generation of dependency tags).\nThe corpus is available for download from the repository of CLARIN-LT.",
-      "Languages": ["lit"],
+      "Language": ["lit"],
       "Licence": "CLARIN PUB",
       "Size": ["23.9 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],

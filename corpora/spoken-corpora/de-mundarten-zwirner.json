@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-0332-D40A-3CEE-B901-4",
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews and elicited speech in German dialects.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["German, (some Frisian and Dutch)"],
+      "Language": ["German, (some Frisian and Dutch)"],
       "Licence": "CLARIN RES",
       "Size": ["4 million words", "1076 hours"],
       "Annotation": ["PoS-tagged", "lemmatised", "time-aligned", "orthographically transcribed"],

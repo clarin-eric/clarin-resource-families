@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/58506aa9-8122-48bf-93b1-f353a2d65ab1",
 	"Family": "Sign language resources",
       "Description": "This corpus includes a wide range of elicited and spontaneous language materials accumulating to 100 hours of video data from generation III-V of adult deaf and hearing signers. Ongoing data collection (anno 2022) is focused on generation III as they are currently among the eldest KK signers.",
-      "Languages": ["Kata Kolok (Benkala Sign Language)"],
+      "Language": ["Kata Kolok (Benkala Sign Language)"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["63.5; data collection ongoing"],
       "Annotation": ["63.5 hours of video data, roughly 3:52 hours are translated in English and Indonesian, 3:44 hours are glossed and about 1:45 hours are translated and glossed."],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0001-88E5-3",
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of 162 speakers while being sober and intoxicated. Beginning with version 3, this corpus edition also contains an emuR compatible database version of the corpus (with a minor bugfix in the database in version 3.1).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["94 hours"],
       "Annotation": ["orthographically transcribed", "phonemic", "user state"],

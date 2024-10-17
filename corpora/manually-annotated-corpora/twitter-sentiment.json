@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1054",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains Tweet IDs with sentiment annotations.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["sqi", "bos", "bul", "hrv", "eng", "deu", "hun", "pol", "por", "rus", "srp", "slk", "slv", "spa", "swe"],
+      "Language": ["sqi", "bos", "bul", "hrv", "eng", "deu", "hun", "pol", "por", "rus", "srp", "slk", "slv", "spa", "swe"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["1.6 million tweets"],
       "Annotation": ["sentiment analysis"],

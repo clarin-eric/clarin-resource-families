@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/0000-0000-50DD-D",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains Speech tasks performed by bilingual children.",
-      "Languages": ["deu", "spa"],
+      "Language": ["deu", "spa"],
       "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["72 hours"],
       "Annotation": ["orthographic and phonetic transcription"],

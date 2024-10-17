@@ -3,7 +3,7 @@
       "URL": "https://www.statmt.org/europarl/",
 	"Family": "Parliamentary corpora",
       "Description": "This corpus contains parliamentary debates from the European Parliament from 1996 to 2011.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["21 languages"],
+      "Language": ["21 languages"],
       "Licence": "CC0",
       "Size": ["33.7 million tokens"],
       "Annotation": ["sentence/aligned"],

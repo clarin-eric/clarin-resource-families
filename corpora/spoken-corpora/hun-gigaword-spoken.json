@@ -3,7 +3,7 @@
       "URL": "http://hnc.nytud.hu/index_eng.html",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains radio broadcasts (reading aloud and spontaneous conversation)\nThe corpus is available through the Hungarian Gigaword Corpus concordancer.",
-      "Languages": ["hun"],
+      "Language": ["hun"],
       "Licence": "",
       "Size": ["76 million words"],
       "Annotation": ["PoS-tagged", "MSD-tagged"],

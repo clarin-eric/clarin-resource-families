@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-560",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Biblical scripture (150 manually annotated sentences from the Gospel of Luke (1:1 to 3:18). The English text is King James Bible whereas the Lugandan text is taken from the <a href=\"http://www.lutheransonline.com/servlet/lo_ProcServ/dbpage=page&GID=01211001361002498027487858&PG=00027000001073059075147237\">online Luganda bible</a>.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["English-Luganda"],
+      "Language": ["English-Luganda"],
       "Licence": "",
       "Size": ["150 sentences"],
       "Annotation": ["word-aligned"],

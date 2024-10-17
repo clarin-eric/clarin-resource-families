@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/21.11129/0000-000D-FAD1-D ",
 	"Family": "Legal corpora",
       "Description": "This corpus contains Estonian-English translations of the Acts of Estonian law.\nThe corpus is available for download from PORTULAN.",
-      "Languages": ["Estonian-English"],
+      "Language": ["Estonian-English"],
       "Licence": "CC BY",
       "Size": ["47,000 units"],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-E9CF-A",
       "Family": "Spoken corpora",
       "Description": "The corpus contains read speech of 101 different speakers (50 female, 50 male, 1 unknown). Each speaker has read approx. 100 sentences from either the SZ subcorpus or the CeBit subcorpus. The language is German. The subcorpus SZ contains 544 sentences from newspaper articles (\"Sueddeutsche Zeitung\"). The subcorpus CeBit contains 483 sentences from newspaper articles about the CeBit 1995. Each subcorpus is divided into 5 parts of approx. 100 utterances each. Every speaker read only one part of one subcorpus (with some exceptions), thus resulting in a total of 10.387 recorded utterances",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["31.5 hours"],
       "Annotation": ["orthographically transcribed"],

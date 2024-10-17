@@ -3,7 +3,7 @@
       "URL": "https://cosmas2.ids-mannheim.de/cosmas2-web/",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains content from newsgroup posts and Wikipedia.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "",
       "Size": ["670 million tokens"],
       "Annotation": ["tokenised"],

@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/sign-hub-wp-24/v1",
 	"Family": "Sign language resources",
       "Description": "This is a collection of datasets connected to the <a href=\"https://cordis.europa.eu/project/id/693349\">Sign-Hub</a> project. The corpus contains interviews conducted with elderly Deaf signers from five countries on their life experiences as well as a documentary movie based on these interviews. These interviews were conducted in five of the participating countries of the SIGN-HUB project and in six different sign languages: Catalan Sign Language (LSC), German Sign Language (DGS), Italian Sign Language (LIS), Sign Language of the Netherlands (NGT), Spanish Sign Language (LSE), and Turkish Sign Language (TİD).  In each country, interviews have been conducted in different geographical areas. The exact number of interviews differs per sign language, but for every sign language, at least 20 interviews have been conducted, with interviewees being between 66 and 97 years of age. Interviews followed a pre-defined questionnaire; however, the addition of country-specific questions was encouraged.\nThis collection is available for download from the Ortolang repository.",
-      "Languages": ["Catalan Sign Language (LSC)", "German Sign Language (DGS)", "Italian Sign Language (LIS)", "Dutch Sign Language (NGT)", "Spanish Sign Language (LSE)" ,"Turkish Sign Language (TİD)."],
+      "Language": ["Catalan Sign Language (LSC)", "German Sign Language (DGS)", "Italian Sign Language (LIS)", "Dutch Sign Language (NGT)", "Spanish Sign Language (LSE)" ,"Turkish Sign Language (TİD)."],
       "Licence": "CLARIN PUB",
       "Size": ["200 hours"],
       "Annotation": ["not annotated yet"],

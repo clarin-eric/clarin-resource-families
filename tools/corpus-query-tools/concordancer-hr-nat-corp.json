@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is an implementation of NoSketchEngine for the <a href=\"http://hdl.handle.net/11372/LRT-233\">Croatian National Corpus</a>.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["hrv"],
+      "Language": ["hrv"],
       "Licence": "",
       "Size": [],
       "Platform": [],

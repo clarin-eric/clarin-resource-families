@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0000-FC55-5",
       "Family": "Spoken corpora",
       "Description": "Verbmobil 2 contains the speech of 401 speakers participating in 810 recordings. The emotional tagged recordings are not part of this edition but are collected inthe corpus 'BAS VMEmo'. The total VM2 corpus amounts to 17.6GB of data containing 58961 conversational turns distributed on 39 CD-R. VM2 contains dialogs in German, English, Japanese and mixed language pairs (partly with interpreter). The domain is appointment scheduling, travel planing, leisure time planing. Starting from version 3, the corpus is also available in emuR compatible emuDB format (see annotation files ending in *_annot.json).",
-      "Languages": ["deu", "eng", "jpn"],
+      "Language": ["deu", "eng", "jpn"],
       "Licence": "CLARIN ACA",
       "Size": ["65.8 hours"],
       "Annotation": ["orthographically transcribed", "phonetic", "phonemic", "prosodic"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11041/sldr000776",
       "Family": "Spoken corpora",
       "Description": "This corpus contains an interview.\nThe corpus is available for download from ORTOLANG.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CLARIN RES",
       "Size": [],
       "Annotation": ["phonetic labels"],

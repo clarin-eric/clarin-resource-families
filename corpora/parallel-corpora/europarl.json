@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-395",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains debates of the European Parliament from 1996 to 2011.\nThe corpus is available for download from the corpus webpage.",
-      "Languages": ["21 languages"],
+      "Language": ["21 languages"],
       "Licence": "CC-ZERO",
       "Size": ["650,000 tokens"],
       "Annotation": ["tokenised", "sentence aligned"],

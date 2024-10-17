@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11297/1-00-0000-0000-0000-0002-4",
 	"Family": "Academic corpora",
       "Description": "This corpus contains scientific articles and PhD theses. The corpus data are in the P5 format.",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CLARIN ACA-NC",
       "Size": ["5 million words"],
       "Annotation": [],

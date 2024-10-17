@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-201801192",
 	"Family": "Historical corpora",
       "Description": "This corpus contains newspaper articles from 1875 to 1920.\nThe corpus is available for download from the Language Bank of Finland.",
-      "Languages": ["fin", "swe"],
+      "Language": ["fin", "swe"],
       "Licence": "CLARIN ACA",
       "Size": ["8.7 billion tokens"],
       "Annotation": ["tokenised"],

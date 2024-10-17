@@ -3,7 +3,7 @@
       "URL": "http://clarino.uib.no/menota/page",
 	"Family": "Historical corpora",
       "Description": "This corpus contains Medieval Nordic texts.\nThe corpus is available for download and through the concordancer Corpuscle.",
-      "Languages": ["Old Norse"],
+      "Language": ["Old Norse"],
       "Licence": "CC-BY",
       "Size": ["1.6 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised"],

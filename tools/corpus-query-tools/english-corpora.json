@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a tool for browsing the corpora available on <a href=\"https://english-corpora.org\">english-corpora.org</a>, which are formerly known as the BYU or Brigham Young University copora.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "",
       "Size": [],
       "Platform": [],

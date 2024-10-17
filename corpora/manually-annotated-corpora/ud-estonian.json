@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00168L",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains fictional, newspaper and scientific texts. The syntactic parsing follows the <a href=\"http://universaldependencies.org/guidelines.html\">Universal Dependencies</a> schema.\nThe corpus is available for download from META-SHARE (CELR distribution).",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CC-BY-SA",
       "Size": ["434,000 tokens"],
       "Annotation": ["syntactic parsing"],

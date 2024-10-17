@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/21.11129/0000-000B-D4FD-9",
 	"Family": "Legal corpora",
       "Description": "",
-      "Languages": ["mlt"],
+      "Language": ["mlt"],
       "Licence": "MIT (academic)",
       "Size": ["20.9 million tokens"],
       "Annotation": [],

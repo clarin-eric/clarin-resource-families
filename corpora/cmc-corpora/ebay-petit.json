@@ -3,7 +3,7 @@
       "URL": "https://www.uni-potsdam.de/langage/la-bank/ebay.php",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains eBay listings from 2005, 2017, and 2018. The corpus is manually annotated.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["fra"],
+      "Language": ["fra"],
       "Licence": "CC-BY-NC-SA 4.0",
       "Size": ["100,000 tokens"],
       "Annotation": ["<a href=\"https://www.uni-potsdam.de/langage/la-bank/ebay.php\">see here</a>"],

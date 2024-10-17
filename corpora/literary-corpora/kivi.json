@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-201405274",
 	"Family": "Literary corpora",
       "Description": "This corpus contains all the known letters, manuscripts and published works by Finnish author Aleksis Kivi (1834–1872). Most of the texts were written in Finnish while some of the letters and manuscripts are in Swedish. The time coverage of the texts: 1855-1871.\nThe corpus is available for online browsing through Korp.",
-      "Languages": ["fin","swe"],
+      "Language": ["fin","swe"],
       "Licence": "CC-BY-NC",
       "Size": ["413,735 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],

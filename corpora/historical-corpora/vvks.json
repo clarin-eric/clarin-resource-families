@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2017082101",
 	"Family": "Historical corpora",
       "Description": "This corpus contains literary texts from 1543 to 1791.\nThis corpus complements the <a href=\"http://urn.fi/urn:nbn:fi:lb-201407165\">Corpus of Old Literary Finnish</a> available through FIN-CLARIN.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CC-BY-NC-ND",
       "Size": ["48 texts"],
       "Annotation": [],

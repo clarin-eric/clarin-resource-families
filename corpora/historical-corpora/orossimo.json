@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-240F-8",
 	"Family": "Historical corpora",
       "Description": "This corpus contains historic academic texts.\nThe corpus is available for download from the clarin:el repository.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY",
       "Size": ["553,000 tokens"],
       "Annotation": ["structural annotation (paragraph)"],

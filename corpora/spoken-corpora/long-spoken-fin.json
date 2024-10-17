@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014073041",
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThe corpus is available for online querying through the LAT platform and through the concordancer Korp.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "restricted",
       "Size": ["210 hours"],
       "Annotation": [],

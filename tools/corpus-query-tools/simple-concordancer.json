@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This tool allows users to create word lists and search natural language text files for words, phrases, and patterns. The tool is a concordance and word listing program that is able to read texts written in many languages. There are built-in alphabets for English, French, German, Polish, Greek and Russian. The tool contains an alphabet editor which you can use to create alphabets for any other language.\nA <a href=\"http://www.textworld.com/scp/scphelp.pdf\">help document</a> is available.",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "<a href=\"http://www.textworld.com/scp/copyrigh.txt\">Proprietary</a>",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],

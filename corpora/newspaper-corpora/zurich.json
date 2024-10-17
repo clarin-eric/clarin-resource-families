@@ -3,7 +3,7 @@
       "URL": "https://varieng.helsinki.fi/CoRD/corpora/ZEN/",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from various English newspapers (mainly newspapers from London) from the 17th and 18th century. ",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "public",
       "Size": ["1.6 million tokens"],
       "Annotation": ["tokenised"],

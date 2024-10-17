@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/21.11119/0000-0001-7E8B-6",
 	"Family": "Academic corpora",
       "Description": "This corpus contains journal articles published in <a href=\"http://rstl.royalsocietypublishing.org/\">Philosophical Transactions of the Royal Society of London</a> between 1665 and 1869.\nThe corpus is available for online querying through CQPweb and for download from the CLARIN-D repository of the University of Saarland.",
-      "Languages": ["English (late and early modern)"],
+      "Language": ["English (late and early modern)"],
       "Licence": "CC BY",
       "Size": ["32 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatised", "normalised", "author and document metadata"],

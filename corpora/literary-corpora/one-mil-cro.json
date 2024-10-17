@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-234",
 	"Family": "Literary corpora",
       "Description": "The corpus is listed in the LINDAT repository. ",
-      "Languages": ["hrv"],
+      "Language": ["hrv"],
       "Licence": "",
       "Size": ["1 million tokens"],
       "Annotation": [],

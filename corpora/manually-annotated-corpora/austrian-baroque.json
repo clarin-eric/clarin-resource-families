@@ -3,7 +3,7 @@
       "URL": "https://acdh.oeaw.ac.at/abacus/",
 	"Family": "Manually annotated corpora",
       "Description": "This historical corpus contains sermons from 1650 to 1750. For linguistic annotation, each individual token was automatically assigned to a morphosyntactic word class using the <a href=\"https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/\">TreeTagger</a> software. As a classification system, the 54-part Stuttgart-Tübingen TagSet (<a href=\"https://homepage.ruhr-uni-bochum.de/Stephen.Berman/Korpuslinguistik/Tagsets-STTS.html\">STTS</a>) was used. For lemmatization , a normalized basic word form was used for each token and the <a href=\"http://www.duden.de/\">Duden</a> and the <a href=\"http://www.dwb.uni-trier.de/\">German dictionary by Jacob and Wilhelm Grimm</a> were used as reference works. The part-of-speech tagging and lemmatization was then manually checked.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "",
       "Size": ["200,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "named entities"],

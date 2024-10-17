@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.11821/10",
 	"Family": "Manually annotated corpora",
       "Description": "Syntactic parsing follows the rules of the <a href=\"https://ufal.mff.cuni.cz/pdt/\">Prague Dependency Treebank</a>\nThis corpus is available for download from the CLARIN-LT repository. The second version is available upon request.",
-      "Languages": ["lit"],
+      "Language": ["lit"],
       "Licence": "CLARIN PUB",
       "Size": ["2,355 sentences"],
       "Annotation": ["syntactic parsing"],

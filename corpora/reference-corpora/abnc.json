@@ -3,7 +3,7 @@
       "URL": "https://clarino.uib.no/abnc/page",
 	"Family": "Reference corpora",
       "Description": "This corpus includes Abkhaz texts published between 1920 and 2016. The corpus is encoded in TEI.\nThe corpus is available for online browsing through the Corpuscle concordancer (CLARINO distribution).",
-      "Languages": ["abk"],
+      "Language": ["abk"],
       "Licence": "CLARIN_PUB-BY-NC-ND",
       "Size": ["10 million words"],
       "Annotation": ["MSD-tagged", "lemmatized"],

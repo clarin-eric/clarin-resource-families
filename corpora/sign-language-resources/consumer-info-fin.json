@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014073020",
 	"Family": "Sign language resources",
       "Description": "This corpus contains written and recorded (video) materials pertaining to advice aimed at consumers with regards to e.g.  product defects, service related complaints, canceling orders and online shopping.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["Finnish Sign Language (FinSL)"],
+      "Language": ["Finnish Sign Language (FinSL)"],
       "Licence": "Under negotiation",
       "Size": [],
       "Annotation": [],

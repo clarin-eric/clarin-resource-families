@@ -3,7 +3,7 @@
       "URL": "https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html",
 	"Family": "Sign language resources",
       "Description": "The DGS Corpus is a collection of German Sign Language (DGS) data from 330 signers from Germany. The 15-year long-term project is based at the Institute of German Sign Language and Communication of the Deaf at the Universität Hamburg and started in 2009. It is led by Thomas Hanke and Annika Herrmann. The DGS Corpus is used to build the DGS-German dictionary DW-DGS",
-      "Languages": ["German Sign Language (DGS)"],
+      "Language": ["German Sign Language (DGS)"],
       "Licence": "Restricted, see <a href=\"https://archive.mpi.nl/tla/access-levels\">here</a>",
       "Size": ["+50 hours"],
       "Annotation": [],

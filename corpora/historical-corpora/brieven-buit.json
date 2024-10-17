@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10032/f6d68fed217ef7364a32c431396ac465",
 	"Family": "Historical corpora",
       "Description": "This corpus contains 40,000 letters from the 17th to the 19th century.\nThese letters were sent home by sailors and others from abroad but also vice versa by those staying behind who needed to keep in touch with their loved ones. Many letters did not reach their destinations: they were taken as loot by privateers and confiscated by the High Court of Admiralty during the wars fought between The Netherlands and England\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "CLARIN PUB",
       "Size": ["460,000 words"],
       "Annotation": ["lemmatised", "PoS-tagged", "grammatically tagged"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10032/tm-a2-n3",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus has been constructed within the framework of the project Speech Algorithms for Clinical and Educational applications (SPACE).",
-      "Languages": ["Dutch (Flemish)"],
+      "Language": ["Dutch (Flemish)"],
       "Licence": "Academic, bespoke",
       "Size": ["319 speakers of which 122 normal controls and 197 with a speech disorder. Corpus size: 1.3 GB"],
       "Annotation": ["Orthographic transcription"],

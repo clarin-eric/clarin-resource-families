@@ -3,7 +3,7 @@
       "URL": "https://spxvi.edu.pl/korpus/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from the 16th century.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["pol","lat"],
+      "Language": ["pol","lat"],
       "Licence": "",
       "Size": [],
       "Annotation": ["lemmatised", "transliteration"],

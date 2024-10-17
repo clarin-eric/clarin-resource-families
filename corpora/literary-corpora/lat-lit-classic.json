@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-184",
 	"Family": "Literary corpora",
       "Description": "This corpus presents classics from the end of the 19th century to the beginning of the 20th century.",
-      "Languages": ["lat"],
+      "Language": ["lat"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

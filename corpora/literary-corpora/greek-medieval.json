@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/AEGEAN-0000-0000-251D-7",
 	"Family": "Literary corpora",
       "Description": "This corpus contains medieval texts contains written material covering the period from the 4th till the 16th century A.D. The texts can be classified into the following categories: religious, poetical-literary, political-historical, hymns, epigrams.\nThe corpus is available for download from clarin:el.",
-      "Languages": ["ell","grc"],
+      "Language": ["ell","grc"],
       "Licence": "CC-BY-NC",
       "Size": ["3,419,553 words"],
       "Annotation": [],

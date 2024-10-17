@@ -3,7 +3,7 @@
       "URL": "https://www.plm.uw.edu.pl/projekty/korpus-pjm/ ",
 	"Family": "Sign language resources",
       "Description": "This is a corpus of video data from 150 Deaf native signers of Polish Sign Language (PJM).",
-      "Languages": ["Polish Sign Language (PJM)"],
+      "Language": ["Polish Sign Language (PJM)"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

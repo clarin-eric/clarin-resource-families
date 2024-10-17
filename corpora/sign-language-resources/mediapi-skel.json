@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/mediapi-skel/v1",
 	"Family": "Sign language resources",
       "Description": "This is a 2D-skeleton video corpus of LSF with French subtitles. The corpus consists of 368 subtitled videos produced by Média’Pi4, a media company producing bilingual content with LSF and written French. The corpus was produced at the Laboratoire d’informatique pour la mécanique et les sciences de l’ingénieur (LIMSI).\nFrom the original videos, 25 body keypoints, 2x21 hand keypoints and 70 face keypoints were extracted using <a href=\"https://github.com/CMU-Perceptual-Computing-Lab/openpose\">OpenPose</a>. 135 keypoints for every person in every frame of the 368 videos were provided, as well as the associated subtitles in French.\nThe corpus is available for download from Ortolang.",
-      "Languages": ["French Sign Language (LSF)"],
+      "Language": ["French Sign Language (LSF)"],
       "Licence": "CC BY-NC 4.0",
       "Size": ["368 subtitled videos"],
       "Annotation": [],

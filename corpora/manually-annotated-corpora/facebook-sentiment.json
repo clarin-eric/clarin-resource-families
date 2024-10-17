@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11858/00-097C-0000-0022-FE82-7",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains Facebook posts.\nThe corpus is available for download from LINDAT and through the concordancer KonText.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC BY-SA 3.0",
       "Size": ["10,000 Facebook posts"],
       "Annotation": ["sentiment analysis"],

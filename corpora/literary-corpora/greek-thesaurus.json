@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23E3-8",
 	"Family": "Literary corpora",
       "Description": "This corpus contains prose, poetry, drama, and essays from the 18th century onwards.\nThe corpus is available for online browsing through a dedicated webpage.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "proprietary",
       "Size": ["1 million tokens"],
       "Annotation": ["semantic"],

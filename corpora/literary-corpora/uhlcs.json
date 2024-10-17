@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014032622",
 	"Family": "Literary corpora",
       "Description": "This corpus contains samples of Finnish literature published by the WSOY publishing company in the 1990.\nThe corpus is available online through FIN-CLARIN.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CLARIN RES",
       "Size": ["68,425 words"],
       "Annotation": ["tagged"],

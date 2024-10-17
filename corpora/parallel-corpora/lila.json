@@ -3,7 +3,7 @@
       "URL": "http://tekstynas.vdu.lt/page.xhtml?id=parallelLILA",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains fictional and non-fictional texts from 1991 to 2012. It is bidirectional.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["Lithuanian-Latvian"],
+      "Language": ["Lithuanian-Latvian"],
       "Licence": "",
       "Size": ["8 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12574/84",
 	"Family": "Reference corpora",
       "Description": "This corpus includes texts from journalism, fiction, science, Wikipedia, legal documents, parliamentary subscripts, and subtitles.\nThe corpus is available for online browsing through the noSketch Engine concordancer.",
-      "Languages": ["lav"],
+      "Language": ["lav"],
       "Licence": "",
       "Size": ["122.9 million tokens"],
       "Annotation": ["MSD-tagged", "lemmatized"],

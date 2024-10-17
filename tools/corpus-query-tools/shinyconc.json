@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a framework for generating custom web-based concordancers. It requires R and Rstudio/Shiny.\nA detailed <a href=\"http://shinyconc.de/tutorial.pdf\">setup tutorial</a> is available.",
       "Functionality": ["Concordancing/querying", "corpus building"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "GPL3",
       "Size": [],
       "Platform": ["Windows", "MacOS", "Linux"],

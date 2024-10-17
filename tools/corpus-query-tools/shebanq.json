@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated online environment for querying the Hebrew Bible.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["heb"],
+      "Language": ["heb"],
       "Licence": "",
       "Size": [],
       "Platform": [],

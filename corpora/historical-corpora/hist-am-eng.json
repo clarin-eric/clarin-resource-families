@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2017061925",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1810 to 2009.\nEach decade has roughly the same balance of fiction, popular magazine, newspaper, and non-fiction books.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["English (American)"],
+      "Language": ["English (American)"],
       "Licence": "CLARIN ACA",
       "Size": ["385 million tokens"],
       "Annotation": ["tokenised"],

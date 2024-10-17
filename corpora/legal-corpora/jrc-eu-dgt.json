@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1197",
 	"Family": "Legal corpora",
       "Description": "",
-      "Languages": ["bul", "hrv", "ces", "dan", "nld", "eng", "est", "fin", "fra", "deu", "hun", "gle", "ita", "lav", "lit", "ell", "pol", "por", "ron", "slk", "slv", "spa", "swe"],
+      "Language": ["bul", "hrv", "ces", "dan", "nld", "eng", "est", "fin", "fra", "deu", "hun", "gle", "ita", "lav", "lit", "ell", "pol", "por", "ron", "slk", "slv", "spa", "swe"],
       "Licence": "CC BY 4.0",
       "Size": ["2.1 billion tokens"],
       "Annotation": ["syntactically parsed (Universal Dependencies)"],

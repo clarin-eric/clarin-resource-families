@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This collection of tools corresponds to a REST API, Python package and web applications allowing a user to build corpora from the vast digital collections of the National Library of Norway (currently ca. 160 billion words). Users get concordances, frequency lists and co-occurrence data.\nUser support is available through email.",
       "Functionality": ["Querying/concordancing/analysis"]
-      "Languages": ["nob", "nno", "sme", "smj", "sma"],
+      "Language": ["nob", "nno", "sme", "smj", "sma"],
       "Licence": "",
       "Size": [],
       "Platform": [],

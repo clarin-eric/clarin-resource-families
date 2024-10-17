@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11372/LRT-735",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains annotated video recordings of friendly Face-to-Face dialogues. It is modelled on the Face-to-Face dialogues in the <a href=\"http://opensonarplus.science.ru.nl/\">Spoken Dutch Corpus</a> (CGN). The procedures and design of the corpus were adapted to make this corpus useful for other researchers of Dutch speech. For this corpus 20 dialogue conversations of 15 minutes were recorded and annotated, in total 5 hours of speech. To stay close to the Face-to-Face dialogues in the CGN, pairs of well-acquainted participants were selected, either good friends, relatives, or long-time colleagues. The participants were allowed to talk about any topic they wanted.\nThe corpus is available for download from a dedicated webpage (hosted by CLARIAH-NL).",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "GNU general public license",
       "Size": ["5 hours"],
       "Annotation": ["functional annotation of dialogue utterances", "annotated gaze direction"],

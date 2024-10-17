@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10794/116",
 	"Family": "Literary corpora",
       "Description": "This corpus presents 60 Bonnier novels from 1980-81.\nThe corpus is available for download from SWE-CLARIN and for online browsing through Korp.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "CC-BY 4.0",
       "Size": ["4,304,271 tokens", "298,361 sentences"],
       "Annotation": ["sentence scrambling"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2461",
 	"Family": "Historical corpora",
       "Description": "This corpus contains 1147 letters from 1418 to 1680.\nThe corpus was created from the larger <a href=\"https://www.helsinki.fi/en/researchgroups/variation-contacts-and-change-in-english/research/corpus-of-early-english-correspondence\">Corpus of Early English Correspondence</a>.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "Oxford Text Archive licence",
       "Size": ["450,000 words"],
       "Annotation": ["no annotation"],

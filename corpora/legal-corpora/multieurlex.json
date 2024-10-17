@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11500/CLARIN-EL-0000-0000-61A7-6",
 	"Family": "Legal corpora",
       "Description": "This corpus consists of 65,000 European laws in 23 official European languages. Each law has been annotated with the <a href=\"https://en.wikipedia.org/wiki/EuroVoc\">EuroVoc</a> concept labels.\nThe corpus is available for download from the repository of CLARIN:EL.",
-      "Languages": ["fin", "slk", "lit", "hrv", "slv", "est", "lav", "mlt", "eng", "deu", "fra", "ita", "spa", "Castilian", "pol", "ron", "Moldavian", "Moldovan", "nld", "Flemish", "ell", "hun", "por", "ces", "swe", "bul", "dan"],
+      "Language": ["fin", "slk", "lit", "hrv", "slv", "est", "lav", "mlt", "eng", "deu", "fra", "ita", "spa", "Castilian", "pol", "ron", "Moldavian", "Moldovan", "nld", "Flemish", "ell", "hun", "por", "ces", "swe", "bul", "dan"],
       "Licence": "CC BY",
       "Size": [],
       "Annotation": ["conceptual annotation"],

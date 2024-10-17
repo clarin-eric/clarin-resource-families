@@ -3,7 +3,7 @@
       "URL": "http://metashare.elda.org/repository/browse/hungarian-broadcast-news-database/99bc21d081b611e2892a000c29bfc0d4d3d173ede2e64475b596aa1857a64541/",
 	"Family": "Spoken corpora",
       "Description": "This corpus is available for download (upon request) from META-SHARE.",
-      "Languages": ["hun"],
+      "Language": ["hun"],
       "Licence": "META_SHARE NC-NoReD",
       "Size": ["25,000 words", "3.5 hours"],
       "Annotation": ["audio-level annotations"],

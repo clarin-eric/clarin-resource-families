@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.11821/9",
 	"Family": "Manually annotated corpora",
       "Description": "The corpus contains texts from various domains (documents, fiction, periodicals, scientific texts, wordforms).\nThis corpus is available for download from the CLARIN-LT repository.",
-      "Languages": ["lit"],
+      "Language": ["lit"],
       "Licence": "CLARIN ACA",
       "Size": ["1.6 million words"],
       "Annotation": ["morphosyntactic tagging"],

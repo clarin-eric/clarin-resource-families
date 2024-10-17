@@ -3,7 +3,7 @@
       "URL": "https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-60/",
 	"Family": "Legal corpora",
       "Description": "This corpus contains 50,000 legal documents and meeting minutes collected with the web crawler Veidemann. Around 88.5 million words are in Nynork, while the rest are in Bokmal (Bokmål).\nThe corpus is available for download from the Norwegian Language Bank.",
-      "Languages": ["Norwegian (Nynorsk and Bokmål)"],
+      "Language": ["Norwegian (Nynorsk and Bokmål)"],
       "Licence": "CC0 1.0 Universal",
       "Size": ["127 million words"],
       "Annotation": [],

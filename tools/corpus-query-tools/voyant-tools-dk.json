@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This tool constitutes a deployment of Voyant Tools at CLARIN-DK.",
       "Functionality": ["Querying/concordancing", "Stylometry"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "",
       "Size": [],
       "Platform": [],

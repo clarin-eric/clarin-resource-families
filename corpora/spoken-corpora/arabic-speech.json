@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2561",
       "Family": "Spoken corpora",
       "Description": "This corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["ara"],
+      "Language": ["ara"],
       "Licence": "CC BY 4.0",
       "Size": [],
       "Annotation": [],

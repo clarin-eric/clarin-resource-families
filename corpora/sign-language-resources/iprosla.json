@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/00-CE31E27F-8853-4A18-80E8-AECAFAD012C0",
 	"Family": "Sign language resources",
       "Description": "This corpus contains three sets of data. The first is a set of longitudinal data of deaf children from deaf and hearing parents that has been collected at the UvA since the late 1980s. The second is a new collection of longitudinal data collected at the RU from hearing and deaf children of deaf parents (2008–2020). Thirdly, data collected in an educational context by Nini Hoiting at the Kentalis Guyot school. ",
-      "Languages": ["Dutch Sign Language (NGT)"],
+      "Language": ["Dutch Sign Language (NGT)"],
       "Licence": "Restricted end user license for academic use only.",
       "Size": ["Around 500 hours"],
       "Annotation": ["Unannotated"],

@@ -3,7 +3,7 @@
       "URL": "https://osf.io/ygc8n/",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus includes recordings of single words and continuous speech samples that provide examples of speakers with and without speech disorders.",
-      "Languages": ["English (American)"],
+      "Language": ["English (American)"],
       "Licence": "Access by registration",
       "Size": [],
       "Annotation": [],

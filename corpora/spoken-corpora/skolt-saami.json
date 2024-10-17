@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014073037",
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews.\nThis corpus is available for online querying through the LAT platform.",
-      "Languages": ["Skolt Saami"],
+      "Language": ["Skolt Saami"],
       "Licence": "CLARIN RES",
       "Size": ["19 hours"],
       "Annotation": ["MSD-tagged"],

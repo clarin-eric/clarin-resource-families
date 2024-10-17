@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/KEG-0000-0000-24FB-D",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains newspaper articles in various topics (politics, economy, sports).\nThe corpus is available for download from the CLARIN:EL repository.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY-NC-SA",
       "Size": ["3 million tokens"],
       "Annotation": [],

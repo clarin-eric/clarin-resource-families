@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12574/86",
 	"Family": "Manually annotated corpora",
       "Description": "This treebank is manually annotated according to a hybrid dependency-constituency grammar.\nThe treebank is available for download from the CLARIN-LV repository.",
-      "Languages": ["lav"],
+      "Language": ["lav"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["289,791 tokens", "17,127 sentences"],
       "Annotation": ["syntactic parsing"],

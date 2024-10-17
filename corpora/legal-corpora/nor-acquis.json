@@ -3,7 +3,7 @@
       "URL": "https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-2/",
 	"Family": "Legal corpora",
       "Description": "This corpus contains Norwegian translations of 5414 documents in <a href=\"https://en.wikipedia.org/wiki/Acquis_communautaire\">Acquis Communautaire</a>.\nThe corpus is available for download from the Norwegian Language Bank.",
-      "Languages": ["Norwegian (Bokmål and Nynorsk)"],
+      "Language": ["Norwegian (Bokmål and Nynorsk)"],
       "Licence": "CC BY-NC 4.0",
       "Size": ["14 million words"],
       "Annotation": [],

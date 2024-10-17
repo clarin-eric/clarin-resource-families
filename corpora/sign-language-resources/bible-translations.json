@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014073029",
 	"Family": "Sign language resources",
       "Description": "This is a video corpus of Bible translations (including The Gospels of John and Luke and the Old Testament, Genesis 1:1-4:16, 6:1-9:17), mass and other religious ceremonies, as well as other religious documents.\nThe corpus is available for online browsing through a dedicated webpage.",
-      "Languages": ["Finnish Sign Language (FinSL)"],
+      "Language": ["Finnish Sign Language (FinSL)"],
       "Licence": "Under negotiation",
       "Size": [],
       "Annotation": [],

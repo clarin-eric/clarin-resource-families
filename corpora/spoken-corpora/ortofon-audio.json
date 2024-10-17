@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-2579",
       "Family": "Spoken corpora",
       "Description": "This corpus contains informal conversations.\nThe corpus is available for download from LINDAT and through the concordancer KonText.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "Academic Licence Agreement for Czech National Corpus Data",
       "Size": ["1 million words"],
       "Annotation": ["orthographically and phonetically transcribed", "MSD-tagged", "lemmatised"],

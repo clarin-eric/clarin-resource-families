@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2468",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1761 to 1790.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "Oxford Text Archive licence",
       "Size": ["300,000 words"],
       "Annotation": ["COCOA-style"],

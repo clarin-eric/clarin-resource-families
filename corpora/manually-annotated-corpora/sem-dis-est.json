@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00081L",
 	"Family": "Manually annotated corpora",
       "Description": "The corpus is available for download from META-SHARE (CELR distribution).",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CLARIN ACA",
       "Size": ["375,733 tokens"],
       "Annotation": ["word sense disambiguation"],

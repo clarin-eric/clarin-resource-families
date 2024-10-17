@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net//21.11115/0000-000B-D33D-3",
 	"Family": "Literary corpora",
       "Description": "This corpus contains 70 copyright-free classics (61 Portugal and 9 Brazil) published before 1940.\nThe corpus is available for download from PORTULAN.",
-      "Languages": ["por"],
+      "Language": ["por"],
       "Licence": "CLARIN RES",
       "Size": ["1,781,083 words"],
       "Annotation": ["PoS-tagged", "lemmatized"],

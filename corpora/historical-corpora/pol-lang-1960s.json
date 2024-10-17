@@ -3,7 +3,7 @@
       "URL": "ihttp://hdl.handle.net/20.500.14106/2482",
 	"Family": "Historical corpora",
       "Description": "This corpus contains essays, news articles, and scientific and literary texts from 1963 to 1967.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "CC-BY-NC-SA 3.0",
       "Size": ["500,000 words"],
       "Annotation": ["MSD-tagged"],

@@ -3,7 +3,7 @@
       "URL": "https://catalog.elra.info/en-us/repository/browse/ELRA-W0033/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the telecommunications domain.\nThe corpus is available for download from the ELRA catalogue.",
-      "Languages": ["3 languages"],
+      "Language": ["3 languages"],
       "Licence": "ELRA END USER/ELRA VAR",
       "Size": ["4 million tokens"],
       "Annotation": ["tokenised", "morphosyntactically tagged"],

@@ -3,7 +3,7 @@
       "URL": "http://coralit.lt/en/node/18",
 	"Family": "Academic corpora",
       "Description": "This corpus contains textbooks, scientific monographs, journal articles, abstracts, forewords, research reports, and master’s and PhD theses from the following disciplines:\n<ul><li>humanities (architecture, fine art studies, ethnology, folklore studies, philosophy, linguistics, literary theory, librarianship, history, theology),</li><li>social sciences (law, political science,\neconomics, psychology, education, management),</li><li>physical sciences (mathematics, astronomy, physics, chemistry, geography, geology and mineralogy, informatics),</li><li>biomedical sciences (medicine, dental surgery, biology, botany, agronomy, animal husbandry, pharmacy, veterinary science, forestry studies), and</li><li>technological sciences (energy studies, chemical technology, materials science, mechanics, metrology, building construction, transport technology, agricultural and\nenvironmental sciences, management and informatics).</li></ul>The materials were published between 1999 and 2009. The corpus is encoded in TEI 5.\nThe corpus is available for online querying through a dedicated website.",
-      "Languages": ["lit"],
+      "Language": ["lit"],
       "Licence": "",
       "Size": ["9 million words"],
       "Annotation": ["no linguistic annotation"],

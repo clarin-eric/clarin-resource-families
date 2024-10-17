@@ -3,7 +3,7 @@
       "URL": "http://opus.lingfil.uu.se/ParCor/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains TED talks and EU Bookshop publications.\nThe corpus is available for download from the OPUS webpage.",
-      "Languages": ["English-German"],
+      "Language": ["English-German"],
       "Licence": "",
       "Size": [],
       "Annotation": ["pronoun coreference"],

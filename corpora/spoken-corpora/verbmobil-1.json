@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0000-EB31-0",
       "Family": "Spoken corpora",
       "Description": "The Verbmobil (VM) dialog database is a collection of German, American and Japanese dialog recordings in the appointment scheduling task. The data were collected during the first phase (1993 - 1996) of the German VM project funded by the German Ministry of Science and Technology (BMBF). Starting with version 3, the corpus is also provided as an emuR comptatible database.",
-      "Languages": ["deu", "eng", "jpn"],
+      "Language": ["deu", "eng", "jpn"],
       "Licence": "CLARIN ACA",
       "Size": ["77 hours"],
       "Annotation": ["orthographically transcribed", "phonetic", "phonemic", "prosodic"],

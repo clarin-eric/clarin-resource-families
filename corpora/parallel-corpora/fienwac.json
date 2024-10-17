@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1061",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts crawled from top-level Finnish .fi domains.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["Finnish-English"],
+      "Language": ["Finnish-English"],
       "Licence": "CLARIN.SI User License for Internet Corpora",
       "Size": ["2.9 million tokens"],
       "Annotation": ["tokenised", "sentenced-aligned"],

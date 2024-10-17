@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-866",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains fictional texts and academic, newspaper and tourist articles.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["Portuguese-English"],
+      "Language": ["Portuguese-English"],
       "Licence": "CC-BY",
       "Size": [],
       "Annotation": ["sentence-aligned"],

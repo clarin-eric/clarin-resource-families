@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-1905",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is a subset of the <a href=\"http://hdl.handle.net/11234/1-2621\">Prague Dependency Treebank 3.5</a>\nThe corpus is available through the PML-TQ tool.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC-BY",
       "Size": ["49,500 sentences"],
       "Annotation": ["syntactic parsing", "mark-up of discourse phenomena enriched by the annotation of secondary connectives"],

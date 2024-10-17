@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1142",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains tweets written by Slovenian Twitter users from 2013 to 2017.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["139 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],

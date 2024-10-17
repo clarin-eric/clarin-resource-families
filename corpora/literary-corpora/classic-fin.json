@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2018051701",
 	"Family": "Literary corpora",
       "Description": "This corpus contains literary texts from 1549 to 1944.\nThe corpus is available for online browsing through FIN-CLARIN.",
-      "Languages": ["fin","swe"],
+      "Language": ["fin","swe"],
       "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1781",
 	"Family": "Manually annotated corpora",
       "Description": "The SloWIC dataset is a Slovenian dataset for the Word in Context task. Each example in the dataset contains a target word with multiple meanings and two sentences that both contain the target word. Each example is also annotated with a label that shows if both sentences use the same meaning of the target word. The dataset contains 1808 manually annotated sentence pairs and additional 13150 automatically annotated pairs to help with training larger models. The dataset is stored in the JSON format following the format used in the <a href=\"https://github.com/clarinsi/classla\">SuperGLUE version</a> of the Word in Context task.\nEach example contains the following data fields:\n<ul>\n<li>word: The target word with multiple meanings</li>\n<li>sentence1: The first sentence containing the target word</li>\n<li>sentence2: The second sentence containing the target word</li>\n<li>idx: The index of the example in the dataset</li>\n<li>label: Label showing if the sentences contain the same meaning of the target word</li>\n<li>start1: Start of the target word in the first sentence</li>\n<li>start2: Start of the target word in the second sentence</li>\n<li>end1: End of the target word in the first sentence</li>\n<li>end2: End of the target word in the second sentence</li>\n<li>version: The version of the annotation</li>\n<li>manual_annotation: Boolean showing if the label was manually annotated</li>\n<li>group: The group of annotators that labelled the example</li>\n</ul>",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["14,958 items"],
       "Annotation": ["word sense disambiguation"],

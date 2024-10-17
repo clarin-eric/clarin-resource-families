@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12537/62",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains Icelandic texts from the 12th through the 21st centuries – approximately 100,000 words from each century. The corpus is syntactically parsed following the <a href=\"https://www.ling.upenn.edu/~beatrice/annotation/\">UPenn scheme for historical texts</a>.\nThe corpus is available for online search through treebankstudio.org and for download in different formats from a dedicated webpage.",
-      "Languages": ["isl"],
+      "Language": ["isl"],
       "Licence": "GNU LGPL",
       "Size": ["1 million tokens"],
       "Annotation": ["morphosyntactic tagging", "lemmatisation", "syntactic parsing"],

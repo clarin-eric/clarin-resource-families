@@ -3,7 +3,7 @@
       "URL": "http://clara.b.uib.no/fellows/carla-parra-escartin/tris/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the European Commission from 1997 to 2010.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["German-Spanish"],
+      "Language": ["German-Spanish"],
       "Licence": "",
       "Size": ["1.76 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],

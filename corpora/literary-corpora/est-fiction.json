@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-0007EL",
 	"Family": "Literary corpora",
       "Description": "This corpus contains texts from 1990 onwards.\nThe corpus is available for download from CELR.",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CLARIN ACA - NC",
       "Size": ["5,768,504 words"],
       "Annotation": [],

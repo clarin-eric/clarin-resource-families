@@ -3,7 +3,7 @@
       "URL": "https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/corpora/tueba-dz/",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the German newspaper <a href=\"http://www.taz.de/\">Die Tageszeitung</a>.\nThe corpus is available through a dedicated concordancer with an institutional account.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["1.8 million tokens"],
       "Annotation": ["tokenised","MSD tagged","lemmatised","syntactic constituency","named-entities"],

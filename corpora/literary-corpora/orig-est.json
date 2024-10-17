@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.15155/9-00-0000-0000-0000-00088L",
 	"Family": "Literary corpora",
       "Description": "This corpus collects older Estonian literary texts published on \"Kreutzwald's Century: the Estonian Cultural History Web\". The electronically republished books, included in the collection, are based on the first editions of works by more important Estonian authors, published in 1854-1944.\nThe corpus is available for online browsing through an external interface.",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CLARIN ACA",
       "Size": ["173 texts"],
       "Annotation": [],

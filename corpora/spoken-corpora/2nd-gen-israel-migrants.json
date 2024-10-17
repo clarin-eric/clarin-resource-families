@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-0332-C453-CEDC-B601-2",
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews in German extraterritorial varieties.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["125 hours"],
       "Annotation": ["orthographically transcribed", "code switching"],

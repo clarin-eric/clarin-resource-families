@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/KEG-0000-0000-2502-4",
 	"Family": "Academic corpora",
       "Description": "This corpus contains scientific texts in linguistics and dialectology. This is a plain text corpus.\nThe corpus is available for download from the CLARIN:EL repository.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY-SA",
       "Size": ["113,000 words"],
       "Annotation": [],

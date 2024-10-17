@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-3D30-F",
       "Family": "Spoken corpora",
       "Description": "WaSeP contains recordings of one female and one male speaker, both professional actors, uttering single German nouns and pseudowords in multiple emotional prosodies. This edition improves the segmentation of the phonetic annotation, adds Praat TextGrid files and removes a few irregular items.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["3 hours"],
       "Annotation": ["phonetic"],

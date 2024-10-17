@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/1713",
 	"Family": "Historical corpora",
       "Description": "This corpus contains Biblical texts.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["sco"],
+      "Language": ["sco"],
       "Licence": "Oxford Text Archive licence",
       "Size": ["35,506 words"],
       "Annotation": ["no annotation"],

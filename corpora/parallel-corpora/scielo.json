@@ -3,7 +3,7 @@
       "URL": "http://www.statmt.org/wmt16/biomedical-translation-task.html",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains scientific articles from the Scielo database in the following language pairs: English-French, English-Spanish, and English-Portuguese.",
-      "Languages": ["4 languages"],
+      "Language": ["4 languages"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

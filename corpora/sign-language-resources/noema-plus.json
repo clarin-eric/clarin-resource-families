@@ -3,7 +3,7 @@
       "URL": "http://sign.ilsp.gr/signilsp-site/index.php/el/noima/",
 	"Family": "Sign language resources",
       "Description": "This is an online dictionary of lemmas taken from three previously developed resources, namely (i) the <a href=\"http://archive.ilsp.gr/en/services-products/products/item/1-langtechn/2-noema\">NOEMA DB</a>, from which it incorporates 3,000 revised entries, (ii) the GSL segment of the <a href=\"http://hdl.handle.net/11500/ATHENA-0000-0000-28C5-5\">Dicta Sign Corpus</a>, from which it incorporates 2,000 entries, and the <a href=\"http://hdl.handle.net/11500/ATHENA-0000-0000-4C77-6\">POLYTROPON Parallel Corpus</a> corpus, from which it incorporates 3,616 new entries.\nThe lexicon is available for online browsing through an interface provided by the CLARIN:EL consortium.",
-      "Languages": ["Greek Sign Language (GSL)"],
+      "Language": ["Greek Sign Language (GSL)"],
       "Licence": "Freely accessible",
       "Size": ["8,616 lemmas"],
       "Annotation": ["citation forms, GSL synonyms, usage examples in GSL and Greek, concept clarification in the case of homonymity in Greek"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-2498",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains legal texts.\nThe corpus is available through the concordance KonText, the PML-TQ tool and for download from the LINDAT repository.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["1121 sentences"],
       "Annotation": ["syntactic parsing", "labelling of semantic entities"],

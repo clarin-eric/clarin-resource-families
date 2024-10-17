@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0000-A99C-2",
       "Family": "Spoken corpora",
       "Description": "This corpus contains diachronic speech recordings from three cochlear implant (CI) users. For data used in the corresponding synchronic study, please refer to the CI_2 corpora.  This corpus contains recordings used for the analysis of the temporal dynamics of the consonant cluster /ʃtr/.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["14 min"],
       "Annotation": ["orthographically transcribed"],

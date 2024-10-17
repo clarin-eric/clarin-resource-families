@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1448",
 	"Family": "Academic corpora",
       "Description": "This corpus contains BA, MA, and PhD theses in humanities, social sciences, and natural sciences published between 2000 and 2018. The corpus data are in the TEI format.\nThe corpus is available for download from CLARIN.SI. Version 1.0 is also available for online querying through <a href=\"https://www.clarin.si/noske/run.cgi/corp_info?corpname=kas&struct_attr_stats=1&subcorpora=1\">noSketch Engine</a> and <a href=\"https://www.clarin.si/kontext/first_form?corpname=kas\">KonText</a> (CLARIN.SI distribution).",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CLARIN.SI Licence ACA ID-BY-NC-INF-NORED 1.0",
       "Size": ["1.5 billion tokens"],
       "Annotation": ["MSD-tagged", "lemmatised", "marked for bilingual and monolingual term candidates"],

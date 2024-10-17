@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0005-8535-9",
       "Family": "Spoken corpora",
       "Description": "This is a corpus of telephone conversations including prompted descriptions of typical forms (Berlin public transport ticket, invoices, Austrian parking tickets, newsstand receipts, money transfer forms) found in everyday life.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN PUB",
       "Size": ["24.5 hours"],
       "Annotation": ["orthographically transcribed"],

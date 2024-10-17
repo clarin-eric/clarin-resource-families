@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1138",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains blog posts from RTV Slovenija and Publishwall.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["34 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],

@@ -3,7 +3,7 @@
       "URL": "https://books.google.si/books?id=NZbWCgAAQBAJ&pg=PA178&lpg=PA178&dq=serac+corpus&source=bl&ots=A7F-vUMJsr&sig=ACfU3U1b8W_r944Bs8OviL9xauHtUoeqVg&hl=sl&sa=X&ved=2ahUKEwiRuq_5nczmAhXT5KYKHWUtBlcQ6AEwAHoECAUQAQ#v=onepage&q=serac%20corpus&f=false",
 	"Family": "Academic corpora",
       "Description": "This corpus contains journal articles published between 2000 and 2010.\nThe corpus is unavailable.",
-      "Languages": ["spa","eng"],
+      "Language": ["spa","eng"],
       "Licence": "",
       "Size": ["5.7 million words"],
       "Annotation": [],

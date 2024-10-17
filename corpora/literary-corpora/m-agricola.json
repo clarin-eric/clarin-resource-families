@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-20140730170",
 	"Family": "Literary corpora",
       "Description": "This corpus contains the Finnish parts of Mikael Agricola’s works (Abckiria, Rukouskiria, Se Wsi testamenti, Käsikiria, Messu, Piina, Psaltari, Veisut, Profeetat).\nThe corpus is available for online browsing through Korp.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CC-BY-ND",
       "Size": ["83,678 sentences", "428,314 tokens", "38,308 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],

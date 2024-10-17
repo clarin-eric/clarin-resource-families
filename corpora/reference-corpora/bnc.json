@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2554",
 	"Family": "Reference corpora",
       "Description": "This corpus includes English texts (fiction, magazines, newspapers, and academic writing) published between 1980 and 1993.\nThe corpus is encoded in TEI. Non-linguistic metadata include contextual and bibliographic information. Aside from written materials, the corpus also includes transcriptions of spoken language.\nThe corpus is available for online browsing through a dedicated concordancer and can be downloaded from the Oxford Text Archive (CLARIN-UK).",
-      "Languages": ["English (British)"],
+      "Language": ["English (British)"],
       "Licence": "BNC User Licence (restricted for the downloadable version)",
       "Size": ["100 million words"],
       "Annotation": ["PoS-tagged", "lemmatized"],

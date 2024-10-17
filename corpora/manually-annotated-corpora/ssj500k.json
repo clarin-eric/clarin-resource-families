@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1181",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains standard Slovenian.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["586,000 tokens"],
       "Annotation": ["fully – tokenisation, sentence segmentation, morphosyntactic tagging, and lemmatisation. Half of the corpus – syntactic parsing, Named Entity recognition, and verbal multiword expression tagging. Quarter of corpus: semantic roles"],

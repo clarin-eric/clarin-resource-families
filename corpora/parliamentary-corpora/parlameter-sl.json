@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1208",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains minutes of the National Assembly of the Republic of Slovenia and currently covers the VIIth mandate from 1 August 2014 to 22 June 2018. The corpus contains speaker metadata (gender, age, education, party affiliation).\nThe corpus is available for download from the CLARIN.SI repository and through the concordancers <a href=\"https://www.clarin.si/kontext/first_form?corpname=parlameter_sl\">KonText</a> and <a href=\"https://www.clarin.si/noske/run.cgi/corp_info?corpname=parlameter_sl&amp;struct_attr_stats=1\">noSketchEngine</a>, as well as through a dedicated <a href=\"https://parlameter.si/\">dedicated webpage</a>.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["41 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised", "named entities"],

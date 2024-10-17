@@ -3,7 +3,7 @@
       "URL": "http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_paralell",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains literary texts and texts on the European Union.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["English-Hungarian"],
+      "Language": ["English-Hungarian"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

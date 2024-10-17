@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2518",
 	"Family": "Historical corpora",
       "Description": "This corpus contains transliterations and English translations of 394 Sumerian compositions from approximately 2100 to 1700 BCE.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["eng", "sux"],
+      "Language": ["eng", "sux"],
       "Licence": "CC-BY-NC-SA 3.0",
       "Size": ["5,151,373 words"],
       "Annotation": ["Each word form in the composite transliterations has been assigned to a lexeme which is specified by a citation form, word class information and basic English translation."],

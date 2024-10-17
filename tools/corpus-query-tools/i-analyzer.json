@@ -15,7 +15,7 @@
 <li>Dutch monarchs’ speeches,</li>
 <li>Dutch parliamentary debates.</li> I-analyzer does not have an option to upload your own data yet. But you can still use your data with I-analyzer by self-hosting the tool or contacting the team (<a href=\"https://github.com/UUDigitalHumanitieslab/I-analyzer\">contact and self-host instructions</a>).</ol>",
       "Functionality": ["Querying/concordancing", "analysis", "visualizations"]
-      "Languages": ["Multiple"],
+      "Language": ["Multiple"],
       "Licence": "",
       "Size": [],
       "Platform": [],

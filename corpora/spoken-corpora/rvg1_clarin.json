@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0004-3FF4-3",
       "Family": "Spoken corpora",
       "Description": "The corpus is a collection of more than 500 speakers of different dialect regions of Germany. The recordings were made using four different microphones (two in low and two in high quality) and consist of single digits, connected digits, phone numbers, phonetically balanced sentences, computer command phrases prompted on a screen, and 1 min spontaneous speech (monologue). The speakers were recorded in normal office environments. The backround noise was limited to the usual noise in office environment, eg. door slam, backround crosstalk, phone ringing, paper rustle, PC noise, etc. ",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["32 hours"],
       "Annotation": ["orthographically transcribed"],

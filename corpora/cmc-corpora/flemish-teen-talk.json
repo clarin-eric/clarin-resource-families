@@ -3,7 +3,7 @@
       "URL": "https://repository.uantwerpen.be/docman/irua/948a9a/159941.pdf",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains Facebook posts and WhatsApp messages from 2015 and 2016.",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "",
       "Size": ["2.9 million tokens"],
       "Annotation": ["tokenised"],

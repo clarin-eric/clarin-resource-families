@@ -3,7 +3,7 @@
       "URL": "http://oldhungariancorpus.nytud.hu/en-descr.html",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts (codices, letters) from the 12th to the 17th century.\nThe corpus is available for download from a dedicated webpage and through a dedicated concordancer.",
-      "Languages": ["hun"],
+      "Language": ["hun"],
       "Licence": "",
       "Size": ["3 million tokens"],
       "Annotation": ["tokenised", "partially normalized", "partially MSD-tagged"],

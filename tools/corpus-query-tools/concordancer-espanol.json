@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a querying tool for the corpora from Corpus del Español, which provide billions of words of recent data from 21 Spanish-speaking countries. There are <a href=\"https://www.corpusdelespanol.org/\">four different corpora</a> in the Corpus del Español.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["spa"],
+      "Language": ["spa"],
       "Licence": "",
       "Size": [],
       "Platform": [],

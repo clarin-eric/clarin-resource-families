@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1180",
 	"Family": "Reference corpora",
       "Description": "This corpus includes Croatian texts taken from fiction (28%) and specialised texts (72%).\nThe corpus is available for online browsing via noSketch Engine and KonText and for download from the CLARIN.SI repository.",
-      "Languages": ["hrv"],
+      "Language": ["hrv"],
       "Licence": "CC-BY-NC-SA 4.0",
       "Size": ["101.8 million tokens", "85.3 million words", "4.7 million sentences", "14,781 texts"],
       "Annotation": ["sentence segmented", "PoS-tagged", "lemmatized"],

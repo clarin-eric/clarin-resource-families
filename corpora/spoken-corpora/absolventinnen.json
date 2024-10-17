@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-EC5D-8",
       "Family": "Spoken corpora",
       "Description": "This corpus provides data for examining the pronunciation of gender-neutral forms in German. The recordings took place at the IPS in the Munich region. 56 texts were recorded from 40 speakers. The texts came from newspapers, websites, administration offices, social services, etc., and were modified to contain either one of the three gender-neutral forms or the extended form. Each of the speakers read the 56 sentences, with target words, 25 % each, asterisk, underscore, uppercase-I or the feminine plural-form in a counterbalancing measures design. Filler sentences for this study are not a part of the corpus but will be part of further investigations. That means, that there are 56 recordings per session.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["2 hours"],
       "Annotation": ["orthographically transcribed", "phonetic", "phonemic transcription"],

@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/00-97AF29EA-877D-422A-BAF7-25FA269351A6",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus aims at the investigation of the acquisition of Dutch by deaf Dutch adults (late L1/early L2) and comparison to hearing Turkish and Moroccan-Arabic.",
-      "Languages": ["nld", "tur", "ary"],
+      "Language": ["nld", "tur", "ary"],
       "Licence": "CLARIN PUB (Transcriptions), CLARIN RESTRICTED (Recordings)",
       "Size": ["2GB of 46 deaf Dutch adults, 38 hearing Turkish adults, 24 hearing Moroccan adults, 10 Dutch controls"],
       "Annotation": [],

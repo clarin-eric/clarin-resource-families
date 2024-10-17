@@ -3,7 +3,7 @@
       "URL": "https://rhd.talkbank.org/",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of multimedia interactions for the study of communication in people with Right Hemisphere Damage (RHD).\nAccess to the data in RHDBank is password protected and restricted to members of the RHDBank consortium group.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
-      "Languages": ["eng", "spa"],
+      "Language": ["eng", "spa"],
       "Licence": "email request for access",
       "Size": ["30 MB transcripts", "28 GB media"],
       "Annotation": ["CHAT and CA/CHAT"],

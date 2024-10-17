@@ -3,7 +3,7 @@
       "URL": "https://szukajwslownikach.uw.edu.pl/IMPACT_GT_1/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1570 to 1756.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "",
       "Size": ["1.5 million tokens"],
       "Annotation": ["transcription"],

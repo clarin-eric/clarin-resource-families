@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a simple tool for students and teachers of English to easily check whether or how a particular phrase or a word is used by real speakers of English.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["eng", "rus", "deu", "ita", "ces", "est"],
+      "Language": ["eng", "rus", "deu", "ita", "ces", "est"],
       "Licence": "",
       "Size": [],
       "Platform": [],

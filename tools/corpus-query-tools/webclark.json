@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated concordancer for the Bulgarian National Reference Corpus.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["bul"],
+      "Language": ["bul"],
       "Licence": "",
       "Size": [],
       "Platform": [],

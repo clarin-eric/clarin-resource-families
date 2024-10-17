@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0003-FF39-F",
       "Family": "Spoken corpora",
       "Description": "This corpus examines the pronunciation of different genderneutral forms in German. Various source texts were used, like newspaper articles, websites, etc.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN PUB",
       "Size": ["2 hours"],
       "Annotation": ["orthographically transcribed"],

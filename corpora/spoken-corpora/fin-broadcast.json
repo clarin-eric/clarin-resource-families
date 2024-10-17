@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-201403265",
       "Family": "Spoken corpora",
       "Description": "This corpus contains radio and TV broadcasts.\nThe corpus is available for download from FIN-CLARIN and for online querying through the LAT-platform.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CLARIN RES",
       "Size": ["18 hours"],
       "Annotation": [],

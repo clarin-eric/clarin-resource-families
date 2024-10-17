@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-2997",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains short English segments (captions) from <s href=\"https://visualgenome.org/\">Visual Genome</a> along with associated images. The English texts are automatically translated to Hindi with manual post-editing, taking the associated images into account.\nThe corpus is available for download from the LINDAT repository.",
-      "Languages": ["hin", "eng"],
+      "Language": ["hin", "eng"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["32,925 items", "32,535 images", "32925 sentences", "322,000 words"],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://metashare.ilsp.gr:8080/repository/browse/pelcra-mutlilingual-parallel-corpora-cc-by/f05f0f1c63f111e2bff4525400d76147f9863da9a70143bebd894e55197705a1/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the CORDIC and RAPID websites, and the press releases of the European Parliament and the European Southern Observatory.\nThe corpus is available for download from META-SHARE.",
-      "Languages": ["25 languages"],
+      "Language": ["25 languages"],
       "Licence": "CC-BY",
       "Size": ["143 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],

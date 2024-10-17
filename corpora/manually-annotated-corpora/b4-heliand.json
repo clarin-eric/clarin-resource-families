@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/0000-0000-9B24-9",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains historical German texts.\nThe corpus is available for download from the HZSK repository.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CC-BY",
       "Size": ["3495 tokens"],
       "Annotation": ["PoS tagging", "syntactic parsing"],

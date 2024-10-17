@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1202",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains news comments from the website 24sata.hr.\nThe corpus is available for download from CLARIN.SI.",
-      "Languages": ["hrv"],
+      "Language": ["hrv"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["407.5 million words"],
       "Annotation": ["sentiment analysis (socially unacceptable discourse)"],

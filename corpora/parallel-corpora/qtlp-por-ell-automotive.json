@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2452-B",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains automatically detected pairs of parallel documents that were acquired from the web (i.e. from multilingual sites which contain content in the targeted languages and domain). The majority of the crawled sites were: i) websites of automobile manufacturers and ii) websites of companies that produce car accessories or car parts. ",
-      "Languages": ["Portuguese-Greek"],
+      "Language": ["Portuguese-Greek"],
       "Licence": "MS-NC-NoReD",
       "Size": ["59,297 sentence pairs"],
       "Annotation": ["sentence aligned"],

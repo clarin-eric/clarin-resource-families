@@ -3,7 +3,7 @@
       "URL": "https://www.cl.ut.ee/korpused/paralleel/index.php?lang=en",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Estonian laws and their translations into English and EU legislation translated into Estonian.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["Estonian-English"],
+      "Language": ["Estonian-English"],
       "Licence": "CLARIN ACA",
       "Size": ["307,000 sentences"],
       "Annotation": ["sentence-aligned"],

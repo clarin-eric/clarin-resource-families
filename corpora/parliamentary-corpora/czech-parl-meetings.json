@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11858/00-097C-0000-0005-CF9C-4",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains recordings of the parliamentary sessions as well as corresponding transcriptions.\nThe corpus is available for download from LINDAT and through the concordancer KonText.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC-BY",
       "Size": ["88 hours", "0.5 million tokens"],
       "Annotation": ["error correction of transcriptions", "division into speech sections with speaker information"],

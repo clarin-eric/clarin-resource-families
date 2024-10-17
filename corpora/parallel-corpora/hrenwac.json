@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1058",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts crawled from top-level Croatian .hr domains.\nThe corpus was built with <a href=\"https://github.com/abumatran/spidextor\">Spidextor</a>, a tool that glues together the output of <a href=\"http://corpus.tools/wiki/SpiderLing\">SpiderLing</a> used for crawling and <a href=\"https://github.com/bitextor/bitextor\">Bitextor</a> used for bitext extraction. The accuracy of the extracted bitext on the segment level is around 80% and on the word level around 84%.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["Croatian-English"],
+      "Language": ["Croatian-English"],
       "Licence": "CLARIN.SI User License for Internet Corpora",
       "Size": ["1.6 million sentences", "55 million words"],
       "Annotation": ["sentence-aligned"],

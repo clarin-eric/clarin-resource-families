@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1078",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains Tweets.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["deu", "ita", "spa"],
+      "Language": ["deu", "ita", "spa"],
       "Licence": "MIT License",
       "Size": ["364,000 tokens"],
       "Annotation": ["PoS tagging", "Named Entity recognition", "sentiment analysis"],

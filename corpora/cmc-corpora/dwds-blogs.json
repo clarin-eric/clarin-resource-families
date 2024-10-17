@@ -3,7 +3,7 @@
       "URL": "https://www.dwds.de/r#group-Spezialkorpora",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains blog posts.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "",
       "Size": ["102 million tokens"],
       "Annotation": ["tokenised"],

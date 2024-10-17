@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2527",
 	"Family": "Academic corpora",
       "Description": "This corpus contains research papers in the following disciplines:\n<ul><li>media/culture,</li><li>literature,</li><li>linguistics and language learning,</li><li>social anthropology,</li><li>law, economics,</li><li>sociology and social sciences,</li><li>philosophy,</li><li>history, and</li><li>communication.</li></ul>\nThe research papers were published between 1998 and 2006. This is a plain text corpus.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["fra"],
+      "Language": ["fra"],
       "Licence": "Oxford Text Archive licence (academic use)",
       "Size": ["1 million words"],
       "Annotation": ["No annotation"],

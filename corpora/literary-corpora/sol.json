@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10794/80",
 	"Family": "Literary corpora",
       "Description": "This corpus is available for download from SWE-CLARIN and for online browsing through Korp.",
-      "Languages": ["spa"],
+      "Language": ["spa"],
       "Licence": "CC-BY 4.0",
       "Size": ["1,267,391 tokens", "69,270 sentences"],
       "Annotation": ["sentence scrambled"],

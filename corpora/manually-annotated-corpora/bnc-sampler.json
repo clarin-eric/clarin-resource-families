@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2551",
 	"Family": "Manually annotated corpora",
       "Description": "The corpus was manually post-edited to correct the PoS tags automatically assigned by CLAWS.\nThe corpus is available for online querying via CQPWeb (registration required) for download from the Oxford Text Archive",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "BNC Licence",
       "Size": ["2 million tokens"],
       "Annotation": ["PoS tagging"],

@@ -3,7 +3,7 @@
       "URL": "http://cmc-corpora.ch/",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains 216 WhatsApp chats from 2014.\nThe corpus is accessible online through the ANNIS system.",
-      "Languages": ["gsw","deu","fra","ita","roh"],
+      "Language": ["gsw","deu","fra","ita","roh"],
       "Licence": "",
       "Size": ["5 million tokens"],
       "Annotation": "",

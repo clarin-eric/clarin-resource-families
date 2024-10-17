@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This tool is used to query the Reference Corpus for <a href=\"https://aclanthology.org/L14-1311/\">Contemporary Romanian Language CoRoLa</a>.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["ron"],
+      "Language": ["ron"],
       "Licence": "",
       "Size": [],
       "Platform": [],

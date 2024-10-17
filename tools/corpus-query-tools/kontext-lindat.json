@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "KonText is a basic web application for querying corpora available within the LINDAT/CLARIAH-CZ project. It allows evaluation of simple and complex queries, displaying their results as concordance lines, computing frequency distribution, calculating association measures for collocations and further work with language data. This LINDAT/CLARIAH-CZ instance is a fork of KonText application developed by the Institute of the Czech National Corpus that has been further extended by the Institute of Formal and Applied Linguistics to suit the needs of LINDAT/CLARIAH-CZ project.\nIt is possible to upload one's own corpus with this tool. KonText is <a href=\"https://github.com/czcorpus/kontext\">openly developed</a>. Registration is required and Shibboleth log-in is supported.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "",
       "Size": [],
       "Platform": [],

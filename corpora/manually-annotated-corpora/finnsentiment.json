@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2023012701",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains sentences from Finnish social media that have been manually annotated for sentiment polarity by three native annotators.\nThe corpus is available for download from META-SHARE (the Finnish Language Bank).",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CC BY",
       "Size": ["27,000 sentences"],
       "Annotation": ["sentiment analysis"],

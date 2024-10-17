@@ -3,7 +3,7 @@
       "URL": "http://www.parlaritaliano.it/index.php/it/corpora-di-parlato/716-corpus-ananas-multilingue-ananasmt",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains TV-broadcasts and elicited dialogues.",
-      "Languages": ["eng", "ita", "spa"],
+      "Language": ["eng", "ita", "spa"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

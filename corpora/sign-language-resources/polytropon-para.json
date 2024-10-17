@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11500/ATHENA-0000-0000-4C77-6",
 	"Family": "Sign language resources",
       "Description": "This is a parallel corpus for the language pair Greek Sign Language (GSL) – Greek. The corpus incorporates sentences performed by a single signer in three repetitions each, captured in front view by means of one HD and one kinect camera. Annotation of the corpus has used the iLex annotation environment and provides information for the grammar levels of lexicon, morphology, syntax and semantics, incorporating annotation tiers for gloss, classifier type, shape and semantics, clause type, sentence type and equivalent translation in Greek on sentence level. The Corpus consists of 3500 ELAN (.eaf) files.\nThe corpus is available for download from CLARIN:EL, though access requires registration.",
-      "Languages": ["ell", "Greek Sign Language"],
+      "Language": ["ell", "Greek Sign Language"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["3,600 sentences"],
       "Annotation": ["lexical", "morphosyntax", "semantics", "glosses"],

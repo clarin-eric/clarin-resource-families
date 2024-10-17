@@ -3,7 +3,7 @@
       "URL": "https://tbi.talkbank.org/",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of multimedia interactions for the study of communication in people with traumatic brain injury.\nAccess to the data in TBIBank is password protected and restricted to members of the TBIBank consortium group.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "email request for access",
       "Size": ["63 MB transcripts", "98 GB media"],
       "Annotation": ["CHAT and CA/CHAT"],

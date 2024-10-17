@@ -3,7 +3,7 @@
       "URL": "http://metashare.ilsp.gr:8080/repository/browse/qtleap-corpus-v12/0176c39ae9cd11e4a2aa782bcb074135ba7d767f645a48dca1d50ee3c9504253/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts related to computer and IT troubleshooting for the following language pairs: Bulgarian-English, Czech-English, Portuguese-English, Spanish-English, and Basque-English\nThe corpus available for download from META-SHARE under the CC-BY license.",
-      "Languages": ["5 languages"],
+      "Language": ["5 languages"],
       "Licence": "CC-BY",
       "Size": ["140,000 tokens"],
       "Annotation": ["sentence-aligned"],

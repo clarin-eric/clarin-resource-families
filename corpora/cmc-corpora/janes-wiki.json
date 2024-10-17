@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1137",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains Slovenian Wikipedia user and talk pages.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through KonText.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["5 million tokens"],
       "Annotation": ["tokenised", "sentence segmented", "MSD-tagged", "lemmatised"],

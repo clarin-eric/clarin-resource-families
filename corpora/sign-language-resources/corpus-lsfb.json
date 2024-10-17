@@ -3,7 +3,7 @@
       "URL": "https://www.corpus-lsfb.be/accueil.php",
 	"Family": "Sign language resources",
       "Description": "This is the first large-scale digital corpus that illustrates the current use of French Belgian Sign Language (LSFB) and all its variations.\nIt was first conceived for linguistic research. However, this digital library is an unprecedented tool for teachers, students and interpreters, as well as a safeguard of the linguistic and cultural heritage of the Deaf Community.",
-      "Languages": ["French Belgian Sign Language (LSFB)"],
+      "Language": ["French Belgian Sign Language (LSFB)"],
       "Licence": "CC BY-NC-ND 4.0, see also <a=\"https://www.corpus-lsfb.be/conditions.php\">the conditions</a>",
       "Size": ["10 hours"],
       "Annotation": ["ID-glosses"],

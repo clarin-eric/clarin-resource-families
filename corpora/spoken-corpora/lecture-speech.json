@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.15155/9-00-0000-0000-0000-00023L",
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings of academic lectures and oral conference presentations.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CC-BY-SA",
       "Size": ["41 hours"],
       "Annotation": ["orthographically transcribed"],

@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2016042604",
 	"Family": "Legal corpora",
       "Description": "This is the Finnish subcorpus of <a href=\"http://urn.fi/urn:nbn:fi:lb-201407161\">FiRuLex</a>, which contains juridical texts in Russian and Finnish.\nThe corpus is available for online browsing through the concordancer Korp (FIN-CLARIN distribution)",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CC BY-ND",
       "Size": ["1.5 million tokens"],
       "Annotation": ["lemmatised", "MSD-tagged"],

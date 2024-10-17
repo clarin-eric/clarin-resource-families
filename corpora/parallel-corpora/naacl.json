@@ -3,7 +3,7 @@
       "URL": "http://metashare.ilsp.gr:8080/repository/browse/the-naacl-2003-english-romanian-corpus/32d0c7f8dc7311e5aa0b00237df3e358c04f795d2d29477cbd7e46971ebdead6/",
 	"Family": "Parallel corpora",
       "Description": "The corpus contains texts from 2003.",
-      "Languages": ["English-Romanian"],
+      "Language": ["English-Romanian"],
       "Licence": "MS-BY-NC-ND",
       "Size": ["1.6 million tokens"],
       "Annotation": [],

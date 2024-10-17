@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1110",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains news articles.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["10,427 articles"],
       "Annotation": ["sentiment analysis"],

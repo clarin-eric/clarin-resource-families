@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1585",
 	"Family": "Parliamentary corpora",
       "Description": "This corpus consists of mid-length sentences from the Bosnian, Croatian, and Serbian parliamentary proceedings that are  annotated with a 6-level sentiment schema. The date of the speech and the speaker name are given as well. If the speaker is MP, information on party, gender and year of birth are available as well.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["bos", "hrv", "srp"],
+      "Language": ["bos", "hrv", "srp"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["2600 sentences"],
       "Annotation": ["sentiment analysis"],

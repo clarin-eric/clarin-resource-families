@@ -3,7 +3,7 @@
       "URL": "https://catalog.ldc.upenn.edu/LDC96S36",
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings and texts from radio news.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CLARIN RES",
       "Size": ["7 hours"],
       "Annotation": ["PoS-tagged", "phonetic alignment", "prosodic markers"],

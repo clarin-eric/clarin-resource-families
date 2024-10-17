@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-201405276",
 	"Family": "Historical corpora",
       "Description": "This corpus contains newspaper articles from 1770 to 2011.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["fin", "swe"],
+      "Language": ["fin", "swe"],
       "Licence": "CC-BY",
       "Size": ["8.7 billion words"],
       "Annotation": [],

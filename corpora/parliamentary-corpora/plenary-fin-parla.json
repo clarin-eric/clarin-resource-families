@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2017020202",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Finnish parliamentary debates from 2008 to 2016.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CC-BY",
       "Size": ["22.4 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised", "syntactically parsed"],

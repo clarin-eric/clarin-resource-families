@@ -3,7 +3,7 @@
       "URL": "http://www.tekstlab.uio.no/nota/bigbrother/english.html",
       "Family": "Spoken corpora",
       "Description": "This corpus contains recordings and transcripts from the Norwegian Big Brother in 2001.\nThe corpus is available through a Tekstlab concordancer.",
-      "Languages": ["nor"],
+      "Language": ["nor"],
       "Licence": "CLARIN ACA",
       "Size": ["440,300 tokens"],
       "Annotation": ["orthographically transcribed", "msd-tagged", "lemmatised"],

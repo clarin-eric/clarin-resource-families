@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a system for managing, annotating, visualising and analysing spoken language corpora.",
       "Functionality": ["Concordancing/querying", "corpus building"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "GPL3",
       "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],

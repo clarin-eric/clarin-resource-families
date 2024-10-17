@@ -3,7 +3,7 @@
       "URL": "https://researchdata.aston.ac.uk/id/eprint/162/",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains recordings of performances - comedy, drama, poetry, song and story-telling - and related interviews with performers, members of the audience and local and national celebrities.\nThe corpus is available for download from a dedicated webpage.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "",
       "Size": [],
       "Annotation": ["orthographically transcribed"],

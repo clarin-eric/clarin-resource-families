@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12537/315",
       "Family": "Spoken corpora",
       "Description": "This is an ASR corpus for Icelandic oral histories.\nThe corpus contains 210 unique speakers, 90 women and 120 men (plus the interviewers: 14 men and 1 woman), but the total audio length with each individual speaker varies quite a lot with three men accounting for one third of the entire data. The age ranges from 38 to 99, but most of the speakers are 60+ (94.8%) and the average age of the speakers is 77 years. This ratio is unprecedented in all existing corpora for Icelandic speech (cf. 4.8% of speakers in Samrómur are 60+) and makes Gamli an important addition to that collection.\nThe corpus is available for download from the CLARIN-IS repository.",
-      "Languages": ["isl"],
+      "Language": ["isl"],
       "Licence": "CC BY 4.0",
       "Size": ["146 hours of transcribed audio"],
       "Annotation": ["Subset is manually annotated with speaker ID and time alignment"],

@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a concordance program that runs natively on macOS 11.3 or later.and can generate KWIC concordance lines, word clusters, collocation analysis, and word count.",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "No licence",
       "Size": [],
       "Platform": ["MacOS"],

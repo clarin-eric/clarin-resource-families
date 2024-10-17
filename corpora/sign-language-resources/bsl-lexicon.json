@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/00-0000-0000-0008-1768-5",
 	"Family": "Sign language resources",
       "Description": "This lexicon was derived from the <a href=\"https://bslcorpusproject.org/\">British Sign Language Corpus</a> and is part of the <a href=\"https://hdl.handle.net/1839/00-0000-0000-0001-494E-3\">ECHO</a> case study on sign languages.\nThe lexicon is available for download from the MPI Language Archive.",
-      "Languages": ["British Sign Language (BSL)"],
+      "Language": ["British Sign Language (BSL)"],
       "Licence": "Public",
       "Size": [],
       "Annotation": [],

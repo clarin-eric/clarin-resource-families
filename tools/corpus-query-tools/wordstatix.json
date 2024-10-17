@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is a simple concordancer.",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "GPL3",
       "Size": [],
       "Platform": ["Linux", "Windows"],

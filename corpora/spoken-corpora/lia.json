@@ -3,7 +3,7 @@
       "URL": "https://www.hf.uio.no/iln/english/research/projects/language-infrastructure-made-accessible/index.html",
       "Family": "Spoken corpora",
       "Description": "This corpus contains interviews and conversation in Norwegian dialects.\nThe corpus is available through a Tekstlab concordancer (account needed).",
-      "Languages": ["nor"],
+      "Language": ["nor"],
       "Licence": "CLARIN ACA",
       "Size": ["1.5 million tokens"],
       "Annotation": ["orthographically and phonetically transcribed", "MSD-tagged", "lemmatised"],

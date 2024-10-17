@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-883",
 	"Family": "Historical corpora",
       "Description": "This corpus contains 30 texts from 1500 to 1850.\nThe corpus is available for download from a dedicated website and through a dedicated concordancer.",
-      "Languages": ["cym"],
+      "Language": ["cym"],
       "Licence": "",
       "Size": ["420,000 words"],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11495/D963-33EA-65BD-0",
 	"Family": "Literary corpora",
       "Description": "This corpus, which is based on OCR data from the National Library of Norway, is available for online browsing through INESS.",
-      "Languages": ["nno"],
+      "Language": ["nno"],
       "Licence": "CLARIN ACA",
       "Size": ["1,043,260 words", "106,434 sentences"],
       "Annotation": ["syntactically parsed"],

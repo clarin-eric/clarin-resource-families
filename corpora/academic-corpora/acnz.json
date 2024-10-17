@@ -3,7 +3,7 @@
       "URL": "https://www.wgtn.ac.nz/lals/resources/academicwordlist/information/corpus",
 	"Family": "Academic corpora",
       "Description": "This corpus contains journal articles, book chapters, course workbooks, laboratory manuals, and course notes from the following disciplines: arts, commerce, law, and biology.\nThis corpus is not available.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "",
       "Size": ["3.5 million words"],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://doi.org/10.15155/1-00-0000-0000-0000-00085L",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains texts from the 1980s subcorpus of the <a href=\"https://www.cl.ut.ee/korpused/baaskorpus\">Corpus of Written Estonian 1890-1990</a>.",
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "CLARIN_ACA-NC",
       "Size": ["513,000 tokens"],
       "Annotation": ["morphological disambiguation"],

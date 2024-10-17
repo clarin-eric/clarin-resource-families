@@ -3,7 +3,7 @@
       "URL": " http://tlio.ovi.cnr.it/TLIO/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains early Italian texts before 1375.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "",
       "Size": ["23 million tokens"],
       "Annotation": ["tokenised", "lemmatised"],

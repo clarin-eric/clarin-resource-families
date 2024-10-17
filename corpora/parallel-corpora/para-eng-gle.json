@@ -3,7 +3,7 @@
       "URL": "http://www.gaois.ie/crp/en/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains legal texts.\nThe corpus is available  through a dedicated concordancer.",
-      "Languages": ["English-Irish"],
+      "Language": ["English-Irish"],
       "Licence": "",
       "Size": [],
       "Annotation": ["sentence aligned "],

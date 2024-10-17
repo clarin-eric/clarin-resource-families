@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1185",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains texts from various Slovenian corpora (<a href=\"http://nl.ijs.si/isjt06/proc/26_Stritar.pdf\">KUST</a>, <a href=\"http://www.slovenscina.eu/korpusi/solar\">Šolar</a> a<a href=\"http://www.slovenscina.eu/korpusi/lektor\">Lektor</a>m <a href=\"http://hdl.handle.net/11356/1088\">JANES-Vejica</a>n Wikpedia.\nThe corpus is available for download from CLARIN.SI.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["104,000 sentences"],
       "Annotation": ["comma placement"],

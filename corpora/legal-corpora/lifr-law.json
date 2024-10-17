@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-5020",
 	"Family": "Legal corpora",
       "Description": "This is a corpus of Czech legal and administrative texts with measured reading comprehension and a subjective expert annotation of diverse textual properties based on the Hamburg Comprehensibility Concept.\nThe corpus is comprised of 18 documents in total; that is, six different texts from the legal/administration domain, each in three versions: the original and two paraphrases. Each such document triple shares one reading-comprehension test administered to at least thirty readers of random gender, educational background, and age. The data set also captures basic demographic information about each reader, their familiarity with the topic, and their subjective assessment of the stylistic properties of the given document, roughly corresponding to the key text properties identified by the Hamburg Comprehensibility Concept.\nThe corpus is available for download from LINDAT.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC BY 4.0",
       "Size": ["17601 tokens"],
       "Annotation": ["textual annotation"],

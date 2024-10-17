@@ -3,7 +3,7 @@
       "URL": "https://ultrasuite.github.io/data/uxssd/",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of ultrasound and audio recordings from children with speech sound disorders.\nIt contains data from 8 speakers (2 female and 6 male), aged 5-10 years. ",
-      "Languages": ["English (Scottish)"],
+      "Language": ["English (Scottish)"],
       "Licence": "open access",
       "Size": ["11 hours"],
       "Annotation": ["Orthographic", "phonetic"],

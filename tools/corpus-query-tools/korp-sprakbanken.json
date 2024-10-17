@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is <a href=\"https://spraakbanken.gu.se/\">Språkbanken</a>'s corpus tool for searching in large amounts of texts, including newspapers, novels and social media.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "",
       "Size": [],
       "Platform": [],

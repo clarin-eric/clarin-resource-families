@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/eng/resource/webbnyheter2001",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from various Swedish online newspapers from 2001 to 2013.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "CC-BY",
       "Size": ["272 million tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],

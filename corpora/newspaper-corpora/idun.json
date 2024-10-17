@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/eng/resource/ub-kvt-idun",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the newspaper <a href=\"http://www.ub.gu.se/kvinn/portaler/kvinnotidskrifter/idun/\">Idun fr</a>om 1887 to 1917.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "",
       "Size": ["2 million tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],

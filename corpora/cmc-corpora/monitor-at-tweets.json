@@ -3,7 +3,7 @@
       "URL": "https://hal.archives-ouvertes.fr/hal-01323274/document",
 	"Family": "Computer-mediated communication corpora",
       "Description": "The corpus contains tweets from 2007 to 2017.",
-      "Languages": ["deu","eng"],
+      "Language": ["deu","eng"],
       "Licence": "",
       "Size": ["40 million tweets"],
       "Annotation": ["tokenised", "lemmatised"],

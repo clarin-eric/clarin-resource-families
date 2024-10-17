@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-C05F-6",
       "Family": "Spoken corpora",
       "Description": "This corpus contains scripted, semi-spontaneous, and spontaneous human-human dialogs. In total, 300 speakers of German without noticeable accent participated and were recorded in an acoustically-isolated room. Interactions between speakers and their interlocutor are provided in separate mono files, accompanied by timestamps and tags that define the speaker's turns. The speech corresponding to one of the semi-spontaneous dialogs was labeled with respect to perceived interpersonal speaker characteristics and naive voice descriptions. These labels are found alongside the documentation.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["155 hours"],
       "Annotation": ["orthographically transcribed", "Turn taking", "perceivend inter-personal speaker characteristics", "voice descriptions"],

@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/F35713E0-CE29-4BCA-98E9-1F2E3E912909",
 	"Family": "Manually annotated corpora",
       "Description": "The corpus is available for download from the Language Archive (CLARIAH-NL).",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "restricted",
       "Size": [],
       "Annotation": [],

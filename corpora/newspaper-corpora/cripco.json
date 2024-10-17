@@ -3,7 +3,7 @@
       "URL": "https://hlt-nlp.fbk.eu/technologies/cripco",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the Italian newspaper <a href=\"https://www.ladige.it/\">L’Adige</a> from 1999 to 2006.\nThe corpus is available for download through <a href=\"https://www.clarin.eu/glossary#META-SHARE\" title=\"Network of repositories resulting from the META-NET Network of Excellence (http://www.meta-share.eu/)\" class=\"lexicon-term\">META-SHARE</a>.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "proprietary",
       "Size": ["43,000 documents"],
       "Annotation": ["coreference resolution"],

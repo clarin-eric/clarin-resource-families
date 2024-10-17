@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12115/44",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Danish parliamentary debates from 2009 to 2017.\nThe corpus is available for download from the DK-CLARIN repository.",
-      "Languages": ["dan"],
+      "Language": ["dan"],
       "Licence": "CC-BY",
       "Size": ["40.6 million words"],
       "Annotation": ["no linguistic annotation"],

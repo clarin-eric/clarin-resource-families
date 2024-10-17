@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/00-2766F32F-4305-4F13-A02C-F4A8F5216425",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus aims to compare the language and executive functioning profiles of children with ADHD to children with Specific Language Impairment and children with Tourette’s Disorder.",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "CLARIN PUB (Transcriptions), CLARIN RESTRICTED (Recordings)",
       "Size": ["4 GB (67 recordings) of 26 Dutch children with ADHD, 19 Dutch children with SLI, 22 children Dutch controls"],
       "Annotation": ["Transcriptions (CHAT-format)"],

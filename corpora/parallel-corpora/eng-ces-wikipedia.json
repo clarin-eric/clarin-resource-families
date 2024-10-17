@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-1932",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Wikipedi articles translated from English into Czech.\nThe corpus is available for download from the LINDAT repository.",
-      "Languages": ["English-Czech"],
+      "Language": ["English-Czech"],
       "Licence": "CC-BY",
       "Size": ["7.5 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],

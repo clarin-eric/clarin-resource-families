@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/0000-0000-5F0B-B",
       "Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous speech and reading tasks.",
-      "Languages": ["Spanish (Argentinian)"],
+      "Language": ["Spanish (Argentinian)"],
       "Licence": "HZSK-RES (restricted, non-commercial only)",
       "Size": ["19 hours"],
       "Annotation": ["orthographically transcribed"],

@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-201407305",
       "Family": "Spoken corpora",
       "Description": "This corpus contains the proceedings of the Finnish Parliament.\nThe corpus is available through a dedicated webpage and through the concordancer Korp.",
-      "Languages": ["fin", "swe"],
+      "Language": ["fin", "swe"],
       "Licence": "CC-BY-NC-ND",
       "Size": ["22.5 million words"],
       "Annotation": [],

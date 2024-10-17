@@ -3,7 +3,7 @@
       "URL": "https://www.hf.uio.no/iln/om/organisasjon/tekstlab/prosjekter/lbk/",
 	"Family": "Reference corpora",
       "Description": "This corpus includes representative Norwegian (Bokmål) texts (newspapers and periodicals, non-fiction, fiction, TV subtitles, and small print) published between 1985 and 2013.\nThe corpus is available for online browsing through the concordancer Glossa (CLARINO).",
-      "Languages": ["nob"],
+      "Language": ["nob"],
       "Licence": "CLARIN_ACA-NC-LOC-ND",
       "Size": ["100 million tokens"],
       "Annotation": ["PoS-tagged", "lemmatized"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.34733/vc-1086",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 92,558 issues of 40 newspapers published in Estonia between 1852 and 1946.",
-      "Languages": ["est", "rus", "deu"],
+      "Language": ["est", "rus", "deu"],
       "Licence": "Public",
       "Size": ["351,656,185 words"],
       "Annotation": [],

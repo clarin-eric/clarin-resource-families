@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-C2B1-5",
       "Family": "Spoken corpora",
       "Description": "This coprus features a set of 460 short sentences designed to include the main connected speech processes in English (e.g. assimilations, weak forms ...). All recordings made in the same sound damped studio at the Edinburgh Speech Production Facility based in the department of Speech and Language Sciences, Queen Margaret University College, UK. The database contains audio files, laryngograph waveforms, electromagnetic articulograph (EMA) tracks and electropalatograph (EPG) tracks. ",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CLARIN PUB",
       "Size": ["5 hours"],
       "Annotation": ["orthographically transcribed", "Electromagnetic Articulography"],

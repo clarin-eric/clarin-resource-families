@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11321/309",
 	"Family": "Parallel corpora",
       "Description": "The corpus is available for download from the CLARIN-PL repository.",
-      "Languages": ["Polish-Lithuanian"],
+      "Language": ["Polish-Lithuanian"],
       "Licence": "IS PAS",
       "Size": [],
       "Annotation": [],

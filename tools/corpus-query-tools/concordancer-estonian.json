@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This tool provides a simple interface for a text corpus. The material for the text corpus has been collected haphazardly, 10.4 million word forms. Approximately 80% of the texts come from newspapers, which is why the corpus is not representative. The corpus also is not tagged, thus being suited for lexical search mainly.",
       "Functionality": ["Querying/concordancing"]
-      "Languages": ["est"],
+      "Language": ["est"],
       "Licence": "",
       "Size": [],
       "Platform": [],

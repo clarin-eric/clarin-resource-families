@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0001-AEDF-1",
       "Family": "Spoken corpora",
       "Description": "This corpous contains German speech recordings of 48 cochlear implant users (CI) and 48 speakers without hearing impairment (control group, KG). CI_2_Sibilants contains recordings used for the analysis of /s/ and /ʃ/ in the following words: 'Tasse', 'Tasche'.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["1 hour"],
       "Annotation": ["orthographically transcribed"],

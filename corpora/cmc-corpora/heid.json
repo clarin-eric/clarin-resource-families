@@ -3,7 +3,7 @@
       "URL": "https://www.researchgate.net/publication/311674809_Political_Discourse_in_Polish_Internet-Corpus_of_Highly_Emotive_Internet_Discussions",
 	"Family": "Computer-mediated communication corpora",
       "Description": "The corpus contains tweets.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "",
       "Size": ["160 milllion tokens"],
       "Annotation": ["tokenised"],

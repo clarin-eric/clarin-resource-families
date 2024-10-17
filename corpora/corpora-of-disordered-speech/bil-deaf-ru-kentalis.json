@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/00-F6BC06C4-B2AD-4ED8-8527-AB81F4EF4E8F",
 	"Family": "Corpora of Disordered Speech",
       "Description": "The corpus is used for investigating the bilingual language and communication development of young deaf children in Sign Language of the Netherlands (SLN) and Dutch.",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "CLARIN PUB (Transcriptions), CLARIN RESTRICTED (Recordings)",
       "Size": ["4 GB complete video recordings. 1 GB selected parts video recordings. 0,1 GB selected parts transcripts. 0,5 GB test and background data of 11 deaf children, longitudinal, 104 recordings"],
       "Annotation": [" CHAT-like format for 104 recordings"],

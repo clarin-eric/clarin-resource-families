@@ -3,7 +3,7 @@
       "URL": "http://catalog.elra.info/en-us/repository/browse/ELRA-S0286/",
 	"Family": "Sign language resources",
       "Description": "This lexicon comprises signs performed by 4 everyday sign-language users (4 women, 2 of them deaf). 5 repetitions of each sign were recorded from 3 different views. The first is a frontal view of the upper part of the body. The second one is similar, but with the camera placed about one meter higher than the first one so as to produce a frontal top-view and thus allowing to detect 3D information.\nThe last view is a frontal-detail view of the speaker's face, thus allowing lip-reading.",
-      "Languages": ["Czech Sign Language"],
+      "Language": ["Czech Sign Language"],
       "Licence": "ELRA",
       "Size": ["378 signs"],
       "Annotation": [],

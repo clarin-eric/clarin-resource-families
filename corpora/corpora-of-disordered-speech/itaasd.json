@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.11752/OPEN-990",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of semi-spontaneous speech produced by 34 children between 6 and 13 years of age, residents in the Campania region of Italy.#sepHalf of the participating children were diagnosed with high-functioning Autism Spectrum Disorder, and the other half were neurotypical children matched for age, gender, and geographical origin.#sepAll participants were administered three tasks: a complex image description task, a story-telling task, and a story-retelling task. This resulted in 4 hours and 19 minutes of recorded speech, which were then transcribed and annotated using ELAN. ",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "",
       "Size": ["04.19 hours"],
       "Annotation": ["Orthographic"],

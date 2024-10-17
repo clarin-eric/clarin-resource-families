@@ -3,7 +3,7 @@
       "URL": "https://hlt-nlp.fbk.eu/technologies/witac-newsreader-wikinews-italian-corpus",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains Italian translations of 120 English Wikinews articles.\nThe corpus is available for download from a dedicated website.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "CC-BY",
       "Size": ["40,231 tokens"],
       "Annotation": ["entities, events, event factuality, temporal information, semantic roles, and intra-document and cross-document event and entity coreference"],

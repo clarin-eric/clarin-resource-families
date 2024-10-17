@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/21.11129/0000-000B-D300-6",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains literary and newspaper texts.\nThe corpus is available for download from the ELRA catalogue.",
-      "Languages": ["por"],
+      "Language": ["por"],
       "Licence": "MS-NC-No ReD-ND",
       "Size": ["110,000 tokens"],
       "Annotation": ["syntactic parsing", "phrase semantic roles"],

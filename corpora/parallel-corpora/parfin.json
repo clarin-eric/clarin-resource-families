@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2014052710",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains literary texts from 1990 to 2010.\nThe corpus is available through the concordancer Korp.",
-      "Languages": ["Finnish-Russian"],
+      "Language": ["Finnish-Russian"],
       "Licence": "CLARIN RES",
       "Size": ["360,000 tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],

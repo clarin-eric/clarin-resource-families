@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/VC-1093",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 22,087 issues of 44 newspapers published in Serbia between 1830 and 1944.",
-      "Languages": ["srp"],
+      "Language": ["srp"],
       "Licence": "Public",
       "Size": ["338,080,416 words"],
       "Annotation": [],

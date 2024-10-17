@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1748",
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Slovenian parliamnetary debates from 1990 to 2022. It differs from the SlovParl 2.0 corpus (listed below) in that it contains only basic meta-data about the speakers, a typology of sessions and structural and editorian annotations.\nThe corpus is available for download from the CLARIN.SI repository and through the concordancers <a href=\"https://www.clarin.si/kontext/query?corpname=siparl30\">KonText </a> and <a href=\"https://www.clarin.si/noske/run.cgi/corp_info?corpname=siparl30&struct_attr_stats=1\">noSketchEngine</a>.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC-BY",
       "Size": ["213 million words"],
       "Annotation": ["tokenised", "PoS-tagged|", "lemmatised"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-776",
 	"Family": "Literary corpora",
       "Description": "This corpus contains various works published during the Swedish rule (from the 16th century to about 1810), extensive manuscripts from that period (most of which were later printed), as well as individual almanac and decree texts, sermons and poetry.\nThis corpus is available for online browsing through an external interface.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "",
       "Size": ["3,428,618 words"],
       "Annotation": [],

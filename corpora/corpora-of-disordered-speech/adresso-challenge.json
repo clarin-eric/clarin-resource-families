@@ -3,7 +3,7 @@
       "URL": "https://sla.talkbank.org/TBB/dementia",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This is a corpus of multimedia interactions for the study of communication in dementia.\nAccess to the data in DementiaBank is password protected and restricted to members of the DementiaBank consortium group.\nData in TalkBank use a consistent XML-compatible representation called CHAT. All of the data is transcribed in CHAT and CA/CHAT formats.",
-      "Languages": ["eng", "deu", "cmn", "spa", "Taiwanese"],
+      "Language": ["eng", "deu", "cmn", "spa", "Taiwanese"],
       "Licence": "email request for access",
       "Size": [],
       "Annotation": ["CHAT and CA/CHAT"],

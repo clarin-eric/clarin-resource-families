@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1319",
 	"Family": "Literary corpora",
       "Description": "This corpus contains texts of older Slovenian narrative prose by 12 authors.\nThe corpus is available for download from the CLARIN.SI repository.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC BY 4.0",
       "Size": ["43 texts", "1,275,209 tokens"],
       "Annotation": ["word modernisation", "lemmatisation", "syntactic annotation (<a href=\"https://universaldependencies.org/\">Universal Dependencies</a>)"],

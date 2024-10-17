@@ -3,7 +3,7 @@
       "URL": "https://catalog.elra.info/en-us/repository/browse/ELRA-S0323/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains debates of the European Parliament in Italian, English, and Spanish, with translations in all possible combinations.\nThe corpus is available for download from the ELRA catalogue.",
-      "Languages": ["3 languages"],
+      "Language": ["3 languages"],
       "Licence": "ELRA END USER",
       "Size": ["177,000 tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],

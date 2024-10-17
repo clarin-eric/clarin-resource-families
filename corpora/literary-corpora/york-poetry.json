@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2425",
 	"Family": "Literary corpora",
       "Description": "This corpus contains a selection of poetic texts (71,490 words) from the Old English Section of the <a href=\"http://www.helsinki.fi/varieng/CoRD/corpora/HelsinkiCorpus/\">Helsinki Corpus of English Texts.</a>\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["ang"],
+      "Language": ["ang"],
       "Licence": "Restricted",
       "Size": ["71,490 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],

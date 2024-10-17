@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11500/ATHENA-0000-0000-28C5-5",
 	"Family": "Sign language resources",
       "Description": "Multimedia corpus (video) for four sign languages (english, french, german and greek) of at least 14 informants per language and a session duration of approx. 2 hours using the same elicitation materials (scripts and tasks) across languages.",
-      "Languages": ["fra", "ell", "deu", "eng", "Greek Sign Language", "British Sign Language (BSL)", "German Sign Language (DGS)", "French Sign Language (LSF)"],
+      "Language": ["fra", "ell", "deu", "eng", "Greek Sign Language", "British Sign Language (BSL)", "German Sign Language (DGS)", "French Sign Language (LSF)"],
       "Licence": "CC BY NC-ND 4.0",
       "Size": ["Text feature: 10 file, Video feature: 25 hour, Data format: MPEG-4"],
       "Annotation": ["partially annotated corpus"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-DADB-D",
       "Family": "Spoken corpora",
       "Description": "This corpus contains 79 speakers of Southern German. Two speakers, usually acquainted with each other, had an one hour long conversation in separate booths. ",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["40 hours"],
       "Annotation": ["orthographically transcribed"],

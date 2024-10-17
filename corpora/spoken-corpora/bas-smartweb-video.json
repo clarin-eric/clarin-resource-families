@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/1009-0000-0007-C059-C",
       "Family": "Spoken corpora",
       "Description": "The corpus comprises a collection of user queries to a naturally spoken Web interface with the main focus on the soccer world series in 2006. The recordings include 156 field recordings using a hand-held UMTS device (one person, SmartWeb Handheld Corpus SHC), 99 field recordings with video capture of the primary speaker and a secondary speaker (SmartWeb Video Corpus SVC) as well as 36 mobile recordings performed on a BMW motorbike (one speaker, SmartWeb Motorbike Corpus SMC).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN ACA",
       "Size": ["16.2 hours"],
       "Annotation": ["orthographically transcribed", "user state"],

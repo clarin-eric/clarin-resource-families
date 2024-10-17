@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10032/tm-a2-x5",
 	"Family": "Sign language resources",
       "Description": "This is a multimodal parallel corpus of hotel reviews that were originally written in Dutch, and subsequently translated into the Dutch Sign Language by 6 professionals, all of whom are deaf translators.\nThe corpus is available for download from the Institute of Dutch Language.",
-      "Languages": ["Dutch Sign Language (NGT)"],
+      "Language": ["Dutch Sign Language (NGT)"],
       "Licence": "CC BY-NC 3.0",
       "Size": ["21,825 words", "3.5 hours"],
       "Annotation": [],

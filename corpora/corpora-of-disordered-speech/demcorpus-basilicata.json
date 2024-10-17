@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.11752/OPEN-989",
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus consists of semi-spontaneous speech data produced by elderly residents of the Basilicata region in Italy.\nIn total, 40 individuals participated: the patient group consists of 20 participants with a diagnosis of dementia (9 cases of Alzheimer’s disease, 2 patients with mixed dementia, 5 patients with not-further-specified dementia, 3 patients with vascular dementia, and 1 patient with frontotemporal dementia).\nthe control group consists of 20 healthy individuals matched for age, gender, and geographical origin. Three linguistic tasks were administered to all participants: two narrative tasks (the first one was about an excursion or a trip, and the second was about Christmas festivities), and an image description task. This resulted in 8 hours and 50 minutes of recorded semi-spontaneous speech, which was then transcribed, segmented, and annotated using ELAN. ",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "Processed data available by request",
       "Size": ["08:50 hours"],
       "Annotation": [],

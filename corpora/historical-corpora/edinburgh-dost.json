@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/0701",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1450 to 1600.\nThe corpus is available for download from the Oxford Text Archive.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CC-BY-NC-SA 3.0",
       "Size": ["877,000 tokens"],
       "Annotation": ["tokenised"],

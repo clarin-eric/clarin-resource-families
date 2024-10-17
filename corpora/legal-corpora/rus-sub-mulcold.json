@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2016042607",
 	"Family": "Legal corpora",
       "Description": "This corpus, which is a subcorpus of <a href=\"http://urn.fi/urn:nbn:fi:lb-201405278\">MULCOLD</a> (see also the <a href=\"https://www.clarin.eu/resource-families/parallel-corpora\">Parallel corpora</a> resource family) contains international conventions and treaties.\nThe corpus can be accessed online through the concordancer Korp (FIN-CLARIN Distribution).",
-      "Languages": ["rus"],
+      "Language": ["rus"],
       "Licence": "CC BY-ND",
       "Size": ["198,035 tokens"],
       "Annotation": ["lemmatised", "MSD-tagged"],

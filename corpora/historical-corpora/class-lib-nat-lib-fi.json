@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-2018051701",
 	"Family": "Historical corpora",
       "Description": "This corpus will contain literary texts from 1549 to 1944.",
-      "Languages": ["fin", "swe"],
+      "Language": ["fin", "swe"],
       "Licence": "CC-BY",
       "Size": [],
       "Annotation": [],

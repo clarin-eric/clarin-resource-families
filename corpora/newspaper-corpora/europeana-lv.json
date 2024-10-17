@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/VC-1092",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains 67,870 issues of 77 newspapers published in Latvia between 1868 and 1955.",
-      "Languages": ["lav","rus","deu","pol","est"],
+      "Language": ["lav","rus","deu","pol","est"],
       "Licence": "Public",
       "Size": ["964,243,746 words"],
       "Annotation": [],

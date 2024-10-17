@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-2616",
 	"Family": "Manually annotated corpora",
       "Description": "This syntactic parsing follows the <a href=\"http://universaldependencies.org/guidelines.html\">Universal Dependencies</a> schema.\nThe corpus is available for download from the LINDAT repository.",
-      "Languages": ["ces", "eng", "fin", "rus", "slk"],
+      "Language": ["ces", "eng", "fin", "rus", "slk"],
       "Licence": "Licence Universal dependencies v2.1",
       "Size": ["106,000 tokens", "10,604 sentences"],
       "Annotation": ["syntactic parsing", "mark-up of elliptical constructions"],

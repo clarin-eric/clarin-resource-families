@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1183",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
-      "Languages": ["hrv"],
+      "Language": ["hrv"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["500,000 tokens"],
       "Annotation": ["tokenisation", "sentence segmentation", "morphosyntactic tagging", "lemmatisation", "Named Entity recognition", "Half of corpus also syntactically parsed"],

@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11234/1-2582",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains religious texts (the Bible and the Quran).\nThe corpus is available for download from LINDAT.",
-      "Languages": ["English-Urdu"],
+      "Language": ["English-Urdu"],
       "Licence": "CC-BY",
       "Size": ["14,371 sentences"],
       "Annotation": ["tokenised", "sentence-aligned"],

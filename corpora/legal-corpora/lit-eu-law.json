@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.11821/18",
 	"Family": "Legal corpora",
       "Description": "This corpus contains primary and secondary European law acts (32 texts) translated into Lithuanian.\nThe corpus is available for download from CLARIN-LT.",
-      "Languages": ["lit"],
+      "Language": ["lit"],
       "Licence": "CLARIN PUB",
       "Size": ["274,460 words"],
       "Annotation": [],

@@ -3,7 +3,7 @@
       "URL": "http://metashare.nytud.hu/repository/browse/bea-hungarian-spontaneous-speech-database/808c4c306ba911e2aa7c68b599c26a062458e40404d44e4087901b5b720d2765/",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains spontaneous speech.",
-      "Languages": ["hun"],
+      "Language": ["hun"],
       "Licence": "restricted",
       "Size": ["465 recordings"],
       "Annotation": ["partial transcription"],

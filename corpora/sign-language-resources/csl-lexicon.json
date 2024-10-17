@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/1839/00-0000-0000-0001-2BF4-3",
 	"Family": "Sign language resources",
       "Description": "This lexicon demostrates how a Deaf adult signs a story to Deaf children.\nThe lexicon is available for download from the MPI Language Archive.",
-      "Languages": ["Chinese Sign Language (CSL)"],
+      "Language": ["Chinese Sign Language (CSL)"],
       "Licence": "Restricted",
       "Size": [],
       "Annotation": ["unannotated"],

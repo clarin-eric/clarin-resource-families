@@ -3,7 +3,7 @@
       "URL": "https://clarin.is/en/resources/sagacorpus/",
 	"Family": "Historical corpora",
       "Description": "This corpus contains Old Icelandic (Old Norse) Narrative texts from the 13th to the 15th century.\nThe corpus is available for download from CLARIN-IS and for search through the concordancer Korp.",
-      "Languages": ["Icelandic (Old)"],
+      "Language": ["Icelandic (Old)"],
       "Licence": "CC-BY 4.0",
       "Size": ["1.5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "normalized orthography"],

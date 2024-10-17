@@ -3,7 +3,7 @@
       "URL": "https://catalog.elra.info/en-us/repository/browse/ELRA-W0057/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains environmental and legislative texts in English and their French and Greek translations.\nThe corpus is available for download from the ELRA catalogue.",
-      "Languages": ["3 languages"],
+      "Language": ["3 languages"],
       "Licence": "ELRA END USER",
       "Size": [],
       "Annotation": [],

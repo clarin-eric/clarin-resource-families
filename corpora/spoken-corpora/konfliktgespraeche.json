@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10932/00-0332-C11A-46E1-0001-A",
       "Family": "Spoken corpora",
       "Description": "This corpus contains elicited conflict interaction.\nThe corpus is available for download and online browsing via the Database of Spoken German (AGD @ IDS Mannheim).",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["160,000 words", "12 hours"],
       "Annotation": ["orthographically transcribed"],

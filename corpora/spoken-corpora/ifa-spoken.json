@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-734",
       "Family": "Spoken corpora",
       "Description": "The corpus is available for download from an informal webpage.",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "CLARIN PUB",
       "Size": ["50,000 words (41 minutes/speaker)"],
       "Annotation": ["Hand-segmented speech"],

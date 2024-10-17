@@ -3,7 +3,7 @@
       "URL": "https://wiki.korpus.cz/doku.php/en:cnk:dialekt",
       "Family": "Spoken corpora",
       "Description": "This corpus contains traditional dialectological material, mostly unprepared monologue-type speech.\nThe corpus is available download (upon request) and through the concordancer KonText.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "Academic Licence Agreement for Czech National Corpus Data",
       "Size": ["100,000 words"],
       "Annotation": ["orthographically and phonetically (dialect features) transcribed", "MSD-tagged", "lemmatised"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10032/tm-a2-h5",
 	"Family": "Manually annotated corpora",
       "Description": "This is a manually annotated subset of the much larger (approx. 500 million) word) SoNaR corpus.\nThe corpus is available for download from the Dutch Language Institute.",
-      "Languages": ["nld"],
+      "Language": ["nld"],
       "Licence": "",
       "Size": ["1 million words"],
       "Annotation": ["PoS tagging", "syntactic parsing", "semantic role labelling"],

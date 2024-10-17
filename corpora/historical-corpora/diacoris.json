@@ -3,7 +3,7 @@
       "URL": "http://corpora.dslo.unibo.it/coris_ita.html",
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts from 1861 to 1945.\nThe corpus is available through a dedicated concordancer.",
-      "Languages": ["ita"],
+      "Language": ["ita"],
       "Licence": "",
       "Size": [],
       "Annotation": [],

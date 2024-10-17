@@ -3,7 +3,7 @@
       "URL": "http://zil.ipipan.waw.pl/PolishCoreferenceCorpus",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains texts in a variety of domains (magazines, fiction literature, non-fiction literature, computer-mediated communication, academic writing, etc.).\nThe corpus is available for download and online browsing.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "CC BY 3",
       "Size": ["540,000 tokens"],
       "Annotation": ["coreference"],

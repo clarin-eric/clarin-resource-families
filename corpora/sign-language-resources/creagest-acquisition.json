@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/ortolang-000916/v1",
 	"Family": "Sign language resources",
       "Description": "This is a corpus of children's LSF collected from 65 deaf children and 17 deaf adults (control group), conducted by four deaf interviewers from four different regions of France (4 stimuli, 2 cameras). 50 hours of recording in total.\nA sample of the corpus (10 extracts of Tom & Jerry cartoon narrative, filmed with two cameras (20 files)) is available for download  from the Huma-Num repository.",
-      "Languages": ["French Sign Language (LSF)"],
+      "Language": ["French Sign Language (LSF)"],
       "Licence": "CC BY-NC-ND 4.0",
       "Size": ["50 hours of recording in total."],
       "Annotation": ["partially annotated corpus. Elan annotation not accessible online"],

@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is an open source version of Sketch Engine with certain functionality limitations (for instance, WordSketch is not available).",
       "Functionality": ["Concordancing/querying"]
-      "Languages": ["Language independent"],
+      "Language": ["Language independent"],
       "Licence": "Components available under separate licences: GPLv2+, GPLv3",
       "Size": [],
       "Platform": ["Linux"],

@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1771",
 	"Family": "Spoken corpora",
       "Description": "This corpus contains transcripts from radio and TV shows, school lessons, private conversations, business meetings. It is composed of three different sources: <a href=\"http://hdl.handle.net/11356/1438\">Spoken corpus Gos 1.1</a> (112 hours, 1 million words), <a href=\"http://hdl.handle.net/11356/1444\">Spoken corpus Gos VideoLectures 4.2</a> (22 hours, 179,000 words), a selection from the <a href=\"http://hdl.handle.net/11356/1772\">ASR database ARTUR 1.0</a> (185 hours, 1.2 mllion words).\nThe corpus is available for download from CLARIN.SI as well as through a dedicated webconcordancer.",
-      "Languages": ["slv"],
+      "Language": ["slv"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["1534 texts", "127,604 utterances", "2,462,368 words"],
       "Annotation": ["phonetic and orthographic transcription", "PoS tagging", "lemmatisation"],

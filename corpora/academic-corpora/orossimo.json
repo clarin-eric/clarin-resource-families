@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2410-5",
 	"Family": "Academic corpora",
       "Description": "This corpus contains academic texts in the following disciplines:\n<ul<li>social sciences,</li><li>computer science,</li><li>economics,</li><li>linguistics,</li><li>photography,</li><li>law,</li><li>engineering,</li><li>history,</li><li>astronomy,</li><li>earth sciences and geology,</li><li>medicine and health, and</li><li>biology.</li></ul>\nThe corpus is encoded in XML (XCES).\nThe corpus is available for download from the CLARIN:EL repository.",
-      "Languages": ["ell"],
+      "Language": ["ell"],
       "Licence": "CC-BY",
       "Size": ["2.5 million tokens"],
       "Annotation": ["marked for term candidates", "mixed structural annotation"],

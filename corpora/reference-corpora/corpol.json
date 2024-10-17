@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11372/LRT-676",
 	"Family": "Reference corpora",
       "Description": "This is a written and spoken corpus that includes representative Polish texts published between 1945 and 2010.\nThe corpus is encoded in TEI. Non-linguistic metadata includes information on source, year of publication, text type, title, author. Aside from written materials, the corpus also includes transcriptions of spoken language.\nThe corpus is available for online browsing through a dedicated concordancer.",
-      "Languages": ["pol"],
+      "Language": ["pol"],
       "Licence": "",
       "Size": ["1.8 billion tokens"],
       "Annotation": ["MSD-tagged", "lemmatized"],

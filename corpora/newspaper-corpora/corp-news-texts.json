@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-20140730175",
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from a variety of Swedish, English and Finnish newspapers.\nThe corpus can be found in the FIN-CLARIN repository although its availability and licence are still under negotiation.",
-      "Languages": ["swe","fin","eng"],
+      "Language": ["swe","fin","eng"],
       "Licence": "under negotiation",
       "Size": ["435 million tokens"],
       "Annotation": ["tokenised"],
