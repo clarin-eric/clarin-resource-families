@@ -10,7 +10,7 @@
       "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://sla.talkbank.org/TBB/ca/MICASE",
-	"Download": "https://git.talkbank.org:3000/getFile?type=open&bp=data&path=ca/data/MICASE.zip",
+	"Download": "https://git.talkbank.org:3000/getFile?type=open&bp=data&path=ca/data/MICASE.zip"
 	},
       "Publication":""
 }
