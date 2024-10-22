@@ -1,0 +1,16 @@
+{
+      "Name": "CIPM",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F934-0",
+	"Family": "Historical corpora",
+      "Description": "This is a corpus of historical, religious, notarial, literary texts in prose and verse.\nThe corpus is available from PORTULAN.",
+      "Language": ["pt"],
+      "Licence": "CC-BY-NC-ND",
+      "Size": ["3.5 million words"],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "https://cipm.fcsh.unl.pt/",
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F934-0"
+	},
+      "Publication":""
+}

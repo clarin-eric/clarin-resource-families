@@ -1,0 +1,15 @@
+{
+      "Name": "Gekaapte Brieven",
+      "URL": "http://hdl.handle.net/10032/tm-a2-x3",
+	"Family": "Historical corpora",
+      "Description": "This is a corpus of letters and other documents from the 17th and 18th centuries.\nThese letters and documents were present on Dutch ships hijacked by the English during one of the four wars fought between Britain and the Republic of the Seven United Netherlands during this period.\nThe corpus is available from the Dutch Language Institute.",
+      "Language": ["nl"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "http://gekaaptebrieven.ivdnt.org/"
+	},
+      "Publication":""
+}
