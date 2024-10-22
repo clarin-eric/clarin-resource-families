@@ -1,0 +1,16 @@
+{
+      "Name": "CABank English MICASE Corpus",
+      "URL": "https://hdl.handle.net/doi:10.21415/QT9V-2J96",
+	"Family": "Academic corpora",
+      "Description": "This is a corpus of academic spoken English.\nThe transcripts are browsable via TalkBank.",
+      "Language": ["en"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/ca/MICASE",
+	"Download": "https://git.talkbank.org:3000/getFile?type=open&bp=data&path=ca/data/MICASE.zip",
+	},
+      "Publication":""
+}
