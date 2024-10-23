@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/21.11129/0000-000D-F89B-D",
 	"Family": "Literary corpora",
       "Description": "This corpus contains texts from 83 authors in 14 genres, covering a time span from the 15th to the 21st century, and adhering to different orthographic conventions.\nThe corpus is available from PORTULAN.",
-      "Language": ["pt"],
+      "Language": ["por"],
       "Licence": "CC-BY",
       "Size": ["3.1 million words"],
       "Annotation": ["", ""],
