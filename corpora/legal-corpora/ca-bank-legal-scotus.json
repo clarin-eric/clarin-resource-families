@@ -1,0 +1,16 @@
+{
+      "Name": "CABank English SCOTUS Oral Arguments Corpus",
+      "URL": "https://hdl.handle.net/10.21415/T5Z315",
+	"Family": "Legal corpora",
+      "Description": "This corpus includes 38 years of recordings linked to transcripts of oral arguments at the Supreme Court of the United States.\nThe corpus is available from TalkBank.",
+      "Language": ["en"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/ca/SCOTUS/OralArguments",
+	"Download": "https://git.talkbank.org:3000/getFile?type=open&bp=data&path=ca/data/SCOTUS/OralArguments.zip"
+	},
+      "Publication":""
+}
