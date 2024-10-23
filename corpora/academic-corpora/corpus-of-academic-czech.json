@@ -3,7 +3,7 @@
       "URL": "https://wiki.korpus.cz/doku.php/en:cnk:veda#corpus_of_academic_czech",
 	"Family": "Academic corpora",
       "Description": "This corpus contains untranslated texts published after 2010 in scientific journals indexed in the Web of Science or Scopus, or, in some cases, EBSCO databases.",
-      "Language": ["cz"],
+      "Language": ["ces"],
       "Licence": "CC BY 4.0",
       "Size": ["15 million words"],
       "Annotation": [],
