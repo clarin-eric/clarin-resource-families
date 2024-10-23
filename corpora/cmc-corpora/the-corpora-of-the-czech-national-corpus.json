@@ -3,7 +3,7 @@
       "URL": "https://wiki.korpus.cz/doku.php/en:cnk:net",
 	"Family": "Computer-mediated communication corpora",
       "Description": "This corpus contains texts from discussion forums and personal blogs until 2020.\nThe corpus is available via the Czech National Corpus.",
-      "Language": ["cz"],
+      "Language": ["ces"],
       "Licence": "CC BY 4.0",
       "Size": ["176 million tokens"],
       "Annotation": ["", ""],
