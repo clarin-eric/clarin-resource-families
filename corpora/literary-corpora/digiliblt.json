@@ -1,0 +1,15 @@
+{
+      "Name": "digilibLT",
+      "URL": "https://hdl.handle.net/20.500.11752/OPEN-554",
+	"Family": "Literary corpora",
+      "Description": "This is a corpus of secular prose texts written in the late antiquity.\nThe corpus is available from the ILC4CLARIN repository.",
+      "Language": ["la"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": ["375 texts"],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/OPEN-554"
+	},
+      "Publication":""
+}
