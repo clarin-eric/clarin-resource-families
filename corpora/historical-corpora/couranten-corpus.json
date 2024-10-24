@@ -1,0 +1,15 @@
+{
+      "Name": "Couranten Corpus ",
+      "URL": "http://hdl.handle.net/10032/tm-a2-u9",
+	"Family": "Historical corpora",
+      "Description": "This is a corpus of 17th-century Dutch newspapers.\nThe corpus is available from the Dutch Language Institute.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "https://couranten.ivdnt.org/corpus-frontend/couranten/search/"
+	},
+      "Publication":""
+}

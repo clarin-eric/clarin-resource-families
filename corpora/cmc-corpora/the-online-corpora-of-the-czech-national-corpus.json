@@ -1,0 +1,15 @@
+{
+      "Name": "The ONLINE Corpora of the Czech National Corpus",
+      "URL": "https://wiki.korpus.cz/doku.php/en:cnk:online",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This is a monitor corpus of the Czech web.\nThe subcorpus <a href=\"https://wiki.korpus.cz/doku.php/en:cnk:online:gen1\">ONLINE1</a> contains texts pertaining to online journalism, social media, discussions, and forums for the period between January 2017 and March 2021. The subcorpora <a href=\"https://wiki.korpus.cz/doku.php/en:cnk:online:gen2\">ONLINE2_Now and ONLINE2_Archive</a> contain journalism texts published until now.\nThe corpus is available via the Czech National Corpus.",
+      "Language": ["ces"],
+      "Licence": "CC BY 4.0",
+      "Size": [""],
+      "Annotation": ["MSD tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "https://wiki.korpus.cz/doku.php/en:cnk:net"
+	},
+      "Publication":""
+}
