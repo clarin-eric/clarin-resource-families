@@ -12,7 +12,7 @@
       "Subgroup": "Written corpora",
       "Access": {
 	"Browse": "https://korp.csc.fi/#?cqp=%5B%5D&corpus=las2_tentit,las2_esseet&prequery_within=sentence",
-	"Download": "http://urn.fi/urn:nbn:fi:lb-2016041401"
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2016041401",
 	"Download": "http://urn.fi/urn:nbn:fi:lb-2016041402"
 	},
       "Publication": ""
