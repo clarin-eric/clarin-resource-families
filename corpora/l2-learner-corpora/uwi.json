@@ -1,0 +1,18 @@
+{
+      "Name": "The UWI Corpus",
+      "URL": "http://hdl.handle.net/10.21415/T5G975",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus consists of 25 recorded interviews with learners of French (9 adult learners) in Jamaica.\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
+      "Languages": ["fra"],
+      "Licence": "public (acknowledgment required)",
+      "Size": ["15,068 tokens"],
+      "Annotation": ["audio/transcription linking"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/slabank/French/UWI",
+	"Download": "http://hdl.handle.net/10.21415/T5G975"
+	},
+      "Publication": "Péters (2017)"
+}

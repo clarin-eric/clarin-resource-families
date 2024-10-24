@@ -1,0 +1,18 @@
+{
+      "Name": "SpIn",
+      "URL": "https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains essays from a Language Introduction course for newly arrived students (256 essays; 166 students, some of whom are recurrent) – i.e., course preparation for Swedish upper-intermediate school (gymnasium-level). It is a subcorpus of the <a href=\"https://spraakbanken.gu.se/en/research/themes/icall/icall-l2-projects/l2-data\">SweLL-pilot corpus</a>.\nAside from the automatic linguistic annotation, the corpus is manually annotated for CEFR labels (A1-B2). See <a href=\"https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn\">the metadata description</a> for further details on the automatic and manual annotation.\nThe corpus is available through the Browse Korp and for download in Språkbanken Text / the SweLL infrastructure through an individual application form.",
+      "Languages": ["swe"],
+      "Licence": "CC-BY",
+      "Size": ["46,911 tokens", "4,302 sentences"],
+      "Annotation": ["tokenised", "PoS-tagged", "MSD-tagged", "lemgrams", "compounds word forms"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Browse (Korp)": "https://spraakbanken.gu.se/korp/#/?cqp=%5B%5D&corpus=spinv1",
+	"Online (application)": "https://spraakbanken.gu.se/en/projects/swell/swell4users"
+	},
+      "Publication": "Volodina et al. (2016)."
+}

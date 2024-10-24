@@ -1,0 +1,17 @@
+{
+      "Name": "FinSveStud 79-80",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730119",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains texts written by students with Finnish as their L1 background.\nThe corpus is available through the Browse Korp.",
+      "Languages": ["swe"],
+      "Licence": "CLARIN RES",
+      "Size": ["175,000 tokens"],
+      "Annotation": ["tokenised", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Browse": "https://korp.csc.fi/?mode=swedish#?corpus=studentsvenska"
+	},
+      "Publication": ""
+}

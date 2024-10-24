@@ -1,0 +1,18 @@
+{
+      "Name": "The Barraja-Rohan Corpus",
+      "URL": "http://hdl.handle.net/10.21415/T5KD74",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains speech recordings of adult international students who spoke English as a second language and who had newly arrived at an Australian university. These undergraduate international students from various Asian backgrounds interacted over a period of seven months with Australian graduate students who were native speakers of English.\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
+      "Languages": ["eng"],
+      "Licence": "public (acknowledgment required)",
+      "Size": [],
+      "Annotation": ["audio/transcription linking"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/slabank/English/Barraja-Rohan",
+	"Download": "http://hdl.handle.net/10.21415/T5KD74"
+	},
+      "Publication": "Barraja-Rohan (2013)"
+}

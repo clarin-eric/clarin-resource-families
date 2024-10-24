@@ -1,0 +1,16 @@
+{
+      "Name": "English as a Foreign Language Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073010",
+	"Family": "L2 learner corpora",
+      "Description": "The corpus contains videotaped lessons involving students at Finnish secondary schools.",
+      "Languages": ["eng"],
+      "Licence": "Under Negotiation",
+      "Size": ["24 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Video and multimodal corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

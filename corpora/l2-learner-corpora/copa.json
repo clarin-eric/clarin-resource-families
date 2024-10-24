@@ -1,0 +1,18 @@
+{
+      "Name": "The COPA Corpus",
+      "URL": "http://hdl.handle.net/10.21415/T5ZK6W",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains speech recordings of ~120 college students learning Mandarin in Hong Kong (type of study: responses to questions).\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
+      "Languages": ["cmn"],
+      "Licence": "public (acknowledgment required)",
+      "Size": [],
+      "Annotation": ["audio/transcription linking"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/slabank/Mandarin/COPA",
+	"Download": "http://hdl.handle.net/10.21415/T5ZK6W"
+	},
+      "Publication": "Zhang (2009)"
+}

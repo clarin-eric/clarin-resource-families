@@ -1,0 +1,17 @@
+{
+      "Name": "ASK – Norsk andrespråkskorpus",
+      "URL": "http://hdl.handle.net/11495/DA23-DEB6-9EE5-2",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains essays and tests written by students from 10 L1 backgrounds. It also contains L1 control essays.\nThe corpus is available through a dedicated Browse provided by CLARINO.",
+      "Languages": ["nor"],
+      "Licence": "CLARIN RES",
+      "Size": ["618,000 tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "errors"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Browse": "http://clarino.uib.no/korpuskel/corpus-list?collection=ASK"
+	},
+      "Publication": ""
+}

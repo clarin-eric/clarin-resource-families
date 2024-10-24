@@ -1,0 +1,16 @@
+{
+      "Name": "The Hanken Corpus of Academic Writing",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2016081504",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains academic texts  written by Finnish and Swedish native speakers.\nThe corpus is still under development.",
+      "Languages": ["eng"],
+      "Licence": "CC-BY",
+      "Size": ["500,000 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	},
+      "Publication": ""
+}

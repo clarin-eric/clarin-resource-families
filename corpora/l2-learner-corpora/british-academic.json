@@ -1,0 +1,17 @@
+{
+      "Name": "British Academic Written English Corpus",
+      "URL": "http://hdl.handle.net/20.500.14106/2539",
+	"Family": "L2 learner corpora",
+      "Description": "This is primarily a L1 corpus although it also contains L2 texts.\nThe corpus is available for download from the University of Oxford Text Archive.",
+      "Languages": ["eng"],
+      "Licence": "CC-BY",
+      "Size": ["2761 texts"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2539"
+	},
+      "Publication": ""
+}

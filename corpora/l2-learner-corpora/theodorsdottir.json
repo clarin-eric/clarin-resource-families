@@ -1,0 +1,18 @@
+{
+      "Name": "The Theodórsdóttir corpus",
+      "URL": "http://hdl.handle.net/10.21415/T5230Q",
+	"Family": "L2 learner corpora",
+      "Description": "The corpus contains recordings obtained in a longitudinal case study of L2 Icelandic.\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
+      "Languages": ["isl"],
+      "Licence": "public (acknowledgment required)",
+      "Size": [],
+      "Annotation": ["audio/transcription linking"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/slabank/Password/IceBase",
+	"Download": "http://hdl.handle.net/10.21415/T5230Q"
+	},
+      "Publication": "Theodórsdóttir (2018)"
+}

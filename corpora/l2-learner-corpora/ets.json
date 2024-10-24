@@ -1,0 +1,17 @@
+{
+      "Name": "ETS Corpus of Non-Native Written English",
+      "URL": "https://catalog.ldc.upenn.edu/LDC2014T06",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains texts written by learners from 11 L1 backgrounds as part of an international text of academic English proficiency. Prompts as well as proficiency level are part of the metadata.\nThe corpus is available for download from the LDC catalogue.",
+      "Languages": ["eng"],
+      "Licence": "restricted",
+      "Size": ["12,100 essays (1100 / language)"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Download": "http://catalog.ldc.upenn.edu/LDC2014T06"
+	},
+      "Publication": ""
+}

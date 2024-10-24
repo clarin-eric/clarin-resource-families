@@ -1,0 +1,18 @@
+{
+      "Name": "The SPLLOC1 Corpus",
+      "URL": "http://hdl.handle.net/10.21415/T5TW27",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains recordings of L2 Spanish in a classroom context. There were 20 learners, all of whom were English native speakers, at each of 3 levels: beginners (Year 9 students aged 13-14), intermediate students (A2 students aged 17-18), and fourth year undergraduates.\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
+      "Languages": ["spa"],
+      "Licence": "public (acknowledgment required)",
+      "Size": [],
+      "Annotation": ["audio/transcription linking"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/slabank/Spanish/SPLLOC1",
+	"Download": "http://hdl.handle.net/10.21415/T5TW27"
+	},
+      "Publication": "Mitchell et al. (2008)"
+}

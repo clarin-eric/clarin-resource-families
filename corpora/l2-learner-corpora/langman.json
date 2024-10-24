@@ -1,0 +1,18 @@
+{
+      "Name": "LANGMAN",
+      "URL": "https://slabank.talkbank.org/access/Hungarian/Langman.html",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus is a spoken corpus involving Chinese native speakers who learn Hungarian as a second language.\nThe subcorpora are available for download from and browsing through the TalkBank.",
+      "Languages": ["hun"],
+      "Licence": "CC-BY",
+      "Size": ["11 subcorpora"],
+      "Annotation": ["error coding"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://sla.talkbank.org/TBB/slabank/Hungarian/Langman",
+	"Download": "https://slabank.talkbank.org/access/Hungarian/Langman.html"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "Hamburg Modern Times Corpus",
+      "URL": "http://hdl.handle.net/11022/0000-0000-6973-9",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains film retellings and the accompanying transcriptions.\nThe corpus is available for download from the HZSK CLARIN-D repository.",
+      "Languages": ["deu"],
+      "Licence": "CLARIN RES",
+      "Size": ["24,000 words"],
+      "Annotation": ["prosody"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0000-6973-9"
+	},
+      "Publication": ""
+}

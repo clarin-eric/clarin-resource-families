@@ -1,0 +1,19 @@
+{
+      "Name": "SW1203-essays",
+      "URL": "https://spraakbanken.gu.se/eng/resource/sw1203#tabs=information",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains essays from a preparatory university course with three essays written by (almost) all students: (1) entrance essay, (2) mid-term essay; (3) fnal exam essay; (4) final exam retake for some students. The corpus is longitudinal in a way. It is a subcorpus of the <a href=\"https://spraakbanken.gu.se/en/research/themes/icall/icall-l2-projects/l2-data\">SweLL-pilot corpus</a>.\nAside from the automatic linguistic annotation, the corpus is manually annotated for CEFR labels (B1-C2). See <a href=\"https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203\">the metadata description</a> for further details on the automatic and manual annotation.\nThe corpus is available for download from the Språkbanken Resource List, through the Browse Korp, and for download through in Språkbanken Text / the SweLL infrastructure through an individual application form.",
+      "Languages": ["swe"],
+      "Licence": "CC-BY",
+      "Size": ["52,528 tokens", "3,145 sentences"],
+      "Annotation": ["tokenised", "PoS-tagged", "MSD-tagged", "lemgrams", "compounds word forms"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Browse (Korp)": "https://spraakbanken.gu.se/korp/#/?cqp=%5B%5D&corpus=sw1203v1",
+	"Online (application)": "https://sunet.artologik.net/gu/swell",
+	"Download": "http://spraakbanken.gu.se/eng/resource/sw1203#tabs=informatio"
+	},
+      "Publication": "Volodina et al. (2016)."
+}

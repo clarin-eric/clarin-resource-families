@@ -1,0 +1,17 @@
+{
+      "Name": "The Long Second Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2015031801",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains written texts, audio recordings and videotaped lessons involving immigrants from the following L1 backgrounds: Estonian, Macedonian, Kurdish, Portuguese, Russian, and English.",
+      "Languages": ["fin"],
+      "Licence": "Under Negotiation",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Video and multimodal corpora",
+      "Access": {
+	"Special": "The corpus is still in preparation. It is set to be made available on the <a href=\"https://lat.csc.fi/\">LAT platform.</a>"
+	},
+      "Publication": ""
+}

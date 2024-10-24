@@ -1,0 +1,17 @@
+{
+      "Name": "Commented Learner Corpus Academic Writing",
+      "URL": "http://hdl.handle.net/11022/0000-0006-CD41-A",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains texts written by students at the University of Hamburg from various L1 backgrounds.\nThe corpus is available for download through the repository of the University of Hamburg.",
+      "Languages": ["deu"],
+      "Licence": "CC BY-NC-SA 3.0",
+      "Size": ["853 texts"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0006-CD41-A"
+	},
+      "Publication": ""
+}

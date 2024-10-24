@@ -1,0 +1,19 @@
+{
+      "Name": "The Advanced Finnish Learners’ Corpus",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201407167",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains academic texts written by MA students and collected in 2009.\nThe corpus consists of two subcorpora - <a href=\"http://urn.fi/urn:nbn:fi:lb-2016041401\">The Exam Essays Subcorpus</a> and the <a href=\"http://urn.fi/urn:nbn:fi:lb-2016041402\">Course Papers Subcorpus</a>, both of which are also available through Korp.",
+      "Languages": ["fin"],
+      "Licence": "CLARIN RES",
+      "Size": ["288,000 tokens"],
+      "Annotation": ["tokenised", "MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Browse": "https://korp.csc.fi/#?cqp=%5B%5D&corpus=las2_tentit,las2_esseet&prequery_within=sentence",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2016041401"
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2016041402"
+	},
+      "Publication": ""
+}
