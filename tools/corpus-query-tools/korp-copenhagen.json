@@ -2,7 +2,7 @@
       "Name": "Korp (Copenhagen)",
       "URL": "https://alf.hum.ku.dk/korp/",
 	"Family": "Corpus query tools",
-      "Description": "This is a web-based concordancer that can be used for corpus queries based on morphosyntactic analysis and various other features. It is implemented at the University of Copenhagen.\nRegistration is required.",
+      "Description": "This is a web-based concordancer that can be used for corpus queries based on morphosyntactic analysis and various other features.\nRegistration is required.",
       "Functionality": ["Querying/concordancing"]
       "Language": ["dan"],
       "Licence": "",
