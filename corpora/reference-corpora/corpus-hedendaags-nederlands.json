@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus Hedendaags Nederlands",
+      "URL": "http://hdl.handle.net/10032/tm-a2-s8",
+	"Family": "Reference corpora",
+      "Description": "This is a corpus of books, blogs, newspapers, magazines and news broadcasts from the Netherlands, Flanders, Suriname and the Netherlands Antilles.\nThe corpus is available from the Dutch Language Institute.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": ["3 billion words"],
+      "Annotation": ["PoS-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://chn.ivdnt.org/"
+	},
+      "Publication":""
+}
