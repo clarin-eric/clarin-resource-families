@@ -1,0 +1,16 @@
+{
+      "Name": "Manually annotated corpora for teaching and learning purposes of Brazilian Portuguese, Dutch, Estonian, and Slovene",
+      "URL": "https://hdl.handle.net/21.11129/0000-0010-05DA-3 ",
+	"Family": "Manually annotated corpora",
+      "Description": "These are manually annotated corpora for teaching and learning purposes of Brazilian Portuguese, Dutch, Estonian, and Slovene.\nSentences are annotated with “problematic” or “non-problematic” labels, from the point of usage for pedagogical purposes.\nThe corpus is available from PORTULAN.",
+      "Language": ["est", "nld", "slv", "por"],
+      "Licence": "CC BY",
+      "Size": ["10,000 sentences"],
+      "Annotation": ["error tagging"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Other annotation layers"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-0010-05DA-3"
+	},
+      "Publication": ""
+}

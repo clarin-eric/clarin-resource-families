@@ -1,0 +1,16 @@
+{
+      "Name": "Affect in Tweets PT",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-75BA-D",
+	"Family": "Manually annotated corpora",
+      "Description": "This is a data set of Portuguese tweets labelled with the emotion conveyed in the tweet.\nEach tweet is labelled with an emotion (i.e., anger, fear, joy, sadness).\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["11,219 tweets"],
+      "Annotation": ["sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Sentiment analysis"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000E-75BA-D"
+	},
+      "Publication": ""
+}

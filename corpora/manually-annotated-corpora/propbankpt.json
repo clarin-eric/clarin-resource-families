@@ -1,0 +1,16 @@
+{
+      "Name": "PropBankPT",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D34B-3",
+	"Family": "Manually annotated corpora",
+      "Description": "This is a corpus of sentences annotated with their constituency structure and semantic role tags. The sentences are translations from the Wall Street Journal.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["3,406 sentences", "44,598 tokens"],
+      "Annotation": ["Syntactic parsing", "Semantic role tags"],
+      "Infrastructure": "CLARIN",
+	  "Group": ["Syntactic parsing", "Other annotation layers"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D34B-3"
+	},
+      "Publication":""
+}
