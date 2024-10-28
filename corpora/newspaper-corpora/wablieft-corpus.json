@@ -1,0 +1,15 @@
+{
+      "Name": "Wablieft Corpus",
+      "URL": "https://hdl.handle.net/10032/tm-a2-q6",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains the digital archive of the <a href=\"https://www.wablieft.be/nl\">Wablieft newspaper</a> from 2011 to 2017.\nThe corpus is available from the Dutch Language Institute.",
+      "Language": ["nld"],
+      "Licence": "CC BY",
+      "Size": ["2 million words"],
+      "Annotation": ["PoS-tagged", "lemmatised", "named entities", "syntactic dependencies"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/10032/tm-a2-q6"
+	},
+      "Publication":""
+}

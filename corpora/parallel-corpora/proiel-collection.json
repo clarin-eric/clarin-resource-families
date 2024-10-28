@@ -1,0 +1,17 @@
+{
+      "Name": "PROIEL collection",
+      "URL": "http://hdl.handle.net/11509/114",
+	"Family": "Parallel corpora",
+      "Description": "This is a collection of dependency treebanks for early attestations of Indo-European, including a set of parallel treebanks of the New Testament.\nThe languages that are included are Gothic, Ancient Greek, Church Slavic, Latin, and Classical Armenian.\nThe corpus is available from the CLARINO repository.",
+      "Language": ["5 languages"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": ["46,406 sentences", "530,666 words"],
+      "Annotation": ["MSD-tagged", "information structure"],
+      "Infrastructure": "CLARIN",
+	"Group": "Multilingual corpora",
+      "Access": {
+		"Browse": "http://hdl.handle.net/11495/DA68-56C8-439C-0",
+		"Download": "http://hdl.handle.net/11509/114"
+	},
+      "Publication":""
+}

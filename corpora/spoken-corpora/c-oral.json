@@ -1,0 +1,15 @@
+{
+      "Name": "C-ORAL-ROM_EXM",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D4FF-7",
+	"Family": "Spoken corpora",
+      "Description": "This is a corpus of formal and informal speech.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "The MIT licence",
+      "Size": ["300,000 words"],
+      "Annotation": ["Orthographically aligned", "Phonemically alligned", "PoS tagged"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D4FF-7"
+	},
+      "Publication":""
+}
