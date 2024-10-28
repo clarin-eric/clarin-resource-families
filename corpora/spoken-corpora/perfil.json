@@ -1,0 +1,15 @@
+{
+      "Name": "Perfil Sociolinguístico da Fala Bracarense",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F928-E",
+	"Family": "90 hours",
+      "Description": "The corpus is composed by 1 hour interviews with speakers of the same area (around Braga, Portugal).\nThe interviews are stratified according to gender, age and level of education; the transcriptions are aligned with <a href=\"https://exmaralda.org/en/\"EXMARaLDA</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["90 hours"],
+      "Annotation": ["transcriptions aligned"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F928-E"
+	},
+      "Publication":""
+}

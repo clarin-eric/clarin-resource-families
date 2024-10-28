@@ -1,0 +1,15 @@
+{
+      "Name": "Spoken Dutch Corpus",
+      "URL": "https://hdl.handle.net/10032/tm-a2-k6",
+	"Family": "Spoken corpora",
+      "Description": "This is a corpus of standard Dutch spoken in Flanders and the Netherlands.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": ["900 hours"],
+      "Annotation": ["PoS-tagged", "syntactically parsed", "phonetically transcribed", "phonemically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/10032/tm-a2-k6"
+	},
+      "Publication":""
+}
