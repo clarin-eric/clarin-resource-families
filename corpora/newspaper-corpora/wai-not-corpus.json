@@ -1,0 +1,15 @@
+{
+      "Name": "WAI-NOT Corpus",
+      "URL": "http://hdl.handle.net/10032/tm-a2-t9",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus contains the digital archive of the <a href=\"https://www.wai-not.be/\">WAI-NOT newspaper</a> between 2009 and 2021.\nThe corpus is available from the Dutch Language Institute.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["", ""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-t9 "
+	},
+      "Publication":""
+}

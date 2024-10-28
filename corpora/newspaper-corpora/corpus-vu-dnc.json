@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus VU-DNC",
+      "URL": "http://hdl.handle.net/10032/tm-a2-g4",
+	"Family": "Newspaper corpora",
+      "Description": "This corpus consists of data from five newspapers, covering 3 separate years (1950, 1951, and 2002).\nThe corpus is available from the Dutch Language Institute.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://ivdnt.org/wp-content/apps/vu-dnc/index.html"
+	},
+      "Publication":""
+}
