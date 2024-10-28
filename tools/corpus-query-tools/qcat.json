@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1844",
 	"Family": "Corpus query tools",
       "Description": "The tools allows for manual linguistic annotation of corpora and advanced queries on top of these annotations.\nThe tool has been used in various annotation campaigns related to the <a href=\"http://hdl.handle.net/11356/1210\"> ssj500k reference training corpus of Slovenian</a>, such as named entities, dependency syntax, semantic roles and multi-word expressions, but it can also be used for adding new annotation layers of various types to this or other language corpora. Q-CAT is a .NET application, which runs on Windows operating system.\nThis resource is available for download from the CLARIN.SI repository.",
-      "Functionality": ["Annotating/concordancing/querying/listening to audio recordings"]
+      "Functionality": ["Annotating/concordancing/querying/listening to audio recordings"],
       "Language": ["Language independent"],
       "Licence": "Apache License 2.0",
       "Size": [],

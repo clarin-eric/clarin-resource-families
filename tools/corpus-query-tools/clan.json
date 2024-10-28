@@ -3,7 +3,7 @@
       "URL": "http://dali.talkbank.org/clan/",
 	"Family": "Corpus query tools",
       "Description": "The CLAN Programs are downloaded, installed, and used as a single application. Functionally, however, CLAN has two parts. The first part is the CLAN editor which can be used to edit files in either CHAT or CA (Conversation Analysis) format. The editor also provides a wide range of additional functions, such as audio and video playback, linkage to audio and video, fonts for Roman and non-Roman orthographies, data validation, adding codes to files, and shipping data to other programs. The second part of CLAN is the set of data analysis programs. These programs are run from a separate window called the Commands window. The results of the analytic programs are sent to the CLAN Output window.\nThe tool is only compatible with <a href=\"https://www.talkbank.org/\">TalkBank</a> corpora that have CHAT annotation.\nAn <a href=\"https://talkbank.org/manuals/CLAN.pdf\">online manual</a> is available.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GPL2 (source code)",
       "Size": [],

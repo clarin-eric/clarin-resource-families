@@ -3,7 +3,7 @@
       "URL": "https://nlp.fi.muni.cz/trac/noske",
 	"Family": "Corpus query tools",
       "Description": "This is an open source version of Sketch Engine with certain functionality limitations (for instance, WordSketch is not available).",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "Components available under separate licences: GPLv2+, GPLv3",
       "Size": [],

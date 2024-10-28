@@ -3,7 +3,7 @@
       "URL": "https://www.hf.uio.no/iln/english/about/organization/text-laboratory/services/glossa/index.html",
 	"Family": "Corpus query tools",
       "Description": "Glossa offers a modern, simple and functional search interface with advanced post-processing possibilities for both written corpora, multilingual corpora and speech corpora.\nGlossa is developed at the Text Laboratory, Department of Linguistics and Scandinavian Studies, University of Oslo with support from the Norwegian contribution to the CLARIN infrastructure, CLARINO. Glossa is also freely available for download from <a href=\"https://github.com/textlab/fglossa\">GitHub</a> and is easy to install on one's own server. Glossa is search engine agnostic and comes with support for the IMS Corpus Workbench and CLARIN Federated Content Search out of the box.",
-      "Functionality": ["Querying/concordancing and text analysis"]
+      "Functionality": ["Querying/concordancing and text analysis"],
       "Language": ["Language independent"],
       "Licence": "Public license for software. CLARIN-licenses for corpora in Glossa",
       "Size": [],

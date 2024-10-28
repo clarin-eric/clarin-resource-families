@@ -3,7 +3,7 @@
       "URL": "https://www.nederlab.nl/onderzoeksportaal/",
 	"Family": "Corpus query tools",
       "Description": "This is an online research portal for historical texts in the Dutch language.\nRegistration is required and Shibboleth log-in is supported.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["nld"],
       "Licence": "",
       "Size": [],

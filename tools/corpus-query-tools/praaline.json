@@ -3,7 +3,7 @@
       "URL": "https://www.praaline.org",
 	"Family": "Corpus query tools",
       "Description": "This is a system for managing, annotating, visualising and analysing spoken language corpora.",
-      "Functionality": ["Concordancing/querying", "corpus building"]
+      "Functionality": ["Concordancing/querying", "corpus building"],
       "Language": ["Language independent"],
       "Licence": "GPL3",
       "Size": [],

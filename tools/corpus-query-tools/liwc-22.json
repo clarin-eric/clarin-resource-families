@@ -3,7 +3,7 @@
       "URL": "https://www.liwc.app/",
 	"Family": "Corpus query tools",
       "Description": "This is a commercial  product for analyzing word use. It can be used to study a single individual, groups of people over time, or all of social media.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "<a href=\"https://www.liwc.app/help/eula\">Proprietary</a>",
       "Size": [],

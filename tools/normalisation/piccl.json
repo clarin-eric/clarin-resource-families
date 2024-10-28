@@ -1,0 +1,18 @@
+{
+      "Name": "PICCL: Philosophical Integrator of Computational and Corpus Libraries",
+      "URL": "https://portal.clarin.nl/node/14392",
+	"Family": "Tools for Normalisation",
+      "Description": "This is a set of workflows for corpus building through OCR, post-correction, modernization of historic language and Natural Language Processing. It combines <a href=\"https://opensource.google/projects/tesseract\">Tesseract Optical Character Recognition</a>, <a href=\"https://portal.clarin.nl/node/14376\">TICCL</a> and <a href=\"https://languagemachines.github.io/frog\">FROG</a> functionality in a single pipeline.",
+      "Functionality": ["OCR", "normalization", "tokenisation", "dependency parsing", "shallow parsing", "lemmatization", "morphological analysis", "NER", "PoS-tagging"],
+      "Domain": "independent",
+      "Language": ["nld", "swe", "rus", "spa", "por", "eng", "deu", "fra", "ita", "fin", "ell", "grc", "isl", "German (Fraktur)", "lat", "ron"],
+      "Licence": "GNU GPL",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIAH-NL",
+      "Input format": ["images (tiff, vnd.djvu)", "plain text", "xml"],
+      "Output format": ["FoLiA XML"],
+      "Access": {
+	"Download": "https://github.com/LanguageMachines/piccl"
+	},
+      "Publication": "Reynaert et al. (2015)"
+}

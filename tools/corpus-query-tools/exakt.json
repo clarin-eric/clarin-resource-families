@@ -3,7 +3,7 @@
       "URL": "https://exmaralda.org/de/exakt-de/",
 	"Family": "Corpus query tools",
       "Description": "EXAKT (‘EXMARaLDA Analysis- and Concordance Tool’) is the query and analysis tool for <a href=\"https://exmaralda.org/en/category/corpora/\">EXMARaLDA corpora</a>. It can also be used for corpora created with other tools (<a href=\"https://exmaralda.org/en/folker-en/\">FOLKER</a>, Transcriber, <a href=\"https://archive.mpi.nl/tla/elan\">ELAN</a>).\nSupport is offered via the <a href=\"https://www.clarin-d.net/de/hilfe\">CLARIN-D Helpdesk</a>.  <a href=\"https://exmaralda.org/de/exakt-de/#\">Manuals and how-to guides</a> are available; there have also been <a href=\"https://exmaralda.org/de/schulung\">training courses</a> for EXAKT. The source code of the program is open source and accessible via <a href=\"https://github.com/Exmaralda-Org/exmaralda\">GitHub</a>.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

@@ -3,7 +3,7 @@
       "URL": "https://shebanq.ancient-data.org/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated online environment for querying the Hebrew Bible.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["heb"],
       "Licence": "",
       "Size": [],

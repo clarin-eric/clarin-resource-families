@@ -1,0 +1,18 @@
+{
+      "Name": "VARD2",
+      "URL": "http://ucrel.lancs.ac.uk/vard/about/",
+	"Family": "Tools for Normalisation",
+      "Description": "This tool performs manual and automatic spelling normalisation based on letter replacement rules, phonetic matching (extended Soundex), edit distance, and variant mappings.",
+      "Functionality": ["normalization"],
+      "Domain": "historical texts",
+      "Language": ["eng"],
+      "Licence": "CC-BY-NC-SA 2.0",
+      "Platform": ["cross-platform (java)"],
+      "Infrastructure": "CLARIAH-UK",
+      "Input format": ["plain text", "rtf", "SGML", "XML"],
+      "Output format": ["XML"],
+      "Access": {
+	"Download": "http://ucrel.lancs.ac.uk/vard/availability/"
+	},
+      "Publication": "http://ucrel.lancs.ac.uk/vard/publications/"
+}

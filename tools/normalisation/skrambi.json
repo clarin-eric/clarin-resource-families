@@ -1,0 +1,17 @@
+{
+      "Name": "Skrambi",
+      "URL": "https://notendur.hi.is/~kristinb/clarin-2015-6okt.pdf",
+	"Family": "Tools for Normalisation",
+      "Description": "This tool is a spell-checking application based on a noisy channel model, which can be used to achieve a true copy of the original spelling of historical OCR texts, and to produce a parallel text with modern spelling.",
+      "Functionality": ["OCR", "normalization"],
+      "Domain": "historical texts",
+      "Language": ["isl"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-IS",
+      "Input format": ["unspecified"],
+      "Output format": ["unspecified"],
+      "Access": {
+	},
+      "Publication": ""
+}

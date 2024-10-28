@@ -3,7 +3,7 @@
       "URL": "https://www.dwds.de/",
 	"Family": "Corpus query tools",
       "Description": "This is a tool for browsing <a href=\"https://forum.clarin.eu/t/how-can-i-access-the-dwds-corpora/280\">DWDS corpora</a>. The DWDS is part of the Center for Digital Lexicography of the German Language (ZDL), funded by the Federal Ministry of Education and Research. It is based at the Berlin-Brandenburg Academy of Sciences.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["deu"],
       "Licence": "",
       "Size": [],

@@ -3,7 +3,7 @@
       "URL": "http://filip.ffzg.hr/",
 	"Family": "Corpus query tools",
       "Description": "This is an implementation of NoSketchEngine for the <a href=\"http://hdl.handle.net/11372/LRT-233\">Croatian National Corpus</a>.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["hrv"],
       "Licence": "",
       "Size": [],

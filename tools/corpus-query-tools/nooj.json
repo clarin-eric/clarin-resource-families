@@ -3,7 +3,7 @@
       "URL": "http://www.nooj4nlp.org/",
 	"Family": "Corpus query tools",
       "Description": "This tool is part of a linguistic development environment, which includes functionality for text and corpus analysis.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GPL Academic - Non-commercial (Java version)",
       "Size": [],

@@ -1,0 +1,18 @@
+{
+      "Name": "Nederlab Pipeline",
+      "URL": "https://github.com/proycon/nederlab-pipeline",
+	"Family": "Tools for Normalisation",
+      "Description": "This is a linguistic enrichment pipeline for Historical Dutch as developed for and used in the <a href=\"https://www.nederlab.nl/\">Nederlab project</a>. This workflow, powered by <a href=\"https://www.nextflow.io/\">Nextflow</a>, invokes various tools, including <a href=\"https://languagemachines.github.io/frog\">Frog</a> and <a href=\"https://github.com/LanguageMachines/piccl\">FoLiA-wordtranslate</a>, as well as other tools such as <a href=\"https://languagemachines.github.io/ucto\">ucto</a> (a tokeniser), <a href=\"https://github.com/proycon/foliatools\">folialangid</a> (language identification), <a href=\"https://github.com/proycon/foliatools\">tei2folia</a> (conversion from a subset of TEI to FoLiA, which serves as the exchange format for all our tooling, as well as the final corpus format for Nederlab). Due to the high complexity in tooling, this workflow and all dependencies are distributed as part of the <a href=\"https://proycon.github.io/LaMachine\">LaMachine</a> distribution.",
+      "Functionality": ["modernisation, normalisation, tokenisation, conversion, PoS-tagging, lemmatisation, NER with entity linking (all functionality is derived from the individual parts rather than an inherent part of the workflow)"],
+      "Domain": "independent",
+      "Language": ["nld"],
+      "Licence": "GNU Public License v3",
+      "Platform": ["Linux/POSIX (workflow itself runs on JVM, underlying components are mostly implemented in C++ and Python)"],
+      "Infrastructure": "CLARIAH-NL",
+      "Input format": ["FoLiA XML"],
+      "Output format": ["FoLiA XML"],
+      "Access": {
+	"Download": "https://github.com/proycon/nederlab-pipeline/"
+	},
+      "Publication": "Brugman et al. (2016)"
+}

@@ -3,7 +3,7 @@
       "URL": "https://www.sketchengine.eu/",
 	"Family": "Corpus query tools",
       "Description": "Sketch Engine is a commercial online corpus analysis application, used by linguists, lexicographers, translators, students and teachers. Sketch Engine contains 600 ready-to-use corpora in 90+ languages.\nIt is possible to upload one's own corpus with this tool. Registration is required and Shibboleth log-in is supported. Support is offered via <a href=\"support@sketchengine.eu\">email</a>.",
-      "Functionality": ["Querying/concordancing", "corpus upload and processing"]
+      "Functionality": ["Querying/concordancing", "corpus upload and processing"],
       "Language": ["Multiple"],
       "Licence": "<a href=\"https://www.sketchengine.eu/terms-of-use/\">Proprietary</a>",
       "Size": [],

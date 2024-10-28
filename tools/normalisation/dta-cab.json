@@ -1,0 +1,19 @@
+{
+      "Name": "DTA::CAB",
+      "URL": "http://odo.dwds.de/~jurish/software/DTA-CAB/",
+	"Family": "Tools for Normalisation",
+      "Description": "This is an abstract framework for robust linguistic annotation, with public web-service including normalization and lemmatization for historical German",
+      "Functionality": ["lemmatization", "PoS-tagging", "normalization"],
+      "Domain": "historical texts",
+      "Language": ["deu"],
+      "Licence": "<a href=\"https://metacpan.org/pod/DTA::CAB#COPYRIGHT-AND-LICENSE\">Terms of Service</a>",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Input format": ["<a href=\"http://odo.dwds.de/~jurish/software/DTA-CAB/doc/html/DTA.CAB.WebServiceHowto.html#I-O-Formats\">various</a>"],
+      "Output format": ["<a href=\"http://odo.dwds.de/~jurish/software/DTA-CAB/doc/html/DTA.CAB.WebServiceHowto.html#I-O-Formats\">various</a>"],
+      "Access": {
+	"Download": "https://metacpan.org/release/DTA-CAB",
+	"Web application": "https://www.deutschestextarchiv.de/public/cab/"
+	},
+      "Publication": "Jurish (2012)"
+}

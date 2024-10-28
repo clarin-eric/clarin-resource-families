@@ -3,7 +3,7 @@
       "URL": "https://chn.ivdnt.org/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated query tool, built on <a href=\"http://inl.github.io/BlackLab/\">BlackLab</a> software, for <a href=\"https://chn.ivdnt.org/\">Corpus Hedendaags Nederlands (Corpus of Contemporary Dutch)</a>, a corpus of more than 800,000 texts taken from newspapers, magazines, news broadcasts and legal writings (1814–2013).\nThe corpus is a combination of the 5, 27 and 38 million word corpora and the PAROLE Corpus, supplemented with newspaper texts from NRC and De Standaard (until 2013).\nRegistration is required for using this tool. Shibboleth log-in is supported.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["nld"],
       "Licence": "",
       "Size": [],

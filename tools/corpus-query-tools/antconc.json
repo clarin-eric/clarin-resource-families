@@ -3,7 +3,7 @@
       "URL": "https://www.laurenceanthony.net/software/antconc/",
 	"Family": "Corpus query tools",
       "Description": "This is a freeware corpus analysis toolkit for concordancing and text analysis.\nOnline videos and manuals from the creator and community (<a href=\"https://groups.google.com/g/AntConc\">Google Group</a>).",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "<a href=\"https://www.laurenceanthony.net/software/antconc/releases/AntConc4011/license.pdf\">Proprietary</a>",
       "Size": [],

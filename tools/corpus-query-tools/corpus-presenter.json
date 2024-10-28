@@ -1,10 +1,9 @@
 {
       "Name": "Corpus Presenter",
-      "URL": "https://www.uni-due.de/CP/
-404 not available 02-03-2023",
+      "URL": "https://www.uni-due.de/CP/",
 	"Family": "Corpus query tools",
       "Description": "This tool can be used to compile text corpora and to carry out retrieval tasks on any corpus or selection of text files, no matter what their source or how they are organised. The tool is designed to have a maximally open architecture and can be used straight away to examine any texts users may have access to.",
-      "Functionality": ["Concordancing/querying", "corpus compilation"]
+      "Functionality": ["Concordancing/querying", "corpus compilation"],
       "Language": ["Language independent"],
       "Licence": "No licence",
       "Size": [],

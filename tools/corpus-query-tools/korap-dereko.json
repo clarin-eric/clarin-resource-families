@@ -3,7 +3,7 @@
       "URL": "https://korap.ids-mannheim.de/",
 	"Family": "Corpus query tools",
       "Description": "This is a corpus analysis platform that is suited for large, multiply annotated corpora and complex search queries independent of particular research questions.\nRegistration is required only for license restricted corpora.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["deu"],
       "Licence": "DeReKo-EULA",
       "Size": [],

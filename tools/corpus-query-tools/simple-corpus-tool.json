@@ -3,7 +3,7 @@
       "URL": "https://martinweisser.org/ling_soft.html#SCT",
 	"Family": "Corpus query tools",
       "Description": "This is a combination of an annotation and analysis tool for use with either simple XML files or basic plain-text files.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

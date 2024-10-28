@@ -3,7 +3,7 @@
       "URL": "http://www.laurenceanthony.net/software/antpconc/",
 	"Family": "Corpus query tools",
       "Description": "This is a freeware parallel corpus analysis toolkit for concordancing and text analysis using UTF-8 encoded text files.",
-      "Functionality": ["Parallel Concordancing/querying"]
+      "Functionality": ["Parallel Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

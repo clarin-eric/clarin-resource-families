@@ -1,0 +1,18 @@
+{
+      "Name": "CAB orthographic canonicalizer",
+      "URL": "http://hdl.handle.net/11858/00-203C-0000-0023-21BB-3",
+	"Family": "Tools for Normalisation",
+      "Description": "This tool a WebLicht stub for the <a href=\"http://odo.dwds.de/~jurish/software/DTA-CAB/\">DTA::CAB</a> service and provides orthographic normalization for historical German.",
+      "Functionality": ["normalisation"],
+      "Domain": "historical texts",
+      "Language": ["deu"],
+      "Licence": "",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Input format": ["plain text", "XML"],
+      "Output format": ["unspecified"],
+      "Access": {
+	"Web application": "https://www.deutschestextarchiv.de/public/cab/?fmt=tcf-orth"
+	},
+      "Publication": ""
+}

@@ -3,7 +3,7 @@
       "URL": "https://monoconc.com/",
 	"Family": "Corpus query tools",
       "Description": "This is a concordance programme. It is made available on a commercial basis.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "No licence",
       "Size": [],

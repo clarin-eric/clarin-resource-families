@@ -3,7 +3,7 @@
       "URL": "https://www.webcorp.org.uk/live/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated concordancing tool.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

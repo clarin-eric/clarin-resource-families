@@ -3,7 +3,7 @@
       "URL": "https://alf.hum.ku.dk/korp/",
 	"Family": "Corpus query tools",
       "Description": "This is a web-based concordancer that can be used for corpus queries based on morphosyntactic analysis and various other features.\nRegistration is required.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["dan"],
       "Licence": "",
       "Size": [],

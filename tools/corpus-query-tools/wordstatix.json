@@ -3,7 +3,7 @@
       "URL": "https://sites.google.com/site/wordstatix/",
 	"Family": "Corpus query tools",
       "Description": "This is a simple concordancer.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GPL3",
       "Size": [],

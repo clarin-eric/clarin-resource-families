@@ -3,7 +3,7 @@
       "URL": "https://clarino.uib.no/iness/page?page-id=INESS_Search_Walkthrough",
 	"Family": "Corpus query tools",
       "Description": "INESS is the Norwegian Infrastructure for the Exploration of Syntax and Semantics. INESS offers an open, interactive, language independent platform for building, accessing, searching and visualizing treebanks.\nINESS offers a <a href=\"https://clarino.uib.no/iness/page?page-id=INESS_Search_Walkthrough\">user guide</a> for querying their treebanks.",
-      "Functionality": ["Querying/concordancing (treebanks)"]
+      "Functionality": ["Querying/concordancing (treebanks)"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

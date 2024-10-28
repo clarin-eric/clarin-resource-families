@@ -3,7 +3,7 @@
       "URL": "http://www.wordcruncher.com/index.html",
 	"Family": "Corpus query tools",
       "Description": "This tool offers a wide variety of tools for searching, studying, and analyzing texts.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

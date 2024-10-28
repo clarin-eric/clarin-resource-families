@@ -3,7 +3,7 @@
       "URL": "http://webclark.org/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated concordancer for the Bulgarian National Reference Corpus.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["bul"],
       "Licence": "",
       "Size": [],

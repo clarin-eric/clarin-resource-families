@@ -3,7 +3,7 @@
       "URL": "https://skell.sketchengine.eu/",
 	"Family": "Corpus query tools",
       "Description": "This is a simple tool for students and teachers of English to easily check whether or how a particular phrase or a word is used by real speakers of English.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["eng", "rus", "deu", "ita", "ces", "est"],
       "Licence": "",
       "Size": [],

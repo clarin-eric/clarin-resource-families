@@ -1,0 +1,19 @@
+{
+      "Name": "Turkish Natural Language Processing Pipeline",
+      "URL": "https://hdl.handle.net/11372/LRT-712",
+	"Family": "Tools for Normalisation",
+      "Description": "This is a pipeline of state-of-the-art Turkish NLP tools.",
+      "Functionality": ["tokenisation", "sentence splitting", "normalisation"," de-asciification", "vowelisation", "spelling correction", "morphological analysis/disambiguation", "named entity recognition", "dependency parsing"],
+      "Domain": "independent",
+      "Language": ["tur"],
+      "Licence": "",
+      "Platform": ["Linux", "MacOS", "Windows"],
+      "Infrastructure": "External",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Web application": "http://tools.nlp.itu.edu.tr/Normalization",
+	"Web API": "http://tools.nlp.itu.edu.tr/api_usage.jsp"
+	},
+      "Publication": ""
+}

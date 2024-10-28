@@ -3,7 +3,7 @@
       "URL": "https://voyant-tools.org/",
 	"Family": "Corpus query tools",
       "Description": "This is a web-based text reading and analysis environment. It is a scholarly project that is designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public.\nIt is possible to upload one's own corpus with this tool.\nThe interface is available in <a href=\"https://voyant-tools.org/docs/#!/guide/languages\">a number of languages</a>. An <a href=\"https://voyant-tools.org/docs/#!/guide/about\">online user</a> guide is available. ",
-      "Functionality": ["Querying/concordancing", "Stylometry"]
+      "Functionality": ["Querying/concordancing", "Stylometry"],
       "Language": ["ara", "bos", "hrv", "ces", "eng", "fra", "deu", "heb", "ita", "jpn", "por", "rus", "srp", "spa"],
       "Licence": "GPL3 (code)",
       "Size": [],

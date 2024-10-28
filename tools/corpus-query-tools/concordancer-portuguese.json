@@ -3,7 +3,7 @@
       "URL": "https://www.corpusdoportugues.org/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated concordancer for the Corpus of Portuguese developed by Mark Davies.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["por"],
       "Licence": "",
       "Size": [],

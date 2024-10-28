@@ -3,7 +3,7 @@
       "URL": "https://sites.google.com/site/casualconc/",
 	"Family": "Corpus query tools",
       "Description": "This is a concordance program that runs natively on macOS 11.3 or later.and can generate KWIC concordance lines, word clusters, collocation analysis, and word count.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "No licence",
       "Size": [],

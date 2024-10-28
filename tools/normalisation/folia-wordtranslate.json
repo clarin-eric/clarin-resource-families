@@ -1,0 +1,18 @@
+{
+      "Name": "FoLiA-wordtranslate",
+      "URL": "https://github.com/LanguageMachines/foliautils",
+	"Family": "Tools for Normalisation",
+      "Description": "This tool does word-by-word lookups in a bilingual lexicon, applies some transformation rules and additionally it may consult the INT Historical Lexicon (to be obtained separately due to licensing restrictions). The aim is to use the modernisation layer to do further linguistic enrichment using contemporary models. This tool is part of the FoLiA-Utils collection as it operates on documents in the FoLiA format. Standalone it is only of very limited interest to others.",
+      "Functionality": ["normalization"],
+      "Domain": "historical texts",
+      "Language": ["nld"],
+      "Licence": "GNU Public License v3",
+      "Platform": ["Linux/POSIX (C++)"],
+      "Infrastructure": "CLARIAH-NL",
+      "Input format": ["plain text", "FoLiA-XML"],
+      "Output format": ["FoLiA-XML", "plaintext"],
+      "Access": {
+	"Download": "https://metacpan.org/release/DTA-CAB"
+	},
+      "Publication": ""
+}

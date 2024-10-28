@@ -1,0 +1,17 @@
+{
+      "Name": "Normo",
+      "URL": "https://docslib.org/doc/13405665/corpus-based-research-in-the-humanities",
+	"Family": "Tools for Normalisation",
+      "Description": "This tool is an automatic pre-normalizer for Middle Hungarian Bible translations. It employs a memory-based and a rule-based module, which consists of character- and token level rewrite rules. The tool was used for building the <a href=\"http://oldhungariancorpus.nytud.hu/\">Old Hungarian Corpus</a>.",
+      "Functionality": ["normalization"],
+      "Domain": "historical texts",
+      "Language": ["hun"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "HUN-CLARIN",
+      "Input format": ["unspecified"],
+      "Output format": ["unspecified"],
+      "Access": {
+	},
+      "Publication": "Vadász and Simon (2018)"
+}

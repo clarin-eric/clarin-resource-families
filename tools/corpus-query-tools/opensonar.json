@@ -3,7 +3,7 @@
       "URL": "https://opensonar.ivdnt.org/",
 	"Family": "Corpus query tools",
       "Description": "This is an online corpus retrieval system that allows for analyzing and searching the <a href=\"https://opensonar.ivdnt.org/\">SoNaR and CGN</a> corpora.\nRegistration is required and Shibboleth log-in is supported.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["nld"],
       "Licence": "",
       "Size": [],

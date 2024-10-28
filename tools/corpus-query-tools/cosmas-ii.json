@@ -3,7 +3,7 @@
       "URL": "https://cosmas2.ids-mannheim.de",
 	"Family": "Corpus query tools",
       "Description": "This tool is used for querying the German reference corpus DeReKo, as well as several other historical and non-historical corpora.\nTechnical support is offered through <a href=\"mailto:cosmas2@ids-mannheim.de\">email</a>.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["deu"],
       "Licence": "DeReKo-EULA",
       "Size": [],

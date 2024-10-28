@@ -3,7 +3,7 @@
       "URL": "https://www.webcorp.org.uk/wcx/lse/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated tool for the study of language on the web. The corpora were built by crawling the web and extracting textual content from web pages. Searches can be performed to find words, lemmas or phrases, including pattern matching, wildcards and part-of-speech. Results are given as concordance lines in KWIC format. Post-search analyses are possible including time series, collocation tables, sorting and summaries of meta-data from the matched web pages.\nIt is possible to upload one's own corpus with this tool.\nRegistration is required.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

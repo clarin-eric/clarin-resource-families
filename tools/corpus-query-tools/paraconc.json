@@ -3,7 +3,7 @@
       "URL": "http://paraconc.com/",
 	"Family": "Corpus query tools",
       "Description": "A parallel concordance programme for aligned source and target translation texts. This is a commercial tool.",
-      "Functionality": ["Parallel Concordancing/querying"]
+      "Functionality": ["Parallel Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "No licence",
       "Size": [],

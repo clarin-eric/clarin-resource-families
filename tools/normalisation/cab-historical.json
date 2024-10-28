@@ -1,0 +1,18 @@
+{
+      "Name": "CAB historical text analysis",
+      "URL": "http://hdl.handle.net/21.11120/0000-0003-7D99-5",
+	"Family": "Tools for Normalisation",
+      "Description": "This tool is a WebLicht stub for the <a href=\"http://odo.dwds.de/~jurish/software/DTA-CAB/\">DTA::CAB</a> service and provides orthographic normalisation, PoS-tagging and lemmatization for historical German.",
+      "Functionality": ["normalisation", "PoS-tagging", "lemmatisation"],
+      "Domain": "historical texts",
+      "Language": ["deu"],
+      "Licence": "",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Input format": ["plain text", "XML"],
+      "Output format": ["<a href=\"https://universaldependencies.org/tagset-conversion/de-stts-uposf.html\">stts</a> tagset for PoS"],
+      "Access": {
+	"Web application": "https://www.deutschestextarchiv.de/public/cab/?fmt=tcf"
+	},
+      "Publication": ""
+}

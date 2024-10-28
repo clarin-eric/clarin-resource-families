@@ -3,7 +3,7 @@
       "URL": "https://corpusmiddelnederlands.ivdnt.org/corpus-frontend/MNL/search/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated query tool for the <a href=\"https://corpusmiddelnederlands.ivdnt.org/corpus-frontend/MNL/about\">Corpus Middelnederlands</a>.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["nld"],
       "Licence": "",
       "Size": [],

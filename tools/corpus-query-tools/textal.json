@@ -2,8 +2,8 @@
       "Name": "Textal",
       "URL": "https://www.textal.org/",
 	"Family": "Corpus query tools",
-      "Description": "This is a free smartphone app that allows users to analyze websites, tweet streams, and documents, as you explore the relationships between words in the text via an intuitive word cloud interface. It can generate graphs and statics, and share the data and visualizations. ",
-      "Functionality": ["Concordancing/querying"]
+      "Description": "This is a free smartphone app that allows users to analyze websites, tweet streams, and documents, as you explore the relationships between words in the text via an intuitive word cloud interface. It can generate graphs and statics, and share the data and visualizations.",
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

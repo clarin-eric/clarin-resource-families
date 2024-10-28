@@ -3,7 +3,7 @@
       "URL": "https://clarin.dk/clarindk/forside.jsp  also: https://alf.hum.ku.dk/korp/",
 	"Family": "Corpus query tools",
       "Description": "This tool constitutes a deployment of Voyant Tools at CLARIN-DK.",
-      "Functionality": ["Querying/concordancing", "Stylometry"]
+      "Functionality": ["Querying/concordancing", "Stylometry"],
       "Language": ["Language independent"],
       "Licence": "",
       "Size": [],

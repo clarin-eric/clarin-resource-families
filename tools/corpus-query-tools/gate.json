@@ -3,7 +3,7 @@
       "URL": "https://gate.ac.uk/",
 	"Family": "Corpus query tools",
       "Description": "This tool allows for text and corpus analysis.",
-      "Functionality": ["Concordancing/querying"]
+      "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GNU",
       "Size": [],

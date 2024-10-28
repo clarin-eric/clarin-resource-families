@@ -3,7 +3,7 @@
       "URL": "http://bncweb.lancs.ac.uk/bncwebSignup/user/login.php",
 	"Family": "Corpus query tools",
       "Description": "This tool is a modified version of <a href=\"https://cqpweb.lancs.ac.uk/\">CQPweb</a> for the <a href=\"http://www.natcorp.ox.ac.uk/\">British National Corpus</a>. It allows a number of search options: publication date, text medium, author gender, target audience, genre, author domicile.\nRegistration is required to use the tool.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["eng"],
       "Licence": "",
       "Size": [],

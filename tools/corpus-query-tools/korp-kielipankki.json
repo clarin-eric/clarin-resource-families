@@ -3,7 +3,7 @@
       "URL": "https://korp.csc.fi/",
 	"Family": "Corpus query tools",
       "Description": "This is a web-based concordance tool that can be used for corpus queries based on morphosyntactic analysis and various other features. A large proportion of the corpora in Kielipankki are offered via Korp.\nUser support is available through <ahref=\"fin-clarin@helsinki.fi\">email</a>.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["fin", "swe", "rus", "eng", "and more"],
       "Licence": "Individual corpora have different licenses (and access conditions)",
       "Size": [],

@@ -1,0 +1,19 @@
+{
+      "Name": "Text Tonsorium",
+      "URL": "https://cst.dk/WMS/",
+	"Family": "Tools for Normalisation",
+      "Description": "Automatic construction and execution of several NLP workflows, which include normalisation.",
+      "Functionality": ["tokenization", "segmentation", "lemmatization", "PoS-tagging", "normalization", "syntax analysis", "NER", "format transformations"],
+      "Domain": "independent",
+      "Language": ["afr", "sqi", "hye", "eus", "bos", "bre", "bul", "cat", "zho", "cos", "hrv", "ces", "dan", "nld", "eng", "epo", "est", "fao", "fin", "fra", "glg", "kat", "deu", "ell", "gml", "hat", "hin", "hun", "isl", "ind", "iku", "gle", "ita", "jav", "kan", "kur", "lat", "lav", "lit", "ltz", "mkd", "zlm", "mal", "mlt", "nor", "oci", "fas", "pol", "por", "ron", "rus", "srp", "slk", "slv", "spa", "swh", "swe", "tam", "tur", "ukr", "uzb", "vie", "cym", "yid"],
+      "Licence": "GPL",
+      "Platform": ["Ubuntu"],
+      "Infrastructure": "CLARIN-DK",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://github.com/kuhumcst/texton",
+	"Web application": "https://cst.dk/WMS/"
+	},
+      "Publication": ""
+}

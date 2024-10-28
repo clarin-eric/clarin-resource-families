@@ -1,0 +1,18 @@
+{
+      "Name": "CSMTiser",
+      "URL": "https://github.com/clarinsi/csmtiser",
+	"Family": "Tools for Normalisation",
+      "Description": "This is a trainable tool for text normalisation, based on <a href=\"http://www.statmt.org/moses/\">Moses</a>.",
+      "Functionality": ["normalization"],
+      "Domain": "social media",
+      "Language": ["slv"],
+      "Licence": "GNU Lesser General Public License v3.0",
+      "Platform": ["Linux"],
+      "Infrastructure": "CLARIN.SI",
+      "Input format": ["unspecified"],
+      "Output format": ["unspecified"],
+      "Access": {
+	"Download": "https://github.com/clarinsi/csmtiser"
+	},
+      "Publication": "Ljubešić et al. (2016)"
+}

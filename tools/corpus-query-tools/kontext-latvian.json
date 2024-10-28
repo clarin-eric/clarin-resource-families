@@ -3,7 +3,7 @@
       "URL": "http://kontext.korpuss.lv/",
 	"Family": "Corpus query tools",
       "Description": "This tool corresponds to an implementation of <a href=\"https://ufal.mff.cuni.cz/lindat-kontext\">LINDAT's KonText</a> for Latvian resources.\n<a href=\"http://kontext.korpuss.lv/corpora/corplist\">Eight Latvian corpora</a> can be searched with this tool.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["lav"],
       "Licence": "",
       "Size": [],

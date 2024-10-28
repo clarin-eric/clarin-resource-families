@@ -3,7 +3,7 @@
       "URL": "https://groupes.renater.fr/wiki/txm-users/public/references_portails",
 	"Family": "Corpus query tools",
       "Description": "This tool corresponds to a number of different TXM portals running at various sites and with a number of different corpora. TXM offers online analysis tools for querying language corpora. The interface is in French.",
-      "Functionality": ["Querying/concordancing"]
+      "Functionality": ["Querying/concordancing"],
       "Language": ["fra", "eng"],
       "Licence": "",
       "Size": [],
