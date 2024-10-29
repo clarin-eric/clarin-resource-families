@@ -1,0 +1,19 @@
+{
+      "Name": "NameTag",
+      "URL": "https://hdl.handle.net/11858/00-097C-0000-0023-43CE-E",
+	"Family": "Named entity recognition",
+      "Description": "NameTag is an open-source tool that recognizes different NER categories per language model. For Czech, it recognizes a <a href=\"http://ufal.mff.cuni.cz/~strakova/cnec2.0/ne-type-hierarchy.pdf\">complex hierarchy of categories</a>. The English model, which is trained on CoNLL-2003 NER annotations (Sang and De Meulder <a href=\"https://www.clarin.eu/resource-families/tools-named-entity-recognition#Sang%20and%20De%20Meulder%202003\">2003</a>), distinguishes the following four NER classes: person, organisation, location and miscellaneous.\nThe trained model for Czech is available for through LINDAT: <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-7D42-8\">Czech Models (CNEC) for NameTag</a>.\nA <a href=\"http://ufal.mff.cuni.cz/nametag/users-manual\">user manual</a> is also available.",
+      "Functionality": ["NER"],
+      "NER categories": ["per model, see above"],
+      "Trained models": [],
+      "Language": ["ces", "eng"],
+      "Licence": "MPL 2.0 (software), CC BY-NC-SA (models)",
+      "Platform": ["Linux", "Windows", "OS X"],
+      "Infrastructure": "LINDAT",
+      "Access": {
+	"Download": "http://github.com/ufal/nametag/releases/latest",
+	"Online service": "http://lindat.mff.cuni.cz/services/nametag/run.php",
+	"Web API": "http://lindat.mff.cuni.cz/services/nametag/api-reference.php"
+	},
+      "Publication": "Straková, Straka and Hajič (2013)"
+}

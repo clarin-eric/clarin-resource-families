@@ -1,0 +1,17 @@
+{
+      "Name": "GrNE-Tagger",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23F2-7",
+	"Family": "Named entity recognition",
+      "Description": "This NER operates on a rule-based engine designed. It was developed and is maintained by the Institute for Language and Speech Processing / Athena Research Center. This recognizer can be applied to existing corpora available through the CLARIN:EL infrastructure and to those independently uploaded corpora that are compatible with the tool’s requirements.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization", "facility", "gpe (geo-political entity)"],
+      "Trained models": [],
+      "Language": ["ell"],
+      "Licence": "terms of service (academic non-commercial use)",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN:EL",
+      "Access": {
+	"Online service": "https://athena.clarin.gr/processing/upload-and-process/b08f27d05af411e5a2e0aa3fc8d33ad84e24c87f6e50432aac7047f092f08e48/"
+	},
+      "Publication": ""
+}

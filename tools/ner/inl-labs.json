@@ -1,0 +1,17 @@
+{
+      "Name": "INL labs",
+      "URL": "http://hdl.handle.net/10032/79a7f85fc70d1cf276c4c6a0a56dd176",
+	"Family": "Named entity recognition",
+      "Description": "This toolchain currently provides two annotation tools: the <a href=\"http://nlp.stanford.edu/software/CRF-NER.shtml\">Stanford named entity recognizer</a>, which was trained on the historical Dutch newspapers corpus <a href=\"http://hdl.handle.net/10032/f6d68fed217ef7364a32c431396ac465\">Letters as loot</a> in the context of the IMPACT project (Landsbergen <a href=\"http://www.digitisation.eu/download/website-files/IMPACT_D-EE2.6_NE_work_in_IMPACT.pdf\">2012</a>), and a tagger that consists of a tokenizer/sentence boundary detector, a statistical part-of-speech tagger and a lemmatizer.\nThis toolchain outputs linguistically annotated TEI from a number of input formats (TEI, plain text, Alto, .doc files).",
+      "Functionality": ["tokenisation", "sentence segmentation", "PoS-tagging", "lemmatisation", "NER"],
+      "NER categories": ["person", "organization", "location", "miscellaneous"],
+      "Trained models": [],
+      "Language": ["nld"],
+      "Licence": "",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Online service": "http://inl-labs.taalbanknederlands.inl.nl/succeed/tagger/ui"
+	},
+      "Publication": ""
+}

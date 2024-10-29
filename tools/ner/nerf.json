@@ -1,0 +1,17 @@
+{
+      "Name": "Nerf",
+      "URL": "http://hackage.haskell.org/package/nerf",
+	"Family": "Named entity recognition",
+      "Description": "This statistical NER is based on linear-chain conditional random fields.",
+      "Functionality": ["NER"],
+      "NER categories": [],
+      "Trained models": ["<a href=\"http://zil.ipipan.waw.pl/Nerf?action=AttachFile&do=view&target=model-0.3-4.0.zip\">download</a>"],
+      "Language": ["pol"],
+      "Licence": "GPL v.3",
+      "Platform": ["<a href=\"http://www.haskell.org/platform/\">Haskell Platform</a>"],
+      "Infrastructure": "CLARIN-PL",
+      "Access": {
+	"Download": "http://hackage.haskell.org/package/nerf"
+	},
+      "Publication": ""
+}

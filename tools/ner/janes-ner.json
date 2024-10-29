@@ -1,0 +1,19 @@
+{
+      "Name": "janes-ner",
+      "URL": "https://github.com/clarinsi/janes-ner",
+	"Family": "Named entity recognition",
+      "Description": "This named entity recognizer is a slight modification of the CRF-based <a href=\"https://github.com/clarinsi/reldi-tagger\">reldi-tagger</a> with Brown clusters information added. Input data need to be pre-processed by the <a hef=\"https://github.com/clarinsi/reldi-tokeniser\">reldi-tokeniser</a> and the <a href=\"https://github.com/clarinsi/reldi-tagger\">reldi-tagger</a> for morphosyntactic annotation.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "person derivative", "location", "organization and miscellaneous"],
+      "Trained models": [],
+      "Language": ["slv", "hrv", "srp"],
+      "Licence": "Apache License 2.0",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN.SI",
+      "Access": {
+	"Download": "https://github.com/clarinsi/janes-ner",
+	"Online service": "http://www.clarin.si/info/k-centre/web-services-documentation/#library",
+	"Web API": "https://github.com/clarinsi/janes-ner-api"
+	},
+      "Publication": "Fišer, Ljubešić and Erjavec (2018)"
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "OpenNLP Name Finder (English)",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-278E-5",
+	"Family": "Named entity recognition",
+      "Description": "This NER can be applied to existing corpora available through the CLARIN:EL infrastructure and to those independently uploaded corpora that are compatible with the tool’s requirements.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization"],
+      "Trained models": [],
+      "Language": ["eng"],
+      "Licence": "Apache Licence 2.0",
+      "Platform": ["Linux", "Windows"],
+      "Infrastructure": "CLARIN:EL",
+      "Access": {
+	"Online service": "https://athena.clarin.gr/processing/upload-and-process/5b82208ca8a411e5b3f1aa3fc0b846a0d666a718017a4f929d555fef32829939/"
+	},
+      "Publication": ""
+}

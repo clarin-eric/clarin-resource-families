@@ -1,0 +1,17 @@
+{
+      "Name": "NameScape: Named Entity Recognition",
+      "URL": "http://ner.namescape.nl/namescape/tagger",
+	"Family": "Named entity recognition",
+      "Description": "This NER was developed in the <a href=\"http://blog.namescape.nl/\">Namescape project</a>.",
+      "Functionality": ["NER"],
+      "NER categories": [],
+      "Trained models": [],
+      "Language": ["nld"],
+      "Licence": "",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Online service": "http://ner.namescape.nl/namescape/tagger"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,19 @@
+{
+      "Name": "Liner2",
+      "URL": "https://github.com/CLARIN-PL/Liner2",
+	"Family": "Named entity recognition",
+      "Description": "This NER uses conditional random fields and a rich set of token features. The tool got third place in the <a href=\"http://2018.poleval.pl/index.php/tasks\">PolEval 2018 Task 2</a> on named entity recognition. It contains a pre-trained model trained on the <a href=\"http://nkjp.pl/index.php?page=0&lang=1\">National Corpus of Polish</a> (NKJP) and KPWr corpus (Broda et al. <a href=\"https://www.clarin.eu/resource-families/tools-named-entity-recognition#Broda%20et%20al.%202012\">2012</a>).\nThe KPWr model distinguishes the following categories: person, location, facility, organization, product, event, adjective.\nThe NKJP model distinguishes the following NER categories: person, organization, location, date, time",
+      "Functionality": ["NER"],
+      "NER categories": ["per model, see above."],
+      "Trained models": [],
+      "Language": ["pol"],
+      "Licence": "GNU General Public License",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-PL",
+      "Access": {
+	"Download": "https://github.com/CLARIN-PL/Liner2",
+	"Online service": "http://ws.clarin-pl.eu/ner.shtml",
+	"Web API": "http://nlp.pwr.wroc.pl/redmine/projects/nlprest2/wiki"
+	},
+      "Publication": "Marcińczuk, Kocoń, and Gawor (2018)"
+}

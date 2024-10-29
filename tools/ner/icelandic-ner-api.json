@@ -1,0 +1,17 @@
+{
+      "Name": "Icelandic NER API",
+      "URL": "https://github.com/cadia-lvl/Icelandic-NER-API/releases/tag/1.0",
+	"Family": "Named entity recognition",
+      "Description": "This is a dockerized NER for Icelandic. The code for the API is available at <a href=\"https://github.com/cadia-lvl/Icelandic-NER-API\">GitHub</a>. There are two models for this NER available for download through the CLARIN-IS repository; the <a href=\"http://hdl.handle.net/20.500.12537/118\">ELECTRA-base model</a>, which achieves F1-score of ~91.9 on the test set for MIM-GOLD-NER, and the <a href=\"http://hdl.handle.net/20.500.12537/159\">Ensamble model</a>, which uses a the IceBERT language model from Miðeind as its primary model, but it also offers the possibility to use 3 other transformer language models with it ( ELECTRA-base, convbert-small, and multilingual-BERT) and combines them with <a href=\"http://www.malfong.is/index.php?lang=en&pg=combitagger\">CombiTagger</a>.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization", "miscellaneous", "date", "money", "time", "percent"],
+      "Trained models": [],
+      "Language": ["isl"],
+      "Licence": "Apache 2.0 (models)",
+      "Platform": [],
+      "Infrastructure": "CLARIN-IS",
+      "Access": {
+	"Online service": "https://electra-ner-icelandic-gwafmrdfha-ez.a.run.app/"
+	},
+      "Publication": ""
+}

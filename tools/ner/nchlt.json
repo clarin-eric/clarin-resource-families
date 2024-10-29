@@ -1,0 +1,17 @@
+{
+      "Name": "NCHLT Tagger",
+      "URL": "https://hdl.handle.net/20.500.12185/351",
+	"Family": "Named entity recognition",
+      "Description": "This is a graphical user interface and command-line tool for automatic text processing.",
+      "Functionality": ["PoS-tagging", "phrase chunking", "NER"],
+      "NER categories": ["organisation", "person", "location", "miscellaneous", "outside"],
+      "Trained models": [],
+      "Language": ["afr", "eng", "nbl", "xho", "zul", "sot", "nso", "tsn", "ssw", "ven", "tso"],
+      "Licence": "CC-BY 2.5 South Africa Licence",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "SADiLaR",
+      "Access": {
+	"Download": "https://hdl.handle.net/20.500.12185/351"
+	},
+      "Publication": ""
+}

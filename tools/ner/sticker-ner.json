@@ -1,0 +1,18 @@
+{
+      "Name": "Sticker Named Entity Recognizer",
+      "URL": "https://github.com/stickeritis/sticker/",
+	"Family": "Named entity recognition",
+      "Description": "This NER is built on a neural-network-based sequence labeller that can label named entities for German and Dutch.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization", "geopolitical entity", "other"],
+      "Trained models": [],
+      "Language": ["deu", "nld"],
+      "Licence": "Blue Oak Model Licence 1.0.0 (underlying software)",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Access": {
+	"Download": "https://github.com/stickeritis/sticker/",
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": ""
+}

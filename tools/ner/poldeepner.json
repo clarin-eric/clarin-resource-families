@@ -1,0 +1,17 @@
+{
+      "Name": "PolDeepNer",
+      "URL": "https://github.com/CLARIN-PL/PolDeepNer",
+	"Family": "Named entity recognition",
+      "Description": "This NER uses <a href=\"http://2018.poleval.pl/index.php/tasks\">deep learning methods</a> . The tool got 2nd place in the PolEval 2018 Task 2 on NER. It contains a pre-trained model on the <a href=\"http://nkjp.pl/index.php?page=0&lang=1\">NKJP corpus</a>.",
+      "Functionality": ["NER"],
+      "NER categories": ["nested annotations of the following types: personal names (forenames, surnames, additional names), organizational names, geographic names, place names (district, settlement, region, country, bloc), date, and time"],
+      "Trained models": [],
+      "Language": ["pol"],
+      "Licence": "GNU General Public Licence",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-PL",
+      "Access": {
+	"Download": "https://github.com/CLARIN-PL/PolDeepNer"
+	},
+      "Publication": "Marcińczuk, Kocoń, and Gawor (2018)"
+}

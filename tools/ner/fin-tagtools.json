@@ -1,0 +1,18 @@
+{
+      "Name": "Finnish Tagtools 1.4",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201908161",
+	"Family": "Named entity recognition",
+      "Description": "This software package provides <i>finnish-postag</i>, a part-of-speech and morphology tagger for Finnish, and <i>finnish-nertag</i>, a named entity recogniser for Finnish.",
+      "Functionality": ["PoS/MSD-tagging", "NER"],
+      "NER categories": ["person (human, mythological, animal, other)", "location (political, geographical, street, infrastructure, mythological, astronomical, other)", "organisation (corporation, political, media, financial, educational, cultural, athletic, other, miscellaneous), product", "event, time (dates, times)", "numerical expressions (measurements, money)"],
+      "Trained models": [],
+      "Language": ["fin"],
+      "Licence": "GPL 3",
+      "Platform": ["Linux", "Unix"],
+      "Infrastructure": "FIN-CLARIN",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201908162",
+	"Online service": "https://www.kielipankki.fi/tools/demo/cgi-bin/fintag.py"
+	},
+      "Publication": "Ruokolainen et al. (2019)"
+}

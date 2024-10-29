@@ -1,0 +1,17 @@
+{
+      "Name": "NLP-PIPE",
+      "URL": "http://hdl.handle.net/20.500.12574/4",
+	"Family": "Named entity recognition",
+      "Description": "NLP-PIPE is a modular toolchain that allows researchers to combine multiple natural language processing tools in a unified framework. It supports a wide range of annotation services for Latvian, including tokenization, morphological tagging, lemmatisation, universal dependency parsing, and named entity recognition. In the web based interface, a user simply selects the required processing tools and inputs the text they want to annotate. The results can then be viewed either directly on the website or exported in several formats (JSON, CONLL).",
+      "Functionality": ["tokenisation", "NER", "MSD-tagging", "lemmas", "syntactic parsing (universal dependencies)"],
+      "NER categories": [],
+      "Trained models": [],
+      "Language": ["lav"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-LV",
+      "Access": {
+	"Online service": "http://nlp.ailab.lv/"
+	},
+      "Publication": "Znotiņš and Cīrule (2018)"
+}

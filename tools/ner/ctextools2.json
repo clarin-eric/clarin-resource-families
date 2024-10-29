@@ -1,0 +1,17 @@
+{
+      "Name": "CTexTools 2",
+      "URL": "https://hdl.handle.net/20.500.12185/480",
+	"Family": "Named entity recognition",
+      "Description": "This is a corpus query and manipulation tool primarily for the official South African languages. The tool supports the creation of frequency and word lists, collocation searches and statistical analysis of corpus data.",
+      "Functionality": ["tokenization", "sentence segmentation", "PoS-tagging", "phrase chunking", "NER"],
+      "NER categories": ["organisation", "person", "location", "miscellaneous", "outside"],
+      "Trained models": [],
+      "Language": ["afr", "eng", "nbl", "xho", "zul", "sot", "nso", "tsn", "ssw", "ven", "tso"],
+      "Licence": "CC 4.0",
+      "Platform": [],
+      "Infrastructure": "SADiLaR",
+      "Access": {
+	"Download": "https://hdl.handle.net/20.500.12185/480"
+	},
+      "Publication": ""
+}

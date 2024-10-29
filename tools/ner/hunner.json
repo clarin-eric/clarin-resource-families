@@ -1,0 +1,16 @@
+{
+      "Name": "hunner - named entitiy recognizer for Hungarian",
+      "URL": "http://hdl.handle.net/11372/LRT-1336",
+	"Family": "Named entity recognition",
+      "Description": "This NER employs a maximum entropy approach.",
+      "Functionality": ["NER"],
+      "NER categories": [],
+      "Trained models": [],
+      "Language": ["hun"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "HUN-CLARIN",
+      "Access": {
+	},
+      "Publication": "Simon (2013)"
+}

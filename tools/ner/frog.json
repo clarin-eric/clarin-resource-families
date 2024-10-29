@@ -1,0 +1,17 @@
+{
+      "Name": "Frog",
+      "URL": "http://hdl.handle.net/10032/198143d2010e74ae17d4223dfc00e2a8",
+	"Family": "Named entity recognition",
+      "Description": "Frog is a memory-based NLP pipeline based on <a href=\"https://languagemachines.github.io/timbl/\">Timbl</a>, the Tilburg memory-based learning software package. Frog produces FoLiA XML.",
+      "Functionality": ["tokenisation", "MSD-tagging", "lemmatisation", "morphologic segmentation", "phrase chunking", " NER"],
+      "NER categories": ["person", "organisation", "location", "product", "event", "miscellaneous"],
+      "Trained models": [],
+      "Language": ["nld"],
+      "Licence": "GNU General Public Licence",
+      "Platform": ["Linux", "Mac OS X"],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Download": "https://languagemachines.github.io/frog/"
+	},
+      "Publication": "Van den Bosch et al. (2007)"
+}

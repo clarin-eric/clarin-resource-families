@@ -1,0 +1,17 @@
+{
+      "Name": "Illinois Named Entity Recognizer",
+      "URL": "http://hdl.handle.net/11022/0000-0000-839F-9",
+	"Family": "Named entity recognition",
+      "Description": "This NER annotates plain text.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization", "miscellaneous"],
+      "Trained models": [],
+      "Language": ["eng"],
+      "Licence": "underlying software is open source",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Access": {
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": ""
+}

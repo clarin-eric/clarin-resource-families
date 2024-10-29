@@ -1,0 +1,17 @@
+{
+      "Name": "OpenNLP Named Entity Recognizer",
+      "URL": "http://hdl.handle.net/11858/00-1778-0000-0004-BA37-D",
+	"Family": "Named entity recognition",
+      "Description": "This NER is based on the <a href=\"http://opennlp.sourceforge.net/models-1.5/\">OpenNLP NER tool</a>.",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization"],
+      "Trained models": [],
+      "Language": ["eng", "spa"],
+      "Licence": "Apache License version 2.0 (underlying software)",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Access": {
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": ""
+}

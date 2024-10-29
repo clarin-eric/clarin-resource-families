@@ -1,0 +1,17 @@
+{
+      "Name": "FreeLing",
+      "URL": "http://hdl.handle.net/11372/LRT-1199",
+	"Family": "Named entity recognition",
+      "Description": "This is an open source language analysis tool suite that provides several processing components.",
+      "Functionality": ["tokenisation", "MSD-tagging", "syntactic parsing", "lemmatization", "NER"],
+      "NER categories": ["person", "location", "organisation", "miscellaneous"],
+      "Trained models": [],
+      "Language": ["cat", "eng", "glg", "ita", "por", "cym"],
+      "Licence": "Affero GPL",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "LINDAT",
+      "Access": {
+	"Download": "http://nlp.lsi.upc.edu/freeling/"
+	},
+      "Publication": "Carreras, Màrquez, and Padró (2013)"
+}

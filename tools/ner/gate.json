@@ -1,0 +1,18 @@
+{
+      "Name": "GATE",
+      "URL": "https://gate.ac.uk/",
+	"Family": "Named entity recognition",
+      "Description": "This is a complete NLP platform with modules for named entity recognition.",
+      "Functionality": ["tokenization", "PoS-tagging", "NER", "semantic and orthographic coreference", "pronominal coreference"],
+      "NER categories": ["person", "location", "organisation", "date", "percent", "money"],
+      "Trained models": [],
+      "Language": ["eng", "fra", "deu", "ron", "rus", "cym", "dan", "zho", "ara"],
+      "Licence": "LGPL",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-UK",
+      "Access": {
+	"Download": "https://cloud.gate.ac.uk/",
+	"Online service": "https://cloud.gate.ac.uk/"
+	},
+      "Publication": "Cunningham et al. (2019)"
+}

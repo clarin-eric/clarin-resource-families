@@ -1,0 +1,17 @@
+{
+      "Name": "The NERD named entity recognizer",
+      "URL": "http://hdl.handle.net/10032/tm-a2-b8",
+	"Family": "Named entity recognition",
+      "Description": "This NER is now integrated into the <a hef=\"https://portal.clarin.nl/node/14392\">PICLL</a> workflow.",
+      "Functionality": ["NER"],
+      "NER categories": [],
+      "Trained models": [],
+      "Language": ["nld"],
+      "Licence": "",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIAH-NL",
+      "Access": {
+	"Online service": "http://portal.clarin.inl.nl/piccl/"
+	},
+      "Publication": ""
+}

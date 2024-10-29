@@ -1,0 +1,17 @@
+{
+      "Name": "German Named Entity Recognizer",
+      "URL": "http://hdl.handle.net/11022/0000-0000-1D84-B",
+	"Family": "Named entity recognition",
+      "Description": "This NER is based on the maximum entropy approach using the <a href=\"http://maxent.sourceforge.net/about.html\">OpenNLP maxent library</a>. Two models are available: one trained on <a href=\"https://www.clips.uantwerpen.be/conll2003/ner/\">CoNLL2003 training set</a> (conll), and the one trained on TuebaDZ corpus release 8 (tuebadz).",
+      "Functionality": ["NER"],
+      "NER categories": ["person", "location", "organization"],
+      "Trained models": [],
+      "Language": ["deu"],
+      "Licence": "Apache License, Version 2.0 (underlying software)",
+      "Platform": ["cross-platform"],
+      "Infrastructure": "CLARIN-D",
+      "Access": {
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": ""
+}
