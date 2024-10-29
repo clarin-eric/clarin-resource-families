@@ -8,7 +8,7 @@
       "Language": ["por"],
       "Licence": "CC BY",
       "Platform": ["Linux", "Mac OS", "Unix", "Windows"],
-      "Infrastructure": "CLARIN-D",
+      "Infrastructure": "CLARIN Portugal",
       "Input format": ["plain text", "XML", "HTML", "MS Word", "PDF", "open document"],
       "Output format": ["plain text"],
       "Access": {
