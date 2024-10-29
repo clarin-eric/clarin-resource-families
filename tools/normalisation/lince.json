@@ -1,0 +1,19 @@
+{
+      "Name": "Lince",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F89C-C",
+	"Family": "Tools for Normalisation",
+      "Description": "This is a multi-platform stand-alone application that updates the textual contents of documents in a range of popular formats to the spelling prescribed by the 1990 Portuguese language reform.",
+      "Functionality": ["normalisation"],
+      "Domain": "Cross-domain",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Platform": ["Linux", "Mac OS", "Unix", "Windows"],
+      "Infrastructure": "CLARIN-D",
+      "Input format": ["plain text", "XML", "HTML", "MS Word", "PDF", "open document"],
+      "Output format": ["plain text"],
+      "Access": {
+	"Web application": "http://portaldalinguaportuguesa.org/lince.php",
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F89C-C"
+	},
+      "Publication": "https://doi.org/10.1007/978-3-642-28885-2_5"
+}
