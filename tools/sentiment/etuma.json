@@ -1,0 +1,16 @@
+{
+      "Name": "Etuma Customer Feedback Analysis",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073090",
+	"Family": "Tools for sentiment analysis and opinion mining",
+      "Description": "The tool is used for ranking customers' feedback in order of intensity and detects the sentiment of ongoing discussions in order to determine whether the overall response to a product or campaign is positive or negative.",
+      "Functionality": ["sentiment analysis", "opinion mining"],
+      "Domain": "customer feedback",
+      "Sentiment type": "",
+      "Language": ["eng", "fra", "ita", "deu", "swe", "nor", "dan", "fin", "spa", "nld"],
+      "Licence": "under negotiation (commercial)",
+      "Platform": [],
+      "Infrastructure": "FIN-CLARIN",
+      "Access": {
+	},
+      "Publication": ""
+}

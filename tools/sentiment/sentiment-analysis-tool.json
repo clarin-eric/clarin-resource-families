@@ -1,0 +1,17 @@
+{
+      "Name": "Sentiment Analysis Tool",
+      "URL": "http://hdl.grnet.gr/11500/DEMOKRITOS-0000-0000-24A2-0",
+	"Family": "Tools for sentiment analysis and opinion mining",
+      "Description": "The sentiment analysis tool is a text classification and sentiment extraction tool based on n-gram graph text representations. It may be paired with various machine learning algorithms for the generation of the language model. It can be accessed by a URL endpoint as a REST service. It has been used as is, or as part of bigger pipelines in many research tasks. It is also embedded in gov.insight as an annotator producer for sentiment classification.\nThis tool also makes use of an Opinion Mining process.",
+      "Functionality": ["sentiment analysis", "opinion mining"],
+      "Domain": "independent",
+      "Sentiment type": "",
+      "Language": ["ell"],
+      "Licence": "LGPL",
+      "Platform": [],
+      "Infrastructure": "CLARIN:EL",
+      "Access": {
+	"Online": "https://demokritos.clarin.gr/processing/upload-and-process/c45996307e4711e5b8cdaa3fc8d33ad8b993d83790684666a9835e571c066158/"
+	},
+      "Publication": "Kiomourtzis et al. (2014)"
+}

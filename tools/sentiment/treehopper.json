@@ -1,0 +1,17 @@
+{
+      "Name": "TreeHopper (TreeLSTM): wydźwięk na poziomie zdań i fraz",
+      "URL": "http://hdl.handle.net/11321/581",
+	"Family": "Tools for sentiment analysis and opinion mining",
+      "Description": "This is a <a href=\"https://github.com/stanfordnlp/treelstm\">TreeLSTM</a>-based (Sheng Tai et al. <a href=\"https://www.clarin.eu/resource-families/tools-sentiment-analysis-and-opinion-mining#Sheng%20Tai%20et%20al.%202015\">2015</a>) dependency tree sentiment labeller, implemented in <a href=\"https://pytorch.org/\">PyTorch</a> and optimized for morphologically rich languages with a relatively loose word order (such as Polish).",
+      "Functionality": ["sentiment analysis"],
+      "Domain": "independent",
+      "Sentiment type": "dependency subtree/phrase sentiment",
+      "Language": ["pol"],
+      "Licence": "BSD 2 Clause",
+      "Platform": [],
+      "Infrastructure": "CLARIN-PL",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/581"
+	},
+      "Publication": "Korbak and Żak (2017)"
+}
