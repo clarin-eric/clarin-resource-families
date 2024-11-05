@@ -1,0 +1,15 @@
+{
+      "Name": "Archivo dos Açores",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F8C0-2",
+	"Family": "Historical corpora",
+      "Description": "This is a reference corpus for the historical study research on the Autonomous Region of the Azores.\nThe texts are from 1878 to 1959 (first series) and 1999 to 2013 (second series).\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["12 volumes of text"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F8C0-2"
+	},
+      "Publication":""
+}

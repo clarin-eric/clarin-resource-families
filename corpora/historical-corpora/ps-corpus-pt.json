@@ -1,0 +1,15 @@
+{
+      "Name": "PS corpus (Post-Scriptum) - PT",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F91F-9",
+	"Family": "Historical corpora",
+      "Description": "This corpus contains informal mail letters written between the 16th and 19th centuries.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["2,215 texts"],
+      "Annotation": ["PoS tagged", "palaeographically transcribed", "modernised"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F91F-9"
+	},
+      "Publication":"http://www.janusdigital.es/anexo.htm?id=5"
+}

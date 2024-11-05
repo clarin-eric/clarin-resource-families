@@ -1,0 +1,15 @@
+{
+      "Name": "Inquirições reais",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-5CB6-E",
+	"Family": "Historical corpora",
+      "Description": "This is a corpus of royal documents published in the 13th century.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-SA",
+      "Size": [""],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000E-5CB6-E"
+	},
+      "Publication":""
+}
