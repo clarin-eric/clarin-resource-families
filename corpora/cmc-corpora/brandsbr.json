@@ -1,0 +1,15 @@
+{
+      "Name": "Brands.Br – a Portuguese Reviews Corpus",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-FE57-4",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This is a corpus of product reviews.\nThe subjects of the reviews were semi-automatically classified.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["252 entries"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-FE57-4"
+	},
+      "Publication":""
+}

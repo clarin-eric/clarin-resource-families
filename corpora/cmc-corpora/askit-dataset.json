@@ -1,0 +1,15 @@
+{
+      "Name": "askIT Dataset",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F8BD-7",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This is a corpus of dialogues automatically extracted from subreddits related to the Information Technology domain.\nThe dialogues were extracted with the <a href=\"https://hdl.handle.net/21.11129/0000-000D-F898-0\">Reddit Dataset Extraction Tool</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["eng"],
+      "Licence": "CC BY",
+      "Size": ["180,000 texts", "61.9 million tokens"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F8BD-7"
+	},
+      "Publication":""
+}

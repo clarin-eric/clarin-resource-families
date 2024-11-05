@@ -1,0 +1,15 @@
+{
+      "Name": "Georeferenced Tweets",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F8C4-E",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This is a corpus of tweets annotated with geographic coordinates.\nThe corpus is available from PORTULAN.",
+      "Language": ["eng"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["26 million texts"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F8C4-E"
+	},
+      "Publication":""
+}

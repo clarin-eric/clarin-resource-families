@@ -1,0 +1,15 @@
+{
+      "Name": "RedditPT Dataset",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F8BC-8",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This corpus collects dialogues extracted from the <a href=\"https://www.reddit.com/r/portugal/\"Portugal subreddit</a>.\nThe extraction was done with the <a href=\"https://hdl.handle.net/21.11129/0000-000D-F898-0\">Reddit Dataset Extraction Tool</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["218,500 dialogues", "58.9 million tokens"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F8BC-8"
+	},
+      "Publication":""
+}
