@@ -1,0 +1,16 @@
+{
+      "Name": "CINTIL DependencyBank PREMIUM",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D378-0",
+	"Family": "Manually annotated corpora",
+      "Description": "This is a corpus of Portuguese utterances manually annotated with the representation of grammatical dependency relations and the information of part-of-speech, inflection and lemmas.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["3,000 Sentences", "79,378 tokens"],
+      "Annotation": ["PoS tagged", "lemmatised", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D378-0"
+	},
+      "Publication": "http://hdl.handle.net/10451/20226"
+}

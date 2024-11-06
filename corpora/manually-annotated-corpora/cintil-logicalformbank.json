@@ -1,0 +1,16 @@
+{
+      "Name": "CINTIL-LogicalFormBank",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D334-C",
+	"Family": "Manually annotated corpora",
+      "Description": "This is a a corpus of semantic dependencies between sentences taken from several domains (novels and news primarily).\nThe corpus is composed of representations of each sentence’s semantic relations resulting from a previous semi-automatic analysis with a double-blind annotation followed by adjudication.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["10,039 sentences"],
+      "Annotation": ["semantic relations"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Other annotation layers"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D334-C"
+	},
+      "Publication": ""
+}

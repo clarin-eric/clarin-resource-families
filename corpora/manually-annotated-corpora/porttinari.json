@@ -1,0 +1,16 @@
+{
+      "Name": "Porttinari – PORTuguese Treebank",
+      "URL": "https://hdl.handle.net/21.11129/0000-0011-2ACB-A",
+	"Family": "Manually annotated corpora",
+      "Description": "This is a treebank whose syntactic annotations follow the <a href=\"https://universaldependencies.org/\">Universal Dependencies</a> framework.\nThe treebank is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["8,400 sentences", "168,000 tokens "],
+      "Annotation": ["PoS tagged","syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-0011-2ACB-A"
+	},
+      "Publication": ""
+}

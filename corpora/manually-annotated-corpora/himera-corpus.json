@@ -1,0 +1,16 @@
+{
+      "Name": "HIMERA Corpus",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D379-F",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains a set of published historical medical documents that have been manually annotated with semantic information that is relevant to the study of medical history and public health.\nSpecifically, annotations correspond to seven different entity types and two different event types (which encode relationships amongst entities), chosen based on extensive discussions with medical historians.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["39 articles", "70,000 words"],
+      "Annotation": ["events", "named entities"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Other annotation layers"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D379-F"
+	},
+      "Publication": ""
+}

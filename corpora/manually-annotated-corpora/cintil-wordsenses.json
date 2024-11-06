@@ -1,0 +1,18 @@
+{
+      "Name": "CINTIL-WordSenses",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D37D-B",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus contains open-class terms manually disambiguated and annotated with synset identifiers from the <a href=\"https://catalogue.elra.info/en-us/repository/browse/ELRA-M0050/\">Portuguese MultiWordNet</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": [""],
+      "Annotation": ["24,000 sentences", "508,000 tokens"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Other annotation layers"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D37D-B"
+	},
+      "Publication": ""
+}
+
+

@@ -1,0 +1,16 @@
+{
+      "Name": "PS corpus (Post-Scriptum) - treebank",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F924-2",
+	"Family": "Manually annotated corpora",
+      "Description": "This treebank is a syntactically annotated subset of the Portuguese <a href=\"https://hdl.handle.net/21.11129/0000-000D-F91F-9\">PS corpus (Post-Scriptum)-PT</a> and the Spanish <a href=\"https://hdl.handle.net/21.11129/0000-000D-F918-0 \">PS corpus (Post-Scriptum)-ES</a> corpora (see also the <a href=\"https://www.clarin.eu/resource-families/historical-corpora\">Historical corpora</a> resource family).\nThe treebank is available from PORTULAN.",
+      "Language": ["spa", "por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["2,368 texts"],
+      "Annotation": ["syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F924-2"
+	},
+      "Publication": "https://www.janusdigital.es/anexo.htm?id=5"
+}

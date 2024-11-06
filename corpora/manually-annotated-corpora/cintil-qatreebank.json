@@ -1,0 +1,16 @@
+{
+      "Name": "CINTIL-QATreeBank",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D328-A",
+	"Family": "Manually annotated corpora",
+      "Description": "This is a treebank containing sentences that can be used to support the development of Question Answering systems.\nFor the creation of the treebank, declarative sentences were manually transformed into interrogative and imperative ones.\nThe non-declarative sentences are annotated with several layers of linguistic information, namely (i) trees with information on constituency and grammatical function; (ii) sentence type; (iii) interrogative pronoun; (iv) question type; and (v) semantic type of expected answer. Moreover, these non-declarative sentences are paired with their declarative counterparts and associated with the expected answer snippets.\n.The treebank is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["111 sentences"],
+      "Annotation": ["syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Other annotation layers"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D328-A"
+	},
+      "Publication": ""
+}

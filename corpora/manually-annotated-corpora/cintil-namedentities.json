@@ -1,0 +1,16 @@
+{
+      "Name": "CINTIL-NamedEntities",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D37E-A",
+	"Family": "Manually annotated corpora",
+      "Description": "This corpus consists of sentences with assigned named entities.\nThe named entities were manually disambiguated and annotated with links to appropriate pages in the <a href=\"http://pt.dbpedia.org/\">Portuguese Dbpedia</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["685,000 tokens"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Group": ["Named entity recognition"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D37E-A"
+	},
+      "Publication": ""
+}
