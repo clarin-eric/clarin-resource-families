@@ -1,1 +1,16 @@
-{      "Name": "CORDIAL-SIN – Syntax-oriented Corpus of Portuguese Dialects – TreeBank",      "URL": "https://hdl.handle.net/21.11129/0000-000D-F91C-C",	"Family": "Manually annotated corpora",      "Description": "This treebank follows constituency-based system originally developed for the <a href = \"https://catalog.ldc.upenn.edu/LDC2020T16\">Penn Parsed Corpora of Historical English</a>\nThere are 177596 syntactic parse trees extracted from the <a href=\"https://hdl.handle.net/21.11129/0000-000D-F945-D\">Syntax-oriented Corpus of Portuguese Dialects</a>.\nThe corpus is available from PORTULAN.",      "Language": ["por"],      "Licence": "CC BY-NC-ND",      "Size": ["600,000 words"],      "Annotation": ["PoS tagged", "syntactically parsed"],      "Infrastructure": "CLARIN",      "Group": ["Syntactic parsing"],      "Access": {	"Download": "https://hdl.handle.net/21.11129/0000-000D-F91C-C"	},      "Publication": "https://clul.ulisboa.pt/sites/default/files/recursos/pos_annotation_manual.pdf"}
+{
+      "Name": "CORDIAL-SIN â€“ Syntax-oriented Corpus of Portuguese Dialects â€“ TreeBank",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F91C-C",
+	"Family": "Manually annotated corpora",
+      "Description": "This treebank follows constituency-based system originally developed for the <a href = \"https://catalog.ldc.upenn.edu/LDC2020T16\">Penn Parsed Corpora of Historical English</a>\nThere are 177596 syntactic parse trees extracted from the <a href=\"https://hdl.handle.net/21.11129/0000-000D-F945-D\">Syntax-oriented Corpus of Portuguese Dialects</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["600,000 words"],
+      "Annotation": ["PoS tagged", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Syntactic parsing"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F91C-C"
+	},
+      "Publication": "https://clul.ulisboa.pt/sites/default/files/recursos/pos_annotation_manual.pdf"
+}
