@@ -1,7 +1,7 @@
 {
       "Name": "CINTIL-Corpus Internacional do Português",
       "URL": "https://hdl.handle.net/21.11129/0000-000B-D33B-5",
-	"Family": "Manually annotated corpora",
+	"Family": "Reference corpora",
       "Description": "This is a linguistically annotated corpus of both written and spoken Portuguese, whose annotations were manually verified.\nThe written texts consists of fictional, newspaper, and technical discourse (689,124 tokens) while the spoken texts correspond to both informal and formal speech (502,622 tokens).\nThe corpus is available from PORTULAN.",
       "Language": ["por"],
       "Licence": "ELRA END USER",
