@@ -1,0 +1,15 @@
+{
+      "Name": "ParaCrawl release 7 Portuguese-English",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-FE79-E",
+	"Family": "Parallel corpora",
+      "Description": "This corpus contains Portuguese-English parallel texts extracted as part of the <a href=\"http://paracrawl.eu/\">ParaCrawl</a> project.\nThe texts cover a wide variety of domains.\nThe corpus is available from PORTULAN. An <a href=\"https://hdl.handle.net/21.11129/0000-000D-FE7B-C\">anonymised version</a> is available as well.",
+      "Language": ["Portuguese-English"],
+      "Licence": "CC ZERO",
+      "Size": ["31.1 million units"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-FE79-E"
+	},
+      "Publication":""
+}
