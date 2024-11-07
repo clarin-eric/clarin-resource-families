@@ -1,0 +1,15 @@
+{
+      "Name": "Carolina: General Corpus of Contemporary Brazilian Portuguese with provenance and typology information",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-486A-A",
+	"Family": "Reference corpora",
+      "Description": "This is a monitor reference corpus of texts, published from 1970 onwards, for Brazilian Portuguese.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-SA",
+      "Size": ["825 million tokens"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000F-486A-A"
+	},
+      "Publication":""
+}
