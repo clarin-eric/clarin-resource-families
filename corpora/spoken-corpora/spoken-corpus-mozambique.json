@@ -1,0 +1,16 @@
+{
+      "Name": "Spoken Corpus Mozambique",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D33F-1",
+	"Family": "Spoken corpora",
+      "Description": "This is a corpus of Portuguese spoken in Mozambique.\nThe corpus includes includes 40 transcriptions of spoken recordings (40 hours). The recordings took place between 1986 and 1987.\nThe PoS tagging of the transcripts was performed using the <a href=\"https://hdl.handle.net/21.11129/0000-000B-D319-B\">MBT tagger</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MIT",
+      "Size": ["122,000 tokens"],
+      "Annotation": ["PoS tagged"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Corpora with transcriptions only"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D33F-1"
+	},
+      "Publication": ""
+}

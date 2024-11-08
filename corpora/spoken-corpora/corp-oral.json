@@ -1,0 +1,16 @@
+{
+      "Name": "CORP-ORAL",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F944-E",
+	"Family": "Spoken corpora",
+      "Description": "This corpus consists of unscripted and unprompted face-to-face dialogues between family, friends, colleagues, and unacquainted participants.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["60 hours"],
+      "Annotation": ["orthographically transcribed", "prosodically annotated"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Corpora with transcriptions and audio recordings"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F944-E"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "CORAA NURC-São Paulo Minimal Corpus",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-73CA-C",
+	"Family": "Spoken corpora",
+      "Description": "This is a manually annotated corpus of Brazilian Portuguese spoken in São Paulo.\nThe recordings were made between 1971 and 1977. In the corpus there are 21 audio files and audio-aligned multilevel transcripts according to linguistically motivated intonation units.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["17 hours"],
+      "Annotation": ["sound-to-text alignment"],
+      "Infrastructure": "CLARIN",
+      "Group": ["Corpora with audio recordings and transcriptions"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000F-73CA-C"
+	},
+      "Publication": ""
+}

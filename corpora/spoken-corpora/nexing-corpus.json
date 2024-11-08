@@ -1,0 +1,16 @@
+{
+      "Name": "Nexing Corpus",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F8CB-7",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains transcriptions of syllogistic reasoning protocols.\nThe transcriptions and annoations are compliant with the <a href=\"https://www.ilc.cnr.it/EAGLES96/browse.html\">EAGLES recommendations</a>.\nThe corpus is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY",
+      "Size": ["40 hours"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Group": ["Corpora with transcriptions only"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F8CB-7"
+	},
+      "Publication": ""
+}

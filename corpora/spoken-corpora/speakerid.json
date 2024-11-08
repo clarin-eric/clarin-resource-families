@@ -1,0 +1,16 @@
+{
+      "Name": "SpeakerID",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F927-F",
+	"Family": "Spoken corpora",
+      "Description": "This is a corpus of spoken sentences in European Portuguese and Chinese.\nThere are 50 sentences per language.\nThe corpus is available from PORTULAN.",
+      "Language": ["por", "chi"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["100 sentences", "1 hour"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Group": ["Corpora with audio recordings and transcriptions"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F927-F"
+	},
+      "Publication": ""
+}
