@@ -1,0 +1,18 @@
+{
+      "Name": "INL Labs tagger/lemmatizer tools",
+      "URL": "http://hdl.handle.net/10032/79a7f85fc70d1cf276c4c6a0a56dd176",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool employs a PoS tagger that is trained on the \"<a href=\"http://hdl.handle.net/10032/ad544a1cfddde8aeb8fca5b02188e581\">Letters as loot</a>\" historical corpus and a lemmatizer that is trained on the <a href=\"https://ivdnt.org/taalmaterialen/2126-tstc-int-historische-woordenlijst-j\">INL historical lexicon</a>.",
+      "Functionality": ["PoS", "lemma"],
+      "Language": ["nld"],
+      "Licence": "CLARIN PUB",
+      "Platform": [],
+      "Infrastructure": "CLARIAH-NL",
+      "Group": "For a single language",
+      "Input format": ["plain text", "TEI", "epub", "html", "docx", "alto"],
+      "Output format": ["styled", "XML"],
+      "Access": {
+	"Web application": "http://inl-labs.taalbanknederlands.inl.nl/succeed/tagger/ui"
+	},
+      "Publication": ""
+}

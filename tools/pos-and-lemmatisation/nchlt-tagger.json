@@ -1,0 +1,18 @@
+{
+      "Name": "NCHLT Tagger",
+      "URL": "https://hdl.handle.net/20.500.12185/351",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is used to annotate texts in Afrikaans and a variety of Bantu languages.",
+      "Functionality": ["PoS", "phrase chunks", "NE"],
+      "Language": ["afr", "eng", "Ndebele", "xho", "zul", "Sesotho sa Leboa", "tsn", "Sesotho", "ssw", "ven", "tso"],
+      "Licence": "CC-BY 2.5 South Africa Licence",
+      "Platform": [],
+      "Infrastructure": "SADiLaR",
+      "Group": "For multiple languages",
+      "Input format": ["Utf8 text file containing running text"],
+      "Output format": ["tab-delimited text file containing each token followed by its the assigned class."],
+      "Access": {
+	"Download": "https://hdl.handle.net/20.500.12185/351"
+	},
+      "Publication": ""
+}

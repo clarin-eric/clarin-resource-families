@@ -1,0 +1,18 @@
+{
+      "Name": "CLARIN DK NLP Toolbox",
+      "URL": "https://clarin.dk/clarindk/toolchains-wizard.jsp",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is an NLP toolchain that is part of the core CLARIN-DK structure.",
+      "Functionality": ["PoS", "lemma", "frequency lists"],
+      "Language": ["dan", "eng"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-DK",
+      "Group": "For multiple languages",
+      "Input format": ["plain text", "rtf", "pdf"],
+      "Output format": ["plain text", "rtf"],
+      "Access": {
+	"Web application": "https://clarin.dk/clarindk/toolchains-wizard.jsp"
+	},
+      "Publication": ""
+}

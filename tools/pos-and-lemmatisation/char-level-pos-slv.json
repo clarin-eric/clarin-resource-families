@@ -1,0 +1,18 @@
+{
+      "Name": "Character-level part-of-speech tagger of Slovene language",
+      "URL": "http://hdl.handle.net/11356/1211",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool uses convolutional and LSTM neural networks. The tool has been trained on the <a href=\"http://hdl.handle.net/11356/1181\">ssj500k 2.1 corpus</a>.",
+      "Functionality": ["PoS"],
+      "Language": ["slv"],
+      "Licence": "GNU General Public Licence, version 3",
+      "Platform": [],
+      "Infrastructure": "CLARIN.SI",
+      "Group": "For a single language",
+      "Input format": ["XML", "TEI", "plain text"],
+      "Output format": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1211"
+	},
+      "Publication": "Belej (2018)"
+}

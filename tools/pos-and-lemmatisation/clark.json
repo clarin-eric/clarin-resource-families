@@ -1,0 +1,18 @@
+{
+      "Name": "CLaRK",
+      "URL": "http://bultreebank.org/en/clark/",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is an XML-based software system for corpora development implemented in JAVA. The main aim behind the design of the system is the minimization of human intervention during the creation of language resources. CLaRK includes <a href=\"http://bultreebank.org/en/clark/bulgarian-nlp-pipeline-in-clark-system/\">BTB-Pipe</a>, which is a language pipeline for Bulgarian that comprises the following modules: sentence splitting, MSD-tagging, lemmatization, dependency parsing.",
+      "Functionality": ["sentence splitting", "PoS", "lemma", "syntactic parsing"],
+      "Language": ["bul"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "ClaDA-BG",
+      "Group": "For a single language",
+      "Input format": ["XML"],
+      "Output format": ["XML"],
+      "Access": {
+	"Download": "http://bultreebank.org/en/clark/bulgarian-nlp-pipeline-in-clark-system/"
+	},
+      "Publication": "Simov et al. (2001)"
+}

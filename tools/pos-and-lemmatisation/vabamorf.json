@@ -1,0 +1,19 @@
+{
+      "Name": "Vabamorf open source morphology tagger for Estonian",
+      "URL": "https://github.com/Filosoft/vabamorf",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool performs various tasks of morphological analysis, including morphological disambiguation and synthesis.",
+      "Functionality": ["PoS", "MSD", "lemma"],
+      "Language": ["est"],
+      "Licence": "Available - Unrestricted Use",
+      "Platform": [],
+      "Infrastructure": "CELR",
+      "Group": "For a single language",
+      "Input format": ["plain text"],
+      "Output format": ["plain text"],
+      "Access": {
+	"Download": "https://github.com/Filosoft/vabamorf",
+	"Web application": "http://www.filosoft.ee/html_morf_et/"
+	},
+      "Publication": "Kaalep (2015)"
+}

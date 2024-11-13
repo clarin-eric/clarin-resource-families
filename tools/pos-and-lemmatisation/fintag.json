@@ -1,0 +1,19 @@
+{
+      "Name": "FinTag",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201908161",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This toolchain provides finnish-postag, a part-of-speech and morphology tagger for Finnish, and finnish-nertag, a named entity recogniser for Finnish. Both tools take running text from standard input and produce tabular output (one token per line) to standard output.",
+      "Functionality": ["PoS", "lemma", "NER"],
+      "Language": ["fin"],
+      "Licence": "GPL",
+      "Platform": [],
+      "Infrastructure": "FIN-CLARIN",
+      "Group": "For a single language",
+      "Input format": ["plain text", "pdf", "doc", "scv", "epub", "html", "odt", "xls"],
+      "Output format": ["TSV"],
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-201908162",
+	"Web application": "https://www.kielipankki.fi/tools/demo/cgi-bin/fintag.py"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,18 @@
+{
+      "Name": "EstNLTK",
+      "URL": "https://estnltk.github.io/estnltk/1.4.1/",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool provides common natural language processing functionality such as morphological analysis and named entity recognition for the Estonian language.\nWeb API documentation is available <a href=\"https://estnltk.github.io/estnltk/1.4.1/api/index.html\">here</a>.",
+      "Functionality": ["MSD", "NER"],
+      "Language": ["est"],
+      "Licence": "Available - Unrestricted Use",
+      "Platform": [],
+      "Infrastructure": "CELR",
+      "Group": "For a single language",
+      "Input format": ["plain text"],
+      "Output format": ["plain text"],
+      "Access": {
+	"Download": "https://estnltk.github.io/estnltk/1.4.1/"
+	},
+      "Publication": "Orasmaa et al. (2016)"
+}

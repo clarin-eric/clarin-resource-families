@@ -1,0 +1,18 @@
+{
+      "Name": "CLAWS",
+      "URL": "https://www.clarin.ac.uk/claws",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "CLAWS (the Constituent Likelihood Automatic Word-tagging System), has been continuously developed since the early 1980s. The latest version of the tagger, CLAWS4, was used to PoS tag approx. 100 million words of the <a href=\"http://www.natcorp.ox.ac.uk/\">British National Corpus (BNC)</a>,  and all the English corpora in Mark Davies' <a href=\"https://corpus.byu.edu/\">BYU corpus server</a>.  Users can choose to have output in either the smaller <a href=\"http://ucrel.lancs.ac.uk/claws5tags.html\">C5 tagset</a> or the larger <a href=\"http://ucrel.lancs.ac.uk/claws7tags.html\">C7 tagset</a>.",
+      "Functionality": ["PoS/MSD"],
+      "Language": ["eng"],
+      "Licence": "<a href=\"http://ucrel.lancs.ac.uk/claws/purchase.html\">Terms of Service</a>",
+      "Platform": [],
+      "Infrastructure": "CLARIN UK",
+      "Group": "For a single language",
+      "Input format": ["plain text"],
+      "Output format": ["horizontal", "vertical", "pseudo-XML"],
+      "Access": {
+	"Web application": "http://ucrel-api.lancaster.ac.uk/claws/free.html"
+	},
+      "Publication": "Garside and Smith (1997)"
+}

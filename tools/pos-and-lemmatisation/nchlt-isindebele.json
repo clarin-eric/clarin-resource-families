@@ -1,0 +1,18 @@
+{
+      "Name": "NCHLT isiNdebele Lemmatiser",
+      "URL": "https://hdl.handle.net/20.500.12185/303",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a lemmatizer for Ndebele Bantu language developed during the NCHLT Text project.",
+      "Functionality": ["lemma"],
+      "Language": ["Ndebele"],
+      "Licence": "CC-BY 2.5 South Africa Licence",
+      "Platform": [],
+      "Infrastructure": "SADiLaR",
+      "Group": "For a single language",
+      "Input format": ["Text data (encoding: UTF8 without BOM), one lowercase token per line"],
+      "Output format": ["Token tab, lemma"],
+      "Access": {
+	"Download": "https://hdl.handle.net/20.500.12185/303"
+	},
+      "Publication": "Barnard et al. 2014"
+}

@@ -1,0 +1,19 @@
+{
+      "Name": "Weblicht Part-of-Speech Tagger",
+      "URL": "http://hdl.handle.net/21.11120/0000-0003-7D95-9",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a PoS tagger and lemmatizer implemented in WebLicht.",
+      "Functionality": ["PoS", "lemma"],
+      "Language": ["deu"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Group": "For a single language",
+      "Input format": ["TCF", "XML"],
+      "Output format": [],
+      "Access": {
+	"Web application": "http://zwei.dwds.de/d/suche#stts",
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": ""
+}

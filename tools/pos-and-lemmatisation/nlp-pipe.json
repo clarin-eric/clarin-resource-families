@@ -1,0 +1,18 @@
+{
+      "Name": "NLP-PIPE",
+      "URL": "http://nlp.ailab.lv/",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a modular toolchain that allows researchers to combine multiple natural language processing tools in a unified framework. It provides the gluing code that is used to combine tools even if they are written in different programming languages and rely on conflicting library versions. It was created to make NLP technology more accessible to linguists, and to make new tool creation and integration easier to researchers and software developers.",
+      "Functionality": ["MSD", "syntactic parsing", "NER"],
+      "Language": ["lav"],
+      "Licence": "GNU General Public Licence 3",
+      "Platform": [],
+      "Infrastructure": "CLARIN-LV",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "https://github.com/LUMII-AILab/nlp-pipe"
+	},
+      "Publication": "Znotins and Cirule (2018)"
+}

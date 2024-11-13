@@ -1,0 +1,18 @@
+{
+      "Name": "MLSS Tagger Web Service",
+      "URL": "https://hdl.handle.net/21.11115/0000-000B-D348-6",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is an implementation of the <a href=\"http://www.coli.uni-saarland.de/~thorsten/tnt/\">TnT tagger</a> (Brants <a href=\"http://www.coli.uni-saarland.de/~thorsten/publications/Brants-TR-TnT.pdf\">2000</a>). The model for Maltese was trained on manually tagged texts and has reached an accuracy of 96%. The tagset tailored to Maltese is available <a href=\"http://metanet4u.research.um.edu.mt/POS.jsp\">here</a>.",
+      "Functionality": ["PoS"],
+      "Language": ["mlt"],
+      "Licence": "CLARIN ACA",
+      "Platform": [],
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Web application": "http://metanet4u.research.um.edu.mt/tools.jsp"
+	},
+      "Publication": ""
+}

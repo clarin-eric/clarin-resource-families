@@ -1,0 +1,18 @@
+{
+      "Name": "Stanford Phrase Structure Parser",
+      "URL": "http://hdl.handle.net/11858/00-1778-0000-0004-BA31-A",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a Weblicht implementation of the <a href=\"https://nlp.stanford.edu/software/lex-parser.shtml\">Stanford Parser</a>.",
+      "Functionality": ["PoS", "syntactic parsing"],
+      "Language": ["eng", "deu"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Group": "For multiple languages",
+      "Input format": ["plain text", "pdf", "rtf", "XML"],
+      "Output format": ["plain text", "pdf", "rtf", "XML"],
+      "Access": {
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": "Hinrichs et al. (2010)"
+}

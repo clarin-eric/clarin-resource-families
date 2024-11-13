@@ -1,0 +1,18 @@
+{
+      "Name": "Freeling",
+      "URL": "http://hdl.handle.net/20.500.11752/ILC-72",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This toolchain was developed in the <a href=\"http://www.panacea-lr.eu/\">PANACEA</a> project and implements <a href=\"http://devel.cpl.upc.edu/freeling/downloads?order=time&desc=1\">Freeling 2.1 libraries</a>.",
+      "Functionality": ["PoS", "lemma"],
+      "Language": ["ita"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-IT",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Web application": "https://ilc4clarin.ilc.cnr.it/en/service/freeling-it"
+	},
+      "Publication": "Padró et al. (2010)"
+}

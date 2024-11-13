@@ -1,0 +1,18 @@
+{
+      "Name": "Tagger SentiOne - version 2",
+      "URL": "http://hdl.handle.net/11321/634",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is the second version of tagger developed in the <a href=\"https://sentione.com/research/projects/product-and-brand-image-analysis-automation\">sentione</a> project, adapted to UGC-processing. The tool has been enriched with some heuristics to improve its accuracy and a tokenizer.",
+      "Functionality": ["MSD"],
+      "Language": ["pol"],
+      "Licence": "GNU GPL3",
+      "Platform": [],
+      "Infrastructure": "CLARIN-PL",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/634"
+	},
+      "Publication": ""
+}

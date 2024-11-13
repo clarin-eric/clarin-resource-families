@@ -1,0 +1,18 @@
+{
+      "Name": "ABLTagger (Lemmatizer)",
+      "URL": "http://hdl.handle.net/20.500.12537/134",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "The lemmatiser achieves an accuracy of 98.3% on MIM-Gold (21.05, cross-validation).",
+      "Functionality": ["lemma"],
+      "Language": ["isl"],
+      "Licence": "The MIT License",
+      "Platform": [],
+      "Infrastructure": "CLARIN-IS",
+      "Group": "For a single language",
+      "Input format": ["tokenised plain text"],
+      "Output format": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/134"
+	},
+      "Publication": "Steingrímsson et al. (2019)"
+}

@@ -1,0 +1,19 @@
+{
+      "Name": "Turku-neural-parser-pipeline",
+      "URL": "https://turkunlp.org/Turku-neural-parser-pipeline/",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "A neural parsing pipeline for segmentation, morphological tagging, dependency parsing and lemmatization with pre-trained models for more than 50 languages. Top ranker in the CoNLL-18 Shared Task.",
+      "Functionality": ["segmentation", "MSD", "syntactic parsing", "lemma"],
+      "Language": ["More than 50 languages"],
+      "Licence": "Apache License 2.0",
+      "Platform": [],
+      "Infrastructure": "FIN-CLARIN",
+      "Group": "For multiple languages",
+      "Input format": ["utf-8 encoded plain text"],
+      "Output format": ["CoNLL-U"],
+      "Access": {
+	"Download": "https://github.com/TurkuNLP/Turku-neural-parser-pipeline",
+	"Web application": "http://bionlp-www.utu.fi/parser_demo"
+	},
+      "Publication": "Kanerva et al. (2018)"
+}

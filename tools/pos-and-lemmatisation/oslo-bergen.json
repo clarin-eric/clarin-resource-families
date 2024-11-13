@@ -1,0 +1,18 @@
+{
+      "Name": "The Oslo-Bergen tagger",
+      "URL": "http://www.tekstlab.uio.no/obt-ny/",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool consists of three main modules: a pre-processor with a composition analyzer and multitagger, a grammar module for morphological and syntactic disambiguation (based on the <a href=\"https://en.wikipedia.org/wiki/Constraint_grammar\">constraint grammar</a> paradigm) and a statistical module that removes the last residual morphological ambiguity (only for bookmarks). The tool is trained on the <a href=\"https://www.hf.uio.no/iln/om/organisasjon/edd/forsking/norsk-ordbank/\">Norwegian wordbank</a>.",
+      "Functionality": ["MSD", "syntactic parsing"],
+      "Language": ["Norwegian (Bokmål and Nynorsk)"],
+      "Licence": "GNU General public licence",
+      "Platform": [],
+      "Infrastructure": "CLARINO",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "https://github.com/noklesta/The-Oslo-Bergen-Tagger"
+	},
+      "Publication": "Johannessen et al. (2012)"
+}

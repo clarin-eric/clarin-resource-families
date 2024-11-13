@@ -1,0 +1,18 @@
+{
+      "Name": "CST’s lemmatizer",
+      "URL": "http://hdl.handle.net/11372/LRT-1249",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool uses affix rules (affix: prefix, infix, suffix, circumfix).",
+      "Functionality": ["lemma"],
+      "Language": ["bul", "ces", "dan", "nld", "eng", "est", "fas", "fra", "deu", "ell", "hun", "isl", "ita", "lat", "mkd", "pol", "por", "ron", "rus", "srp", "slk", "slv", "spa", "ukr"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "LINDAT/CLARIN-DK",
+      "Group": "For multiple languages",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://cst.dk/download/uk/"
+	},
+      "Publication": "Jongejan and Dalianis (2009)"
+}

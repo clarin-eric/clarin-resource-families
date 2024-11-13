@@ -1,0 +1,17 @@
+{
+      "Name": "SMOR lemmatizer",
+      "URL": "http://hdl.handle.net/11022/1007-0000-0000-8E23-9",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is implemented in WebLicht.",
+      "Functionality": ["PoS", "lemma"],
+      "Language": ["deu"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Group": "For a single language",
+      "Input format": ["TCF", "XML"],
+      "Output format": [],
+      "Access": {
+	},
+      "Publication": ""
+}

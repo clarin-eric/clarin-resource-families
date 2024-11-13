@@ -1,0 +1,19 @@
+{
+      "Name": "UDPipe",
+      "URL": "http://hdl.handle.net/11234/1-1702",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a trainable pipeline for annotating <a href=\"https://universaldependencies.org/format.html\">CoNLL-U</a> files. UDPipe is language-agnostic and can be trained given annotated data in the CoNLL-U format. <a href=\"http://hdl.handle.net/11234/1-3131\">Trained models</a> are provided for nearly all Universal Dependency treebanks.",
+      "Functionality": ["PoS", "lemma", "syntactic parsing"],
+      "Language": ["Language independent"],
+      "Licence": "Mozilla Public Licence 2.0 (software); CC BY-NC-SA UD (models)",
+      "Platform": [],
+      "Infrastructure": "LINDAT",
+      "Group": "For multiple languages",
+      "Input format": ["plain text"],
+      "Output format": ["CoNLL-U"],
+      "Access": {
+	"Download": "http://github.com/ufal/udpipe/releases/latest",
+	"Web application": "http://lindat.mff.cuni.cz/services/udpipe/api-reference.php"
+	},
+      "Publication": "Straka and Straková (2017)"
+}

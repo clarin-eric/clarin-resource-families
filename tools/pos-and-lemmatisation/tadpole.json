@@ -1,0 +1,17 @@
+{
+      "Name": "Tadpole",
+      "URL": "http://hdl.handle.net/11372/LRT-1293",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "An integrated tokenizer, tagger-lemmatizer, morphological analyzer, and dependency parser for Dutch.",
+      "Functionality": ["PoS/MSD", "lemma", "syntactic parsing"],
+      "Language": ["nld"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "LINDAT/CLARIAH-CZ",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	},
+      "Publication": ""
+}

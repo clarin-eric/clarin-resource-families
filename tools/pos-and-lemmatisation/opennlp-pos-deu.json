@@ -1,0 +1,18 @@
+{
+      "Name": "OpenNLP Part-of-Speech Tagger (German)",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2792-F",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is based on the <a href=\"https://opennlp.apache.org/\">Apache OpenNLP library</a>, which is a perception and maximum entropy–based machine learning toolkit for the processing of natural language text.",
+      "Functionality": ["PoS"],
+      "Language": ["deu"],
+      "Licence": "Apache Licence 2.0 (restricted)",
+      "Platform": [],
+      "Infrastructure": "CLARIN:EL",
+      "Group": "For a single language",
+      "Input format": ["application/xml"],
+      "Output format": ["application/xml"],
+      "Access": {
+	"Web application": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2792-F"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,18 @@
+{
+      "Name": "Frog",
+      "URL": "http://hdl.handle.net/10032/198143d2010e74ae17d4223dfc00e2a8",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is an integration of memory-based NLP modules developed for Dutch. All NLP modules are based on <a href=\"https://languagemachines.github.io/timbl/\">TiMBL</a>, the Tilburg memory-based learning software package. Where possible, Frog makes use of multi-processor support to run subtasks in parallel.",
+      "Functionality": ["PoS", "MSD", "lemma", "NE", "phrase chunks", "dependency relations with head words"],
+      "Language": ["nld"],
+      "Licence": "GNU General Public Licence",
+      "Platform": [],
+      "Infrastructure": "CLARIAH-NL",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": ["FoLiA XML"],
+      "Access": {
+	"Download": "https://github.com/LanguageMachines/frog/releases/"
+	},
+      "Publication": "van den Bosch et al. (2007)"
+}

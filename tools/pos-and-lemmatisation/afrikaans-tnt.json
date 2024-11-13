@@ -1,0 +1,17 @@
+{
+      "Name": "Afrikaans TnT-Tagger",
+      "URL": "https://hdl.handle.net/20.500.12185/143",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is based on the <a href=\"http://www.coli.uni-saarland.de/~thorsten/tnt/\">TnT tagger</a> (Brants <a href=\"https://www.clarin.eu/resource-families/tools-part-speech-tagging-and-lemmatization#Brants%202000\">2000</a>). The tagset used by the tool was especially designed for Afrikaans and consists of 139 PoS-tags.",
+      "Functionality": ["PoS"],
+      "Language": ["afr"],
+      "Licence": "research only",
+      "Platform": [],
+      "Infrastructure": "SADiLaR",
+      "Group": "For a single language",
+      "Input format": ["plain text"],
+      "Output format": ["plain text"],
+      "Access": {
+	},
+      "Publication": ""
+}

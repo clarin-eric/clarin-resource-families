@@ -1,0 +1,20 @@
+{
+      "Name": "MorphoDiTa: Morphological Dictionary and Tagger",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-43CD-0",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool performs morphological analysis, morphological generation, tagging and tokenization and is distributed as a standalone tool or a library, along with trained linguistic models. For Czech, the tool achieves state-of-the-art results with a throughput around 10,000-200,000 words per second. The tool is versioned using <a href=\"https://semver.org/\">Semantic Versioning</a>.\nThe following language models are available through LINDAT under the CC BY licence: <a href=\"http://hdl.handle.net/11234/1-1836\">Czech</a> and <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-68D9-0\">English</a>.",
+      "Functionality": ["MSD", "lemma"],
+      "Language": ["eng", "ces", "slk"],
+      "Licence": "Mozilla Public Licence 2.0 (software); CC BY-NC-SA (models)",
+      "Platform": [],
+      "Infrastructure": "LINDAT",
+      "Group": "For multiple languages",
+      "Input format": ["plain text", "vertical"],
+      "Output format": ["vertical", "XML"],
+      "Access": {
+	"Download": "https://github.com/ufal/morphodita/releases/tag/v1.9.2",
+	"Web application": "http://lindat.mff.cuni.cz/services/morphodita/",
+	"API": "http://lindat.mff.cuni.cz/services/morphodita/api-reference.php"
+	},
+      "Publication": "Straková et al. (2014)"
+}

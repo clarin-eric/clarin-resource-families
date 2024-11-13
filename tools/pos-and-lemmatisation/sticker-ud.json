@@ -1,0 +1,19 @@
+{
+      "Name": "Sticker part-of-speech tagger UD",
+      "URL": "http://hdl.handle.net/11022/0000-0007-DA27-8",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a PoS tagger, syntactic parser and named entity recognizer implemented in WebLicht. The PoS tagger uses the <a href=\"https://universaldependencies.org/\">Universal Dependencies</a> tagset.",
+      "Functionality": ["PoS", "syntactic parsing", "NER"],
+      "Language": ["deu", "nld"],
+      "Licence": "Blue Oak Mode Licence version 1.0.0",
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Group": "For multiple languages",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "https://github.com/stickeritis/sticker",
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": "Ling et al. (2015)"
+}

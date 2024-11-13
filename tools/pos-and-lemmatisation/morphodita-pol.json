@@ -1,0 +1,18 @@
+{
+      "Name": "MorphoDiTa-based tagger for Polish language",
+      "URL": "http://hdl.handle.net/11321/425",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is based on the <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-43CD-0\">MorphoDiTa</a> tagger, adapted to Polish. The tool employs the <a href=\"http://nkjp.pl/poliqarp/help/ense2.html\">NKJP tagset</a>.",
+      "Functionality": ["MSD"],
+      "Language": ["pol"],
+      "Licence": "GNU LGPL 3.0",
+      "Platform": [],
+      "Infrastructure": "CLARIN-PL",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/425"
+	},
+      "Publication": ""
+}

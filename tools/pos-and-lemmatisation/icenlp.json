@@ -1,0 +1,19 @@
+{
+      "Name": "IceNLP Natural Language Processing toolkit",
+      "URL": "http://hdl.handle.net/20.500.12537/8",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is an open source NLP toolkit for analyzing and processing Icelandic text. The toolkit is implemented in Java.",
+      "Functionality": ["PoS", "lemma", "shallow syntactic parsing"],
+      "Language": ["isl"],
+      "Licence": "GNU General Public License, version 2",
+      "Platform": [],
+      "Infrastructure": "CLARIN-IS",
+      "Group": "For a single language",
+      "Input format": ["plain text"],
+      "Output format": ["plain text"],
+      "Access": {
+	"Download": "https://github.com/hrafnl/icenlp",
+	"Web application": "http://nlp.cs.ru.is:8080/IceNLPWeb/icenlp.html"
+	},
+      "Publication": "Loftsson and Rögnvaldsson (2007)"
+}

@@ -1,0 +1,18 @@
+{
+      "Name": "HMM tagger",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0001-48F9-4",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool uses Hidden Markov Models and is an implementation of the UFAL tagger.",
+      "Functionality": ["MSD"],
+      "Language": ["ces"],
+      "Licence": "GNU General Public Licence, version 2",
+      "Platform": [],
+      "Infrastructure": "LINDAT",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0001-48F9-4"
+	},
+      "Publication": ""
+}

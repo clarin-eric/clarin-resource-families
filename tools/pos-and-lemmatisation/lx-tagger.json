@@ -1,0 +1,18 @@
+{
+      "Name": "LX-Tagger",
+      "URL": "https://hdl.handle.net/21.11115/0000-000B-D325-D",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is based on the <a href=\"http://www.coli.uni-saarland.de/~thorsten/tnt/\">TnT tagger</a> (Brants <a href=\"http://www.coli.uni-saarland.de/~thorsten/publications/Brants-TR-TnT.pdf\">2000</a>).",
+      "Functionality": ["MSD"],
+      "Language": ["por"],
+      "Licence": "Academic - Non-Commercial use",
+      "Platform": [],
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://lxcenter.di.fc.ul.pt/tools/en/LXTaggerEN.html"
+	},
+      "Publication": "Silva (2007)"
+}

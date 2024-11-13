@@ -1,0 +1,18 @@
+{
+      "Name": "WCRFT (Wrocław CRF Tagger)",
+      "URL": "http://hdl.handle.net/11321/35",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool combines tiered tagging, conditional random fields (CRF) and features tailored for inflective languages written in WCCL. The algorithm and code are inspired by <a href=\"http://hdl.handle.net/11321/26\">Wrocław Memory-Based Tagger (WMBT)</a>.",
+      "Functionality": ["MSD"],
+      "Language": ["pol"],
+      "Licence": "GNU LGPL 3.0",
+      "Platform": [],
+      "Infrastructure": "CLARIN-PL",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://nlp.pwr.wroc.pl/redmine/projects/wcrft/wiki/"
+	},
+      "Publication": "Radziszewski (2013)"
+}

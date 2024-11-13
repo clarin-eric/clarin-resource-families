@@ -1,0 +1,17 @@
+{
+      "Name": "Assamese POS Tagger",
+      "URL": "http://hdl.handle.net/11321/620",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a <a href=\"https://taku910.github.io/crfpp/\">CRF++</a> based PoS-tagger.",
+      "Functionality": ["PoS"],
+      "Language": ["asm"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-PL",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	},
+      "Publication": ""
+}

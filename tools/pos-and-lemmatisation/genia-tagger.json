@@ -1,0 +1,18 @@
+{
+      "Name": "GENIA Tagger",
+      "URL": "https://hdl.handle.net/21.11115/0000-000B-D330-0",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is used for annotating biomedical texts such as <a href=\"https://www.nlm.nih.gov/bsd/medline.html\">MEDLINE</a> abstracts.",
+      "Functionality": ["PoS", "lemma", "chunks", "named entities"],
+      "Language": ["eng", "ces", "slk"],
+      "Licence": "proprietary - commercial",
+      "Platform": [],
+      "Infrastructure": "PORTULAN",
+      "Group": "For multiple languages",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	"Download": "http://www.nactem.ac.uk/GENIA/tagger/"
+	},
+      "Publication": "Tsurouka et al. (2015)"
+}

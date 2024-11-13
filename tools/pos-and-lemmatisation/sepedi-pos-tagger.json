@@ -1,0 +1,17 @@
+{
+      "Name": "Sepedi Part of Speech Tagger",
+      "URL": "https://hdl.handle.net/20.500.12185/264",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is based on Helmut Schmidt stochastic tagger (see Schmid <a href=\"https://www.clarin.eu/resource-families/tools-part-speech-tagging-and-lemmatization#Schmid%201994\">1994</a>) supported by additional noun and verb guessing modules and a tokenizer.",
+      "Functionality": ["PoS"],
+      "Language": ["Sepedi"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "SADiLaR",
+      "Group": "For a single language",
+      "Input format": [],
+      "Output format": [],
+      "Access": {
+	},
+      "Publication": ""
+}

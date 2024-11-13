@@ -1,0 +1,18 @@
+{
+      "Name": "MorphAdorner Lemmatizer",
+      "URL": "http://hdl.handle.net/11022/0000-0000-83A0-6",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is implemented in WebLicht and is derived from the <a href=\"http://morphadorner.northwestern.edu/morphadorner/\">MorphAdorner</a> morphological analyser.",
+      "Functionality": ["lemma"],
+      "Language": ["eng"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-D",
+      "Group": "For a single language",
+      "Input format": ["TCF", "XML"],
+      "Output format": [],
+      "Access": {
+	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	},
+      "Publication": ""
+}

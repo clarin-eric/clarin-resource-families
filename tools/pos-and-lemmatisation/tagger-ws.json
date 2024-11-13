@@ -1,0 +1,18 @@
+{
+      "Name": "Tagger WS",
+      "URL": "http://hdl.handle.net/11321/30",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool uses the <a href=\"http://nkjp.pl/poliqarp/help/ense2.html\">NKJP tagset</a> and implements the <a href=\"http://morfeusz.sgjp.pl/doc/about/en\">Morfeusz SGJP dictionary</a>. The service is based on WCRFT.",
+      "Functionality": ["MSD", "lemma"],
+      "Language": ["pol"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN-PL",
+      "Group": "For a single language",
+      "Input format": ["plain text", "XML"],
+      "Output format": ["plain text", "XML"],
+      "Access": {
+	"Web application": "http://clarin-pl.eu/synat/ws/tagger/"
+	},
+      "Publication": ""
+}

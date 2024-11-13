@@ -1,0 +1,19 @@
+{
+      "Name": "ReLDIanno",
+      "URL": "http://clarin.si/services/web/query",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool, which was developed in the context of the <a href=\"https://reldi.spur.uzh.ch/\">ReLDI project</a>, employs the <a href=\"http://nl.ijs.si/ME/\">MULTEXT tagset</a> for part of speech tagging and <a href=\"https://universaldependencies.org/\">Universal Dependencies</a> for syntactic parsing.",
+      "Functionality": ["PoS", "lemma", "NER", "syntactic parsing"],
+      "Language": ["hrv", "srp", "slv"],
+      "Licence": "CC-BY (for webservice); Apache 2 for library",
+      "Platform": [],
+      "Infrastructure": "CLARIN.SI",
+      "Group": "For multiple languages",
+      "Input format": ["plain text", "TCF"],
+      "Output format": ["vertical", "plain text"],
+      "Access": {
+	"Download": "https://github.com/clarinsi/reldi-lib",
+	"Web application": "SEPhttp://clarin.si/services/web/query"
+	},
+      "Publication": "Ljubešić et al. (2016)"
+}

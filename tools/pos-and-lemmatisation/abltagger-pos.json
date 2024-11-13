@@ -1,0 +1,18 @@
+{
+      "Name": "ABLTagger (PoS)",
+      "URL": "http://hdl.handle.net/20.500.12537/115",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This tool is a part of speech tagger for Icelandic. This entry contains pretrained models for ABLTagger v3.0.0. There are two versions, small and large, of PoS taggers that work with the revised tagset that achieve an accuracy of ~96.7% and ~97.8% on MIM-Gold (cross-validation, excluding \"x\" and \"e\" tags), respectively.",
+      "Functionality": ["PoS"],
+      "Language": ["isl"],
+      "Licence": "Apache License 2.0",
+      "Platform": [],
+      "Infrastructure": "CLARIN-IS",
+      "Group": "For a single language",
+      "Input format": ["tokenised plain or pre-tagged text"],
+      "Output format": [],
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/115"
+	},
+      "Publication": "Steingrímsson et al. (2019)"
+}
