@@ -6,7 +6,6 @@
       "Functionality": ["MSD", "syntactic parsing"],
       "Language": ["Norwegian (Bokmål and Nynorsk)"],
       "Licence": "GNU General public licence",
-      "Platform": [],
       "Infrastructure": "CLARINO",
       "Group": "For a single language",
       "Input format": [],

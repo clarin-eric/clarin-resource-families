@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "lemma", "NER", "syntactic parsing"],
       "Language": ["hrv", "srp", "slv"],
       "Licence": "CC-BY (for webservice); Apache 2 for library",
-      "Platform": [],
       "Infrastructure": "CLARIN.SI",
       "Group": "For multiple languages",
       "Input format": ["plain text", "TCF"],

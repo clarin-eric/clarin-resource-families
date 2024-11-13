@@ -6,7 +6,6 @@
       "Functionality": ["MSD", "lemma"],
       "Language": ["eng", "ces", "slk"],
       "Licence": "Mozilla Public Licence 2.0 (software); CC BY-NC-SA (models)",
-      "Platform": [],
       "Infrastructure": "LINDAT",
       "Group": "For multiple languages",
       "Input format": ["plain text", "vertical"],

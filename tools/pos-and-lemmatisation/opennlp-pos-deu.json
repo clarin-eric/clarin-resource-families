@@ -6,7 +6,6 @@
       "Functionality": ["PoS"],
       "Language": ["deu"],
       "Licence": "Apache Licence 2.0 (restricted)",
-      "Platform": [],
       "Infrastructure": "CLARIN:EL",
       "Group": "For a single language",
       "Input format": ["application/xml"],

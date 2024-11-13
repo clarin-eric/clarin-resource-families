@@ -6,7 +6,6 @@
       "Functionality": ["PoS"],
       "Language": ["slv"],
       "Licence": "GNU General Public Licence, version 3",
-      "Platform": [],
       "Infrastructure": "CLARIN.SI",
       "Group": "For a single language",
       "Input format": ["XML", "TEI", "plain text"],

@@ -6,7 +6,6 @@
       "Functionality": ["lemma"],
       "Language": ["bel"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "CLARIN Knowledge Centre for Belarusian text and speech processing",
       "Group": "For a single language",
       "Input format": ["plain text"],

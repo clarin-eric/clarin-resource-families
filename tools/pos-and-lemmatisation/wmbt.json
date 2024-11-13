@@ -6,7 +6,6 @@
       "Functionality": ["MSD"],
       "Language": ["pol"],
       "Licence": "GNU LGPL 3.0",
-      "Platform": [],
       "Infrastructure": "CLARIN-PL",
       "Group": "For a single language",
       "Input format": ["various, default is XCES XML"],

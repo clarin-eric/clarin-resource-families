@@ -6,7 +6,6 @@
       "Functionality": ["lemma"],
       "Language": ["bul", "ces", "dan", "nld", "eng", "est", "fas", "fra", "deu", "ell", "hun", "isl", "ita", "lat", "mkd", "pol", "por", "ron", "rus", "srp", "slk", "slv", "spa", "ukr"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "LINDAT/CLARIN-DK",
       "Group": "For multiple languages",
       "Input format": [],

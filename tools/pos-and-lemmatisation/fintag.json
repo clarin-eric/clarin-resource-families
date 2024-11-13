@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "lemma", "NER"],
       "Language": ["fin"],
       "Licence": "GPL",
-      "Platform": [],
       "Infrastructure": "FIN-CLARIN",
       "Group": "For a single language",
       "Input format": ["plain text", "pdf", "doc", "scv", "epub", "html", "odt", "xls"],

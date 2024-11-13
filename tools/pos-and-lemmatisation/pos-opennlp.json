@@ -6,7 +6,6 @@
       "Functionality": ["PoS"],
       "Language": ["deu", "eng", "ita"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "CLARIN-D",
       "Group": "For multiple languages",
       "Input format": ["TCF", "XML"],

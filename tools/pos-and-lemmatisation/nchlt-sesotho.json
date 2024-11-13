@@ -6,7 +6,6 @@
       "Functionality": ["lemma"],
       "Language": ["Sesotho"],
       "Licence": "CC-BY 2.5 South Africa Licence",
-      "Platform": [],
       "Infrastructure": "SADiLaR",
       "Group": "For a single language",
       "Input format": ["Text data (encoding: UTF8 without BOM), one lowercase token per line"],

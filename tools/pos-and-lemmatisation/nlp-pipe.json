@@ -6,7 +6,6 @@
       "Functionality": ["MSD", "syntactic parsing", "NER"],
       "Language": ["lav"],
       "Licence": "GNU General Public Licence 3",
-      "Platform": [],
       "Infrastructure": "CLARIN-LV",
       "Group": "For a single language",
       "Input format": [],

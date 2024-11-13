@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "lemma"],
       "Language": ["deu", "eng", "fra", "ita", "nld", "spa", "bul", "rus", "ell", "por", "zho", "swh", "lat", "est", "fro"],
       "Licence": "free but unspecified",
-      "Platform": [],
       "Infrastructure": "CLARIN-D",
       "Group": "For multiple languages",
       "Input format": [],

@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "MSD", "lemma"],
       "Language": ["est"],
       "Licence": "Available - Unrestricted Use",
-      "Platform": [],
       "Infrastructure": "CELR",
       "Group": "For a single language",
       "Input format": ["plain text"],

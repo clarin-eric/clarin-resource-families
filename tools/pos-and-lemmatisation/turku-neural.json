@@ -6,7 +6,6 @@
       "Functionality": ["segmentation", "MSD", "syntactic parsing", "lemma"],
       "Language": ["More than 50 languages"],
       "Licence": "Apache License 2.0",
-      "Platform": [],
       "Infrastructure": "FIN-CLARIN",
       "Group": "For multiple languages",
       "Input format": ["utf-8 encoded plain text"],

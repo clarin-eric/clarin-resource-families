@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "lemma", "chunks", "named entities"],
       "Language": ["eng", "ces", "slk"],
       "Licence": "proprietary - commercial",
-      "Platform": [],
       "Infrastructure": "PORTULAN",
       "Group": "For multiple languages",
       "Input format": [],

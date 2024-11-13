@@ -6,7 +6,6 @@
       "Functionality": ["lemma"],
       "Language": ["deu"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "CLARIN-D",
       "Group": "For a single language",
       "Input format": ["TCF", "XML"],

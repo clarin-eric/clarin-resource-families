@@ -6,7 +6,6 @@
       "Functionality": ["PoS"],
       "Language": ["ell"],
       "Licence": "terms of service (Restrictions: Academic - Non Commercial Use)",
-      "Platform": [],
       "Infrastructure": "CLARIN:EL",
       "Group": "For a single language",
       "Input format": ["Application/vnd.xmi+xml"],

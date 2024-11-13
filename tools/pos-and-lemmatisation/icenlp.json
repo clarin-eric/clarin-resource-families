@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "lemma", "shallow syntactic parsing"],
       "Language": ["isl"],
       "Licence": "GNU General Public License, version 2",
-      "Platform": [],
       "Infrastructure": "CLARIN-IS",
       "Group": "For a single language",
       "Input format": ["plain text"],

@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "syntactic parsing", "NER"],
       "Language": ["deu", "nld"],
       "Licence": "Blue Oak Mode Licence version 1.0.0",
-      "Platform": [],
       "Infrastructure": "CLARIN-D",
       "Group": "For multiple languages",
       "Input format": [],

@@ -6,7 +6,6 @@
       "Functionality": ["sentence splitting", "PoS", "lemma", "syntactic parsing"],
       "Language": ["bul"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "ClaDA-BG",
       "Group": "For a single language",
       "Input format": ["XML"],

@@ -6,7 +6,6 @@
       "Functionality": ["PoS/MSD", "lemma", "syntactic parsing"],
       "Language": ["nld"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "LINDAT/CLARIAH-CZ",
       "Group": "For a single language",
       "Input format": [],

@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "MSD", "lemma", "NE", "phrase chunks", "dependency relations with head words"],
       "Language": ["nld"],
       "Licence": "GNU General Public Licence",
-      "Platform": [],
       "Infrastructure": "CLARIAH-NL",
       "Group": "For a single language",
       "Input format": [],

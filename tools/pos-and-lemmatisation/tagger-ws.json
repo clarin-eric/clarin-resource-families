@@ -6,7 +6,6 @@
       "Functionality": ["MSD", "lemma"],
       "Language": ["pol"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "CLARIN-PL",
       "Group": "For a single language",
       "Input format": ["plain text", "XML"],

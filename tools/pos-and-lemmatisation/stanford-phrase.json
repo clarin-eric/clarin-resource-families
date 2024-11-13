@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "syntactic parsing"],
       "Language": ["eng", "deu"],
       "Licence": "",
-      "Platform": [],
       "Infrastructure": "CLARIN-D",
       "Group": "For multiple languages",
       "Input format": ["plain text", "pdf", "rtf", "XML"],

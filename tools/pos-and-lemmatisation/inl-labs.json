@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "lemma"],
       "Language": ["nld"],
       "Licence": "CLARIN PUB",
-      "Platform": [],
       "Infrastructure": "CLARIAH-NL",
       "Group": "For a single language",
       "Input format": ["plain text", "TEI", "epub", "html", "docx", "alto"],

@@ -6,7 +6,6 @@
       "Functionality": ["PoS", "phrase chunks", "NE"],
       "Language": ["afr", "eng", "Ndebele", "xho", "zul", "Sesotho sa Leboa", "tsn", "Sesotho", "ssw", "ven", "tso"],
       "Licence": "CC-BY 2.5 South Africa Licence",
-      "Platform": [],
       "Infrastructure": "SADiLaR",
       "Group": "For multiple languages",
       "Input format": ["Utf8 text file containing running text"],
