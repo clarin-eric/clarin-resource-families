@@ -11,7 +11,7 @@
       "Platform": [],
       "Infrastructure": "FIN-CLARIN",
       "Access": {
-	"Online": "https://www.kielipankki.fi/tools/demo/cgi-bin/predict/finsent.py"
+	"Online": "https://www.kielipankki.fi/tools/demo/cgi-bin/finsent.py"
 	},
       "Publication": ""
 }
