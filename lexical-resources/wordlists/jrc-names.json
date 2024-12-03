@@ -1,0 +1,16 @@
+{
+      "Name": "JRC-Names - a multilingual named entity resource",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258E-7",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist of named entities (person and organisation names). The resource is available for download from clarin:el.",
+      "Language": ["slv", "swe", "bul", "eng", "ell", "est", "spa", "Castilian", "ces", "deu", "dan", "fra", "fin", "ita", "hun", "lav", "lit", "mlt", "nld", "Flemish", "por", "pol", "slk", "ron"],
+      "Licence": "Open for Reuse with Restrictions",
+      "Size": [],
+      "Annotation": ["spelling varieties of names"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258E-7"
+	},
+      "Publication": ""
+}

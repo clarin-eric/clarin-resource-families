@@ -1,0 +1,16 @@
+{
+      "Name": "The Finnish N-grams 1820-2000 of the Newspaper and Periodical Corpus of the National Library of Finland",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014073038",
+      "Family": "Wordlists",
+      "Description": "This is a frequency list that contains sets of unigrams, bigrams and trigrams extracted from a newspaper corpus. The resource is available for download from FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "CC-BY 4.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2014073038"
+	},
+      "Publication": ""
+}

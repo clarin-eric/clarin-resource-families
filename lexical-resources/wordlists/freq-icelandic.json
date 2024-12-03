@@ -1,0 +1,16 @@
+{
+      "Name": "Frequency lists for Icelandic 23.06",
+      "URL": "http://hdl.handle.net/20.500.12537/314",
+      "Family": "Wordlists",
+      "Description": "This is a frequency list for three Icelandic corpora: the <a href=\"http://hdl.handle.net/20.500.12537/62\">Icelandic Parsed Historical Corpus</a>, the <a href=\"http://hdl.handle.net/20.500.12537/195\">Tagged Icelandic Corpus</a>, and the <a href=\"http://hdl.handle.net/20.500.12537/254\">Icelandic Gigaword Corpus</a>.\nThe wordlist is available for download from the CLARIN-IS repository.",
+      "Language": ["isl"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/314"
+	},
+      "Publication": ""
+}

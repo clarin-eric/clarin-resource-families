@@ -1,0 +1,16 @@
+{
+      "Name": "Kres corpus n-grams 2.0",
+      "URL": "http://hdl.handle.net/11356/1193",
+      "Family": "Wordlists",
+      "Description": "This is a list of n-grams extracted from the <a href=\"http://eng.slovenscina.eu/korpusi/kres\">Kres corpus of written Slovenian</a>. The resource is available for download from CLARIN.SI",
+      "Language": ["slv"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["211,104,769 n-grams"],
+      "Annotation": ["frequency"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1193"
+	},
+      "Publication": ""
+}

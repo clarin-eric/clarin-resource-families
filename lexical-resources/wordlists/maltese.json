@@ -1,0 +1,16 @@
+{
+      "Name": "Maltese Wordlist",
+      "URL": "http://doi.org/21.11115/0000-000B-D500-4",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist used for spell-checking. It is available for download from CLARIN PORTULAN.",
+      "Language": ["mlt"],
+      "Licence": "LGPL",
+      "Size": ["824,839 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://doi.org/21.11115/0000-000B-D500-4"
+	},
+      "Publication": ""
+}

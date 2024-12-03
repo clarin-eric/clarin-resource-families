@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire de Sciences de l'éducation",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-de-sciences-de-leducation/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain of education available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["2,681 entries"],
+      "Annotation": ["preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-de-sciences-de-leducation/v1"
+	},
+      "Publication": ""
+}

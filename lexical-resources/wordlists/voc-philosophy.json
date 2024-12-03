@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire de philosophie",
+      "URL": "https://hdl.handle.net/11403/philosophie/v1.1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions of philosophical terms available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["4,435 entries"],
+      "Annotation": ["preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/philosophie/v1.1"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Swedish words, LEXIN",
+      "URL": "http://hdl.handle.net/10794/40",
+      "Family": "Wordlists",
+      "Description": "This is a word list to be used by immigrants to Sweden. The resource can be download from the SWE-CLARIN repository.",
+      "Language": ["swe", "sqi", "bos", "eng", "fin", "ell", "hrv", "pes", "rus", "srp", "som", "spa", "tur"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["29,111 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10794/40"
+	},
+      "Publication": ""
+}

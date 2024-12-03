@@ -1,0 +1,16 @@
+{
+      "Name": "The Swedish N-grams 1770-1940 of the Newspaper and Periodical Corpus of the National Library of Finland",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2014091902",
+      "Family": "Wordlists",
+      "Description": "This frequency list contains sets of unigrams, bigrams and trigrams extracted from a corpus compiled by the University of Helsinki from the digitized newspapers from the National Library of Finland. The resource is available for download from FIN-CLARIN.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2014091902"
+	},
+      "Publication": ""
+}

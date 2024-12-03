@@ -1,0 +1,16 @@
+{
+      "Name": "Finnish Verbal Colorative Constructions",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2017090401",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist that contains Finnish verbal “colorative” (i.e., stylistically marked) constructions­. The resource is available for download through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "CC-BY",
+      "Size": ["61,617 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-2017090401"
+	},
+      "Publication": ""
+}

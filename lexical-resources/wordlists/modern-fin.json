@@ -1,0 +1,16 @@
+{
+      "Name": "Modern Finnish Word List",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730169",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist of contemporary general vocabulary that is available for download through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "GNU LGPL, EUPL v.1.1, CC-BY SA 3.0",
+      "Size": ["94,110 entries"],
+      "Annotation": ["MSD-tags", "lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-20140730169"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire d'histoire et sciences de la littérature",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-dhistoire-et-sciences-de-la-litterature/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain of literary studies available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["11,065 entries"],
+      "Annotation": ["preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-dhistoire-et-sciences-de-la-litterature/v1"
+	},
+      "Publication": ""
+}

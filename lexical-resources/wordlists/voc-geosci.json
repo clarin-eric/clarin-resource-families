@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire de sciences de la Terre",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-de-sciences-de-la-terre/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain of geology available for download from ORTOLANG.",
+      "Language": ["fra", "eng", "spa"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["19,707 entries"],
+      "Annotation": ["hierarchical relationship", "preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-de-sciences-de-la-terre/v1"
+	},
+      "Publication": ""
+}

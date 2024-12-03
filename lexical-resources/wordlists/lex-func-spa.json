@@ -1,0 +1,16 @@
+{
+      "Name": "Lexical functions of Spanish verb-noun collocations",
+      "URL": "https://hdl.handle.net/11403/ortolang-000920/v1",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist that consists of the most frequent 1000 verb-noun pairs extracted automatically from the Spanish Web Corpus classifications (collocation vs. free-word-combo). The resource is available for download from Ortolang.",
+      "Language": ["spa"],
+      "Licence": "CLARIN PUB",
+      "Size": ["1,000 verb-noun pairs"],
+      "Annotation": ["lexicological classifications (free-word combinations, errors)", "semantic information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/ortolang-000920/v1"
+	},
+      "Publication": ""
+}

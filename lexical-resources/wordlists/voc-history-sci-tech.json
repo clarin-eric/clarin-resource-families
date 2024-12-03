@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire d'histoire des sciences et des techniques",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-dhistoire-des-sciences-et-des-techniques/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain technical sciences available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["3,766 entries"],
+      "Annotation": ["contextual information", "usage examples", "preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/11403/vocabulaire-dhistoire-des-sciences-et-des-techniques/v1"
+	},
+      "Publication": ""
+}

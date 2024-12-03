@@ -1,0 +1,16 @@
+{
+      "Name": "Frequencies of Early Modern Finnish Words",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730139",
+      "Family": "Wordlists",
+      "Description": "This is a frequency lexicon that consists of words from the Old Literary Finnish text corpus. The resource is available online through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "EUPL",
+      "Size": ["4,862,190 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/sanat/taajuuslista/vns.php"
+	},
+      "Publication": ""
+}

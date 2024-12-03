@@ -1,0 +1,16 @@
+{
+      "Name": "Idioms from the NEO lexicon DB",
+      "URL": "http://hdl.handle.net/10794/27",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist of idioms with explanations extracted from the database for the dictionary Nationalencyklopediens ordbok. The resource can be download from the SWE-CLARIN.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["4,928 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10794/27"
+	},
+      "Publication": ""
+}

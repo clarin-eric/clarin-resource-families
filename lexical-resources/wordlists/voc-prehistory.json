@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire de préhistoire et protohistoire",
+      "URL": "https://hdl.handle.net/11403/prehistoire-protohistoire/v1.1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions historical terms available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["3,093 entries"],
+      "Annotation": ["hierarchical relationship", "preferred forms", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/prehistoire-protohistoire/v1.1"
+	},
+      "Publication": ""
+}

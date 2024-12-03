@@ -1,0 +1,16 @@
+{
+      "Name": "Multilingual Flashcards with 4,000 Most Common Icelandic Words (IceFlash4K)",
+      "URL": "http://hdl.handle.net/20.500.12537/308",
+      "Family": "Wordlists",
+      "Description": "This wordlist contains common Icelandic words in 4 languages English, Chinese, Polish, Ukrainian.\nThe wordlist is available for download from the CLARIN-IS repository.",
+      "Language": ["zho", "eng", "isl", "pol", "ukr"],
+      "Licence": "CC BY 4.0",
+      "Size": ["4000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/308"
+	},
+      "Publication": "Xindan and Ingason (2021)"
+}

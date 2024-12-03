@@ -1,0 +1,16 @@
+{
+      "Name": "Deutscher Wortschatz",
+      "URL": "http://corpora.informatik.uni-leipzig.de/de?corpusId=deu_newscrawl_2011",
+      "Family": "Wordlists",
+      "Description": "This resource provides a list of annotated words taken from the deu_newscrawl_2011 corpus. The resource is available for online browsing through CLARIN-D/University of Leipzig.",
+      "Language": ["deu"],
+      "Licence": "",
+      "Size": ["5.8 million types"],
+      "Annotation": ["synonymy", "examples of use"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://corpora.informatik.uni-leipzig.de/de?corpusId=deu_newscrawl_2011"
+	},
+      "Publication": ""
+}

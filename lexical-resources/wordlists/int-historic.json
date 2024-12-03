@@ -1,0 +1,16 @@
+{
+      "Name": "INT Historical Word List",
+      "URL": "http://hdl.handle.net/10032/tm-a2-a6",
+      "Family": "Wordlists",
+      "Description": "This wordlist includes historical lexemes for the period between 1550 and 1970. The resource is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["500,000 word forms"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-a6"
+	},
+      "Publication": "de Does and Depuydt (2012)"
+}

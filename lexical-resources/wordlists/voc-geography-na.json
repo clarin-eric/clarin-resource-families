@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire de géographie de l'Amérique du Nord",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-de-geographie-de-lamerique-du-nord/v1",
+      "Family": "Wordlists",
+      "Description": "This is a thesaurus of terms from the geography of North America available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["4,232 entries"],
+      "Annotation": ["hierarchical relationship", "preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-de-geographie-de-lamerique-du-nord/v1"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire d'Electronique et électro-optique",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-delectronique-et-electro-optique/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain of electronics available for download from ORTOLANG.",
+      "Language": ["fra", "eng", "spa"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["4,456 entries"],
+      "Annotation": ["associative relationship", "hierarchical relationship", "preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-delectronique-et-electro-optique/v1"
+	},
+      "Publication": ""
+}

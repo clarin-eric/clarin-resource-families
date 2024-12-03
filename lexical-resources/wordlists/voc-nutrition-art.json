@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire de Nutrition artificielle",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-de-nutrition-artificielle/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain of nutrition available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["2,500 entries"],
+      "Annotation": ["associative relationship", "hierarchical relationship", "preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-de-nutrition-artificielle/v1"
+	},
+      "Publication": ""
+}

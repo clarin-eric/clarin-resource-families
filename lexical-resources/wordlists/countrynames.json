@@ -1,0 +1,16 @@
+{
+      "Name": "Names of Countries",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-0633EL",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist that is based on the Estonian orthography of foreign place names. The resource is available for online browsing.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/knab/mmaad.htm"
+	},
+      "Publication": ""
+}

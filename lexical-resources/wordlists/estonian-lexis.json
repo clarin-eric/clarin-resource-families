@@ -1,0 +1,16 @@
+{
+      "Name": "The Conceptual File of Estonian Lexis of the Institute of Estonian Language",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-0632AL",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of several more-and-less related concepts (e.g., gardening, haymaking, weather, fishing, religion). The resource is available for online browsing.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://heli.eki.ee/moisteline/"
+	},
+      "Publication": ""
+}

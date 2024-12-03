@@ -1,0 +1,16 @@
+{
+      "Name": "KELLY word-list Greek",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25C1-C",
+      "Family": "Wordlists",
+      "Description": "This wordlist is useful for learning and teaching Greek as a foreign/second language. The words are classified according to the language levels of CEFR. The resource is available for download from clarin:el.",
+      "Language": ["ell"],
+      "Licence": "CC-BY-NC",
+      "Size": ["7,385 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-25C1-C"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "The Icelandic Academic Word List (v. 1.0)",
+      "URL": "http://hdl.handle.net/20.500.12537/307",
+      "Family": "Wordlists",
+      "Description": "This is a frequence list from <a href=\"http://hdl.handle.net/20.500.12537/299\">MÍNO</a>, which is a language corpus of academic vocabulary.\nThe wordlist is available for download from the CLARIN-IS consortium.",
+      "Language": ["isl"],
+      "Licence": "",
+      "Size": ["2294 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/307"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Topics of library and information science",
+      "URL": "http://hdl.grnet.gr/11500/IONION-0000-0000-25BD-2",
+      "Family": "Wordlists",
+      "Description": "This is a word list of terms from the domain of library and information science. The resource is available for download from clarin:el.",
+      "Language": ["eng", "ell"],
+      "Licence": "CC-BY-NC",
+      "Size": ["732 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/IONION-0000-0000-25BD-2"
+	},
+      "Publication": ""
+}

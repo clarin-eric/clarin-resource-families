@@ -1,0 +1,17 @@
+{
+      "Name": "Kelly (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/28",
+      "Family": "Wordlists",
+      "Description": "This is a list of keywords for Language Learning for Young and adults alike. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["10,510 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://hdl.handle.net/10794/28",
+	"Download": "http://hdl.handle.net/10794/28"
+	},
+      "Publication": ""
+}

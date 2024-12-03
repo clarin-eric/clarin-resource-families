@@ -1,0 +1,16 @@
+{
+      "Name": "Λεξικό Γλωσσολογικών όρων: Γερμανικά – Ελληνικά - Αγγλικά (lexicon of linguistic terms: DE-EL-EN)",
+      "URL": "http://hdl.grnet.gr/11500/AUTH-0000-0000-28CB-F",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist of linguistic terms that is available for download from clarin:el.",
+      "Language": ["deu", "ell", "eng"],
+      "Licence": "",
+      "Size": ["2,000 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/AUTH-0000-0000-28CB-F"
+	},
+      "Publication": ""
+}

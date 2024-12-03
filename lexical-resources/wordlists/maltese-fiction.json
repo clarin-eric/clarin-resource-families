@@ -1,0 +1,16 @@
+{
+      "Name": "Maltese Fiction Wordlist",
+      "URL": "http://doi.org/21.11115/0000-000B-D340-E",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist from 32 fictional books available for download from CLARIN PORTULAN.",
+      "Language": ["mlt"],
+      "Licence": "MS-NC-No ReD",
+      "Size": ["41,251 tokens"],
+      "Annotation": ["frequency"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://doi.org/21.11115/0000-000B-D340-E"
+	},
+      "Publication": ""
+}

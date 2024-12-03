@@ -1,0 +1,16 @@
+{
+      "Name": "Frequency Lexicon of the Finnish Newspaper Language",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201405272",
+      "Family": "Wordlists",
+      "Description": "This is a frequency lexicon available online through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "CC-BY NC ND 1.0",
+      "Size": ["9,996 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/sanat/taajuuslista/vks.php"
+	},
+      "Publication": ""
+}

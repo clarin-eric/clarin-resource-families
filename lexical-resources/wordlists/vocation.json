@@ -1,0 +1,16 @@
+{
+      "Name": "Vocation list (2015-01-10)",
+      "URL": "http://hdl.handle.net/10794/48",
+      "Family": "Wordlists",
+      "Description": "This is a wordlist of vocations in Swedish. The resource can be download from the SWE-CLARIN repository.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["13,833 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10794/48"
+	},
+      "Publication": ""
+}

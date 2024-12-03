@@ -1,0 +1,16 @@
+{
+      "Name": "Frequency List of Written Finnish Word Forms",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730146",
+      "Family": "Wordlists",
+      "Description": "This is a frequency lexicon of Finnish word forms that appear in the Finnish Parole text corpus. The resource is available online through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "EUPL",
+      "Size": ["17,604 lemmas", "1,339,787 word forms"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/sanat/taajuuslista/parole.php"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "Estonian Frequency Dictionary (ver. 2.0)",
+      "URL": "http://doi.org/10.15155/1-00-0000-0000-0000-0017CL",
+      "Family": "Wordlists",
+      "Description": "This is a frequency list available for download from META-SHARE (CELR distribution) and for online browsing.",
+      "Language": ["est"],
+      "Licence": "CLARIN PUB",
+      "Size": ["997,934 word forms"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://www.cl.ut.ee/ressursid/sagedused1/index.php",
+	"Download": "http://doi.org/10.15155/1-00-0000-0000-0000-0017CL"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Frequencies of Old Literary Finnish Words",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730166",
+      "Family": "Wordlists",
+      "Description": "This is a frequency lexicon that is constituted of words from Old Literary Finnish text corpus. The resource is available online through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "EUPL",
+      "Size": ["3,425,382 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/sanat/taajuuslista/vks.php"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Vocabulaire d'ethnologie",
+      "URL": "https://hdl.handle.net/11403/vocabulaire-dethnologie/v1",
+      "Family": "Wordlists",
+      "Description": "This is a controlled vocabulary of expressions from the domain of ethnology available for download from ORTOLANG.",
+      "Language": ["fra", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["9,517 entries"],
+      "Annotation": ["preferred form", "synonym shape"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/vocabulaire-dethnologie/v1"
+	},
+      "Publication": ""
+}
