@@ -1,0 +1,17 @@
+{
+      "Name": "Semantic lexicon of Slovene sloWNet 3.1",
+      "URL": "http://hdl.handle.net/11356/1026",
+      "Family": "Conceptual resources",
+      "Description": "This is a wordnet available for download from CLARIN.SI and for online browsing through a dedicated environment.",
+      "Language": ["slv", "eng"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["43,460 synsets"],
+      "Annotation": ["lexical semantic relations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://nl.ijs.si/slowtool/",
+	"Download": "http://hdl.handle.net/11356/1026"
+	},
+      "Publication": ""
+}

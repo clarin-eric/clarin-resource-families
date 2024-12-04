@@ -1,0 +1,16 @@
+{
+      "Name": "Geo-Net-PT 02",
+      "URL": "http://doi.org/21.11115/0000-000B-D306-0",
+      "Family": "Conceptual resources",
+      "Description": "This is an ontology of Portuguese geographic concepts. It is available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC-BY",
+      "Size": ["701,209 concepts"],
+      "Annotation": ["qualia structure and lexical relations (hyponyms, synonyms)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://doi.org/21.11115/0000-000B-D306-0"
+	},
+      "Publication": ""
+}

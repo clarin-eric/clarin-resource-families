@@ -1,0 +1,15 @@
+{
+      "Name": "MWNPT-International WordNet of Portuguese",
+      "URL": "https://doi.org/21.11115/0000-000B-D509-B",
+      "Family": "Conceptual resources",
+      "Description": "This is a wordnet that is available if contacting the resource manager.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["17,200 synsets"],
+      "Annotation": ["hyponymy and hypernymy"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	},
+      "Publication": ""
+}

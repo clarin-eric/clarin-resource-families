@@ -1,0 +1,16 @@
+{
+      "Name": "ItalWordNet Kyoto",
+      "URL": "http://hdl.handle.net/20.500.11752/ILC-65",
+      "Family": "Conceptual resources",
+      "Description": "This is a wordnet available for download from ILC4CLARIN.",
+      "Language": ["ita"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["49,514 synsets"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/ILC-65"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Cornetto-LMF",
+      "URL": "http://cornetto.clarin.inl.nl/index.html",
+      "Family": "Conceptual resources",
+      "Description": "This is a resource that combines two resources with different semantic organisations: the Dutch Wordnet with its synset organisation and the Dutch Reference Lexicon which includes definitions, usage constraints, selectional restrictions, syntactic behaviours, illustrative contexts, etc. The resource is available for online browsing through a dedicated webpage.",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["130,000 entries"],
+      "Annotation": ["semantic relationships and combinatorial information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://cornetto.clarin.inl.nl/index.html"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Bring (2015-05-08)",
+      "URL": "http://hdl.handle.net/10794/15",
+      "Family": "Conceptual resources",
+      "Description": "This is a digital version of Bring's thesaurus (1930) that is available for download from the SWE-CLARIN repository.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["148,815 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10794/15"
+	},
+      "Publication": ""
+}

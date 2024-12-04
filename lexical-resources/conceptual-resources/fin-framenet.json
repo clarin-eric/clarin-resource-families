@@ -1,0 +1,16 @@
+{
+      "Name": "Finnish FrameNet",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2019040201",
+      "Family": "Conceptual resources",
+      "Description": "This is a wordnet that is available for online browsing through FIN-CLARIN.",
+      "Language": ["fin"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["866 frames"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://sanat.csc.fi/wiki/FinnFrameNet"
+	},
+      "Publication": "Lindén et al. (2017)"
+}

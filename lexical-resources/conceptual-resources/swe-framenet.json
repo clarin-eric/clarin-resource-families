@@ -1,0 +1,17 @@
+{
+      "Name": "Swedish FrameNet (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/41",
+      "Family": "Conceptual resources",
+      "Description": "This is a Swedish conceptual resource that employs the FrameNet++ annotation. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["1,195 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/karp/#?mode=swefn",
+	"Download": "http://hdl.handle.net/10794/41"
+	},
+      "Publication": ""
+}

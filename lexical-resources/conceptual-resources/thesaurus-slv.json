@@ -1,0 +1,16 @@
+{
+      "Name": "Thesaurus of Modern Slovene 1.0",
+      "URL": "http://hdl.handle.net/11356/1166",
+      "Family": "Conceptual resources",
+      "Description": "This is a thesaurus of the modern Slovenian language that is available for download from CLARIN.SI",
+      "Language": ["slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["105,473 entries"],
+      "Annotation": ["core and near synonymy"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1166"
+	},
+      "Publication": "Krek et al. (2017)"
+}

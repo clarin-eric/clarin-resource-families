@@ -1,0 +1,16 @@
+{
+      "Name": "NE_SUMO_PLWN_mapping",
+      "URL": "http://hdl.handle.net/11321/286",
+      "Family": "Conceptual resources",
+      "Description": "This conceptual resource provides a mapping between named entities types, SUMO categories and plWordNet synsets. The resource is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC BY SA 4.0",
+      "Size": ["120 terms"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/286"
+	},
+      "Publication": ""
+}

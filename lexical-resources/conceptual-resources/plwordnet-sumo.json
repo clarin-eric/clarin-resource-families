@@ -1,0 +1,16 @@
+{
+      "Name": "PLWordNet to Sumo mapping",
+      "URL": "http://hdl.handle.net/11321/529",
+      "Family": "Conceptual resources",
+      "Description": "This conceptual resource provides a mapping of plWordNet onto the SUMO ontology. The resource is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["175,635 synsets mapped to SUMO"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/529"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "GermaNet",
+      "URL": "http://www.sfs.uni-tuebingen.de/GermaNet/",
+      "Family": "Conceptual resources",
+      "Description": "This wordnet is available for download from a dedicated webpage hosted by Uni Tübingen/CLARIN-D.",
+      "Language": ["deu"],
+      "Licence": "CLARIN ACA",
+      "Size": ["61,659 synsets"],
+      "Annotation": ["MSD-tags", "lexical relations (hypernymy, hyponymy)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://www.sfs.uni-tuebingen.de/GermaNet/germanet_structure.shtml"
+	},
+      "Publication": "Henrich et al. (2011)"
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Polytropon EL Conceptual Lexicon",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2862-5",
+      "Family": "Conceptual resources",
+      "Description": "This is a lexicon of lexical-semantic relations (e.g. synonymy, antonymy); lexical relations (e.g. word families, allomorphs, syntactic variants); morphosyntactic features (PoS, gender, declension, etc.), which is not yet available for download.",
+      "Language": ["ell"],
+      "Licence": "under negotiation",
+      "Size": ["4,000 Multi Word units", "15,000 tokens "],
+      "Annotation": ["lemmas", "MSD-tags", "Lexical relations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	},
+      "Publication": ""
+}

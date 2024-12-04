@@ -1,0 +1,17 @@
+{
+      "Name": "plWordNet 4.0",
+      "URL": "http://hdl.handle.net/11321/554",
+      "Family": "Conceptual resources",
+      "Description": "This is a lexico-semantic network which reflects the lexical system of the Polish language with projection to the English language, Słowosieć. The resource is available for download and browsing.",
+      "Language": ["pol", "eng"],
+      "Licence": "plwordnet-2",
+      "Size": ["506,815 senses", "347,564 synsets"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://plwordnet.pwr.wroc.pl/wordnet/",
+	"Download": "http://hdl.handle.net/11321/554"
+	},
+      "Publication": "Maziarz et al. (2016)"
+}

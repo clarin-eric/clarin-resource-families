@@ -1,0 +1,16 @@
+{
+      "Name": "DanNet, Danish Wordnet (v 2.2)",
+      "URL": "http://hdl.handle.net/20.500.12115/25",
+      "Family": "Conceptual resources",
+      "Description": "This wordnet is available for download from the CLARIN-DK repository. The resource is available in the <a href=\"http://hdl.handle.net/20.500.12115/24\">.csv</a> and <a href=\"http://hdl.handle.net/20.500.12115/25\">.owl</a> formats.",
+      "Language": ["dan"],
+      "Licence": "DanNet 1.0 Licence",
+      "Size": ["65,000 entries"],
+      "Annotation": ["hypernymy", "hyperonymy"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12115/25"
+	},
+      "Publication": "Pedersen et al. (2009)"
+}

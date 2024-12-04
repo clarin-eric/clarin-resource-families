@@ -1,0 +1,17 @@
+{
+      "Name": "WordNet-SALDO (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/47",
+      "Family": "Conceptual resources",
+      "Description": "This wordnet represents a link between SALDO senses and Core WordNet. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["6,989 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=wordnet-saldo",
+	"Download": "http://hdl.handle.net/10794/47"
+	},
+      "Publication": ""
+}

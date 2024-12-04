@@ -1,0 +1,16 @@
+{
+      "Name": "The Sanat Version of the Finnish TransFrameNet",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-2019040503",
+      "Family": "Conceptual resources",
+      "Description": "This is a framenet that is available for online browsing through FIN-CLARIN.",
+      "Language": ["fin", "eng"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["866 frames"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "https://sanat.csc.fi/wiki/Luokka:TransFrameNet"
+	},
+      "Publication": "Lindén et al. (2019)"
+}

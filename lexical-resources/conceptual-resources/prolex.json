@@ -1,0 +1,16 @@
+{
+      "Name": "Prolex",
+      "URL": "https://hdl.handle.net/11403/prolex/v3.1",
+      "Family": "Conceptual resources",
+      "Description": "This is an ontology of place names available for download from Ortolang.",
+      "Language": ["fra", "eng", "pol", "srp"],
+      "Licence": "Licence Publique Générale Amoindrie GNU",
+      "Size": ["72,572 lexical relations"],
+      "Annotation": ["inflected forms"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/prolex/v3.1"
+	},
+      "Publication": ""
+}

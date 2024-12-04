@@ -1,0 +1,17 @@
+{
+      "Name": "The Icelandic Wordweb",
+      "URL": "http://hdl.handle.net/20.500.12537/117",
+      "Family": "Conceptual resources",
+      "Description": "This is a database of words, categorizations and word relations. The new version consists of a single, large RDF file that houses the Wordweb’s content and is encoded with a standardized vocabulary.\nThe Wordweb is available for download through the CLARIN.IS repository and is available for online browsing through a dedicated webpage.",
+      "Language": ["isl"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["lemmas", "concept-based relations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://ordanet.is/",
+	"Download": "http://hdl.handle.net/20.500.12537/117"
+	},
+      "Publication": "Jónsson and Úlfarsdóttir (2011)"
+}

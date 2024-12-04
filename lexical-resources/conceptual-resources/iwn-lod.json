@@ -1,0 +1,16 @@
+{
+      "Name": "IWN-LOD",
+      "URL": "http://hdl.handle.net/20.500.11752/ILC-66",
+      "Family": "Conceptual resources",
+      "Description": "This is an RDF–Linguistic Open Data version of the ItalWordNet v.2. The resource is available for download through ILC4CLARIN.",
+      "Language": ["ita"],
+      "Licence": "",
+      "Size": ["49,350 synsets"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/ILC-66"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian Wordnet 2.1",
+      "URL": "http://doi.org/10.15155/1-00-0000-0000-0000-0013AL",
+      "Family": "Conceptual resources",
+      "Description": "This is a wordnet that is available for download from META-SHARE (CELR distribution).",
+      "Language": ["est"],
+      "Licence": "CC-BY-SA",
+      "Size": ["115,318 keywords", "84,150 synets"],
+      "Annotation": ["PoS-tags", "synonymy", "antonymy", "hypernymy", "hyponymy", "meronymy"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://doi.org/10.15155/1-00-0000-0000-0000-0013AL"
+	},
+      "Publication": ""
+}
