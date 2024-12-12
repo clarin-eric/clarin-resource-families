@@ -6,7 +6,7 @@
       "Languages": ["eng"],
       "Licence": "CC-BY",
       "Size": ["2472 words/transcript"],
-      "Annotation": [],
+      "Annotation": ["unannotated"],
       "Infrastructure": "CLARIN",
       "Group": "Monolingual corpora",
       "Subgroup": "Spoken corpora",
