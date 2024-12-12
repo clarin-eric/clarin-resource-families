@@ -6,7 +6,7 @@
       "Languages": ["eng"],
       "Licence": "CC-BY",
       "Size": ["2761 texts"],
-      "Annotation": [],
+      "Annotation": ["PoS-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",
       "Group": "Monolingual corpora",
       "Subgroup": "Written corpora",
