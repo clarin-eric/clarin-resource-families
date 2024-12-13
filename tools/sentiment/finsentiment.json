@@ -7,7 +7,7 @@
       "Domain": "product review, social media",
       "Sentiment type": "document and sentence-level sentiment",
       "Language": ["fin"],
-      "Licence": "",
+      "Licence": "The MIT Licence",
       "Platform": [],
       "Infrastructure": "FIN-CLARIN",
       "Access": {
