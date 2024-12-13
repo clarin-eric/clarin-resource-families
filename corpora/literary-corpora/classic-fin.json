@@ -6,7 +6,7 @@
       "Language": ["fin","swe"],
       "Licence": "CC-BY",
       "Size": [],
-      "Annotation": [],
+      "Annotation": ["PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://www.kielipankki.fi/corpora/nlfcl-fi-authors/"
