@@ -1,0 +1,16 @@
+{
+      "Name": "Digital Dictionary of the German Language (DWDS)",
+      "URL": "https://www.dwds.de/",
+      "Family": "Dictionaries",
+      "Description": "This collection consists of the following digitized dictionaries:\n<ol>     <li><a href=\"https://www.dwds.de/d/wb-wdg\">Dictionary of contemporary German</a></li>     <li><a href=\"https://www.dwds.de/d/wb-dwdswb\">DWDS-Dictionary</a></li>     <li><a href=\"https://www.dwds.de/d/wb-etymwb\">Etymological dictionary of German</a></li>     <li><a href=\"https://www.dwds.de/d/wb-1dwb\">The German Dictionary by Jacob Grimm and Wilhelm Grimm</a></li>     <li><a href=\"https://www.dwds.de/d/wb-duden\">The Great Dictionary of the German Language in 10 Volumes</a></li>     <li><a href=\"https://www.dwds.de/d/wb-openthesaurus\">OpenThesaurus</a></li>    </ol>\nThis collection is available for online browsing from a dedicated environment associated with CLARIN-D.",
+      "Language": ["deu"],
+      "Licence": "",
+      "Size": ["approx. 500,000 entries"],
+      "Annotation": ["morphosyntactic information", "pronunciation", "etymology", "lexical relations", "examples of use", "typical word connections"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.dwds.de/"
+	},
+      "Publication": ""
+}

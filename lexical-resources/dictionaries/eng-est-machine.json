@@ -1,0 +1,16 @@
+{
+      "Name": "English-Estonian Machine Translation Dictionary",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-0001CL",
+      "Family": "Dictionaries",
+      "Description": "This is a constantly incremented English-Estonian online dictionary, which is helpful in both human and machine translation. The resource is available for online browsing.",
+      "Language": ["est", "eng"],
+      "Licence": "BSD - Style",
+      "Size": ["90,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/dict/ies/"
+	},
+      "Publication": ""
+}

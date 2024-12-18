@@ -1,0 +1,17 @@
+{
+      "Name": "Online Lexicon of Veps Language",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730178",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of the Veps Language available for online browsing through FIN-CLARIN.",
+      "Language": ["Veps"],
+      "Licence": "EUPL",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/sanat/vepsa/",
+	"Download": "http://urn.fi/urn:nbn:fi:lb-20140730178"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Anglų kalbos žodynas",
+      "URL": "https://www.angluzodynas.lt/",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary available for online browsing.",
+      "Language": ["lit", "eng"],
+      "Licence": "",
+      "Size": ["150,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.angluzodynas.lt/"
+	},
+      "Publication": ""
+}

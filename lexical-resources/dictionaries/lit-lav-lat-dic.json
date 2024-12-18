@@ -1,0 +1,16 @@
+{
+      "Name": "Lithuanian-Latvian-Latgalian Dictionary (LLL)",
+      "URL": "http://hipilatlit.ru.lv/dictionary/eng/dictionary.html",
+      "Family": "Dictionaries",
+      "Description": "This is a trilingual dictionary that is available for online browsing through a dedicated environment.",
+      "Language": ["lit", "lav", "ltg"],
+      "Licence": "",
+      "Size": ["42,061 headwords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://hipilatlit.ru.lv/dictionary/eng/dictionary.html"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "The Estonian-Latvian-Estonian Dictionary",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-05B4BL",
+      "Family": "Dictionaries",
+      "Description": "This bilingual dictionary is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est", "lav"],
+      "Licence": "CLARIN ACA",
+      "Size": ["47,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/et-lv/",
+	"Download": "http://10.0.59.51/3-00-0000-0000-0000-05B4BL"
+	},
+      "Publication": ""
+}

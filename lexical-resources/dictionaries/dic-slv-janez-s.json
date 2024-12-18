@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of the Slovenian Language in the Works of Janez Svetokriški",
+      "URL": "http://hdl.handle.net/11356/1092",
+      "Family": "Dictionaries",
+      "Description": "This is a historical dictionary compiling the works of Janez Svetokriški. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["8,540 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.fran.si/139/slovar-jezika-janeza-svetokriskega",
+	"Download": "http://hdl.handle.net/11356/1092"
+	},
+      "Publication": ""
+}

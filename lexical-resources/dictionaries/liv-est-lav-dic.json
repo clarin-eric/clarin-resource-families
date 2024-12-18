@@ -1,0 +1,16 @@
+{
+      "Name": "Livonian-Estonian-Latvian Dictionary",
+      "URL": "http://www.livones.net/lingua/en",
+      "Family": "Dictionaries",
+      "Description": "This is a trilingual dictionary that is available for online browsing.",
+      "Language": ["Livonian", "est", "lav"],
+      "Licence": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.livones.net/lingua/en"
+	},
+      "Publication": ""
+}

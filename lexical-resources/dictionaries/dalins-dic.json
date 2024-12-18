@@ -1,0 +1,17 @@
+{
+      "Name": "Dalin's Dictionary (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/16",
+      "Family": "Dictionaries",
+      "Description": "Dalin's Dictionary of 19th century Swedish. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["62,975 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/karp/#?mode=dalin&resources=dalin,dalinm,dalin-base",
+	"Download": "http://hdl.handle.net/10794/16"
+	},
+      "Publication": ""
+}

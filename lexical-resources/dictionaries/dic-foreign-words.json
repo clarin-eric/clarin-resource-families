@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of Foreign Words",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-05AF7L",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary that contains widespread Estonian words of foreign origin. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CC-BY",
+      "Size": ["33,000 keywords"],
+      "Annotation": ["orthography, inflection, semantics and etymology of the words; for many unadapted foreign words the pronunciation is given, both audio and written; the understanding and use of the words is facilitated by labels and cross-references."],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/vsl/",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-05AF7L"
+	},
+      "Publication": ""
+}

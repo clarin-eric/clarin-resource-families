@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of the Kihnu Dialect",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-06326L",
+      "Family": "Dictionaries",
+      "Description": "This is the first dictionary of the Hiiu vernacular. The entries also give sentence examples with reference to their source parish. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["6,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/kihnu/",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-06326L"
+	},
+      "Publication": ""
+}

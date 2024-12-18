@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of Estonian Antonyms",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05929L",
+      "Family": "Dictionaries",
+      "Description": "This dictionary contains antonym pairs, most of which belong to general language. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["2,000 antonym pairs"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/dict/antonyymid",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05929L"
+	},
+      "Publication": ""
+}

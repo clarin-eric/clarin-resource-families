@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of Estonian Dialects (2013-...)",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-06338L",
+      "Family": "Dictionaries",
+      "Description": "This is a dialectal dictionary with phonetic and grammatical information, information on the area of distribution, and meaning of dialectal words. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["60,000 keywords"],
+      "Annotation": ["geographical distribution", "phonetic/phonological information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/ems/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-06338L"
+	},
+      "Publication": ""
+}

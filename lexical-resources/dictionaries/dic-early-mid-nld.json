@@ -1,0 +1,16 @@
+{
+      "Name": "Early Middle Dutch Dictionary (VMNW)",
+      "URL": "http://hdl.handle.net/10032/acf1047f579abaf7a2de3664a73c2e35",
+      "Family": "Dictionaries",
+      "Description": "This is a historical dictionary of Early Medieval Dutch vocabulary from the period between 1200 and 1300. The resource is available for online browsing through the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["25,000 lemmas"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://hdl.handle.net/10032/acf1047f579abaf7a2de3664a73c2e35"
+	},
+      "Publication": ""
+}

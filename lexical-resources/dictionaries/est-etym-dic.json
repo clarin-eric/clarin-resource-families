@@ -1,0 +1,17 @@
+{
+      "Name": "The Estonian Etymological Dictionary",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05770L",
+      "Family": "Dictionaries",
+      "Description": "This etymological dictionary is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["6,600 keywords"],
+      "Annotation": ["origin of Estonian word stems and the genetic links between words (loanwords, genuine stems, artificially coined stems etc)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/ety/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05770L"
+	},
+      "Publication": ""
+}

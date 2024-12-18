@@ -1,0 +1,17 @@
+{
+      "Name": "The Estonian-Udmurt Dictionary",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05BEEL",
+      "Family": "Dictionaries",
+      "Description": "This is the first-ever bilingual dictionary of Estonian and Udmurt that also accounts for dialectal variation. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est", "Udmurt"],
+      "Licence": "CLARIN ACA",
+      "Size": ["10,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/dict/eud/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05BEEL"
+	},
+      "Publication": ""
+}

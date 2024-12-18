@@ -1,0 +1,17 @@
+{
+      "Name": "The Estonian-Mari Dictionary",
+      "URL": "https://doi.org/10.15155/3-00-0000-0000-0000-0668BL",
+      "Family": "Dictionaries",
+      "Description": "This bilingual dictionary is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est", "Mari"],
+      "Licence": "CLARIN ACA",
+      "Size": ["9,800 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/mari/",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-0668BL"
+	},
+      "Publication": ""
+}

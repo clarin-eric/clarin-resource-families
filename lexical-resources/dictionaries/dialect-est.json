@@ -1,0 +1,17 @@
+{
+      "Name": "The Dialectological Dictionary of Estonian",
+      "URL": "https://www.doi.org/10.15155/3-00-0000-0000-0000-05923L",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary that provides a survey of Estonian dialect words and their areal distribution. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "proprietary",
+      "Size": ["73,397 keywords"],
+      "Annotation": ["geographical distribution"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/dict/vms",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05923L"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "First Estonian Slang Dictionary",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05AEFL",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of Estonian slang that is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "proprietary",
+      "Size": ["7,500 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/dict/slang",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05AEFL"
+	},
+      "Publication": ""
+}

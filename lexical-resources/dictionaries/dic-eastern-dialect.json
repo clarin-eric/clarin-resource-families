@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of the Eastern Dialect",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05B53L",
+      "Family": "Dictionaries",
+      "Description": "This is a dialectal dictionary. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["7,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/ida/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05B53L"
+	},
+      "Publication": ""
+}

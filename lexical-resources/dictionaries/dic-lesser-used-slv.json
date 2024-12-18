@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of Lesser Used Slovenian Words",
+      "URL": "http://hdl.handle.net/11356/1130",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary that contains entries that were not included in the Dictionary of the Slovenian Standard Language. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["178,457 entries"],
+      "Annotation": ["MSD-tags"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://bos.zrc-sazu.si/besedisc.html",
+	"Download": "http://hdl.handle.net/11356/1130"
+	},
+      "Publication": ""
+}

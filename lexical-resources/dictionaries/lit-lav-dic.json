@@ -1,0 +1,16 @@
+{
+      "Name": "Lithuanian-Latvian Dictionary",
+      "URL": "https://hdl.handle.net/11372/LRT-558",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for online browsing.",
+      "Language": ["lit", "lav"],
+      "Licence": "<a href=\"https://www.letonika.lv/article.aspx?id=noteikumi\">Terms of Use</a>",
+      "Size": ["60,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.letonika.lv/ltlv/"
+	},
+      "Publication": ""
+}

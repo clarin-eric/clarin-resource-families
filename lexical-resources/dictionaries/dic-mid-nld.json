@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionary of Middle Dutch (MNW)",
+      "URL": "http://hdl.handle.net/10032/9e0745558fa2cd9fd111b9995eb88615",
+      "Family": "Dictionaries",
+      "Description": "This is a historical dictionary of Medieval Dutch vocabulary from the period between 1250 and 1550. The resource is available for online browsing through the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": ["60,000 lemmas"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://hdl.handle.net/10032/9e0745558fa2cd9fd111b9995eb88615"
+	},
+      "Publication": ""
+}

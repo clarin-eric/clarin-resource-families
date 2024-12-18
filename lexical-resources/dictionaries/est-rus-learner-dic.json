@@ -1,0 +1,17 @@
+{
+      "Name": "Estonian-Russian Learner's Orthographic Dictionary",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-05B4DL",
+      "Family": "Dictionaries",
+      "Description": "The Estonian-Russian Learner's dictionary is mainly meant for those learners of Estonian whose mother tongue is Russian or who learn it through Russian. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est", "rus"],
+      "Licence": "CLARIN ACA",
+      "Size": ["23,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/qqv/",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-05B4DL"
+	},
+      "Publication": ""
+}

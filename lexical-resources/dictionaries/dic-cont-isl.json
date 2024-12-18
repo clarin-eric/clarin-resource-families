@@ -1,0 +1,17 @@
+{
+      "Name": "A Dictionary of Contemporary Icelandic",
+      "URL": "http://hdl.handle.net/20.500.12537/94",
+      "Family": "Dictionaries",
+      "Description": "The dictionary, which is based on the multilingual <a href=\"http://hdl.handle.net/20.500.12537/10\">ISLEX dictionary</a>, describes Icelandic vocabulary from around 1950 up to the present date. Important words belonging to older stages of the language are also included, in addition to Old Icelandic words that students may encounter in their studies (such as bolöxi, fjörbaugsgarður, hjálmvölur and jarteikn). New words are added to the dictionary now and then and the definitions and examples are constantly being updated. All headwords have links to sound files with their pronunciation, and inflections are shown by links to the <a href=\"http://hdl.handle.net/20.500.12537/5\">Database of Modern Icelandic Inflection</a>.\nThis dictionary is available for download from the CLARIN.IS repository and for online browsing through a dedicated interface.",
+      "Language": ["isl"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["56,000 entries"],
+      "Annotation": ["morphosyntactic information", "pronunciation with sound excerpts"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://islenskordabok.arnastofnun.is/",
+	"Download": "http://hdl.handle.net/20.500.12537/94"
+	},
+      "Publication": ""
+}

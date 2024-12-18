@@ -1,0 +1,16 @@
+{
+      "Name": "Latvian-Latgalian Dictionary",
+      "URL": "http://vuordineica.lv/",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for online browsing.",
+      "Language": ["lav", "ltg"],
+      "Licence": "browsable",
+      "Size": ["25,700 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://vuordineica.lv/"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "ISLEX",
+      "URL": "http://hdl.handle.net/20.500.12537/10",
+      "Family": "Dictionaries",
+      "Description": "This multilingual dictionary is available for download from CLARIN-IS as well as for online browsing.",
+      "Language": ["isl", "dan" "nob", "nno", "swe", "fao"],
+      "Licence": "CC-BY-NC-ND",
+      "Size": ["3200 images", "9800 idiomatic expressions", "50,000 articles"],
+      "Annotation": ["Icelandic headwords with pronunciation (sound files) and inflection; translations into Danish, Norwegian (Bokmål and Nynorsk), Swedish, Faroese"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://islex.hi.is/",
+	"Download": "http://www.malfong.is/index.php?dlid=50&lang=is"
+	},
+      "Publication": "Úlfarsdóttir (2014)"
+}

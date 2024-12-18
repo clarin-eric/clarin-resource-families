@@ -1,0 +1,16 @@
+{
+      "Name": "Mühlenbach­ Endzelin Latvian Dictionary (MEV)",
+      "URL": "http://tezaurs.lv/mev/",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for online browsing.",
+      "Language": ["Latvian (German)"],
+      "Licence": "<a href=\"https://tezaurs.lv/mev/\">Terms of Use</a>",
+      "Size": ["120,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://tezaurs.lv/mev/"
+	},
+      "Publication": ""
+}

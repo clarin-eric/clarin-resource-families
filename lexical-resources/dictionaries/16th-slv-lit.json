@@ -1,0 +1,17 @@
+{
+      "Name": "Words of the 16th-Century Slovenian Literary Language",
+      "URL": "http://hdl.handle.net/11356/1127",
+      "Family": "Dictionaries",
+      "Description": "This is a historical dictionary that provides comprehensive information on the vocabulary used in the Slovenian literary language during the period of the Reformation. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["27,759 entries"],
+      "Annotation": ["PoS-tags", "phonological features"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.fran.si/iskanje?FilteredDictionaryIds=140&View=1&Query=%2A",
+	"Download": "http://hdl.handle.net/11356/1127"
+	},
+      "Publication": ""
+}

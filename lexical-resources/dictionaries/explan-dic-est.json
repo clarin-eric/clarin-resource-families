@@ -1,0 +1,17 @@
+{
+      "Name": "The Explanatory Dictionary of Estonian Language",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-0576BL",
+      "Family": "Dictionaries",
+      "Description": "This is the biggest dictionary of the Estonian language, which covers Estonian standard language as a whole, including spoken language and special languages. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["154,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/ekss/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-0576BL"
+	},
+      "Publication": ""
+}

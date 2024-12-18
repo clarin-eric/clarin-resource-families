@@ -1,0 +1,17 @@
+{
+      "Name": "The Russian-Estonian Dictionary",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05B5BL",
+      "Family": "Dictionaries",
+      "Description": "This bilingual dictionary is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est", "rus"],
+      "Licence": "CC-BY",
+      "Size": ["74,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/ves/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05B5BL"
+	},
+      "Publication": ""
+}

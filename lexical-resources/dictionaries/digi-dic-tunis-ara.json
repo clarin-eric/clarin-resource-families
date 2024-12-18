@@ -1,0 +1,16 @@
+{
+      "Name": "A Digital Dictionary of Tunis Arabic",
+      "URL": "https://id.acdh.oeaw.ac.at/uuid/175b8cdf-5d04-f4d3-a778-67910aa8fd37",
+      "Family": "Dictionaries",
+      "Description": "This dictionary includes entries from the TuniCo corpus and is additionally based on data elicited from complementary interviews with young Tunisians and lexical material taken from published historical sources dating back to the middle of the 20th century. The resource is available for download from ARCHE.",
+      "Language": ["Arabic (Tunis)"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["7,543 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://id.acdh.oeaw.ac.at/uuid/175b8cdf-5d04-f4d3-a778-67910aa8fd37"
+	},
+      "Publication": ""
+}

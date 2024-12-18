@@ -1,0 +1,16 @@
+{
+      "Name": "Multilingual dictionaries",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23C7-8",
+      "Family": "Dictionaries",
+      "Description": "This is a collection of dictionaries created on the basis of Wikipedia articles. The collection is available for download from clarin:el.",
+      "Language": ["ell", "eng", "bul", "ron", "deu", "pol"],
+      "Licence": "CC-BY-NC",
+      "Size": [],
+      "Annotation": ["MSD-tags", "semantic information", "multi-word units"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23C7-8"
+	},
+      "Publication": ""
+}

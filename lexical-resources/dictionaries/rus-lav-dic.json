@@ -1,0 +1,16 @@
+{
+      "Name": "Russian-Latvian Dictionary",
+      "URL": "https://www.letonika.lv/groups/default.aspx?g=2&r=10491062&f=1",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for online browsing.",
+      "Language": ["rus", "lav"],
+      "Licence": "<a href=\"https://www.letonika.lv/article.aspx?id=noteikumi\">Terms of Use</a>",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.letonika.lv/groups/default.aspx?g=2&r=10491062&f=1"
+	},
+      "Publication": ""
+}

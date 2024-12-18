@@ -1,0 +1,16 @@
+{
+      "Name": "Norwegian Bokmål-South Saami dictionary",
+      "URL": "http://hdl.handle.net/11509/93",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for download from CLARINO.",
+      "Language": ["nob", "sma"],
+      "Licence": "CC-BY 3.0",
+      "Size": ["12,951 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11509/93"
+	},
+      "Publication": ""
+}

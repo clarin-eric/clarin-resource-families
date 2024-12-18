@@ -1,0 +1,16 @@
+{
+      "Name": "Voiced Electronic Grammatical Dictionary",
+      "URL": "https://corpus.by/VoicedElectronicGrammaticalDictionary/?lang=en",
+      "Family": "Dictionaries",
+      "Description": "This dictionary provides information on the correct spelling, pronunciation and parts-of-speech of words. Additionally, the dictionary allows researchers to listen to the pronunciation of words.\nThe dictionary is available for online browsing through the CLARIN Knowledge Centre for Belarusian text and speech processing.",
+      "Language": ["bel", "eng", "rus"],
+      "Licence": "CC BY-NC 4.0",
+      "Size": [],
+      "Annotation": ["pronunciation", "PoS"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://corpus.by/VoicedElectronicGrammaticalDictionary/?lang=en"
+	},
+      "Publication": ""
+}

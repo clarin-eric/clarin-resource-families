@@ -1,0 +1,15 @@
+{
+      "Name": "Basic English-Maltese Dictionary",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D30F-7",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary of alphabetically ordered English lemmas with their Maltese translation and Maltese pronunciation. The resource is unavailable for download or online browsing, but can be accessed by contacting the resource manager.",
+      "Language": ["mlt", "eng"],
+      "Licence": "MS-BY-NC-SA",
+      "Size": ["5,458 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	},
+      "Publication": ""
+}

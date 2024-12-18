@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionary of Contemporary Finnish",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201411261",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of modern Finnish that is available for online browsing through the Language Bank of Finland.",
+      "Language": ["fin"],
+      "Licence": "CLARIN RES",
+      "Size": ["100,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.kielitoimistonsanakirja.fi/"
+	},
+      "Publication": ""
+}

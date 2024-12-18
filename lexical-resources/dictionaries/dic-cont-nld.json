@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionary of Contemporary Dutch (ANW)",
+      "URL": "http://hdl.handle.net/10032/3aa9c824f9e17c284b2f683f7f22cdef",
+      "Family": "Dictionaries",
+      "Description": "This dictionary describes Dutch vocabulary from 1970 onwards. The resource is available for online browsing through a platform provided by the Dutch Language Institute (INT).\nFor a list of related publications, see the following <a href=\"http://anw.inl.nl/publicaties\">webpage</a>.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": ["255,239 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://hdl.handle.net/10032/3aa9c824f9e17c284b2f683f7f22cdef"
+	},
+      "Publication": ""
+}

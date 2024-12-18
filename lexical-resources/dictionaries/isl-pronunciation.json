@@ -1,0 +1,16 @@
+{
+      "Name": "Icelandic Pronunciation Dictionary",
+      "URL": "http://hdl.handle.net/20.500.12537/181",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary with pronunciation information for common Icelandic words. The resource is available for download from the CLARIN-IS repository.",
+      "Language": ["isl"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["65,000 words"],
+      "Annotation": ["IPA and SAMPA phonetic transcription"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/181"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Kven-Norwegian Bokmål dictionary",
+      "URL": "http://hdl.handle.net/11509/89",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for download from CLARINO.",
+      "Language": ["Kven Finnish", "nob"],
+      "Licence": "CC-BY 3.0",
+      "Size": ["8,468 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11509/89"
+	},
+      "Publication": ""
+}

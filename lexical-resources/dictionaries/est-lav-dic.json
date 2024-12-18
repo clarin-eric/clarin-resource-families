@@ -1,0 +1,16 @@
+{
+      "Name": "Estonian-Latvian Dictionary",
+      "URL": "https://www.letonika.lv/eelv/",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for online browsing.",
+      "Language": ["est", "lav"],
+      "Licence": "<a href=\"https://www.letonika.lv/article.aspx?id=noteikumi\">Terms of Use</a>",
+      "Size": ["25,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.letonika.lv/eelv/"
+	},
+      "Publication": ""
+}

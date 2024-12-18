@@ -1,0 +1,16 @@
+{
+      "Name": "Specialized Phonetic Dictionary",
+      "URL": "https://corpus.by/SpecializedPhoneticDictionary/?lang=en",
+      "Family": "Dictionaries",
+      "Description": "This dictionary contains words from specialised topics. The dictionary is available for online browsing through a service provided by the CLARIN Knowledge Centre for Belarusian text and speech processing.",
+      "Language": ["rus"],
+      "Licence": "CC BY-NC 4.0",
+      "Size": ["13,713 wordforms"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://corpus.by/SpecializedPhoneticDictionary/?lang=en"
+	},
+      "Publication": ""
+}

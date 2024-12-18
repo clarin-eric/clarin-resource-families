@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of New Slovenian Words",
+      "URL": "http://hdl.handle.net/11356/1091",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of new words and neologisms. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["6,399 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.fran.si/131/snb-slovar-novejsega-besedja",
+	"Download": "http://hdl.handle.net/11356/1091"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of Contemporary Latvian Language (MLVV)",
+      "URL": "http://hdl.handle.net/20.500.12574/88",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary that contains examples of the standard Latvian language.\nThe dictionary is available for online browsing and for download from the CLARIN-LV repository.",
+      "Language": ["lav"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["58,204 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://tezaurs.lv/mlvv/",
+	"Download": "http://hdl.handle.net/20.500.12574/88"
+	},
+      "Publication": ""
+}

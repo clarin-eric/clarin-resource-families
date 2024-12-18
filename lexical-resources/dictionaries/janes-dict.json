@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of Twitterese Janes-Dict 1.0",
+      "URL": "http://hdl.handle.net/11356/1172",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of computer-mediated communication appearing on Twitter. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["1,002 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://lexonomy.cjvt.si/slovar-tviterscine/",
+	"Download": "http://hdl.handle.net/11356/1172"
+	},
+      "Publication": "Gantar et al. (2016)"
+}

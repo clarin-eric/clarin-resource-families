@@ -1,0 +1,16 @@
+{
+      "Name": "A digital dictionary of Modern Standard Arabic",
+      "URL": "http://hdl.handle.net/11022/0000-0007-C265-C",
+      "Family": "Dictionaries",
+      "Description": "This small-sized dictionary of Modern Standard Arabic has mainly been compiled for comparative and didactic purposes. The resource is available for download from ARCHE.",
+      "Language": ["Arabic (Modern Standard)"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["2,418 entries"],
+      "Annotation": ["basic morphological information, a few usage examples"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0007-C265-C"
+	},
+      "Publication": ""
+}

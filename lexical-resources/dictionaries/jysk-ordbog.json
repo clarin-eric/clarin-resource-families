@@ -1,0 +1,16 @@
+{
+      "Name": "Jysk Ordbog (a-h), 17. April, 2011, xml-edition",
+      "URL": "http://hdl.handle.net/20.500.12115/27",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of Danish dialects spoken in Jutland between 1700 and 1920. The resource is available for download from CLARIN-DK.",
+      "Language": ["dan"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["16,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12115/27"
+	},
+      "Publication": ""
+}

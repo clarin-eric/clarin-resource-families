@@ -1,0 +1,16 @@
+{
+      "Name": "North Saami-Finnish dictionary",
+      "URL": "http://hdl.handle.net/11509/97",
+      "Family": "Dictionaries",
+      "Description": "This is a bilingual dictionary that is available for download from CLARINO.",
+      "Language": ["sme", "fin"],
+      "Licence": "CC-BY 3.0",
+      "Size": ["11,297 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11509/97"
+	},
+      "Publication": ""
+}

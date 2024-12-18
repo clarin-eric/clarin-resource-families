@@ -1,0 +1,16 @@
+{
+      "Name": "Etymological Database of the Saami Languages",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730111",
+      "Family": "Dictionaries",
+      "Description": "This is an etymological knowledge base available for online browsing through FIN-CLARIN.",
+      "Language": ["Saami languages", "fin"],
+      "Licence": "EUPL",
+      "Size": ["growing"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.kotus.fi/index.phtml?s=143"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Historical Dictionary of Latvian (16th-17th Centuries) (LVVV)",
+      "URL": "http://hdl.handle.net/20.500.12574/3",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of Latvian from the period between the 16th and 17th centuries with a reference to the \"Historical Corpus of the Latvian Language\". The resource is available for online browsing.",
+      "Language": ["lav"],
+      "Licence": "",
+      "Size": ["1,800 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://tezaurs.lv/lvvv/"
+	},
+      "Publication": "Andronova et al. (2016)"
+}

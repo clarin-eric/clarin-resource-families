@@ -1,0 +1,17 @@
+{
+      "Name": "Japanese-Slovene learner's dictionary jaSlo 3.1",
+      "URL": "http://hdl.handle.net/11356/1050",
+      "Family": "Dictionaries",
+      "Description": "This is a learner’s dictionary for Slovenian students of Japanese. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv", "jpn"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["9,891 entries"],
+      "Annotation": ["headwords in all Japanese scripts", "PoS-tags", "difficulty level", "Slovene glosses", "Slovenian translation equivalents", "examples of use"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://nl.ijs.si/jaslo/cgi/jaslo.pl",
+	"Download": "http://hdl.handle.net/11356/1050"
+	},
+      "Publication": ""
+}

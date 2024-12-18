@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of Old Võru Dialect",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-0679AL",
+      "Family": "Dictionaries",
+      "Description": "This dictionary is on the archaic Võru dialect spoken in the second half of the 19th and in the first half of the 20th century. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CC-BY",
+      "Size": ["10,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/Voru_murde_sonaraamat.pdf",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-0679AL"
+	},
+      "Publication": ""
+}

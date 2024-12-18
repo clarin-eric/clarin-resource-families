@@ -1,0 +1,17 @@
+{
+      "Name": "Low-German Loanwords in the Estonian Language",
+      "URL": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05AF1L",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of Low-German loanwords. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["1,150 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/asl/",
+	"Download": "http://www.doi.org/10.15155/3-00-0000-0000-0000-05AF1L"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "The Dictionary of Estonian Word Families - Index",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-064DFL",
+      "Family": "Dictionaries",
+      "Description": "A word family consists of all the words that are linked by formative processes and share one and the same word stem. The resource is available for online browsing.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["120,000 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/dict/spi/"
+	},
+      "Publication": ""
+}

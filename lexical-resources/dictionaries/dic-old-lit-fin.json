@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionary of Old Literary Finnish",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201411262",
+      "Family": "Dictionaries",
+      "Description": "This is a dictionary of Old Literary Finish. The resource is available for online browsing through the Language Bank of Finland.",
+      "Language": ["fin"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["growing"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/vks"
+	},
+      "Publication": ""
+}

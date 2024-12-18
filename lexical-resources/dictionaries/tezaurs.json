@@ -1,0 +1,17 @@
+{
+      "Name": "Tezaurs.lv (2023 Summer Edition)",
+      "URL": "http://hdl.handle.net/20.500.12574/87",
+      "Family": "Dictionaries",
+      "Description": "This is a comprehensive corpus-based dictionary of the Latvian language.\nThe resource is available for online browsing as well as for download from the CLARIN-LV repository.",
+      "Language": ["lav"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["393,500 entries"],
+      "Annotation": ["phonetic", "morphological", "semantic annotations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://tezaurs.lv/",
+	"Download": "http://hdl.handle.net/20.500.12574/87"
+	},
+      "Publication": "Spektors et al. (2016)"
+}

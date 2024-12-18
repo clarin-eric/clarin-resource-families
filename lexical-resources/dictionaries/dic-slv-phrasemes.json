@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of Slovenian Phrasemes",
+      "URL": "http://hdl.handle.net/11356/1129",
+      "Family": "Dictionaries",
+      "Description": "This is a multiword lexicon available for download from CLARIN.SI and for online browsing through a dedicated environment.",
+      "Language": ["slv"],
+      "Licence": "CC-BY-NC 4.0",
+      "Size": ["3,002 entries"],
+      "Annotation": ["descriptions and explanations of Slovenian phrasemes"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.termania.net/slovarji/127/slovar-slovenskih-clenkov",
+	"Download": "http://hdl.handle.net/11356/1129"
+	},
+      "Publication": ""
+}

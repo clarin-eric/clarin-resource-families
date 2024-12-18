@@ -1,0 +1,16 @@
+{
+      "Name": "Rendering Dictionary of Personal Names",
+      "URL": "https://www.letonika.lv/groups/default.aspx?g=2&r=1109",
+      "Family": "Dictionaries",
+      "Description": "This dictionary contains person names in four languages (Czech, French, Italian and German) and their renderings in Latvian in accordance with the rendering rules of proper nouns. The resource is available for online browsing.",
+      "Language": ["lav"],
+      "Licence": "",
+      "Size": ["4,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.letonika.lv/groups/default.aspx?g=2&r=1109"
+	},
+      "Publication": ""
+}

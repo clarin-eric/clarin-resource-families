@@ -1,0 +1,16 @@
+{
+      "Name": "A digital dictionary of Damascus Arabic",
+      "URL": "http://hdl.handle.net/11022/0000-0007-C093-9",
+      "Family": "Dictionaries",
+      "Description": "This small-sized dictionary of Spoken Damascus Arabic has mainly been compiled for comparative and didactic purposes, and comprises all words in Prochazka's 2-volume textbook Lehrbuch des Syrisch-Arabischen. The resource is available for download from ARCHE.",
+      "Language": ["Arabic (Damascus)"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["4,218 entries"],
+      "Annotation": ["basic morphological information", "usage examples"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0007-C093-9"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "Hellquist's Swedish etymology (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/26",
+      "Family": "Dictionaries",
+      "Description": "This is an etymological dictionary that is available for download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["12,376 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/karp/#?mode=hellqvist",
+	"Download": "http://hdl.handle.net/10794/26"
+	},
+      "Publication": ""
+}

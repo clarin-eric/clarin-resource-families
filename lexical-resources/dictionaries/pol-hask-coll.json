@@ -1,0 +1,16 @@
+{
+      "Name": "Polish Hask Collocation Database",
+      "URL": "http://pelcra.pl/hask_pl/",
+      "Family": "Dictionaries",
+      "Description": "HASK collocation dictionaries are phraseological databases used by linguists, language teachers, lexicographers, language materials developers, translators and other language professionals and casual dictionary users. The resource is available for online browsing through the PELCRA environment.",
+      "Language": ["pol"],
+      "Licence": "CC-BY-NC",
+      "Size": ["106,723 entries containing 5,636,857 combinations"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://pelcra.pl/hask_pl/"
+	},
+      "Publication": ""
+}

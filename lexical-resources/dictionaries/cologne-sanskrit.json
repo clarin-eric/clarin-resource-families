@@ -1,0 +1,17 @@
+{
+      "Name": "Cologne Digital Sanskrit Dictionaries",
+      "URL": "http://hdl.handle.net/11372/LRT-968",
+      "Family": "Dictionaries",
+      "Description": "This is a collection of 37 bilingual Sanskrit dictionaries originally published between 1832 and 1993. There are 11 Sanskrit-English, 3 English-Sanskrit, 2 Sanskrit-French, 5 Sanskrit-German, 1 Sanskrit-Latin, 2 Sanskrit-Sanskrit, and 10 specialized dictionaries.\nThe dictionaries are available for download and for online querying through a dedicated interface. Each dictionary has several types of display, as well as PDF scan and XML files for download.",
+      "Language": ["san", "eng", "fra", "deu", "lat"],
+      "Licence": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "https://sanskrit-lexicon.uni-koeln.de/simple/",
+	"Download": "https://www.sanskrit-lexicon.uni-koeln.de/"
+	},
+      "Publication": "Knapp and Malten (1997)"
+}

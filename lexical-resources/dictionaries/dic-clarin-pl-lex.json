@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionaries of the CLARIN-PL Lexical Platform",
+      "URL": "http://lexp.clarin-pl.eu/",
+      "Family": "Dictionaries",
+      "Description": "This is a collection of the following 4 dictionaries, which are available through the same online environment:\n<ol>     <li><a href=\"http://lexp.clarin-pl.eu/\">Grammatical Dictionary of Polish</a> (334,845 entries)</li>     <li><a href=\"https://eswil.ijp.pan.pl/index.php\">Vilnius Dictionary</a> (108,513 entries)</li>     <li><a href=\"http://spxvi.edu.pl/\">The Polish Electronic Dictionary of the 16th c</a>. (30,700 entries)</li>     <li><a href=\"http://spxvi.edu.pl/\">The Polish Electronic Dictionary of the 17th and 18th c.</a> (38,915 entries)</li>    </ol>\nAll the 4 dictionaries are available through the same online lexical platform developed by CLARIN-PL.",
+      "Language": ["pol"],
+      "Licence": "Other - Institute of Computer Science PAS",
+      "Size": ["512,973 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://lexp.clarin-pl.eu/"
+	},
+      "Publication": ""
+}

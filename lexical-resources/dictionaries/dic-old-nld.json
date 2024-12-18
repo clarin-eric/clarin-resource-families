@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionary of Old Dutch (ONW)",
+      "URL": "http://hdl.handle.net/10032/7abb1eb00a7915589e462e8e94ed19b",
+      "Family": "Dictionaries",
+      "Description": "This is a historical dictionary of Old Dutch vocabulary from the period from the period between 500 and 1200. The resource is available for online browsing through the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://hdl.handle.net/10032/7abb1eb00a7915589e462e8e94ed19b"
+	},
+      "Publication": ""
+}

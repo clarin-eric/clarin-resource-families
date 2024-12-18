@@ -1,0 +1,17 @@
+{
+      "Name": "The Online Dictionary of Estonian Sign Language - Estonian",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-0633AL",
+      "Family": "Dictionaries",
+      "Description": "The dictionary contains over 4,000 entry words, enabling search either by an Estonian word or a by a sign of Estonian sign language.\nThe resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est", "Estonian Sign Language"],
+      "Licence": "CLARIN ACA",
+      "Size": ["4,000 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/viipekeel/",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-0633AL"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Dictionary of Finnish Dialects",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-201411263",
+      "Family": "Dictionaries",
+      "Description": "This is a dialect dictionary that is available for online browsing through the Language Bank of Finland.",
+      "Language": ["fin"],
+      "Licence": "CLARIN RES",
+      "Size": ["growing"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/sms"
+	},
+      "Publication": ""
+}
