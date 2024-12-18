@@ -1,0 +1,16 @@
+{
+      "Name": "ParaDi 2.0",
+      "URL": "http://hdl.handle.net/11234/1-2605",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of single-word paraphrases of Czech verbal multiword expressions. The resource is available for download from LINDAT.",
+      "Language": ["ces"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["1,621 entries"],
+      "Annotation": ["MSD-tags", "syntactic/semantic features"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-2605"
+	},
+      "Publication": ""
+}

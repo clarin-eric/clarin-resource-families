@@ -1,0 +1,16 @@
+{
+      "Name": "Automatically constructed multiword lexicon slMWELex v0.5",
+      "URL": "http://hdl.handle.net/11356/1179",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of multiword expressions available for download from CLARIN.SI.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["47,579 entries"],
+      "Annotation": ["MWEs"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1179"
+	},
+      "Publication": ""
+}

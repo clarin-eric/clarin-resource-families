@@ -1,0 +1,16 @@
+{
+      "Name": "OpeNER Sentiment Lexicon Italian - LMF",
+      "URL": "http://hdl.handle.net/20.500.11752/ILC-73",
+      "Family": "Lexica",
+      "Description": "This is a sentiment lexicon available for download from ILC4CLARIN.",
+      "Language": ["ita"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["24,293 entries"],
+      "Annotation": ["positive/negative/neutral polarity"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/ILC-73"
+	},
+      "Publication": ""
+}

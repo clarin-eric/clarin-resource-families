@@ -1,0 +1,16 @@
+{
+      "Name": "Démonette",
+      "URL": "https://hdl.handle.net/11403/demonette/v2",
+      "Family": "Lexica",
+      "Description": "This is a morphological lexicon available for download from ORTOLANG.",
+      "Language": ["fra"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["96,027 entries"],
+      "Annotation": ["MSD-tags (grace format)", "semantic types"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/demonette/v2"
+	},
+      "Publication": ""
+}

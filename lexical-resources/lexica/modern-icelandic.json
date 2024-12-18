@@ -1,0 +1,17 @@
+{
+      "Name": "Database of Modern Icelandic Inflections",
+      "URL": "http://hdl.handle.net/20.500.12537/162",
+      "Family": "Lexica",
+      "Description": "This is a morphological lexicon created for use in language technology (LT), as a reference for the general public in Iceland, and for use in research on the Icelandic language. The term Modern Icelandic here refers to contemporary Icelandic, i.e. late 20th and 21st century usage. #SEPThe lexicon is available for download and online browsing through CLARIN-IS.",
+      "Language": ["isl"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["305,000 lemmas", "6.5 million inflectional forms", "48,000 non-standard word forms"],
+      "Annotation": ["MSD-tags"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://bin.arnastofnun.is/DMII/",
+	"Download": "http://hdl.handle.net/20.500.12537/162"
+	},
+      "Publication": "Bjarnadóttir (2012)"
+}

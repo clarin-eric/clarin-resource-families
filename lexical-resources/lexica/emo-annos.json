@@ -1,0 +1,16 @@
+{
+      "Name": "Emotional Annotations Dictionary",
+      "URL": "http://hdl.handle.net/11321/553",
+      "Family": "Lexica",
+      "Description": "This is a lexicon with emotional annotation extracted from Polish Wordnet. The resource is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["178,514 elements"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/553"
+	},
+      "Publication": ""
+}

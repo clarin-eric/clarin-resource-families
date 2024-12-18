@@ -1,0 +1,16 @@
+{
+      "Name": "Collocation lexicon of Slovene academic discourse Aleks",
+      "URL": "http://hdl.handle.net/11356/1245",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of entries typical for general Slovene academic discourse. The entries include typical context examples (collocations and examples of use) taken from <a href=\"http://hdl.handle.net/11356/1244\">KAS</a>, a corpus of Slovene academic texts (see also the <a href=\"https://www.clarin.eu/resource-families/corpora-academic-texts\">Academic corpora resource family</a>), i.e. a morphosyntactically tagged synchronous and monolingual corpus, containing more than 1.5 billion words.#SEPThe resource is available for download from CLARIN.SI",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["463 entries"],
+      "Annotation": ["collocations"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1245"
+	},
+      "Publication": ""
+}

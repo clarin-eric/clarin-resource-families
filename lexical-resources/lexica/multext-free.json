@@ -1,0 +1,16 @@
+{
+      "Name": "MULTEXT-East free lexicons 4.0",
+      "URL": "http://hdl.handle.net/11356/1041",
+      "Family": "Lexica",
+      "Description": "These are morphological lexica available for download from the CLARIN.SI repository.",
+      "Language": ["bul", "ces", "eng", "est", "fra", "hun", "ron", "slk", "slv", "ukr"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["3,665,864 entries"],
+      "Annotation": ["MSD-tags", "lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1041"
+	},
+      "Publication": "Erjavec (2011)"
+}

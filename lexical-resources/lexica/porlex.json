@@ -1,0 +1,16 @@
+{
+      "Name": "Porlex",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F933-1",
+      "Family": "Lexica",
+      "Description": "This is a lexicon that provides psycholinguistic and cognitive information that is useful to select stimulus materials for experiments and/or training vocabularies. The resource is available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["27,374 words"],
+      "Annotation": ["orthographic and phonological/phonetic transcriptions, phonetic, MSD-tags, and frequency information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F933-1"
+	},
+      "Publication": ""
+}

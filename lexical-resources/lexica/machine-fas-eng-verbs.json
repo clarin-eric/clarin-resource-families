@@ -1,0 +1,16 @@
+{
+      "Name": "A machine-readable Persian-English glossary of verbs",
+      "URL": "http://hdl.handle.net/11022/0000-0000-0027-4",
+      "Family": "Lexica",
+      "Description": "This lexicon of single-word verbs in Modern Persian is available for download from ARCHE.",
+      "Language": ["Persian-English"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["429 entries"],
+      "Annotation": ["basic morphological information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0000-0027-4"
+	},
+      "Publication": ""
+}

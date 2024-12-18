@@ -1,0 +1,17 @@
+{
+      "Name": "VALLEX 3.0",
+      "URL": "http://hdl.handle.net/11234/1-2307",
+      "Family": "Lexica",
+      "Description": "This is a valency lexicon available for download and online browsing through LINDAT.",
+      "Language": ["ces"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["2,722 entries", "6,711 units", "6,711 frames", "4,586 words"],
+      "Annotation": ["verb senses (characterized by glosses and examples)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://ufal.mff.cuni.cz/vallex/3.0/",
+	"Download": "http://hdl.handle.net/11234/1-2307"
+	},
+      "Publication": "Lopatková et al. (2017)"
+}

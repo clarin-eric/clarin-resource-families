@@ -1,0 +1,16 @@
+{
+      "Name": "The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene",
+      "URL": "http://hdl.handle.net/11356/1318",
+      "Family": "Lexica",
+      "Description": "This lexicon contains manual translations of the <a href=\"http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm\">NRC Emotion Lexicon</a>, which encodes the sentiment of a word (positive, negative) and its emotion association (anger, anticipation, disgust, fear, joy, sadness, surprise, trust) for Croatian, Dutch and Slovene with a binary schema. Manual translations were produced by inspecting and correcting the automatic translations from English provided with the original lexicon. While translations to all 14,182 entries are provided for Slovene and Croatian, only translations for the 6,468 entries that have any sentiment or emotion associated with the word are given for Dutch.\nThe resource is available for download from the CLARIN.SI repository.",
+      "Language": ["hrv", "nld", "slv"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["14,182 entries"],
+      "Annotation": ["word sentiment"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1318"
+	},
+      "Publication": ""
+}

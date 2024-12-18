@@ -1,0 +1,16 @@
+{
+      "Name": "OMBI Dutch-Danish",
+      "URL": "http://hdl.handle.net/10032/tm-a2-b4",
+      "Family": "Lexica",
+      "Description": "This is a bilingual lexicon for language technology applications such as automatic translation, e-learning, multilingual information retrieval, etc. The resource is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld", "dan"],
+      "Licence": "other",
+      "Size": ["46,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-b4"
+	},
+      "Publication": ""
+}

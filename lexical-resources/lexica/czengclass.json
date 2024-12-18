@@ -1,0 +1,17 @@
+{
+      "Name": "CzEngClass 0.2",
+      "URL": "http://hdl.handle.net/11234/1-2824",
+      "Family": "Lexica",
+      "Description": "This is a valency lexicon linked to PDT-Vallex, EngVallex and external resources, such as FrameNet, VerbNet, WordNet, etc. The resource is available for download and online browsing through LINDAT.",
+      "Language": ["ces", "eng"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["200 classes, 3,525 entries"],
+      "Annotation": ["valency and synonymy"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://ufal.mff.cuni.cz/czengclass",
+	"Download": "http://hdl.handle.net/11234/1-2824"
+	},
+      "Publication": ""
+}

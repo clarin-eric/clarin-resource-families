@@ -1,0 +1,16 @@
+{
+      "Name": "STO syntax (v2) - LMF format",
+      "URL": "http://hdl.handle.net/20.500.12115/23",
+      "Family": "Lexica",
+      "Description": "This syntactic lexicon is available for download from the CLARIN-DK repository.",
+      "Language": ["dan"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["84,159 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12115/23"
+	},
+      "Publication": ""
+}

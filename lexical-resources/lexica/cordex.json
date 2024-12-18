@@ -1,0 +1,16 @@
+{
+      "Name": "CORDEX inflectional lookup data 1.0",
+      "URL": "http://hdl.handle.net/11356/1854",
+      "Family": "Lexica",
+      "Description": "This lexicon consists of a pickled dictionary of 111,660 lemmas, and maps these lemmas to their corresponding word forms. This inflectional data lookup module serves as an optional component within the <a href=\"https://github.com/clarinsi/cordex/\">cordex library</a> that significantly improves the quality of the results.\nEach word form in the dictionary is accompanied by its MULTEXT-East morphosytactic descriptions, relevant features (custom features extracted from morphosytactic descriptions with the help of <a href=\"https://gitea.cjvt.si/generic/conversion_utils\">Conversion utilities tool</a> and its frequency within the <a href=\"http://hdl.handle.net/11356/1320\"> Gigafida 2.0 corpus</a>, or Gigafida 1.0 when other information is unavailable. The dictionary is used to select the most frequent word form of a lemma that satisfies additional filtering conditions (ie. find the most utilized word form of lemma \"centralen\" in singular, i.e.\"centralni\").\nThis resource is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["111,660 lemmas"],
+      "Annotation": ["MSD-tagged", "lemmatised", "frequency"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1854"
+	},
+      "Publication": ""
+}

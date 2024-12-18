@@ -1,0 +1,16 @@
+{
+      "Name": "LEX-MWE-PT: Word Combination in Portuguese Language",
+      "URL": "http://hdl.handle.net/21.11115/0000-000B-D4FA-C",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of multiword expressions. The resource is available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["1,198 entries", "12,753 multi word units"],
+      "Annotation": ["lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/21.11115/0000-000B-D4FA-C"
+	},
+      "Publication": ""
+}

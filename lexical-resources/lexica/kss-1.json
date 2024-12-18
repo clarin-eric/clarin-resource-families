@@ -1,0 +1,16 @@
+{
+      "Name": "Slovene sentiment lexicon KSS 1.1",
+      "URL": "http://hdl.handle.net/11356/1097",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of sentiment labels available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["90,620 lexica"],
+      "Annotation": ["lemmas", "sentiment tags"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1097"
+	},
+      "Publication": ""
+}

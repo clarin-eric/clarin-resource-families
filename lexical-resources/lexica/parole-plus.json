@@ -1,0 +1,17 @@
+{
+      "Name": "Parole+ (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/33",
+      "Family": "Lexica",
+      "Description": "This is a lexicon for language technologies which offers access to syntactic information and is connected to SALDO senses. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["24,523 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/karp/#?mode=DEFAULT&resources=parolelexplus",
+	"Download": "http://hdl.handle.net/10794/33"
+	},
+      "Publication": ""
+}

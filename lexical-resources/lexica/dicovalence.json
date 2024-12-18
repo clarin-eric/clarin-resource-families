@@ -1,0 +1,16 @@
+{
+      "Name": "Dicovalence",
+      "URL": "https://hdl.handle.net/11403/dicovalence/v1",
+      "Family": "Lexica",
+      "Description": "This is a verb-valency lexicon.\nThe lexicon specifies certain selectional restrictions, possible term manifestations (pronominal, phrasal), and whether the valency frames can be used in various passive constructions, as well as references to other valency frames for the same infinitive. The resource is available for download from ORTOLANG.",
+      "Language": ["fra"],
+      "Licence": "Licence Publique Générale Amoindrie GNU",
+      "Size": ["8,000 entries"],
+      "Annotation": ["c- and s-selectional restrictions"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/dicovalence/v1"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Dutch Electronic Lexicon of Multiword Expressions",
+      "URL": "http://hdl.handle.net/10032/tm-a2-j9",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of multiword expressions available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["5,000 expressions"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-j9"
+	},
+      "Publication": ""
+}

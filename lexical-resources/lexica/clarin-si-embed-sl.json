@@ -1,0 +1,16 @@
+{
+      "Name": "Word embeddings CLARIN.SI-embed.sl 1.0",
+      "URL": "http://hdl.handle.net/11356/1204",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of word embeddings that is available for download from CLARIN.SI.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["4,560,444 entries"],
+      "Annotation": ["PoS-tags", "lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1204"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Automatically constructed multiword lexicon hrMWELex v0.5",
+      "URL": "http://hdl.handle.net/11356/1177",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of multiword expressions available for download from CLARIN.SI.",
+      "Language": ["hrv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["43,730 entries"],
+      "Annotation": ["multi-word expressions"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1177"
+	},
+      "Publication": "Ljubešić et al. (2015)"
+}

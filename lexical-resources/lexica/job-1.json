@@ -1,0 +1,16 @@
+{
+      "Name": "Slovene sentiment lexicon JOB 1.0",
+      "URL": "http://hdl.handle.net/11356/1112",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of sentiment labels available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC-BY-S15A 4.0",
+      "Size": ["25,524 entries"],
+      "Annotation": ["sentiment tags"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1112"
+	},
+      "Publication": "Bučar et al. (2018)"
+}

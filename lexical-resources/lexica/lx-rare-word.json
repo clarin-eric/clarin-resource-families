@@ -1,0 +1,16 @@
+{
+      "Name": "LX-Rare Word Similarity Dataset",
+      "URL": "http://hdl.handle.net/21.11115/0000-000B-D38D-8",
+      "Family": "Lexica",
+      "Description": "This is a word-similarity lexicon available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["2,034 words"],
+      "Annotation": ["synonyms"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/21.11115/0000-000B-D38D-8"
+	},
+      "Publication": ""
+}

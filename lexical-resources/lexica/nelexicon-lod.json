@@ -1,0 +1,16 @@
+{
+      "Name": "Extended dictionary of named entities NELexicon connected with Linked Open Data",
+      "URL": "http://hdl.handle.net/11321/529",
+      "Family": "Lexica",
+      "Description": "This lexicon contains Polish named entities connected with terminology from available resources within Linked Open Data (e.g. WordNet, DBPedia, Wikipedia, etc.). The resource is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "GNU LGPL 3.0",
+      "Size": ["103,585 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/529"
+	},
+      "Publication": ""
+}

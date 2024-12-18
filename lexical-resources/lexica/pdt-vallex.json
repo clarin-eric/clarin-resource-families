@@ -1,0 +1,17 @@
+{
+      "Name": "PDT-Vallex",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-4338-F",
+      "Family": "Lexica",
+      "Description": "This is a valency lexicon linked to several Czech corpora (PDT, PCEDT Cz side, PDTSC, Faust). The resource is available for download and online browsing through LINDAT.",
+      "Language": ["ces"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["7,121 entries", "11,933 frames"],
+      "Annotation": ["verb, adjective and noun valency"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://lindat.mff.cuni.cz/services/PDT-Vallex/",
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-4338-F"
+	},
+      "Publication": "Urešová (2011)"
+}

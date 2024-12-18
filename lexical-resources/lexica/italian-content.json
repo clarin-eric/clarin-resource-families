@@ -1,0 +1,16 @@
+{
+      "Name": "Italian Content Words v3",
+      "URL": "http://hdl.handle.net/11372/LRT-2894",
+      "Family": "Lexica",
+      "Description": "This is a morphological lexicon. The resource is available for download from LINDAT.",
+      "Language": ["ita"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["2,342,120 items"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11372/LRT-2894"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "Lexicon of historical Slovene imp25k 1.1",
+      "URL": "http://hdl.handle.net/11356/1032",
+      "Family": "Lexica",
+      "Description": "This is a morphological lexicon available for download from CLARIN.SI and for online browsing through a dedicated environment.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["28,034 entries"],
+      "Annotation": ["MSD-tags", "lemmas", "etymological glosses"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://nl.ijs.si/imp/imp25k/html-s/",
+	"Download": "http://hdl.handle.net/11356/1032"
+	},
+      "Publication": "Erjavec (2015)"
+}

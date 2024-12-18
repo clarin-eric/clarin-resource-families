@@ -1,0 +1,17 @@
+{
+      "Name": "Emoji Sentiment Ranking 1.0",
+      "URL": "http://hdl.handle.net/11356/1048",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of emojis available for download from CLARIN.SI and for online browsing through a dedicated environment.",
+      "Language": ["sqi", "bul", "eng", "deu", "hun", "pol", "por", "rus", "Serbo-Croatian", "slk", "slv", "spa", "swe"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["751 entries (emojis)"],
+      "Annotation": ["sentiment labels"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://kt.ijs.si/data/Emoji_sentiment_ranking/",
+	"Download": "http://hdl.handle.net/11356/1048"
+	},
+      "Publication": "Kralj Novak et al. (2015)"
+}

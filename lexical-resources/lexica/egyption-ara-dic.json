@@ -1,0 +1,16 @@
+{
+      "Name": "A machine-readable dictionary of Egyptian Arabic",
+      "URL": "http://hdl.handle.net/11022/0000-0007-C266-B",
+      "Family": "Lexica",
+      "Description": "This lexicon presents a more comprehensive version of <a href=\"http://hdl.handle.net/11022/0000-0000-001D-0\">A machine-readable glossary of Egyptian Arabic</a>. The resource is available for download from ARCHE.",
+      "Language": ["Arabic (Egyptian)"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["2,418 entries"],
+      "Annotation": ["basic morphological information", "usage examples"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0007-C266-B"
+	},
+      "Publication": ""
+}

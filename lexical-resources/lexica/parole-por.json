@@ -1,0 +1,16 @@
+{
+      "Name": "PAROLE Portuguese Lexicon",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D312-2",
+      "Family": "Lexica",
+      "Description": "This is a morphosyntactic lexicon available for download from CLARIN PORTULAN",
+      "Language": ["por"],
+      "Licence": "ELRA EVALUATION",
+      "Size": ["20,000 entries"],
+      "Annotation": ["MSD tags", "lemma"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D312-2"
+	},
+      "Publication": ""
+}

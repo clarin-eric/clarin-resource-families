@@ -1,0 +1,16 @@
+{
+      "Name": "Reference Lexicon for Dutch",
+      "URL": "http://hdl.handle.net/10032/tm-a2-n2",
+      "Family": "Lexica",
+      "Description": "This is a corpus-based monolingual lexicon available for download the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["50,000 lemmas"],
+      "Annotation": ["dialectical information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-n2"
+	},
+      "Publication": ""
+}

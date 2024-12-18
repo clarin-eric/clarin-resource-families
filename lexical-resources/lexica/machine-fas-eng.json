@@ -1,0 +1,16 @@
+{
+      "Name": "A machine-readable Persian-English dictionary",
+      "URL": "http://hdl.handle.net/11022/0000-0000-0029-2",
+      "Family": "Lexica",
+      "Description": "This bilingual lexicon has been compiled for comparative as well as didactic purposes in the on-going <a href=\"https://vicav.acdh.oeaw.ac.at/\">VICAV</a> project. The resource is available for download from ARCHE.",
+      "Language": ["Persian-English"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["1,892 entries"],
+      "Annotation": ["morphological information", "usage examples"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11022/0000-0000-0029-2"
+	},
+      "Publication": ""
+}

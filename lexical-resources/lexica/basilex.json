@@ -1,0 +1,16 @@
+{
+      "Name": "Basilex Lexicon",
+      "URL": "http://hdl.handle.net/10032/tm-a2-k7",
+      "Family": "Lexica",
+      "Description": "This is a lexicon that comprises all lemmas from the <a href=\"http://hdl.handle.net/10032/tm-a2-k7\">Basilex Corpus</a>. The Basilex Corpus is an annotated collection of texts written for children in elementary school. The resource is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-k7"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "MULTEXT-East non-commercial lexicons 4.0",
+      "URL": "http://hdl.handle.net/11356/1042",
+      "Family": "Lexica",
+      "Description": "These are morphological lexica available for download from the CLARIN.SI repository.",
+      "Language": ["mkd", "fas", "pol", "rus", "srp"],
+      "Licence": "CC-BY-NC 4.0",
+      "Size": ["2,288,228 entries"],
+      "Annotation": ["MSD-tags", "lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1042"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "BioLexicon",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D30B-B",
+      "Family": "Lexica",
+      "Description": "This is a large-scale, wide-coverage computational lexicon covering the biomedical domain. The resource is unavailable for download or online browsing, but can be accessed by contacting the resource manager.",
+      "Language": ["eng"],
+      "Licence": "ELRA END USER",
+      "Size": ["over 2.2 million entries (over 3.3 million semantic relations)"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "PAROLE Lexicon",
+      "URL": "http://hdl.handle.net/10032/tm-a2-m4",
+      "Family": "Lexica",
+      "Description": "This morphosyntactic lexicon is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["20,000 entries"],
+      "Annotation": ["MSD-tags and syntactic complementation patterns"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-m4"
+	},
+      "Publication": ""
+}

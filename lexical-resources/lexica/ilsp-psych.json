@@ -1,0 +1,16 @@
+{
+      "Name": "ILSP PsychoLinguistic Resource",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23EC-F",
+      "Family": "Lexica",
+      "Description": "This is a lexicon for psycholinguistic research. The resource is available for download from clarin:el.",
+      "Language": ["ell"],
+      "Licence": "CC-BY-NC-SA",
+      "Size": ["217,664 entries"],
+      "Annotation": ["phonetic transcription", "frequency of usage"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23EC-F"
+	},
+      "Publication": "Protopapas et al. (2010)"
+}

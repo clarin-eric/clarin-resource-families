@@ -1,0 +1,17 @@
+{
+      "Name": "EngVallex",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-4337-2",
+      "Family": "Lexica",
+      "Description": "This is a valency lexicon linked to the English side of the PCEDT corpus (WSJ corpus). The resource is available for download from LINDAT and for online browsing.",
+      "Language": ["eng"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["4,337 entries", "7,148 frames"],
+      "Annotation": ["verb valency"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://lindat.mff.cuni.cz/services/EngVallex/",
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-4337-2"
+	},
+      "Publication": ""
+}

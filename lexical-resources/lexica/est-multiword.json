@@ -1,0 +1,17 @@
+{
+      "Name": "The Database of Estonian Multi-Word Expressions",
+      "URL": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00083L",
+      "Family": "Lexica",
+      "Description": "This is a collection of lexica that contain multi-word expressions consisting of a verb and a particle or a verb and its complements. The resource is available for download from <a href=\"https://www.clarin.eu/glossary#META-SHARE\" title=\"Network of repositories resulting from the META-NET Network of Excellence (http://www.meta-share.eu/)\" class=\"lexicon-term\">META-SHARE</a> (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "proprietary",
+      "Size": ["12,500 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.cl.ut.ee/ressursid/pysiyhendid/index.php?lang=en",
+	"Download": "http://hdl.handle.net/10.15155/1-00-0000-0000-0000-00083L"
+	},
+      "Publication": ""
+}

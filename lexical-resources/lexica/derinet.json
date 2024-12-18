@@ -1,0 +1,17 @@
+{
+      "Name": "DeriNet 1.6",
+      "URL": "http://hdl.handle.net/11234/1-2873",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of derivational relations (both compounding and inflections). The resource is available for download and online browsing through LINDAT.",
+      "Language": ["ces"],
+      "Licence": "CC-BY-NC-SA 3.0",
+      "Size": ["1,027,832 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://ufal.mff.cuni.cz/derinet/search",
+	"Download": "http://hdl.handle.net/11234/1-2873"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "CombiLex",
+      "URL": "http://hdl.handle.net/10032/tm-a2-h2",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of words and word forms available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["213,000 lemmas"],
+      "Annotation": ["lemmas and word forms"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://ivdnt.org/downloads/taalmaterialen/tstc-combilex"
+	},
+      "Publication": ""
+}

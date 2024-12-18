@@ -1,0 +1,16 @@
+{
+      "Name": "e-Lex",
+      "URL": "http://hdl.handle.net/10032/tm-a2-h2",
+      "Family": "Lexica",
+      "Description": "This is a lexical database that consists of a one-word lexicon and a multi-word lexicon.\nThis lexicon is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["220,000 entries", "600,000 word forms", "77,000 multi-word expressions", "26,000 multi-word lemmas"],
+      "Annotation": ["MSD-tags", "syntactical and phonological information", "partially semantically annotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-h2"
+	},
+      "Publication": ""
+}

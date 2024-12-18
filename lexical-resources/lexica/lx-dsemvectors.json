@@ -1,0 +1,16 @@
+{
+      "Name": "LX-DSemVectors",
+      "URL": "http://hdl.handle.net/21.11115/0000-000B-D38A-B",
+      "Family": "Lexica",
+      "Description": "This lexicon provides distributional semantic representations of Portuguese words. The dataset is available for download from GitHub.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["17,572 words"],
+      "Annotation": ["word embeddings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://github.com/nlx-group/LX-DSemVectors"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Maltese Speech Engine Lexicon",
+      "URL": "http://www.hdl.handle.net/21.11115/0000-000B-D349-5",
+      "Family": "Lexica",
+      "Description": "This is a speech lexicon that is useful for building speech-to-text systems. It is available for download from CLARIN PORTULAN.",
+      "Language": ["mlt"],
+      "Licence": "MS-BY-NC-SA",
+      "Size": ["39,242 entries"],
+      "Annotation": ["PoS-tags", "orthographic transcription", "phonetic forms", "syllables", "stress position"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://www.hdl.handle.net/21.11115/0000-000B-D349-5"
+	},
+      "Publication": ""
+}

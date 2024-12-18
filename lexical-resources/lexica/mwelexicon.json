@@ -1,0 +1,16 @@
+{
+      "Name": "MWELexicon 1.1",
+      "URL": "http://hdl.handle.net/11321/508",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of multiword expressions available for download from CLARIN.PL.",
+      "Language": ["pol"],
+      "Licence": "plWordNet",
+      "Size": ["56,500 lexical units"],
+      "Annotation": ["syntactic behaviour"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/508"
+	},
+      "Publication": ""
+}

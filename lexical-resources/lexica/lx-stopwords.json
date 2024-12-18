@@ -1,0 +1,16 @@
+{
+      "Name": "LX-StopWords",
+      "URL": "http://hdl.handle.net/21.11115/0000-000B-D31A-A",
+      "Family": "Lexica",
+      "Description": "This is a manually compiled exhaustive list of closed-class words in Portuguese. The resource is available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["2,631 words"],
+      "Annotation": ["MSD-tags", "MWEs"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/21.11115/0000-000B-D31A-A"
+	},
+      "Publication": ""
+}

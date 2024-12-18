@@ -1,0 +1,16 @@
+{
+      "Name": "OMBI Dutch-Indonesian",
+      "URL": "http://hdl.handle.net/10032/tm-a2-b6",
+      "Family": "Lexica",
+      "Description": "This is a bilingual lexicon for language technology applications such as automatic translation, e-learning, multilingual information retrieval, etc. The resource is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld", "ind"],
+      "Licence": "other",
+      "Size": ["50,000 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-b6"
+	},
+      "Publication": ""
+}

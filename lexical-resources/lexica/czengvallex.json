@@ -1,0 +1,17 @@
+{
+      "Name": "CzEngVallex",
+      "URL": "http://hdl.handle.net/11234/1-1512",
+      "Family": "Lexica",
+      "Description": "This is a valency lexicon linked to the parallel PCEDT corpus. The resource is available for download and online browsing through LINDAT.",
+      "Language": ["ces", "eng"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["20,835 pairs (verb senses)"],
+      "Annotation": ["verb valency"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://lindat.mff.cuni.cz/services/CzEngVallex/",
+	"Download": "http://hdl.handle.net/11234/1-1512"
+	},
+      "Publication": "Fučíková et al. (2016)"
+}

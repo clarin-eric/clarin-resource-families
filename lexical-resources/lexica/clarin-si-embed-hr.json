@@ -1,0 +1,16 @@
+{
+      "Name": "Word embeddings CLARIN.SI-embed.hr 1.0",
+      "URL": "http://hdl.handle.net/11356/1205",
+      "Family": "Lexica",
+      "Description": "This lexicon contains word embeddings extracted from the Croatian web corpus <a href=\"http://hdl.handle.net/11356/1064\">hrWaC</a> and a 400-million-token-heavy collection of newspaper texts. The resource is available for download from CLARIN.SI.",
+      "Language": ["hrv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["3,147,352 entries"],
+      "Annotation": ["PoS-tags", "lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1205"
+	},
+      "Publication": ""
+}

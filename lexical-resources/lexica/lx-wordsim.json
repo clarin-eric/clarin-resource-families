@@ -1,0 +1,16 @@
+{
+      "Name": "LX-WordSim-353",
+      "URL": "http://hdl.handle.net/21.11115/0000-000B-D38E-7",
+      "Family": "Lexica",
+      "Description": "This is a word-similarity lexicon. The resource is available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["706 words"],
+      "Annotation": ["synonyms", "antonyms", "identical", "hypernym-hyponym", "sibling terms", "meronym-holonym"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/21.11115/0000-000B-D38E-7"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "QTLeap specialized lexicons",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D37C-C",
+      "Family": "Lexica",
+      "Description": "This lexicon is used for the automatic translation of specific IT domain expressions and is available for download from CLARIN PORTULAN.",
+      "Language": ["eng", "spa", "Castilian", "bul", "eus", "nld", "Flemish", "ces", "por"],
+      "Licence": "CC-BY",
+      "Size": ["231,516 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D37C-C"
+	},
+      "Publication": ""
+}

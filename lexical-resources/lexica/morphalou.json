@@ -1,0 +1,16 @@
+{
+      "Name": "Morphalou",
+      "URL": "https://hdl.handle.net/11403/morphalou/v3.1",
+      "Family": "Lexica",
+      "Description": "This is a morphological lexicon available for download from ORTOLANG.",
+      "Language": ["fra"],
+      "Licence": "Publique Générale Amoindrie GNU",
+      "Size": ["159,261 entries"],
+      "Annotation": ["spelling", "phonetics", "mood", "tense", "MSD-tags", "spelling variant", "feminine variation", "pronominal"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11403/morphalou/v3.1"
+	},
+      "Publication": ""
+}

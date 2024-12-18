@@ -1,0 +1,16 @@
+{
+      "Name": "LX-Abbreviations",
+      "URL": "http://hdl.handle.net/21.11115/0000-000B-D2FD-B",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of abbreviations. The resource is available for download from CLARIN PORTULAN.",
+      "Language": ["por"],
+      "Licence": "MS NC-NoReD-ND",
+      "Size": ["208 words"],
+      "Annotation": ["MSD-tags"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/21.11115/0000-000B-D2FD-B"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "CroaTPAS",
+      "URL": "http://catalog.elra.info/en-us/repository/browse/ELRA-M0108/",
+      "Family": "Lexica",
+      "Description": "This is a manually created verb sense lexicon.",
+      "Language": ["hrv", "eng"],
+      "Licence": "",
+      "Size": ["683 verb senses", "22.677 annotated corpus lines"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	},
+      "Publication": ""
+}

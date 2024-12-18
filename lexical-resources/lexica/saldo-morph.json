@@ -1,0 +1,17 @@
+{
+      "Name": "SALDO's morphology (2017-10-16)",
+      "URL": "http://hdl.handle.net/10794/36",
+      "Family": "Lexica",
+      "Description": "This is a semantic and morphological lexicon for language technologies. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
+      "Language": ["swe"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["128,036 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://spraakbanken.gu.se/karp/#?mode=saldo&resources=saldo,saldom,saldoe",
+	"Download": "http://hdl.handle.net/10794/36"
+	},
+      "Publication": ""
+}

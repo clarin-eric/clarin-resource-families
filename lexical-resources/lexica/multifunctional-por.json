@@ -1,0 +1,16 @@
+{
+      "Name": "Multifunctional Computational Lexicon of Contemporary Portuguese",
+      "URL": "http://metashare.elda.org/repository/browse/multifunctional-computational-lexicon-of-contemporary-portuguese/23452ca8a35a11e1a404080027e73ea2d0884e62ca8f466fa0f6be6e1e397cd4/",
+      "Family": "Lexica",
+      "Description": "This is a frequency lexicon suitable for NLP specific purposes (information extraction, lemmatization, PoS tagging). The resource is available for download from META-SHARE (CLARIN PORTULAN distribution).",
+      "Language": ["por"],
+      "Licence": "CC-BY-SA",
+      "Size": ["26,443 entries"],
+      "Annotation": ["lemmas", "MWEs", "PoS-tags"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://metashare.elda.org/repository/browse/multifunctional-computational-lexicon-of-contemporary-portuguese/23452ca8a35a11e1a404080027e73ea2d0884e62ca8f466fa0f6be6e1e397cd4/"
+	},
+      "Publication": ""
+}

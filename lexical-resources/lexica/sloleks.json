@@ -1,0 +1,16 @@
+{
+      "Name": "Automatically stress labelled morphological lexicon Sloleks 1.2, version 1.1",
+      "URL": "http://hdl.handle.net/11356/1186",
+      "Family": "Lexica",
+      "Description": "This is an extended version of the morphological lexicon <a href=\"http://hdl.handle.net/11356/1039\">Sloleks 1.2</a> with added information about the stress of each word form. The resource is available for download from CLARIN.SI.",
+      "Language": ["slv"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["100,805 entries", "2,774,745 words"],
+      "Annotation": ["wordforms", "PoS-tags", "lemmas", "frequency", "prosody"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1186"
+	},
+      "Publication": "Krsnik and Robnik Šikonja (2017)"
+}

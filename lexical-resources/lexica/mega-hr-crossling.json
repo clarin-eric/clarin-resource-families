@@ -1,0 +1,16 @@
+{
+      "Name": "Concreteness and imageability lexicon MEGA.HR-Crossling",
+      "URL": "http://hdl.handle.net/11356/1187",
+      "Family": "Lexica",
+      "Description": "These lexica contain concreteness and imageability predictions for 77 languages. They are available for download from CLARIN.SI.",
+      "Language": ["77 languages"],
+      "Licence": "CC-BY-SA 4.0",
+      "Size": ["7,237,589 entries"],
+      "Annotation": ["concreteness prediction", "imageability prediction"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1187"
+	},
+      "Publication": "Ljubešić et al. (2018)"
+}

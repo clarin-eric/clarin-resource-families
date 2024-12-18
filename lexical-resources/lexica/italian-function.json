@@ -1,0 +1,16 @@
+{
+      "Name": "Italian Function Words v3",
+      "URL": "http://hdl.handle.net/11372/LRT-2893",
+      "Family": "Lexica",
+      "Description": "This is a morphological lexicon. The resource is available for download from LINDAT.",
+      "Language": ["ita"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["3,510 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11372/LRT-2893"
+	},
+      "Publication": ""
+}

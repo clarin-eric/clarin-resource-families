@@ -1,0 +1,16 @@
+{
+      "Name": "Walenty (2018-06-29)",
+      "URL": "http://hdl.handle.net/11321/586",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of verb valency that is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC BY SA 4.0",
+      "Size": ["18,236 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/586"
+	},
+      "Publication": ""
+}
