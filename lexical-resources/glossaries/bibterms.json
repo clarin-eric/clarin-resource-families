@@ -1,0 +1,16 @@
+{
+      "Name": "Bibterms. Glossary of archive and library sciences",
+      "URL": "http://hdl.grnet.gr/11500/IONION-0000-0000-250E-8",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of archival library science terms. The resource is available for download from clarin:el.",
+      "Language": ["ell", "eng"],
+      "Licence": "CC-BY",
+      "Size": ["1,223 Lexical Types"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/IONION-0000-0000-250E-8"
+	},
+      "Publication": ""
+}

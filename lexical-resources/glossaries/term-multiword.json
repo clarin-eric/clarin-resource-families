@@ -1,0 +1,16 @@
+{
+      "Name": "Terminological multiword expressions lexicon",
+      "URL": "http://hdl.handle.net/11356/1780",
+      "Family": "Glossaries",
+      "Description": "This lexicon contains multiword terms extracted from various terminological sources. The entries were lemmatized and tagged according to the <a href=\"https://nl.ijs.si/ME/V6/msd/html/msd-sl.html\">MULTEXT-East specifications for Slovenian</a>, and manually checked and corrected. The lexicon is distributed as a TSV file, one line for each multiword term.\nThe first column contains the term in its canonical form, the second the lemmas of its words, and the third the MULTEXT-East morphosyntactic descriptions.\nThis resource is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["42,863 entries"],
+      "Annotation": ["MSD-tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1780"
+	},
+      "Publication": ""
+}

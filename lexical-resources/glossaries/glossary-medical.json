@@ -1,0 +1,16 @@
+{
+      "Name": "Glossary of Medical Terms",
+      "URL": "http://hdl.grnet.gr/11500/AUTH-0000-0000-2C49-E",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of medical terms. The resource is available for download from clarin:el.",
+      "Language": ["eng", "ell"],
+      "Licence": "CC-BY",
+      "Size": ["3,750 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/AUTH-0000-0000-2C49-E"
+	},
+      "Publication": ""
+}

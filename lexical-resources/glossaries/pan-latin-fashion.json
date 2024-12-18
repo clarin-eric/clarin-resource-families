@@ -1,0 +1,16 @@
+{
+      "Name": "Pan-Latin Lexicon of Collars and Sleeves in Fashion and Costume",
+      "URL": "http://hdl.handle.net/20.500.11752/OPEN-987",
+      "Family": "Glossaries",
+      "Description": "This terminological glossary, which is developed with the <a href=\"https://www.realiter.net/\">Realiter network</a>, contains terms related to fashion. This lexicon can be downloaded from the ILC4CLARIN  repository.",
+      "Language": ["cat", "eng", "fra", "glg", "ita", "por", "ron", "spa"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["74 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/OPEN-987"
+	},
+      "Publication": ""
+}

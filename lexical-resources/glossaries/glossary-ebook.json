@@ -1,0 +1,16 @@
+{
+      "Name": "Glossary e-book "Open Linked Data and Applications"",
+      "URL": "http://hdl.grnet.gr/11500/IONION-0000-0000-25E7-2",
+      "Family": "Glossaries",
+      "Description": "This glossary is available for download from clarin:el.",
+      "Language": ["eng", "ell"],
+      "Licence": "CC-BY",
+      "Size": ["100 semantic units"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/IONION-0000-0000-25E7-2"
+	},
+      "Publication": ""
+}

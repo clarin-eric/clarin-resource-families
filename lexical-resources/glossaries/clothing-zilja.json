@@ -1,0 +1,17 @@
+{
+      "Name": "The Dictionary of the Clothing Terminology of the Zilja Dialect in Canale Valley (Kanalska dolina – Val Canale – Kanaltal – Valcjanâl)",
+      "URL": "http://hdl.handle.net/11356/1217",
+      "Family": "Glossaries",
+      "Description": "This is a term dictionary of Clothing Terminology of the Zilja Dialect spoken in the Val Canale Valley. Entries in the dictionary are equipped with <a href=\"http://hdl.handle.net/11356/1220\">sound clips</a> and <a href=\"http://hdl.handle.net/11356/1221\">illustrative photographs</a> of traditional clothing items. The resource is available for download from CLARIN.SI and for online browsing.",
+      "Language": ["slv"],
+      "Licence": "CC-BY 4.0",
+      "Size": ["594 entries"],
+      "Annotation": ["MSD-tags", "phonological information"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "https://fran.si/iskanje?FilteredDictionaryIds=210&View=1&Query=%2A",
+	"Download": "http://hdl.handle.net/11356/1217"
+	},
+      "Publication": ""
+}

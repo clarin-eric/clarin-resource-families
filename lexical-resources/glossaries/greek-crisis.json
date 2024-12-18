@@ -1,0 +1,16 @@
+{
+      "Name": "Greek Crisis Multilingual Term Project",
+      "URL": "http://hdl.grnet.gr/11500/IONION-0000-0000-2511-3",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of terms related to the Greek government-debt crisis. The resource is available for download from clarin:el.",
+      "Language": ["ell", "ita", "tur", "eng", "deu", "fra", "spa", "Castilian"],
+      "Licence": "CC-BY",
+      "Size": ["820 concepts"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/IONION-0000-0000-2511-3"
+	},
+      "Publication": ""
+}

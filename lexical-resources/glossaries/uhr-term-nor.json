@@ -1,0 +1,17 @@
+{
+      "Name": "UHR's Termbase for Norwegian higher education institutions",
+      "URL": "http://hdl.handle.net/11509/122",
+      "Family": "Glossaries",
+      "Description": "This is a database of terms available for download from CLARINO and for online browsing.",
+      "Language": ["nob", "eng", "nno"],
+      "Licence": "CLARIN_PUB-BY",
+      "Size": ["1,786 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "https://oda.uib.no/app/term/aterm",
+	"Download": "http://hdl.handle.net/11509/122"
+	},
+      "Publication": ""
+}

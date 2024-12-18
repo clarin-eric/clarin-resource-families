@@ -1,0 +1,17 @@
+{
+      "Name": "Dictionary of Estonian Place Names",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-07004L",
+      "Family": "Glossaries",
+      "Description": "This etymological glossary contains all official village names of Estonia and selected group of other Estonian place names. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
+      "Language": ["est"],
+      "Licence": "CC-BY",
+      "Size": ["6,214 keywords"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://www.eki.ee/dict/knr/",
+	"Download": "http://doi.org/10.15155/3-00-0000-0000-0000-07004L"
+	},
+      "Publication": ""
+}

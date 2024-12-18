@@ -1,0 +1,16 @@
+{
+      "Name": "Τρίγλωσσο Ορολογικό Λεξικό (ΤΟΛ)",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-5837-0",
+      "Family": "Glossaries",
+      "Description": "This is a trilingual term glossary for foreign students who want to improve their language skills in Greek and familiarize themselves with information technology. The resource is available for download from clarin:el.",
+      "Language": ["ell", "eng", "tur"],
+      "Licence": "CC-BY-NC–ND",
+      "Size": ["5,224 Entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-5837-0"
+	},
+      "Publication": ""
+}

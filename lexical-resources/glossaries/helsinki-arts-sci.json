@@ -1,0 +1,16 @@
+{
+      "Name": "The Helsinki Term Bank for the Arts and Sciences",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730152",
+      "Family": "Glossaries",
+      "Description": "This is a terminological database available for online browsing through FIN-CLARIN.",
+      "Language": ["fin", "multilingual"],
+      "Licence": "CC-BY-SA",
+      "Size": ["growing"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "http://tieteentermipankki.fi/"
+	},
+      "Publication": ""
+}

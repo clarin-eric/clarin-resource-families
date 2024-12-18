@@ -1,0 +1,16 @@
+{
+      "Name": "INT IMPACT NE Lexicon",
+      "URL": "http://hdl.handle.net/10032/tm-a2-a5",
+      "Family": "Glossaries",
+      "Description": "This is a glossary that features historical names and variants for the period between 1750 and 1945. The resource is available for download from the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["200,000 lemmas"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-a5"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Xenophobia",
+      "URL": "https://inventory.clarin.gr/resources/search/?q=xenophobia",
+      "Family": "Glossaries",
+      "Description": "This is a collection of 12 knowledge bases on various forms of xenophobia, available for download from clarin:el.",
+      "Language": ["ell"],
+      "Licence": "CC-BY",
+      "Size": ["12 knowledge bases"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://inventory.clarin.gr/resources/search/?q=xenophobia"
+	},
+      "Publication": ""
+}

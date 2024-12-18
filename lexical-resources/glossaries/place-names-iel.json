@@ -1,0 +1,16 @@
+{
+      "Name": "The Place Name Database of the Institute of the Estonian Language (KNAB)",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-05927L",
+      "Family": "Glossaries",
+      "Description": "This glossary is available for online browsing.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": ["428,344 elements; 145,261 elements"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://portaal.eki.ee/knab"
+	},
+      "Publication": ""
+}

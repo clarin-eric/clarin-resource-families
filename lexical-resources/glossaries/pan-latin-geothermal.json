@@ -1,0 +1,16 @@
+{
+      "Name": "Pan-Latin Geothermal Energy Lexicon",
+      "URL": "http://hdl.handle.net/20.500.11752/OPEN-995",
+      "Family": "Glossaries",
+      "Description": "This terminological glossary, which is developed with the <a href=\"https://www.realiter.net/\">Realiter network</a>, contains terms related to geothermal energy. This lexicon can be downloaded from the ILC4CLARIN  repository.",
+      "Language": ["cat", "eng", "fra", "glg", "ita", "por", "ron", "spa"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["125 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11752/OPEN-995"
+	},
+      "Publication": ""
+}

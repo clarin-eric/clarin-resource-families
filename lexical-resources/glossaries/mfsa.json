@@ -1,0 +1,16 @@
+{
+      "Name": "MFSA_Maltese_Company_Registry",
+      "URL": "http://doi.org/21.11115/0000-000B-D313-1",
+      "Family": "Glossaries",
+      "Description": "This glossary is available for download from CLARIN PORTULAN.",
+      "Language": ["mlt", "eng"],
+      "Licence": "CC-BY-NC",
+      "Size": ["45,993 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://doi.org/21.11115/0000-000B-D313-1"
+	},
+      "Publication": ""
+}

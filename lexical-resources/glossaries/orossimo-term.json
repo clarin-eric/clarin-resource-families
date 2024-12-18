@@ -1,0 +1,16 @@
+{
+      "Name": "Orossimo Terminological Resource",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-4B49-B",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of terms from various domains e.g. History, Computer Science, Biology etc. The resource is available for download from clarin:el.",
+      "Language": ["ell", "eng"],
+      "Licence": "CC-BY-NC-SA 4.0",
+      "Size": ["22,308 terms"],
+      "Annotation": ["lexical semantic relations", "usage notes"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-4B49-B"
+	},
+      "Publication": ""
+}

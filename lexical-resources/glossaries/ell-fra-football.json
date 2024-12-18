@@ -1,0 +1,16 @@
+{
+      "Name": "Greek-French lexicon of football",
+      "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-25ED-C",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of football terms available for download from clarin:el.",
+      "Language": ["ell", "fra"],
+      "Licence": "CC-BY-NC",
+      "Size": ["870 entries"],
+      "Annotation": ["lexical semantic features"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/UOA-0000-0000-25ED-C"
+	},
+      "Publication": ""
+}

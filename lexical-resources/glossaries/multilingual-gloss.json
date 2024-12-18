@@ -1,0 +1,16 @@
+{
+      "Name": "Multilingual glossary (Department of Foreign Languages, Translation and Interpretation)",
+      "URL": "http://hdl.grnet.gr/11500/IONION-0000-0000-3D44-0",
+      "Family": "Glossaries",
+      "Description": "This is a general-purpose glossary that is available for download from clarin:el.",
+      "Language": ["eng", "ell"],
+      "Licence": "CC-BY-NC",
+      "Size": [],
+      "Annotation": ["lemmas"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/IONION-0000-0000-3D44-0"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Netterms. Computer networking terminology",
+      "URL": "http://hdl.grnet.gr/11500/IONION-0000-0000-250F-7",
+      "Family": "Glossaries",
+      "Description": "This is glossary of terms related to computer networking available for download from clarin:el.",
+      "Language": ["eng", "ell"],
+      "Licence": "CC-BY",
+      "Size": ["205 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/IONION-0000-0000-250F-7"
+	},
+      "Publication": ""
+}

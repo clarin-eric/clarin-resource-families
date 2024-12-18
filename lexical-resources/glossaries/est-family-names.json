@@ -1,0 +1,16 @@
+{
+      "Name": "The Family Name Database of the Institute of the Estonian Language",
+      "URL": "http://doi.org/10.15155/3-00-0000-0000-0000-06340L",
+      "Family": "Glossaries",
+      "Description": "This glossary is available for online browsing.",
+      "Language": ["est"],
+      "Licence": "CLARIN ACA",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://keeleabi.eki.ee/isikunimed/index.php"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "English for business",
+      "URL": "http://hdl.handle.net/11509/116",
+      "Family": "Glossaries",
+      "Description": "This glossary includes terms from the domains of economics and business administration. The resource is available for download from CLARINO.",
+      "Language": ["nob", "eng"],
+      "Licence": "CLARIN ACA",
+      "Size": ["498 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11509/116"
+	},
+      "Publication": ""
+}

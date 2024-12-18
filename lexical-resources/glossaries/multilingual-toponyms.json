@@ -1,0 +1,16 @@
+{
+      "Name": "Multilingual lexicon of toponyms",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23C1-E",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of toponyms available for download from clarin:el.",
+      "Language": ["Polish + translations into English, Romanian, Hungarian, Bulgarian, Polish, Greek, German, Serbian, Slovak, Croatian"],
+      "Licence": "CC-BY-SA",
+      "Size": ["281,375 entries"],
+      "Annotation": ["lemmas", "semantics", "translation equivalents"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23C1-E"
+	},
+      "Publication": ""
+}

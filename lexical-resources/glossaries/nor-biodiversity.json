@@ -1,0 +1,16 @@
+{
+      "Name": "Norwegian biodiversity terminology database",
+      "URL": "http://hdl.handle.net/11509/115",
+      "Family": "Glossaries",
+      "Description": "This glossary includes terms from the domains of biology. The resource is available for download from CLARINO.",
+      "Language": ["nob", "nno", "lat"],
+      "Licence": "CLARIN_PUB-BY",
+      "Size": ["297 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/11509/115"
+	},
+      "Publication": ""
+}

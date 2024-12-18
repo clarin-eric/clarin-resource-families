@@ -1,0 +1,16 @@
+{
+      "Name": "Name Component Lexicon",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730188",
+      "Family": "Glossaries",
+      "Description": "This is a glossary of the most common elements out of which Swedish place names are built. The resource is available online through FIN-CLARIN.",
+      "Language": ["swe"],
+      "Licence": "EUPL",
+      "Size": ["6251 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://kaino.kotus.fi/svenska/ledlex/"
+	},
+      "Publication": ""
+}
