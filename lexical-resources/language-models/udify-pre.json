@@ -1,0 +1,16 @@
+{
+      "Name": "UDify Pretrained Model",
+      "URL": "http://hdl.handle.net/11234/1-3042",
+      "Family": "Language Models",
+      "Description": "UDify is a single model that parses Universal Dependencies (UPOS, UFeats, Lemmas, Deps) jointly, accepting any of 75 supported languages as input (trained on UD v2.3 with 124 treebanks). ",
+      "Language": ["afr", "akk", "amh", "grc", "ara", "hye", "bam", "eus", "bel", "bre", "bul", "cat", "zho", "Church Slavonic", "cop", "hrv", "ces", "dan", "nld", "eng", "myv", "est", "fao", "fin", "fra", "glg", "deu", "got", "heb", "hin", "hun", "ind", "gle", "ita", "jpn", "kaz", "kpv", "kor", "lat", "lav", "lit", "mlt", "mar", "ell", "pcm", "kmr", "sme", "nor", "fro", "fas", "pol", "por", "ron", "Buryat", "rus", "san", "srp", "slk", "slv", "spa", "swe", "swl", "tgl", "tam", "tel", "tha", "tur", "uig", "ukr", "hsb", "urd", "vie", "wbp", "yor", "yue"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3042"
+	},
+      "Publication": "Kondratyuk and Straka (2019)"
+}

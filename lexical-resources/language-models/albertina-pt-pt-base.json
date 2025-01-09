@@ -1,0 +1,16 @@
+{
+      "Name": "Albertina PT-PT base",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-FF44-6",
+      "Family": "Language Models",
+      "Description": "This model is for European. It is based on the Transformer neural architecture and is developed over the <a href=\"https://huggingface.co/docs/transformers/model_doc/deberta\">DeBERTa model</a>.\nThis model is available for download through Hugging Face.",
+      "Language": ["por"],
+      "Licence": "MIT",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "https://huggingface.co/PORTULAN/albertina-ptpt-base"
+	},
+      "Publication": ""
+}

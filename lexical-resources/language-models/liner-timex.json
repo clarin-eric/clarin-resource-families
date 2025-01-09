@@ -1,0 +1,16 @@
+{
+      "Name": "Liner2.5 model Timex",
+      "URL": "http://hdl.handle.net/11321/302",
+      "Family": "Language Models",
+      "Description": "This is a model for the <a href=\"https://github.com/CLARIN-PL/Liner2\">Liner2.5</a> tool for the recognition and normalization on temporal expressions.#SEPThe model is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["temporal expressions"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/302"
+	},
+      "Publication": ""
+}

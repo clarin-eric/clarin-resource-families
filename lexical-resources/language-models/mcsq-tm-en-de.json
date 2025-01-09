@@ -1,0 +1,16 @@
+{
+      "Name": "MCSQ Translation Models (en-de) (v1.0)",
+      "URL": "http://hdl.handle.net/11234/1-4680",
+      "Family": "Language Models",
+      "Description": "These are English-German translation models available in the LINDAT <a href=\"https://lindat.mff.cuni.cz/services/translation/\">translation service</a>. The models are trained using the MCSQ social surveys dataset (available <a href=\"https://repo.clarino.uib.no/xmlui/bitstream/handle/11509/142/mcsq_v3.zip\">here</a> ).\nThe models are available for download from the LINDAT repository.",
+      "Language": ["eng", "deu"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-4680"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-Stanza model for lemmatisation of non-standard Serbian 2.1",
+      "URL": "http://hdl.handle.net/11356/1828",
+      "Family": "Language Models",
+      "Description": "The model for lemmatisation of non-standard Serbian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the <a href=\"http://hdl.handle.net/11356/1200\">SETimes.SR training corpus</a> combined with the <a href=\"http://hdl.handle.net/11356/1794\">Serbian non-standard training corpus ReLDI-NormTagNER-sr</a> and using the <a href=\"http://hdl.handle.net/11356/1233\">srLex inflectional lexicon</a>. These corpora were additionally augmented for handling missing diacritics by repeating parts of the corpora with diacritics removed. The estimated F1 of the lemma annotations is ~94.92.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["Serbian (non-standard)"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lemmatisation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1828"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

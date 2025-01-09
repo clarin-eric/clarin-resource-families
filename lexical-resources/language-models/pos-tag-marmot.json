@@ -1,0 +1,16 @@
+{
+      "Name": "POS-tagging model: Marmot",
+      "URL": "https://spraakbanken.gu.se/index.php/en/resources/marmot",
+      "Family": "Language Models",
+      "Description": "This is a set of 2 models. <i>marmot_eval</i> is trained on <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> and the <a href=\"https://spraakbanken.gu.se/en/resources/talbanken\">Talbanken_SBX_dev</a> treebank, using <a href=\"https://spraakbanken.gu.se/en/resources/saldo\">Saldo</a> as dictionary. <i>marmot_full</i> is trained on <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a>, the <a href=\"https://spraakbanken.gu.se/en/resources/talbanken\">Talbanken_SBX_dev</a> treebank, and SIC2 (with Saldo as dictionary).\nThe models are available for download from the Swedish Language Bank.",
+      "Language": ["swe"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "https://spraakbanken.gu.se/index.php/en/resources/marmot"
+	},
+      "Publication": ""
+}

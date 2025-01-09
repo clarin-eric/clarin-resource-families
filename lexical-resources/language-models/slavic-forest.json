@@ -1,0 +1,16 @@
+{
+      "Name": "Slavic Forest, Norwegian Wood (models)",
+      "URL": "http://hdl.handle.net/11234/1-1971",
+      "Family": "Language Models",
+      "Description": "These are models for the dependency parser <a href=\"http://hdl.handle.net/11234/1-1702\">UDPipe</a> used to produce the authors' final submission to the <a href=\"https://bitbucket.org/hy-crossNLP/vardial2017\">Vardial 2017 CLP shared task</a>. The scripts and commands used to create the models are part of a <a href=\"http://hdl.handle.net/11234/1-1970\">separate LINDAT repository entry</a>. The models were trained with <a href=\"https://github.com/ufal/udpipe\">UDPipe version 3e65d69 from 3 January 2017</a>; their functionality with newer or older versions of UDPipe is not guaranteed.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["hrv", "nor", "slk"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1971"
+	},
+      "Publication": "Rosa et al. (2017)"
+}

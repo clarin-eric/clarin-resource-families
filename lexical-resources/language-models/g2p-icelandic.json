@@ -1,0 +1,16 @@
+{
+      "Name": "Models for automatic g2p for Icelandic (20.10)",
+      "URL": "http://hdl.handle.net/20.500.12537/84",
+      "Family": "Language Models",
+      "Description": "These are grapheme-to-phoneme models for Icelandic, trained on an encoder-decoder <a href=\"https://en.wikipedia.org/wiki/Long_short-term_memory\">LSTM</a> neural network. The models are delivered with scripts for automatic transcription of Icelandic in the standard pronunciation variation, in the northern variation, north-east variation, and the south variation. To run the scripts the user needs to install <a href=\"https://github.com/grammatek/g2p-lstm\">Fairseq</a>.",
+      "Language": ["isl"],
+      "Licence": "Apache License 2.0",
+      "Size": [],
+      "Annotation": ["phonemic transcription"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/84"
+	},
+      "Publication": "Gorman et al. (2020)"
+}

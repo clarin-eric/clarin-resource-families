@@ -1,0 +1,16 @@
+{
+      "Name": "CroSloEngual BERT 1.1",
+      "URL": "http://hdl.handle.net/11356/1330",
+      "Family": "Language Models",
+      "Description": "Trilingual BERT (Bidirectional Encoder Representations from Transformers) model, trained on Croatian, Slovenian, and English data. State of the art tool representing words/tokens as contextually dependent word embeddings, used for various NLP classification tasks by finetuning the model end-to-end. CroSloEngual BERT are neural network weights and configuration files in pytorch format (i.e. to be used with pytorch library).\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["hrv", "eng", "slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["word embeddings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Contextual Word Embeddings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1330"
+	},
+      "Publication": "Ulčar and Robnik-Šikonja (2020)"
+}

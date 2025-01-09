@@ -1,0 +1,16 @@
+{
+      "Name": "POS-tagging model: Stanza",
+      "URL": "https://spraakbanken.gu.se/index.php/en/resources/stanzamorph",
+      "Family": "Language Models",
+      "Description": "This is a set of 2 models. <i>stanza_eval</i> is trained on <a href=\"https://spraakbanken.gu.se/en/resources/suc3\">SUC3</a> and the <a href=\"https://spraakbanken.gu.se/en/resources/talbanken\">Talbanken_SBX_dev</a> treebank. <i>stanza_full</i> is trained on the SUC3, Talbanken_SBX_test, and SIC2 sets, with Talbanken_SBX_dev as dev set.\nThe models are available for download from the Swedish Language Bank.",
+      "Language": ["swe"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "https://spraakbanken.gu.se/index.php/en/resources/stanzamorph"
+	},
+      "Publication": ""
+}

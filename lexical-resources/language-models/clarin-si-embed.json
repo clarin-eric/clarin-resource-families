@@ -1,0 +1,20 @@
+{
+      "Name": "Word embeddings CLARIN.SI-embed",
+      "URL": "http://hdl.handle.net/11356/1796",
+      "Family": "Language Models",
+      "Description": "This is a set of word embeddings for 5 languages.<ul><li>CLARIN.SI-embed.bg contains word embeddings for Bulgarian induced from the MaCoCu-bg web crawl corpus. The embeddings are based on the skip-gram model of fastText trained on 4,120,343,820 tokens of running text for 2,746,640 lowercased surface forms.</li><li>CLARIN.SI-embed.hr contains word embeddings induced from a large collection of Croatian texts composed of the Croatian web corpus hrWaC, a 400-million-token-heavy collection of newspaper texts and MaCoCu-hr. The embeddings are based on the skip-gram model of fastText trained on 4,586,769,197 tokens of running text for 3,406,574 lowercased surface forms.</li><li>CLARIN.SI-embed.mk contains word embeddings induced from a large collection of Macedonian texts crawled from the .mk top-level domain. The embeddings are based on the skip-gram model of fastText trained on 933,231,582 tokens of running text for 986,670 lowercased surface forms. </li><li>CLARIN.SI-embed.sr contains word embeddings induced from the srWaC and MaCoCu-sr web corpora. The embeddings are based on the skip-gram model of fastText trained on 3,434,602,575 tokens of running text for 2,676,036 lowercased surface forms. </li><li>CLARIN.SI-embed.sl contains word embeddings induced from a large collection of Slovene texts composed of existing corpora of Slovene, e.g GigaFida, Janes, KAS, slWaC, MaCoCu-sl, etc. The embeddings are based on the skip-gram model of fastText trained on 5,791,405,942 tokens of running text for 3,471,054 lowercased surface forms.</li></ul>\nThe models are available for download from the CLARIN.SI repository.",
+      "Language": ["bul", "hrv", "mkd", "srp", "slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["word embeddings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Contextual Word Embeddings",
+      "Access": {
+	"Download (Bulgarian)": "http://hdl.handle.net/11356/1796",
+	"Download (Croatian)": "http://hdl.handle.net/11356/1790",
+	"Download (Macedonian)": "http://hdl.handle.net/11356/1788",
+	"Download (Serbian)": "http://hdl.handle.net/11356/1789",
+	"Download (Slovenian)": "http://hdl.handle.net/11356/1791"
+	},
+      "Publication": ""
+}

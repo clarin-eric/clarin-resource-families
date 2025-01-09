@@ -1,0 +1,16 @@
+{
+      "Name": "ELMo embeddings models for seven languages",
+      "URL": "http://hdl.handle.net/11356/1277",
+      "Family": "Language Models",
+      "Description": "This model is used to produce contextual word embeddings. It is trained on large monolingual corpora for 7 languages. Each language's model was trained for approximately 10 epochs. Corpora sizes used in training range from over 270 M tokens in Latvian to almost 2 B tokens in Croatian. About 1 million most common tokens were provided as vocabulary during the training for each language model. The model can also infer OOV words, since the neural network input is on the character level.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["hrv", "est", "fin", "lav", "lit", "slv", "swe"],
+      "Licence": "Apache License 2.0",
+      "Size": [],
+      "Annotation": ["word embeddings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Contextual Word Embeddings",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1277"
+	},
+      "Publication": ""
+}

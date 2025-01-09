@@ -1,0 +1,16 @@
+{
+      "Name": "LitLat BERT",
+      "URL": "http://hdl.handle.net/20.500.11821/42",
+      "Family": "Language Models",
+      "Description": "",
+      "Language": ["lit", "lav", "eng"],
+      "Licence": "PUB CLARIN-LT",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.11821/42"
+	},
+      "Publication": ""
+}

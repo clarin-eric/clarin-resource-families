@@ -1,0 +1,16 @@
+{
+      "Name": "PyTorch model for Slovenian Coreference Resolution",
+      "URL": "http://hdl.handle.net/11356/1773",
+      "Family": "Language Models",
+      "Description": "This is a Slovenian model for coreference resolution: a neural network based on a customized transformer architecture, usable with <a href=\"https://github.com/matejklemen/slovene-coreference-resolution\">this code</a>. The model is based on the <a href=\"http://hdl.handle.net/11356/1330\">Slovenian CroSloEngual BERT 1.1 model</a>. It was trained on the <a href=\"http://hdl.handle.net/11356/1747\">SUK 1.0 training corpus</a>, specifically the SentiCoref subcorpus.\nThis resource is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["coreference resolution"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1773"
+	},
+      "Publication": "Klemen & Žitnik (2022)"
+}

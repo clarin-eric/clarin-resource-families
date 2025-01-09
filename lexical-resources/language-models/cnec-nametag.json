@@ -1,0 +1,16 @@
+{
+      "Name": "Czech Models (CNEC) for NameTag",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-7D42-8",
+      "Family": "Language Models",
+      "Description": "These are models for the named entity recognizer <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-43CE-E\">NameTag</a>.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["ces"],
+      "Licence": "CC BY-NC-SA 3.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-7D42-8"
+	},
+      "Publication": ""
+}

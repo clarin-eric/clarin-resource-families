@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-Stanza model for lemmatisation of standard Croatian 2.1",
+      "URL": "http://hdl.handle.net/11356/1829",
+      "Family": "Language Models",
+      "Description": "The model for lemmatisation of standard Croatian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the <a href=\"http://hdl.handle.net/11356/1792\">hr500k training corpus</a> and using the <a href=\"http://hdl.handle.net/11356/1232\">hrLex inflectional lexicon</a>. The estimated F1 of the lemma annotations is ~98.02.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["hrv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lemmatisation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1829"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

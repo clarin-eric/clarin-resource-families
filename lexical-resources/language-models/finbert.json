@@ -1,0 +1,16 @@
+{
+      "Name": "FinBERT",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-202004212",
+      "Family": "Language Models",
+      "Description": "This <a href=\"https://github.com/google-research/bert\">BERT</a> model can be fine-tuned to achieve state-of-the-art results for various Finnish natural language processing tasks.\nThe model is available for download from the Language Bank of Finland.",
+      "Language": ["fin"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://urn.fi/urn:nbn:fi:lb-202004212"
+	},
+      "Publication": ""
+}

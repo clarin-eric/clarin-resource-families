@@ -1,0 +1,16 @@
+{
+      "Name": "English Model (CoNLL-2003) for NameTag",
+      "URL": "http://hdl.handle.net/11234/1-3118",
+      "Family": "Language Models",
+      "Description": "This is an English model for <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-43CE-E\">NameTag</a>, a named entity recognition tool. The model is trained on CoNLL-2003 training data and recognizes PER, ORG, LOC and MISC named entities. It achieves an F-measure 84.73 on the CoNLL-2003 test data.\nThe model is available for download from the LINDAT repository.",
+      "Language": ["eng"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3118"
+	},
+      "Publication": ""
+}

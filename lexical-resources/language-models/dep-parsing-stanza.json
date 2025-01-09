@@ -1,0 +1,16 @@
+{
+      "Name": "Dependency parsing model: Stanza",
+      "URL": "https://spraakbanken.gu.se/index.php/en/resources/stanzasynt",
+      "Family": "Language Models",
+      "Description": "",
+      "Language": ["swe"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "https://spraakbanken.gu.se/index.php/en/resources/stanzasynt"
+	},
+      "Publication": ""
+}

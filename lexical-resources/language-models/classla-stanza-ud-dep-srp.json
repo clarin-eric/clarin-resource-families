@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-Stanza model for UD dependency parsing of standard Serbian 2.1",
+      "URL": "http://hdl.handle.net/11356/1835",
+      "Family": "Language Models",
+      "Description": "The model for UD dependency parsing of standard Serbian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the <a href=\"http://hdl.handle.net/11356/1200\">SETimes.SR training corpus</a> and using the <a href=\"http://hdl.handle.net/11356/1789\">CLARIN.SI-embed.sr word embeddings</a>.The estimated LAS of the parser is ~89.83.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["srp"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1835"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

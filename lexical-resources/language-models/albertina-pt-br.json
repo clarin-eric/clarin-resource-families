@@ -1,0 +1,16 @@
+{
+      "Name": "Albertina PT-BR",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-FF43-7 ",
+      "Family": "Language Models",
+      "Description": "This model is an encoder of the BERT family and is based on the neural architecture Transformer and developed over the <a href=\"https://huggingface.co/docs/transformers/model_doc/deberta\">DeBERTa</a> model. This model is for American Portuguese spoken in Brazil, is trained on the <a href=\"https://huggingface.co/datasets/brwac\">brWaC</a> dataset, and is a larger version of the <a href=\"https://hdl.handle.net/21.11129/0000-000F-FF45-5\">Albertina PT-BR</a> base model.\nThis model is available for download through Hugging Face.",
+      "Language": ["por"],
+      "Licence": "MIT",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "https://huggingface.co/PORTULAN/albertina-ptbr"
+	},
+      "Publication": ""
+}

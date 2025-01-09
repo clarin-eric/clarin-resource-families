@@ -1,0 +1,16 @@
+{
+      "Name": "Word Embeddings trained on English Wikipedia",
+      "URL": "https://spraakbanken.gu.se/en/resources/wikipedia-embeddings",
+      "Family": "Language Models",
+      "Description": "This is a set of contextual word embeddings.\nThe models are available for download from the Swedish Language Bank.",
+      "Language": ["swe"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["word embeddings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Contextual Word Embeddings",
+      "Access": {
+	"Download": "https://spraakbanken.gu.se/en/resources/wikipedia-embeddings"
+	},
+      "Publication": ""
+}

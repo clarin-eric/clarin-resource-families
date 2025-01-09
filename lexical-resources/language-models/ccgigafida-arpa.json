@@ -1,0 +1,16 @@
+{
+      "Name": "ccGigafida ARPA language model 1.0",
+      "URL": "http://hdl.handle.net/11356/1119",
+      "Family": "Language Models",
+      "Description": "This model was created from the <a href=\"http://hdl.handle.net/11356/1035\">ccGigafida written corpus of Slovenian</a> using the <a href=\"https://github.com/kpu/kenlm\">KenLM algorithm</a> in the <a href=\"http://www2.statmt.org/moses/\">Moses machine translation framework</a>. It is a general language model of contemporary standard Slovenian language that can be used as a language model in statistical machine translation systems.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1119"
+	},
+      "Publication": ""
+}

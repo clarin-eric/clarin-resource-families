@@ -1,0 +1,16 @@
+{
+      "Name": "Sentiment Analysis (Czech Model)",
+      "URL": "http://hdl.handle.net/11234/1-4601",
+      "Family": "Language Models",
+      "Description": "These models are trained on data from the following sources: Mall (product reviews), CSFD (movie reviews), and Facebook, and joint data from all three datasets above (data available <a href=\"http://liks.fav.zcu.cz/sentiment/\">here</a>, using <a href=\"https://arxiv.org/abs/2105.11314\">RobeCzech</a>, which is the Czech version of BERT.",
+      "Language": ["ces"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["sentiment analysis"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-4601"
+	},
+      "Publication": "Vysušilová (2021)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-StanfordNLP model for lemmatisation of standard Slovenian 2.0",
+      "URL": "http://hdl.handle.net/11356/1768",
+      "Family": "Language Models",
+      "Description": "The model for lemmatisation of standard Slovenian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the <a href=\"http://hdl.handle.net/11356/1747\">SUK training corpus</a> and using the <a href=\"http://hdl.handle.net/11356/1204\">CLARIN.SI-embed.sl word embeddings</a> expanded with the <a href=\"http://hdl.handle.net/11356/1517\">MaCoCu-sl Slovene web corpus</a>. The estimated F1 of the lemma annotations is ~99.7.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lemmatisation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1768"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

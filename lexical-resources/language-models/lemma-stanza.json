@@ -1,0 +1,16 @@
+{
+      "Name": "Lemmatization model: Stanza",
+      "URL": "https://spraakbanken.gu.se/index.php/en/resources/stanzalem",
+      "Family": "Language Models",
+      "Description": "This model enables lemmatisation of Swedish text following the SUC3 standard.\nThe models are available for download from the Swedish Language Bank.",
+      "Language": ["swe"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lemmatisation",
+      "Access": {
+	"Download": "https://spraakbanken.gu.se/index.php/en/resources/stanzalem"
+	},
+      "Publication": ""
+}

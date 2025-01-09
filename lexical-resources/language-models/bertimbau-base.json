@@ -1,0 +1,16 @@
+{
+      "Name": "BERTimbau - Portuguese BERT-Base language model",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-6726-4",
+      "Family": "Language Models",
+      "Description": "This is a <a href=\"https://github.com/google-research/bert\">BERT</a> model, trained on <a href=\"https://www.inf.ufrgs.br/pln/wiki/index.php?title=BrWaC#Current_version\">BrWaC</a> (Brazilian Web as Corpus), a large Portuguese corpus, for 1,000,000 steps, using whole-word mask.\nThe model is available for download from the PORTULAN repository.",
+      "Language": ["por"],
+      "Licence": "Under negotiation",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "https://huggingface.co/PORTULAN/gervasio-ptpt"
+	},
+      "Publication": ""
+}

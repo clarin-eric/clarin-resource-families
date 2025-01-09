@@ -1,0 +1,16 @@
+{
+      "Name": "Dependency parsing models for Polish",
+      "URL": "http://hdl.handle.net/11321/552",
+      "Family": "Language Models",
+      "Description": "These models are trained on the <a href=\"http://hdl.handle.net/11234/1-2621\">3.5 version of the Polish Dependency Treebank</a> with the publicly available parsing systems: <a href=\"https://www.maltparser.org/\">MaltParser</a>, <a href=\"https://github.com/kuhumcst/mate-parser\">MateParser</a>, and <a href=\"http://hdl.handle.net/11234/1-1702\">UDPipe</a>.\nThe models are available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://zil.ipipan.waw.pl/PDB/PDBparser"
+	},
+      "Publication": "Wroblewska and Rybak (2019)"
+}

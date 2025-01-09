@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-Stanza model for morphosyntactic annotation of standard Bulgarian 2.1",
+      "URL": "http://hdl.handle.net/11356/1849",
+      "Family": "Language Models",
+      "Description": "The model for morphosyntactic annotation of standard Bulgarian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the <a href=\"https://clarino.uib.no/korpuskel/corpora\">BulTreeBank training corpus</a> and using the <a href=\"http://hdl.handle.net/11356/1796\">CLARIN.SI-embed.bg word embeddings</a>. The model produces simultaneously UPOS, FEATS and XPOS (MULTEXT-East) labels. The estimated F1 of the XPOS annotations is ~96.83.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["bul"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1849"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

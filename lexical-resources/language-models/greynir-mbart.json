@@ -1,0 +1,16 @@
+{
+      "Name": "GreynirTranslate - mBART25 NMT (with layer drop) models for Translations between Icelandic and English (1.0)",
+      "URL": "http://hdl.handle.net/20.500.12537/128",
+      "Family": "Language Models",
+      "Description": "These are a variant of <a href=\"http://hdl.handle.net/20.500.12537/125\">GreynirTranslate - mBART25 NMT models for Translations between Icelandic and English (1.0)</a>, trained with a 40% layer drop. They are suitable for inference using every other layer for optimized inference speed with lower translation performance.\nThese models are available for download from the repository of CLARIN-IS.",
+      "Language": ["isl", "eng"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/128"
+	},
+      "Publication": "Simonarson et al. (2021)"
+}

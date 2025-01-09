@@ -1,0 +1,16 @@
+{
+      "Name": "Liner2.6 model NER NKJP",
+      "URL": "http://hdl.handle.net/11321/598",
+      "Family": "Language Models",
+      "Description": "This is a <a href=\"https://github.com/CLARIN-PL/Liner2\">Liner2</a> model for the recognition of named entities. The model was trained on the <a href=\"http://nkjp.pl/\">NKJP corpus</a> and evaluated in the <a href=\"http://poleval.pl/tasks/\">PolEval 2018 Task 2</a>.\nThe model is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "GNU GPL3",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/598"
+	},
+      "Publication": ""
+}

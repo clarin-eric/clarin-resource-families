@@ -1,0 +1,16 @@
+{
+      "Name": "Universal Dependencies 1.2 Models for Parsito",
+      "URL": "http://hdl.handle.net/11234/1-1573",
+      "Family": "Language Models",
+      "Description": "These are models for the dependency parser <a href=\"https://ufal.mff.cuni.cz/parsito\">Parsito</a>. They are trained on <a href=\"http://hdl.handle.net/11234/1-1548\">Universal Dependencies 1.2 Treebanks</a>.",
+      "Language": ["eng"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1573"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-Stanza model for morphosyntactic annotation of standard Croatian 2.1",
+      "URL": "http://hdl.handle.net/11356/1832",
+      "Family": "Language Models",
+      "Description": "The model for morphosyntactic annotation of standard Croatian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the <a href=\"http://hdl.handle.net/11356/1792\">hr500k training corpus</a> and using the <a href=\"http://hdl.handle.net/11356/1790\">CLARIN.SI-embed.hr word embeddings</a>. The model produces simultaneously UPOS, FEATS and XPOS (MULTEXT-East) labels. The estimated F1 of the XPOS annotations is ~94.87.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["hrv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1832"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

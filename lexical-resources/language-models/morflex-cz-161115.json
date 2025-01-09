@@ -1,0 +1,16 @@
+{
+      "Name": "Czech Models (MorfFlex CZ 161115 + PDT 3.0) for MorphoDiTa 161115",
+      "URL": "http://hdl.handle.net/11234/1-1836",
+      "Family": "Language Models",
+      "Description": "These models were developed for <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-43CD-0\">MorphoDiTa</a>, which performs morphological analysis, morphological generation and part-of-speech tagging (see also the <a href=\"https://www.clarin.eu/resource-families/tools-part-speech-tagging-and-lemmatisation\">PoS-taggers and lemmatizers Resource Family</a>). The morphological dictionary is created from the <a href=\"http://hdl.handle.net/11234/1-1834\">161115 version of the MorfFlex CZ lexicon</a> and the <a href=\"http://hdl.handle.net/11234/1-1807\">1.2 version of the DeriNet lexical network</a>. The PoS tagger is trained on <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3\">Prague Dependency Treebank 3.0</a>.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["ces"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1836"
+	},
+      "Publication": ""
+}

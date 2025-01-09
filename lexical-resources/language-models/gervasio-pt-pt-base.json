@@ -1,0 +1,16 @@
+{
+      "Name": "Gervásio PT-PT base",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-FF47-3",
+      "Family": "Language Models",
+      "Description": "This model, which is for European Portuguese, is a decoder of the GPT family that is based on the neural architecture Transformer and developed over the <a href=\"https://www.eleuther.ai/papers-blog/pythia-a-suite-for-analyzing-large-language-modelsacross-training-and-scaling\">Pythia model</a>.\nThe model is available for download from Hugging Face.",
+      "Language": ["por"],
+      "Licence": "MIT",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "https://huggingface.co/PORTULAN/gervasio-ptpt-base"
+	},
+      "Publication": ""
+}

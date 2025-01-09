@@ -1,0 +1,16 @@
+{
+      "Name": "CERED baseline models",
+      "URL": "http://hdl.handle.net/11234/1-3266",
+      "Family": "Language Models",
+      "Description": "These models are trained on <a href=\"http://hdl.handle.net/11234/1-3265\">CERED</a>, a dataset created by distant supervision on Czech Wikipedia and Wikidata, and recognize a subset of Wikidata relations.\nThe model is available for download from the LINDAT repository.",
+      "Language": ["ces"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3266"
+	},
+      "Publication": ""
+}

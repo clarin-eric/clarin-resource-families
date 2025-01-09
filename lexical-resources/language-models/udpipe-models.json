@@ -1,0 +1,16 @@
+{
+      "Name": "Universal Dependencies 2.5 Models for UDPipe",
+      "URL": "http://hdl.handle.net/11234/1-3131",
+      "Family": "Language Models",
+      "Description": "These models  are for the <a href=\"http://hdl.handle.net/11234/1-3105\">Universal Dependencies 2.5</a> treebanks (94 treebanks of 61 languages). In addition to dependency parsing, the models are also for toeknisation, part-of-speech tagging and lemmatisation.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["afr", "grc", "ara", "hye", "eus", "bel", "bul", "cat", "zho", "Church Slavonic", "cop", "hrv", "ces", "dan", "nld", "eng", "est", "fin", "fra", "glg", "wof", "deu", "got", "heb", "hin", "hun", "ind", "gle", "ita", "jpn", "kaz", "kor", "lat", "lav", "lzh", "lit", "mlt", "mar", "ell", "sme", "nob", "nno", "fro", "orv", "fas", "pol", "por", "ron", "rus", "san", "gla", "srp", "slk", "slv", "spa", "swe", "tam", "tel", "tur", "uig", "ukr", "urd", "vie", "wol"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3131"
+	},
+      "Publication": ""
+}

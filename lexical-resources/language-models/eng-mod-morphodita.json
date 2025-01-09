@@ -1,0 +1,16 @@
+{
+      "Name": "English Models (Morphium + WSJ) for MorphoDiTa",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-68D9-0",
+      "Family": "Language Models",
+      "Description": "These models are for <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-43CD-0\">MorphoDiTa</a>, which performs morphological analysis, morphological generation and part-of-speech tagging (see also the <a href=\"https://www.clarin.eu/resource-families/tools-part-speech-tagging-and-lemmatisation\">PoS-taggers and lemmatizers Resource Family</a>).\nThe morphological dictionary is created from Morphium and <a href=\"http://wordlist.aspell.net/\">SCOWL</a> (Spell Checker Oriented Word Lists), the PoS tagger is trained on the Wall Street Journal.",
+      "Language": ["eng"],
+      "Licence": "CC BY-NC-SA 3.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-68D9-0"
+	},
+      "Publication": ""
+}

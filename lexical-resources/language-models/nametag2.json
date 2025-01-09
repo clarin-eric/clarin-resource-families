@@ -1,0 +1,16 @@
+{
+      "Name": "NameTag 2 Models",
+      "URL": "http://hdl.handle.net/11234/1-3773",
+      "Family": "Language Models",
+      "Description": "These models are for <a href=\"http://hdl.handle.net/11234/1-3633\">NameTag 2</a>, a named entity recognition tool (see also the Named Entity Recognizers Resource Family). The documentation is available separately on <a href=\"https://ufal.mff.cuni.cz/nametag/2/models\">the project webpage</a>.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["ces", "nld", "eng", "deu", "spa"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3773"
+	},
+      "Publication": "Straková et al. (2019)"
+}

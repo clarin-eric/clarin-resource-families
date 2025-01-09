@@ -1,0 +1,16 @@
+{
+      "Name": "Liner2.5 model Minos",
+      "URL": "http://hdl.handle.net/11321/292",
+      "Family": "Language Models",
+      "Description": "This is a model for the <a href=\"https://github.com/CLARIN-PL/Liner2\">Liner2.5</a> tool for the recognition of verbs without explicit subjects.\nThe model is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/292"
+	},
+      "Publication": ""
+}

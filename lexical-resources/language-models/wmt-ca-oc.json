@@ -1,0 +1,16 @@
+{
+      "Name": "WMT21 Marian translation model (ca-oc)",
+      "URL": "http://hdl.handle.net/11234/1-3770",
+      "Family": "Language Models",
+      "Description": "This is a neural machine translation model for Catalan to Occitan translation and constitutes the primary CUNI submission for <a href=\"https://www.statmt.org/wmt21/multilingualHeritage-translation-task.html\">WMT21 Multilingual Low-Resource Translation for Indo-European Languages Shared Task</a>.\nThe model is available for download from the LINDAT repository.",
+      "Language": ["cat", "oci"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3770"
+	},
+      "Publication": "Jon et al. (2021)"
+}

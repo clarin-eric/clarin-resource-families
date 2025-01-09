@@ -1,0 +1,16 @@
+{
+      "Name": "Liner2.5 model NER",
+      "URL": "http://hdl.handle.net/11321/263",
+      "Family": "Language Models",
+      "Description": "This is a model for the <a href=\"https://github.com/CLARIN-PL/Liner2\">Liner 2.5</a> tool. #SEPThe model is available for download from the CLARIN-PL repository.",
+      "Language": ["pol"],
+      "Licence": "GNU LGPL 3.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11321/263"
+	},
+      "Publication": ""
+}

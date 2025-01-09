@@ -1,0 +1,16 @@
+{
+      "Name": "Dataset and baseline model of moderated content FRENK-MMC-RTV 1.0",
+      "URL": "http://hdl.handle.net/11356/1201",
+      "Family": "Language Models",
+      "Description": "FRENK-MMC-RTV is a dataset of moderated newspaper comments from the website <a href=\"https://www.rtvslo.si/\">rtvslo.si</a> with metadata on the time of publishing, user identifier, thread identifier and whether the comment was deleted by the moderators or not. The full text of each comment is encrypted via a character-replacement method so that the comments are not readable by humans. Basic punctuation is not encrypted in order to enable tokenization. The main use of this dataset are experiments on automating comment moderation. For real-world usage, a fastText classification model trained on non-encrypted data is made available as well.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1201"
+	},
+      "Publication": "Ljubešić et al. (2018)"
+}

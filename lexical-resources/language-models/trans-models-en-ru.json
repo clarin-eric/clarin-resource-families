@@ -1,0 +1,16 @@
+{
+      "Name": "Translation Models (en-ru) (v1.0)",
+      "URL": "http://hdl.handle.net/11234/1-3744",
+      "Family": "Language Models",
+      "Description": "These are <a href=\"https://ufal.mff.cuni.cz/cubbitt\">CUBBITT</a> English-Russiantranslation models available in the LINDAT <a href=\"https://lindat.mff.cuni.cz/services/translation/\">translation service</a>.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["eng", "rus"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3744"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,15 @@
+{
+      "Name": "Slovenian RoBERTa contextual embeddings model: SloBERTa 2.0",
+      "URL": "http://hdl.handle.net/11356/1397",
+      "Family": "Language Models",
+      "Description": "The monolingual Slovene RoBERTa (A Robustly Optimized Bidirectional Encoder Representations from Transformers) model is a state-of-the-art model representing words/tokens as contextually dependent word embeddings, used for various NLP tasks. Word embeddings can be extracted for every word occurrence and then used in training a model for an end task, but typically the whole RoBERTa model is fine-tuned end-to-end.",
+      "Language": ["slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["word embeddings"],
+      "Infrastructure": "CLARIN",
+      "Group": "Contextual Word Embeddings",
+      "Access": {
+	},
+      "Publication": ""
+}

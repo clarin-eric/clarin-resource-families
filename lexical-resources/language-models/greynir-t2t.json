@@ -1,0 +1,16 @@
+{
+      "Name": "GreynirT2T Serving - En--Is NMT Inference and Pre-trained Models (1.0)",
+      "URL": "http://hdl.handle.net/20.500.12537/72",
+      "Family": "Language Models",
+      "Description": "This CLARIN-IS repository entry includes code and models required to run the <a href=\"https://github.com/mideind/GreynirT2T\">GreynirT2T Transformer NMT</a> system for translation between English and Icelandic.\nThe models along with the code are available for download from the CLARIN-IS repository.",
+      "Language": ["eng", "isl"],
+      "Licence": "The MIT License",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/72"
+	},
+      "Publication": ""
+}

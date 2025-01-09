@@ -1,0 +1,16 @@
+{
+      "Name": "CoNLL 2018 Shared Task - UDPipe Baseline Models and Supplementary Materials",
+      "URL": "http://hdl.handle.net/11234/1-2859",
+      "Family": "Language Models",
+      "Description": "This is a baseline model for <a href=\"http://hdl.handle.net/11234/1-1702\">UDPipe</a> (version 1.2 and up), created for the <a href=\"https://universaldependencies.org/conll18/\">CoNLL 2018 Shared Task in UD Parsing</a>. The models were trained using a custom data split for treebanks where no development data is provided.\nThe model is available for download from the LINDAT repository.",
+      "Language": ["Multiple languages"],
+      "Licence": "License Universal Dependencies v2.2",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-2859"
+	},
+      "Publication": ""
+}

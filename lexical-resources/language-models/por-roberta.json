@@ -1,0 +1,16 @@
+{
+      "Name": "Portuguese RoBERTa language model",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-631E-2",
+      "Family": "Language Models",
+      "Description": "This is a pre-trained <a href=\"https://huggingface.co/docs/transformers/model_doc/roberta\">roBERTa</a> model in Portuguese, with 6 layers and 12 attention-heads, totaling 68M parameters. Pre-training was done on 10 million Portuguese sentences and 10 million English sentences from the <a href=\"https://oscar-corpus.com/\">OSCAR corpus</a>.\nThe model is available for download from the PORUTLAN repository.",
+      "Language": ["por"],
+      "Licence": "CC-BY",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000E-631E-2"
+	},
+      "Publication": ""
+}

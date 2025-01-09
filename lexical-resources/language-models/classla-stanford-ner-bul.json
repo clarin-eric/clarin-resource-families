@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-StanfordNLP model for named entity recognition of standard Bulgarian 1.0",
+      "URL": "http://hdl.handle.net/11356/1329",
+      "Family": "Language Models",
+      "Description": "This model for named entity recognition of standard Bulgarian was built with the <a href=\"https://github.com/clarinsi/classla-stanfordnlp\">CLASSLA-StanfordNLP tool</a> by training on the <a href=\"http://hdl.handle.net/11495/D93F-C6E9-65D9-2\">BulTreeBank training corpus</a> and using the <a href=\"http://hdl.handle.net/11234/1-1989\">CoNLL2017 word embeddings</a>.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["bul"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1329"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

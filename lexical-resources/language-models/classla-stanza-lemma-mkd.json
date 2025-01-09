@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-Stanza model for lemmatisation of standard Macedonian 2.1",
+      "URL": "http://hdl.handle.net/11356/1848",
+      "Family": "Language Models",
+      "Description": "The model for lemmatisation of standard Macedonian was built with the <a href=\"https://github.com/clarinsi/classla\">CLASSLA-Stanza tool</a> by training on the 1984 training corpus expanded with the Macedonian SETimes corpus (to be published). The estimated F1 of the lemma annotations is ~98.81.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["mkd"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Lemmatisation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1848"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "Face-domain-specific automatic speech recognition models",
+      "URL": "http://hdl.handle.net/11356/1749",
+      "Family": "Language Models",
+      "Description": "This model contains all the files required to implement face-domain-specific automatic speech recognition (ASR) applications using the <a href=\"https://github.com/kaldi-asr/kaldi\">Kaldi ASR toolkit</a>, including the acoustic model, language model, and other relevant files. It also includes all the scripts and configuration files needed to use these models for implementing face-domain-specific automatic speech recognition.\nThe acoustic model was trained using the relevant Kaldi ASR tools and the Artur speech corpus (<a href=\"http://hdl.handle.net/11356/1776\">audio</a>,<a href=\"http://hdl.handle.net/11356/1772\">transcriptions</a>). The language model was trained using the domain-specific text data involving face descriptions obtained by translating the <a href=\"https://github.com/mtanti/face2text-dataset\"> Face2Text English dataset </a> into the Slovenian language. These models, combined with other necessary files like the HCLG.fst and decoding scripts, enable the implementation of face-domain-specific ASR applications.\nThis resource is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "Apache License 2.0",
+      "Size": [],
+      "Annotation": ["face-domain-specific automatic speech recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1749"
+	},
+      "Publication": ""
+}

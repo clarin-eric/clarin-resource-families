@@ -1,0 +1,16 @@
+{
+      "Name": "The CLASSLA-StanfordNLP model for named entity recognition of standard Croatian 1.0",
+      "URL": "http://hdl.handle.net/11356/1322",
+      "Family": "Language Models",
+      "Description": "This model for named entity recognition of standard Croatian was built with the <a href=\"https://github.com/clarinsi/classla-stanfordnlp\">CLASSLA-StanfordNLP tool</a> by training on the <a href=\"http://hdl.handle.net/11356/1183\">hr500k training corpus</a> and using the <a href=\"http://hdl.handle.net/11356/1205\">CLARIN.SI-embed.hr word embeddings</a>.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["hrv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1322"
+	},
+      "Publication": "Ljubešić and Dobrovoljc (2019)"
+}

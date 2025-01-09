@@ -1,0 +1,16 @@
+{
+      "Name": "CUBBITT Translation Models (en-cs) (v1.0)",
+      "URL": "http://hdl.handle.net/11234/1-3733",
+      "Family": "Language Models",
+      "Description": "These English-Czech translation models are used by the <a href=\"https://lindat.mff.cuni.cz/services/translation/\"Lindat translation service</a>.\nThe model is available for download from the LINDAT repository.",
+      "Language": ["ces", "eng"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3733"
+	},
+      "Publication": ""
+}

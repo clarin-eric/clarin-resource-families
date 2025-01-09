@@ -1,0 +1,16 @@
+{
+      "Name": "WMT16 Tuning Shared Task Models (Czech-to-English)",
+      "URL": "http://hdl.handle.net/11372/LRT-1671",
+      "Family": "Language Models",
+      "Description": "These Czech to English translation models are trained on the <a href=\"http://ufal.mff.cuni.cz/czeng/czeng16pre\">parallel CzEng 1.6 corpus</a>. The data is tokenized with <a href=\"https://pypi.org/project/mosestokenizer/\">Moses</a>). Alignment is done using <a href=\"https://github.com/clab/fast_align\">fast_align</a> and the standard Moses pipeline is used for training.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["ces", "eng"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["machine translation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Machine Translation",
+      "Access": {
+	"Download": "http://hdl.handle.net/11372/LRT-1671"
+	},
+      "Publication": ""
+}

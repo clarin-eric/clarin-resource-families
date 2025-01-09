@@ -1,0 +1,16 @@
+{
+      "Name": "LVBERT - Latvian BERT",
+      "URL": "http://hdl.handle.net/20.500.12574/43",
+      "Family": "Language Models",
+      "Description": "This model is trained on the original implementation of <a href=\"https://github.com/google-research/bert\">BERT</a> on the <a href=\"https://www.tensorflow.org/\">TensorFlow</a> machine-learning platform with the whole-word masking and the next sentence prediction objectives. This uses the BERT configuration with 12 layers, 768 hidden units, 12 heads, 128 sequence length, 128 mini-batch size and a 32,000 token vocabulary.\nTHe model is available for download from the CLARIN-LV repository.",
+      "Language": ["lav"],
+      "Licence": "GNU GPL3",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12574/43"
+	},
+      "Publication": "Znotinš and Barzdinš (2020)"
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "CoNLL 2017 Shared Task - UDPipe Baseline Models and Supplementary Materials",
+      "URL": "http://hdl.handle.net/11234/1-1990",
+      "Family": "Language Models",
+      "Description": "These are models for the dependency parser <a href=\"http://hdl.handle.net/11234/1-1702\">UDPipe</a>, developed as part of the <a href=\"http://universaldependencies.org/conll17/\">CoNLL 2017 Shared Task in UD Parsing</a>.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["Multiple languages"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["syntactic parsing"],
+      "Infrastructure": "CLARIN",
+      "Group": "Syntactic Parsing",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1990"
+	},
+      "Publication": ""
+}

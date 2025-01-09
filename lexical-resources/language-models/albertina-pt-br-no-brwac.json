@@ -1,0 +1,16 @@
+{
+      "Name": "Albertina PT-BR No-brWaC",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-FF46-4 ",
+      "Family": "Language Models",
+      "Description": "This is a model for Portuguese spoken in Brazil trained on adta sets othan than brWaC. It is I developed over the <a href=\"https://huggingface.co/docs/transformers/model_doc/deberta\">DeBERTa model</a>.\nThe model is available for download from Hugging Face.",
+      "Language": ["por"],
+      "Licence": "MIT",
+      "Size": [],
+      "Annotation": ["Baseline"],
+      "Infrastructure": "CLARIN",
+      "Group": "Baseline",
+      "Access": {
+	"Download": "https://huggingface.co/PORTULAN/albertina-ptbr-nobrwac"
+	},
+      "Publication": ""
+}

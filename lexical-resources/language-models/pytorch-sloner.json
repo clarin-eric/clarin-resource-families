@@ -1,0 +1,16 @@
+{
+      "Name": "PyTorch model for Slovenian Named Entity Recognition SloNER 1.0",
+      "URL": "http://hdl.handle.net/11356/1758",
+      "Family": "Language Models",
+      "Description": "This is a model for Slovenian Named Entity Recognition. It is is a PyTorch neural network model, intended for usage with the <a href=\"https://github.com/huggingface/transformers\">HuggingFace transformers library</a> .\nThe model is based on the Slovenian RoBERTa contextual embeddings model <a href=\"http://hdl.handle.net/11356/1397\">SloBERTa 2.0</a>. The model was trained on the <a href=\"http://hdl.handle.net/11356/1747\">SUK 1.0 training corpus</a>.The source code of the model is available on <a href=\"https://github.com/clarinsi/SloNER\">GitHub repository</a>.\nThe model is available for download from the CLARIN.SI repository.",
+      "Language": ["slv"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": [],
+      "Annotation": ["named entity recognition"],
+      "Infrastructure": "CLARIN",
+      "Group": "Named Entity Recognition",
+      "Access": {
+	"Download": "http://hdl.handle.net/11356/1758"
+	},
+      "Publication": ""
+}

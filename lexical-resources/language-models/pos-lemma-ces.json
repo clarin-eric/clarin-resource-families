@@ -1,0 +1,16 @@
+{
+      "Name": "POS Tagging and Lemmatization (Czech model)",
+      "URL": "http://hdl.handle.net/11234/1-4613",
+      "Family": "Language Models",
+      "Description": "This model is trained using <a href=\"https://arxiv.org/abs/2105.11314\">RobeCzech</a>, which is the Czech version of BERT. The model is trained on the <a href=\"http://hdl.handle.net/11234/1-2621\">Prague Dependency Treebank 3.5</a>.\nThe model is available for download from the LINDAT repository.",
+      "Language": ["ces"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax and lemmatisation"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-4613"
+	},
+      "Publication": "Vysušilová (2021)"
+}

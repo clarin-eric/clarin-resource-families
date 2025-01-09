@@ -1,0 +1,16 @@
+{
+      "Name": "Slovak MorphoDiTa Models 170914",
+      "URL": "http://hdl.handle.net/11234/1-3278",
+      "Family": "Language Models",
+      "Description": "These are Slovak models for <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-43CD-0\">MorphoDiTa</a>, a tool which provides morphological analysis, morphological generation and part-of-speech tagging. The morphological dictionary is created from <a href=\"http://hdl.handle.net/11234/1-3186\">MorfFlex</a> (SK 170914) and the PoS tagger is trained on automatic translations in <a href=\"http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3\">Prague Dependency Treebank 3.0</a>.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["slk"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": [],
+      "Annotation": ["morphosyntax"],
+      "Infrastructure": "CLARIN",
+      "Group": "Morphosyntax",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-3278"
+	},
+      "Publication": ""
+}

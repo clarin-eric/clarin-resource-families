@@ -1,0 +1,16 @@
+{
+      "Name": "RÚV-DI Speaker Diarization v5 models (21.05)",
+      "URL": "http://hdl.handle.net/20.500.12537/109",
+      "Family": "Language Models",
+      "Description": "These models are trained on the <a href=\"https://clarin.is/en/resources/althingisgognin/\">Althingi Parliamentary Speech</a> corpus hosted by CLARIN-IS.  The models use MFCCS, x-vectors, PLDA and AHC\nThe models are available for download from the CLARIN-IS repository.",
+      "Language": ["isl"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": ["diarization"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12537/109"
+	},
+      "Publication": ""
+}

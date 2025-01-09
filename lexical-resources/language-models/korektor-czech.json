@@ -1,0 +1,16 @@
+{
+      "Name": "Czech Models for Korektor 2",
+      "URL": "http://hdl.handle.net/11234/1-1460",
+      "Family": "Language Models",
+      "Description": "These models are for the statistical spellchecker <a href=\"https://ufal.mff.cuni.cz/korektor\">Korektor 2</a>. The models can either perform spellchecking and grammar-checking, or only generate diacritical marks.\nThe models are available for download from the LINDAT repository.",
+      "Language": ["ces"],
+      "Licence": "CC BY-NC-SA 3.0",
+      "Size": [],
+      "Annotation": ["normalization"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "http://hdl.handle.net/11234/1-1460"
+	},
+      "Publication": ""
+}

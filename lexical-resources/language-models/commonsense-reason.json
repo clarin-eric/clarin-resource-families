@@ -1,0 +1,16 @@
+{
+      "Name": "Model weights for a study of commonsense reasoning",
+      "URL": "https://hdl.handle.net/21.11129/0000-000F-4869-B",
+      "Family": "Language Models",
+      "Description": "This resource contains model weights for five Transformer-based models: <a href=\"https://huggingface.co/docs/transformers/model_doc/roberta\">roBERTa</a>, <a href=\"https://huggingface.co/docs/transformers/model_doc/gpt2\">GPT-2</a>, <a href=\"https://huggingface.co/docs/transformers/model_doc/t5\">T5</a>, <a href=\"https://huggingface.co/docs/transformers/model_doc/bart\">BART</a> and <a href=\"https://aclanthology.org/P19-1470/\">COMET</a>.These models were implemented using <a href=\"https://huggingface.co/\">HuggingFace</a>, and fine-tuned on the following four commonsense reasoning tasks: Argument Reasoning Comprehension Task (ARCT), AI2 Reasoning Challenge (ARC), Physical Interaction Question Answering (PIQA) and CommonsenseQA (CSQA).\nThe models are available for download form the PORTULAN repository.",
+      "Language": ["eng"],
+      "Licence": "MIT",
+      "Size": [],
+      "Annotation": ["commonsense reasoning"],
+      "Infrastructure": "CLARIN",
+      "Group": "Other",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000F-4869-B"
+	},
+      "Publication": ""
+}
