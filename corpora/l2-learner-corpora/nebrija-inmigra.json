@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.21415/T5GM44",
 	"Family": "L2 learner corpora",
       "Description": "This corpus consists of oral interviews carried out in the context of the LETRA test of Spanish for immigrant workers. It is made up of semi-guided interviews carried out in Spanish which last approximately 10 minutes each. The participants are immigrants from 11 different countries who live in the Autonomous Community of Madrid (Spain).\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
-      "Languages": ["spa"],
+      "Language": ["spa"],
       "Licence": "public (acknowledgment required)",
       "Size": [],
       "Annotation": ["audio/transcription linking"],

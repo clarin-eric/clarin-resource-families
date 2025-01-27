@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11022/0000-0000-6973-9",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains film retellings and the accompanying transcriptions.\nThe corpus is available for download from the HZSK CLARIN-D repository.",
-      "Languages": ["deu"],
+      "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["24,000 words"],
       "Annotation": ["prosody"],

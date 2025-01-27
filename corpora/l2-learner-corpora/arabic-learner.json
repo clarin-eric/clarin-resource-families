@@ -3,7 +3,7 @@
       "URL": "http://www.arabiclearnercorpus.com/about-the-corpus-en",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains essays written by students from 67 L1 backgrounds. It also contains recordings of speech tasks and associated transcriptions.\nThe corpus is available for download from the LDC catalogue.",
-      "Languages": ["ara"],
+      "Language": ["ara"],
       "Licence": "CLARIN RES",
       "Size": ["0.3 million tokens"],
       "Annotation": ["tokenised"],

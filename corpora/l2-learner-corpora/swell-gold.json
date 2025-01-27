@@ -3,7 +3,7 @@
       "URL": "https://spraakbanken.gu.se/en/projects/swell",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains essays from various education establishments in Sweden for non-Swedish speaking adult learners.\nAside from the automatic linguistic annotation, the corpus is manually annotated at the following levels: pseudonymization, normalization, and correction annotation. See <a href=\"https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL\">the metadata description</a> for further details on the automatic and manual annotation. While the SweLL-pilot corpus was collected in 2006–2016, SweLL-gold was collected in 2017–2020.\nThe corpus is available through the Browse Korp and for download in Språkbanken Text / the SweLL infrastructure through an individual application form.",
-      "Languages": ["swe"],
+      "Language": ["swe"],
       "Licence": "CC-BY",
       "Size": ["147,842 tokens (original version)", "151,851 tokens (normalized version)", "7,807 sentences (original)", "8,137 sentences (normalized)"],
       "Annotation": ["tokenised", "PoS-tagged", "MSD-tagged", "lemgrams", "compounds word forms"],

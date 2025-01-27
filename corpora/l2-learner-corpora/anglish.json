@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/sldr000731/v2",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains various speech tasks performed by French native speakers and the associated transcriptions.\nThe corpus is available for download from Ortolang.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CLARIN RES",
       "Size": [],
       "Annotation": ["interpausal units"],

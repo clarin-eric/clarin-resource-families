@@ -3,7 +3,7 @@
       "URL": "https://hdl.handle.net/11403/sldr000015/v2",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains unprepared readings by first-year students at an English department who speak French as a native language.\nThe corpus is available for download from Ortolang.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CLARIN RES",
       "Size": [],
       "Annotation": [],

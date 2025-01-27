@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.21415/NB7D-4G97",
 	"Family": "L2 learner corpora",
       "Description": "This corpus is a 3-year follow up to the <a href=\"https://www.clarin.eu/resource-families/L2-corpora#The%20French%20LANGSNAP%20Corpus\">LANGSNAP corpus</a>, involving 18 participants.\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
-      "Languages": ["fra"],
+      "Language": ["fra"],
       "Licence": "public (acknowledgment required)",
       "Size": [],
       "Annotation": ["audio/transcription linking"],

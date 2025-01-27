@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.21415/G7KH-R304",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains  10 recorded interviews involving  students of Spanish as a Foreign Language have at the University of Alicante, in Alicante.\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
-      "Languages": ["spa"],
+      "Language": ["spa"],
       "Licence": "public (acknowledgment required)",
       "Size": ["1 hour 27 minutes", "10,292 words"],
       "Annotation": ["audio/transcription linking"],

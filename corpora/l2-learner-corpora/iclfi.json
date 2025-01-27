@@ -3,7 +3,7 @@
       "URL": "http://urn.fi/urn:nbn:fi:lb-20140730163",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains fictional (e.g., letters, narratives) and non-fictional (e.g., essays) texts.\nThe corpus provides information on a large number of variables concerning the linguistic background of the learner, the learning task, the learning context, etc. It is available through the Browse Korp.",
-      "Languages": ["fin"],
+      "Language": ["fin"],
       "Licence": "CLARIN RES",
       "Size": ["1 million words"],
       "Annotation": ["MSD-tagged"],

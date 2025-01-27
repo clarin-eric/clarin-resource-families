@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.14106/2457",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains essays written during the first three semesters of English studies at Uppsala University; most of the essays were written during the first semester. The corpus contains text files, each with a student ID and text ID including the course level, and information about the different prompts are available.\nThe corpus is available for download from the University of Oxford Text Archive.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "CC-BY",
       "Size": ["1.2 million tokens"],
       "Annotation": ["tokenised"],

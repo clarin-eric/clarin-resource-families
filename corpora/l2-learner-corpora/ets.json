@@ -3,7 +3,7 @@
       "URL": "https://catalog.ldc.upenn.edu/LDC2014T06",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains texts written by learners from 11 L1 backgrounds as part of an international text of academic English proficiency. Prompts as well as proficiency level are part of the metadata.\nThe corpus is available for download from the LDC catalogue.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "restricted",
       "Size": ["12,100 essays (1100 / language)"],
       "Annotation": [],

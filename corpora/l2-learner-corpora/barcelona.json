@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10.21415/T5S89C",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains speech recordings of Spanish children and teenagers learning English in Barcelona. across 4 tasks (written composition, oral narrative, oral interview and role play).\nThe corpus is part of the <a href=\"https://slabank.talkbank.org/\">SLABank collection</a>, which is a component of <a href=\"https://talkbank.org/\">TalkBank</a> dedicated to providing corpora for the study of second language acquisition and learning.\nThe corpus is available for online browsing and download via TalkBank.",
-      "Languages": ["eng"],
+      "Language": ["eng"],
       "Licence": "public (acknowledgment required)",
       "Size": [],
       "Annotation": ["audio/transcription linking"],

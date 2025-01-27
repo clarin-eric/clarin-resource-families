@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11234/1-162",
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains essays written in 2013 by learners from 54 L1 backgrounds.\nThe corpus is available for download from LINDAT.",
-      "Languages": ["ces"],
+      "Language": ["ces"],
       "Licence": "CC-BY",
       "Size": ["0.9 million words"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "error labels"],
