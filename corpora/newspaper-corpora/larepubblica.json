@@ -1,5 +1,5 @@
 {
-      "Name": "\“la Repubblica\” corpus",
+      "Name": "\"la Repubblica\" corpus",
       "URL": "https://docs.sslmit.unibo.it/doku.php?id=corpora:repubblica",
 	"Family": "Newspaper corpora",
       "Description": "The corpus contains articles from the Italian newspaper <a href=\"http://www.repubblica.it/\">La Repubblica</a>.\nThe corpus is available through the noSketch Engine concordancer.",
