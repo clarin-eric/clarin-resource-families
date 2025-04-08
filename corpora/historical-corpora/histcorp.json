@@ -1,0 +1,15 @@
+{
+      "Name": "HistCORP - Historical Corpora",
+      "URL": "https://sprakbanken-clarin.lingfil.uu.se/histcorp/",
+	"Family": "Historical corpora",
+      "Description": "This is a monitoring corpus for seventeen languages covering different time periods and genres.\nThe subcorpora are available under different licences; see the description on the main webpage.\nOnly some parts of the corpus are part-of-speech tagged and syntactically parsed.\nThe corpus is available for download from the Swedish Language Bank.",
+      "Language": ["Coptic", "ces", "nld", "eng", "fra", "deu", "ell", "hun", "isl", "ita", "lat", "pol", "por", "rus", "slv", "spa", "swe"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["tokenised", "PoS-tagged", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://sprakbanken-clarin.lingfil.uu.se/histcorp/"
+	},
+      "Publication":""
+}
