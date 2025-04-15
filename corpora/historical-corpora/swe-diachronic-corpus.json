@@ -1,0 +1,15 @@
+{
+      "Name": "Swedish Diachronic Corpus",
+      "URL": "https://www2.lingfil.uu.se/person/pettersson/svediakorp/index_en.html",
+	"Family": "Historical corpora",
+      "Description":"This is a diachronic corpus covering the period between the 13th and 21st centuries.\nThe texts are from various genres and include amongst others letters, charters, laws, lyrics, regulations, pamphlets, and so on.\nSome of the smaller subcorpora are manually annotated while the larger subcorpora are either unannotated or semi-automatically annotated.\nThe corpus is available for download from a dedicated webpaged affiliated with SWE-CLARIN.",
+      "Language": ["swe"],
+      "Licence": "",
+      "Size": [""],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "syntactically parsed"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "https://www2.lingfil.uu.se/person/pettersson/svediakorp/index_en.html"
+	},
+      "Publication":""
+}
