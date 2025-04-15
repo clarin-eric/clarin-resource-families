@@ -1,0 +1,16 @@
+{
+      "Name": "NyLLex",
+      "URL": "https://doi.org/10.23695/gp75-6148",
+      "Family": "Wordlists",
+      "Description": "This is a frequency list derived from books published by Sweden's largest publisher of easy language texts.\nThe entries are annotated with frequency counts distributed over six reading proficiency levels. Each entry in the resource contains a word, its part-of-speech tag (SUC-style), and a number of frequencies over different readability levels. Multi-word expressions are denoted by multiple words linked by underscores.\nThe list is available for download from the Swedish Language Bank.",
+      "Language": ["swe"],
+      "Licence": "CC BY 4.0",
+      "Size": ["14,983 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://doi.org/10.23695/gp75-6148"
+	},
+      "Publication": ""
+}
