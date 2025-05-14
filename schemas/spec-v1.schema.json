@@ -1,0 +1,198 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
+  "title": "JSON Schema for the CLARIN Resource Families",
+  "type": "object",
+  "items": null,
+  "definitions": {},
+  "required": [
+    "Name",
+    "URL",
+    "Family",
+    "Description",
+    "Language",
+    "Licence",
+    "Size",
+    "Annotation",
+    "Infrastructure",
+    "Access",
+    "Publication"
+  ],
+  "properties": {
+    "task": {
+      "$id": "#/properties/Family",
+      "type": "string",
+      "title": "Name of the Resource Family",
+      "enum": [
+        "Academic corpora",
+        "Computer-mediated communication corpora",
+        "Conceptual resources",
+        "Corpora of Disordered Speech",
+        "Corpus query tools",
+        "Dictionaries",
+        "Glossaries",
+        "Historical corpora",
+        "L2 learner corpora",
+        "Language Models",
+        "Legal corpora",
+        "Lexica",
+        "Literary corpora",
+        "Manually annotated corpora",
+        "Named entity recognition",
+        "Newspaper corpora",
+        "Oral history corpora",
+        "Oral History Corpora",
+        "Parallel corpora",
+        "Parliamentary corpora",
+        "Part-of-Speech Tagging and Lemmatisation",
+        "Reference corpora",
+        "Sign language resources",
+        "Spoken corpora",
+        "Tools for Normalisation",
+        "Tools for sentiment analysis and opinion mining",
+        "Wordlists"
+      ]
+    },
+    "deployment": {
+      "$id": "#/properties/deployment",
+      "type": "string",
+      "title": "Deployment type",
+      "default": "development",
+      "enum": ["production", "development"]
+    },
+    "Name": {
+      "$id": "#/properties/Name",
+      "title": "Resource name",
+      "type": "string"
+    },
+    "logo": {
+      "$id": "#/properties/logo",
+      "type": "string",
+      "title": "The tool's logo file name",
+      "examples": ["mylogo.jpg"]
+    },
+    "URL": {
+      "$id": "#/properties/URL",
+      "type": "string",
+      "format": "uri",
+      "title": "Link to the resource (PID preferred)",
+      "examples": ["https://example.com"]
+    },
+    "location": {
+      "$id": "#/properties/location",
+      "type": "string",
+      "title": "Geographical location",
+      "examples": ["Tuebingen, Germany"]
+    },
+    "creators": {
+      "$id": "#/properties/creators",
+      "type": "string",
+      "title": "Tool's creators"
+    },
+    "contact": {
+      "$id": "#/properties/contact",
+      "type": "object",
+      "title": "The Contact Schema",
+      "required": [
+        "person",
+        "email"
+      ],
+      "properties": {
+        "person": {
+          "$id": "#/properties/contact/properties/person",
+          "type": "string",
+          "title": "Person name"
+        },
+        "email": {
+          "$id": "#/properties/contact/properties/email",
+          "type": "string",
+          "format": "email",
+          "title": "Email"
+        }
+      }
+    },
+    "version": {
+      "$id": "#/properties/version",
+      "type": ["string", "null"],
+      "title": "Tool's version",
+      "default": null,
+      "examples": ["v1.0"]
+    },
+    "authentication": {
+      "$id": "#/properties/authentication",
+      "type": ["string", "null"],
+      "title": "Authentication mechanism description, or null",
+      "default": null
+    },
+    "Licence": {
+      "$id": "#/properties/Licence",
+      "type": ["array", "string", "null"],
+      "title": "Resource's licence",
+      "default": null
+    },
+    "Description": {
+      "$id": "#/properties/Description",
+      "type": "string",
+      "title": "Resource's description"
+    },
+    "Language": {
+      "$id": "#/properties/Language",
+      "type": "array",
+      "title": "Languages that the tool can work with",
+      "items": {
+        "$id": "#/properties/languages/items",
+        "type": "string",
+        "title": "Language Identifier, ISO 693-3",
+        "default": "eng",
+        "examples": ["eng", "deu"],
+        "pattern": "^(.{3})|(generic)$"
+      }
+    },
+    "langEncoding": {
+      "$id": "#/properties/langEncoding",
+      "type": "string",
+      "title": "The language encoding that the tool requires",
+      "default": "639-3",
+      "enum": ["639-1", "639-3"]
+    },
+    "mimetypes": {
+      "$id": "#/properties/mimetypes",
+      "type": "array",
+      "title": "Accepted mimetypes",
+      "items": {
+        "$id": "#/properties/mimetypes/items",
+        "type": "string",
+        "title": "Mediatype",
+        "examples": [
+          "text/plain",
+          "text/rtf",
+          "application/pdf",
+          "application/msword"
+        ]
+      }
+    },
+    "output": {
+      "$id": "#/properties/output",
+      "type": "array",
+      "title": "Tool's output mediatypes",
+      "items": {
+        "$id": "#/properties/output/items",
+        "type": "string",
+        "title": "Mediatype",
+        "examples": ["application/xml"]
+      }
+    },
+    "url": {
+      "$id": "#/properties/url",
+      "type": "string",
+      "format": "uri",
+      "title": "Tool's URL",
+      "examples": ["https://weblicht.sfs.uni-tuebingen.de/weblicht/"]
+    },
+    "parameters": {
+      "$id": "#/properties/parameters",
+      "type": "object",
+      "title": "Tool parameters"
+    }
+  }
+}
