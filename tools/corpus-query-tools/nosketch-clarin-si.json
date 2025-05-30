@@ -4,7 +4,7 @@
 	"Family": "Corpus query tools",
       "Description": "This is an open-source version of the commercial Sketch Engine, produced by Lexical Computing. This installation of noSketch Engine at CLARIN.SI offers over 50 richly annotated corpora in Slovenian and other languages.",
       "Functionality": ["Querying/concordancing"],
-      "Language": ["slv", "hrv", "bos", "srp", "cnr", "mkd", "hbs", "bul", "ces", "slk", "pol", "eng", "dan", "nld", "est", "fin", "fra", "Gaelic", "deu", "ell", "hun", "isl", "ita", "jpn", "lav", "lit", "por"],
+      "Language": [“sqi”, “eus”, “bos”, “bul”, “cat”, “hrv”, “ces”, “dan”, “nld”, “eng”, “est”, “fin”, “fra”, “Gaelic”, “glg”, “ger”, “ell”, “hun”, “isl”, “ita”, “jpn”, “lav”, “lit”, “mkd”, “cnr”, “nor”, “pol”, “por”, “ron”, “rus”, “srp”, “hbs”, “slk”, “slv”, “spa”, “swe”, “tur”, “ukr”],
       "Licence": "no",
       "Size": [],
       "Platform": [],
