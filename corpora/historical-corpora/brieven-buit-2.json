@@ -1,0 +1,15 @@
+{
+      "Name": "Brieven als buit-2 (Letters as loot-2)",
+      "URL": "https://taalmaterialen.ivdnt.org/download/brieven-als-buit2/",
+	"Family": "Historical corpora",
+      "Description": "This corpus is an addition to the Letters as Loot corpus.\n This corpus consists of Dutch letters which were taken as loot by privateers and confiscated by the High Court of Admiralty during the wars fought between The Netherlands and England from the second half of the 17th to the early 19th centuries.\nThe corpus is available through a dedicated concordancer.",
+      "Language": ["nld"],
+      "Licence": "CLARIN PUB",
+      "Size": ["460,000 words"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10032/tm-a2-s6"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/AR3LQ524/items/7ZJ37MHV/"
+}
