@@ -2,13 +2,13 @@
       "Name": "HESITA database",
       "URL": "https://hdl.handle.net/21.11129/0000-000D-F941-1",
 	"Family": "Spoken corpora",
-      "Description": "This corpus consists of television broadcast daily news.\nThe annotations rlat to hesitation events, acoustical environments, speaking styles, speaker characteristics, and respiratory events, among others.\nThe corpus is available from PORTULAN.",
+      "Description": "This corpus consists of television broadcast daily news.\nThe annotations relate to hesitation events, acoustical environments, speaking styles, speaker characteristics, and respiratory events, among others.\nThe corpus is available from PORTULAN.",
       "Language": ["por"],
       "Licence": "",
       "Size": [""],
       "Annotation": [""],
       "Infrastructure": "CLARIN",
-      "Group": ["Corpora with audio recordings and transcriptions"],
+      "Group": ["Corpora with transcriptions and audio recordings"],
       "Access": {
 	"Download": "https://hdl.handle.net/21.11129/0000-000D-F941-1 "
 	},
