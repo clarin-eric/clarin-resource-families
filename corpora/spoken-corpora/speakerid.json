@@ -8,7 +8,7 @@
       "Size": ["100 sentences", "1 hour"],
       "Annotation": [""],
       "Infrastructure": "CLARIN",
-      "Group": ["Corpora with audio recordings and transcriptions"],
+      "Group": ["Corpora with transcriptions and audio recordings"],
       "Access": {
 	"Download": "https://hdl.handle.net/21.11129/0000-000D-F927-F"
 	},

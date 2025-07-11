@@ -8,7 +8,7 @@
       "Size": ["17 hours"],
       "Annotation": ["sound-to-text alignment"],
       "Infrastructure": "CLARIN",
-      "Group": ["Corpora with audio recordings and transcriptions"],
+      "Group": ["Corpora with transcriptions and audio recordings"],
       "Access": {
 	"Download": "https://hdl.handle.net/21.11129/0000-000F-73CA-C"
 	},
