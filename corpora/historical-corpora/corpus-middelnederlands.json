@@ -1,0 +1,16 @@
+{
+      "Name": "Corpus Middelnederlands (Corpus Middle Dutch)",
+      "URL": "http://hdl.handle.net/10032/tm-a2-j6",
+	"Family": "Historical corpora",
+      "Description": "The Corpus Middle Dutch is a collection of over 350 Middle Dutch (literary) rhyme and prose texts from the period 1300-1550.",
+      "Language": ["nld"],
+      "Licence": "INT Licence for researchers",
+      "Size": [""],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10032/tm-a2-r9",
+	"Download": "http://hdl.handle.net/10032/tm-a2-j6"
+	},
+      "Publication": ""
+}

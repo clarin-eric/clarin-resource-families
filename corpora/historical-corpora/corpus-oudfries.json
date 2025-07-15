@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus Oudfries",
+      "URL": "https://taalmaterialen.ivdnt.org/download/corpus-oudfries-online-1_0/",
+	"Family": "Historical corpora",
+      "Description": "The Corpus Old Frisian contains a large sample of the Old Frisian language from ca. 1200-1550.",
+      "Language": ["fry"],
+      "Licence": "",
+      "Size": ["235,000 words"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10032/tm-a3-b4"
+	},
+      "Publication": ""
+}

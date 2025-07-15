@@ -1,0 +1,15 @@
+{
+      "Name": "Historical Corpus of Dutch (HCD)",
+      "URL": "https://taalmaterialen.ivdnt.org/download/historical-corpus-of-dutch-online/",
+	"Family": "Historical corpora",
+      "Description": "This corpus is a diachronic, regionally balanced, multigenre corpus of written Dutch. The HCD covers the sixteenth to the nineteenth century.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": ["451,000 words"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "http://hdl.handle.net/10032/tm-a3-a2"
+	},
+      "Publication": ""
+}
