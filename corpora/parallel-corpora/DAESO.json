@@ -1,0 +1,16 @@
+{
+      "Name": "DAESO Corpus: parallel Dutch monolingual treebank",
+      "URL": "http://hdl.handle.net/10032/tm-a2-h9",
+	"Family": "Parallel corpora",
+      "Description": "This corpus is a parallel monolingual treebank of Dutch texts and the corpus contains more than 2.1 million words of parallel and similar text. ",
+      "Language": ["Dutch"],
+      "Licence": "INT Licence for researchers",
+      "Size": ["2,1 million tokens"],
+      "Annotation": ["tokenised", "syntactically parsed", "sentence aligned"],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-h9"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/PRVR2ENC/items/8GMRSJ72/"
+}
