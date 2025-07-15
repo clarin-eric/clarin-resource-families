@@ -1,0 +1,15 @@
+{
+      "Name": "Brieven als buit - Gouden Standaard (Letters as loot - Golden Standard)",
+      "URL": "http://hdl.handle.net/10032/tm-a2-a7",
+	"Family": "Historical corpora",
+      "Description": "This corpus consists of about 1,000 files enriched with main word type and modern lemma from the Letters as Loot program.",
+      "Language": ["nld"],
+      "Licence": "",
+      "Size": ["1000 files"],
+      "Annotation": ["lemmatised", "PoS-tagged"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-a7"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/AR3LQ524/items/7ZJ37MHV/"
+}
