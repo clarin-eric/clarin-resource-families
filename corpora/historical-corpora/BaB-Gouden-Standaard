@@ -2,7 +2,7 @@
       "Name": "Brieven als buit - Gouden Standaard (Letters as loot - Golden Standard)",
       "URL": "http://hdl.handle.net/10032/tm-a2-a7",
 	"Family": "Historical corpora",
-      "Description": "This corpus consists of about 1,000 files enriched with main word type and modern lemma from the Letters as Loot program.",
+      "Description": "This corpus consists of about 1,000 files enriched with main word type and modern lemma from the <a href=\"https://www.universiteitleiden.nl/en/research/research-projects/humanities/letters-as-loot.-towards-a-non-standard-view-on-the-history-of-dutch#tab-1\">Letters as Loot</a> program.\nThis corpus is available through a concordancer provided by the Dutch Language Institute.",
       "Language": ["nld"],
       "Licence": "",
       "Size": ["1000 files"],
