@@ -1,0 +1,17 @@
+{
+      "Name": "FORMA",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D316-E",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This is a probabilistic tool for morphological tagging and lemmatisation.",
+      "Functionality": ["PoS", "lemma"],
+      "Language": ["por"],
+      "Licence": "LGPL",
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": ["text/plain"],
+      "Output format": [""],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000B-D316-E"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/DSKCI98H/items/29GCUR47/"
+}

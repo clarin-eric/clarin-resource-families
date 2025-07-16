@@ -1,0 +1,17 @@
+{
+      "Name": "LX-UTagger",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-8B2F-2",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This is a part-of-speech tagger that has adopted the <a href=\"https://universaldependencies.org/u/pos/\">Universal Dependencies tagset</a> (i.e., UPOS).",
+      "Functionality": ["PoS"],
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": [""],
+      "Output format": [""],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000E-8B2F-2"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/DSKCI98H/items/9WAT8FQ8/"
+}

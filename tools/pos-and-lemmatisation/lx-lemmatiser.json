@@ -1,0 +1,17 @@
+{
+      "Name": "LX-Lemmatizer",
+      "URL": "hdl.handle.net/21.11129/0000-000E-5992-9",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This is an online service for fully-fledged lemmatisation of Portuguese verbs.\nThe lemmatiser handles pronominal conjugation, compound tenses, double forms for past pasticiples, past-participle forms inflected for number and gender, negative imperative forms, and courtesy forms. it also handles unknown verbs, so it is suitable for neologisms.",
+      "Functionality": ["lemmtisation"],
+      "Language": ["por"],
+      "Licence": "",
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": [""],
+      "Output format": [""],
+      "Access": {
+	"Online": "https://portulanclarin.net/workbench/lx-lemmatizer/"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/DSKCI98H/items/8NS63IJ3/"
+}
