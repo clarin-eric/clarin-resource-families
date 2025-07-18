@@ -1,0 +1,17 @@
+{
+      "Name": "VISTA@UE-SA",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-5995-6",
+	  "Family": "Tools for sentiment analysis and opinion mining",
+	  "Description": "This s a freely available on-line service for the sentiment analysis of the short sentenced found in Tweets.",
+      "Functionality": ["sentiment analysis"],
+      "Domain": "",
+      "Sentiment type": "sentence-level sentiment",
+      "Language": ["por"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "PORTULAN",
+      "Access": {
+	"Online": "https://portulanclarin.net/workbench/uevora-sentiment-analysis/"
+	},
+      "Publication": ""
+}
