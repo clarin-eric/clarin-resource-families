@@ -1,0 +1,17 @@
+{
+      "Name": "LexMan-POSTagger",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F92D-9",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This is a simple part-of-speech tagger that also performs some morphological analysis.",
+      "Functionality": ["PoS"],
+      "Language": ["por"],
+      "Licence": "MIT",
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": ["text"],
+      "Output format": ["text"],
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F92D-9 "
+	},
+      "Publication": ""
+}

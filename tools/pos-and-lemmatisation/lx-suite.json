@@ -1,0 +1,17 @@
+{
+      "Name": "LX-Suite",
+      "URL": "https://hdl.handle.net/21.11129/0000-000E-5991-A",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This is an online suite for the shallow processing of Portuguese text.",
+      "Functionality": ["sentence splitting", "PoS", "lemma", "morphological analysis"],
+      "Language": ["por"],
+      "Licence": "",
+      "Infrastructure": "PORTULAN",
+      "Group": "For a single language",
+      "Input format": ["text"],
+      "Output format": ["text"],
+      "Access": {
+	"Online": "https://portulanclarin.net/workbench/lx-suite/"
+	},
+      "Publication": ""
+}
