@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/10032/tm-a2-h9",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus is a parallel monolingual treebank of Dutch texts and the corpus contains more than 2.1 million tokens of parallel and similar text. About 678,000 words were manually aligned and about 1.5 million words automatically. A semantic relation was added to the aligned words/sentence parts.",
-      "Language": ["Dutch"],
+      "Language": ["nld"],
       "Licence": "INT Licence for researchers",
       "Size": ["2,1 million tokens"],
       "Annotation": ["tokenised", "syntactically parsed", "sentence aligned"],
