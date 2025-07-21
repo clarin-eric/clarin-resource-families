@@ -1,0 +1,16 @@
+{
+      "Name": "DVPM-SynSem",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F936-E",
+      "Family": "Lexica",
+      "Description": "This is a lexical database focussing on the syntax and semantics of verbs in medieval Portuguese.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["3000 items"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F936-E"
+	},
+      "Publication": ""
+}

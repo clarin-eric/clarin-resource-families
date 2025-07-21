@@ -1,0 +1,16 @@
+{
+      "Name": "ViPER verb lexical database",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F91E-A",
+      "Family": "Lexica",
+      "Description": "This is a database of verb senses that includes their structural, distributional, and transformational properties.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["7,007 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F91E-A"
+	},
+      "Publication": ""
+}
