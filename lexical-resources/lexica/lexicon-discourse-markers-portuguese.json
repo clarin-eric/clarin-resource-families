@@ -1,0 +1,16 @@
+{
+      "Name": "Lexicon of discourse markers for European Portuguese",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F89E-A",
+      "Family": "Lexica",
+      "Description": "This lexicon contains pairs of discourse marker.\nThe lexicon covers conjunctions, prepositions, adverbs, adverbial phrases and alternative lexicalizations with a connective function.\nFor each discourse marker in the lexicon, there is information regarding its type, category, mood and tense restrictions over the sentence it introduces, rhetorical sense, as well as a link to an English near-synonym and a corpus example.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "ELRA END USER",
+      "Size": ["252 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F89E-A"
+	},
+      "Publication": ""
+}

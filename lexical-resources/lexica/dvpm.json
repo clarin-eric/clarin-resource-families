@@ -1,0 +1,16 @@
+{
+      "Name": "DVPM-EtyMor",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F93A-A",
+      "Family": "Lexica",
+      "Description": "This is a lexical database focussing on the typology and morphology of verbs in medieval Portuguese.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["3000 items"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F93A-A"
+	},
+      "Publication": ""
+}
