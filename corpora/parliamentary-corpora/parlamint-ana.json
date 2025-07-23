@@ -1,0 +1,16 @@
+{
+      "Name": "Linguistically annotated multilingual comparable corpora of parliamentary debates ParlaMint.ana 5.0",
+      "URL": "http://hdl.handle.net/11356/2005",
+	"Family": "Parliamentary corpora",
+      "Description": "ParlaMint is a multilingual set of comparable corpora containing parliamentary debates mostly starting at the end of 2015 and extending to mid 2022.\nThe corpora have extensive metadata, most importantly on speakers (name, gender, MP and minister status, party affiliation), on their political parties and parliamentary groups (name, coalition/opposition status, Wikipedia-sourced left-to-right political orientation, and <a href=\"https://www.chesdata.eu/\">CHES</a> variables.\nThe corpus is available for download from the CLARIN.SI repository and through the noSketch Engine concordancer. Note that the version of the corpus without linguistic mark-up is available for download under a <a href=\"http://hdl.handle.net/11356/2004\">separate CLARIN.SI entry</a>.",
+      "Language": ["eus", "bos", "fin", "bul", "cat", "hrv", "ces", "dan", "nld", "eng", "est", "fra", "glg", "deu", "hun", "isl", "ita", "lav", "ell", "nor", "pol", "por", "rus", "srp", "slv", "spa", "swe", "tur", "ukr"],
+      "Licence": "CC BY 4.0",
+      "Size": ["8,132,022 utterances", "1,231,045,523 words", "1,402,488,391 tokens"],
+      "Annotation": ["tokenised", "MSD-tagged (Universal Dependencies)", "syntactically parsed (Universal Dependencies)", "named entities"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://www.clarin.si/ske/#dashboard?corpname=parlamint50_xx",
+	"Download": "http://hdl.handle.net/11356/2005"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/M6D8XD9Z/items/GNY6M384/"
+}
