@@ -1,16 +1,16 @@
 {
-      "Name": "Slovenian parliamentary corpus siParl 3.0",
-      "URL": "http://hdl.handle.net/11356/1748",
+      "Name": "Slovenian parliamentary corpus siParl 4.0",
+      "URL": "http://hdl.handle.net/11356/1936",
 	"Family": "Parliamentary corpora",
-      "Description": "The corpus contains Slovenian parliamnetary debates from 1990 to 2022. It differs from the SlovParl 2.0 corpus (listed below) in that it contains only basic meta-data about the speakers, a typology of sessions and structural and editorian annotations.\nThe corpus is available for download from the CLARIN.SI repository and through the concordancers <a href=\"https://www.clarin.si/kontext/query?corpname=siparl30\">KonText </a> and <a href=\"https://www.clarin.si/noske/run.cgi/corp_info?corpname=siparl30&struct_attr_stats=1\">noSketchEngine</a>.",
+      "Description": "The corpus contains Slovenian parliamnetary debates from 1990 to 2022.\nThe corpus is encoded according to the <a href=\"https://github.com/clarin-eric/parla-clarin\">Parla-CLARIN</a> schema. In terms of linguistic annotation, the part-of-speech tags, morphological analyses, and syntactic parses in the corpus follow the Universal Dependencies schema.\nThe corpus is available for download from the CLARIN.SI repository and through the noSketch Engine concordancer.",
       "Language": ["slv"],
-      "Licence": "CC-BY",
-      "Size": ["213 million words"],
-      "Annotation": ["tokenised", "PoS-tagged|", "lemmatised"],
+      "Licence": "CC BY 4.0",
+      "Size": ["13,233 texts", "1,223,250 utterances", "239,224,540 words", "273,023,945 tokens"],
+      "Annotation": ["tokenised", "PoS-tagged", "lemmatised", "syntactically parsed", "annotated for named entities"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=siparl30&struct_attr_stats=1",
-	"Download": "http://hdl.handle.net/11356/1748"
+	"Concordancer": "https://www.clarin.si/ske/#dashboard?corpname=siparl40",
+	"Download": "http://hdl.handle.net/11356/1936"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/M6D8XD9Z/items/K24SGCXC/"
 }
