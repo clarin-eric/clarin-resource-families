@@ -1,0 +1,16 @@
+{
+      "Name": "Linguistically annotated multilingual comparable corpora of parliamentary debates in English ParlaMint-en.ana 5.0",
+      "URL": "http://hdl.handle.net/11356/2006",
+	"Family": "Parliamentary corpora",
+      "Description": "This corpus is the English machine translation of the ParlaMint.ana 5.0 (http://hdl.handle.net/11356/2005) set of corpora of parliamentary debates across Europe.\nThe corpus is available for download from the CLARIN.SI repository and for browsing through the noSketch Engine concordancer.",
+      "Language": ["eng"],
+      "Licence": "CC BY 4.0",
+      "Size": ["8,132,022 utterances", "1,365,267,112 words"],
+      "Annotation": ["tokenised", "MSD-tagged (Universal Dependencies)", "syntactically parsed (Universal Dependencies)", "named entities"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Concordancer": "https://www.clarin.si/ske/#dashboard?corpname=parlamint50_xx_en",
+	"Download": "http://hdl.handle.net/11356/2006"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/M6D8XD9Z/items/GNY6M384/"
+}
