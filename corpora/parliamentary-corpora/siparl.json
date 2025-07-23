@@ -2,7 +2,7 @@
       "Name": "Slovenian parliamentary corpus siParl 4.0",
       "URL": "http://hdl.handle.net/11356/1936",
 	"Family": "Parliamentary corpora",
-      "Description": "The corpus contains Slovenian parliamnetary debates from 1990 to 2022.\nThe corpus is encoded according to the <a href=\"https://github.com/clarin-eric/parla-clarin\">Parla-CLARIN</a> schema. In terms of linguistic annotation, the part-of-speech tags, morphological analyses, and syntactic parses in the corpus follow the Universal Dependencies schema.\nThe corpus is available for download from the CLARIN.SI repository and through the noSketch Engine concordancer.",
+      "Description": "The corpus contains Slovenian parliamentary debates from 1990 to 2022.\nThe corpus is encoded according to the <a href=\"https://github.com/clarin-eric/parla-clarin\">Parla-CLARIN</a> schema. In terms of linguistic annotation, the part-of-speech tags, morphological analyses, and syntactic parses in the corpus follow the Universal Dependencies schema.\nThe corpus is available for download from the CLARIN.SI repository and through the noSketch Engine concordancer.",
       "Language": ["slv"],
       "Licence": "CC BY 4.0",
       "Size": ["13,233 texts", "1,223,250 utterances", "239,224,540 words", "273,023,945 tokens"],
