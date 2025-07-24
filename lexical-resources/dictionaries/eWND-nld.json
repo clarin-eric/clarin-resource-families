@@ -1,0 +1,16 @@
+{
+      "Name": "electronic Dictionary of Dutch Dialects (eWND)",
+      "URL": "http://hdl.handle.net/10032/tm-a3-b6",
+      "Family": "Dictionaries",
+      "Description": "The electronic Dictionary of Dutch Dialects (eWND) contains an ever-growing number of old and more modern Dutch dialect dictionaries. The website not only allows users to search the various dialect dictionaries through a common search interface, but also allows users to access and download all text editions individually. The resource is available for online browsing through the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["66 dictionaries/lexica"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Browse": "http://hdl.handle.net/10032/tm-a3-b6"
+	},
+      "Publication": ""
+}

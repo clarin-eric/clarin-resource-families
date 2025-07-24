@@ -1,0 +1,16 @@
+{
+      "Name": "Pinkhof Medical Dictionary",
+      "URL": "http://hdl.handle.net/10032/tm-a2-a5",
+      "Family": "Glossaries",
+      "Description": "The Pinkhof Medical Dictionary contains more than 52,000 medical terms with their meanings and/or references. The resource is available for online browsing through a platform provided by the Dutch Language Institute (INT).",
+      "Language": ["nld"],
+      "Licence": "other",
+      "Size": ["52,000 terms"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/10032/tm-a2-a5"
+	},
+      "Publication": ""
+}
