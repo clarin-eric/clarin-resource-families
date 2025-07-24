@@ -1,6 +1,6 @@
 {
       "Name": "iWNT",
-      "URL": "http://hdl.handle.net/10032/b5f9c25b380977251c9c2687786d6930",
+      "URL": "http://hdl.handle.net/10032/tm-a2-g3",
       "Family": "Dictionaries",
       "Description": "The dictionary describes the meaning and history of hundred thousands of words in written Dutch, from the period 1500-1976. The resource is available for online browsing through the Dutch Language Institute (INT).",
       "Language": ["nld"],
@@ -10,7 +10,7 @@
       "Infrastructure": "CLARIN",
       "Group": "Monolingual resources",
       "Access": {
-	"Browse": "http://hdl.handle.net/10032/b5f9c25b380977251c9c2687786d6930"
+	"Browse": "http://hdl.handle.net/10032/tm-a2-g3"
 	},
       "Publication": ""
 }
