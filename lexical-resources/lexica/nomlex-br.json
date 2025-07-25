@@ -1,0 +1,16 @@
+{
+      "Name": "NomLex-BR",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-FE96-C",
+      "Family": "Lexica",
+      "Description": "This lexicon provides mappings between verbs and their nominalisations for Brazilian Portuguese.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-SA",
+      "Size": ["2,323 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-FE96-C"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/JRHFDPTL/items/R774BQW8/"
+}

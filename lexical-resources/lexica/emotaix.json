@@ -1,0 +1,16 @@
+{
+      "Name": "EMOTAIX.PT",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F92F-7",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of emotionally charged words in European Portuguese.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["3,983 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F92F-7"
+	},
+      "Publication": ""
+}
