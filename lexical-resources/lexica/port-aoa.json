@@ -1,0 +1,16 @@
+{
+      "Name": "Port-AoA Words",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F93D-7",
+      "Family": "Lexica",
+      "Description": "This is a lexicon of words classified according to several psycholinguistic characteristics, such as neighborhood density, written-word frequency, familiarity, and imageability.\nThe lexicon is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-NC-ND",
+      "Size": ["1,749 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F93D-7"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/JRHFDPTL/items/2N72TRL6/"
+}
