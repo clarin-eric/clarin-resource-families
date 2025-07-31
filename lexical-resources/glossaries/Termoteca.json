@@ -1,0 +1,17 @@
+{
+      "Name": "Termoteca",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-FE7E-9",
+      "Family": "Glossaries",
+      "Description": "This glossary contains t from different sciences and industries - ecology, economy, law, sociology, medecine, tourism, and computation.\nThe glossary is available from PORTULAN.",
+      "Language": ["por", "fra", "eng", "spa", "glg"],
+      "Licence": "CC BY",
+      "Size": ["8,015 entries"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Browse": "https://www.eurotermbank.com/collections/741",
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-FE7E-9"
+	},
+      "Publication": ""
+}
