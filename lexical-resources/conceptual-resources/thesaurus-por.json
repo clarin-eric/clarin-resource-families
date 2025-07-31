@@ -1,0 +1,16 @@
+{
+      "Name": "Thesaurus for Portuguese – version 2.0",
+      "URL": "https://hdl.handle.net/21.11129/0000-000D-F943-F",
+      "Family": "Conceptual resources",
+      "Description": "This is a wordnet-like resource for Brazilian Portuguese focussing on synonyms and antonyms.\nThe resource is available from PORTULAN.",
+      "Language": ["por"],
+      "Licence": "CC BY-SA",
+      "Size": ["44,678 words"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual resources",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11129/0000-000D-F943-F"
+	},
+      "Publication": ""
+}
