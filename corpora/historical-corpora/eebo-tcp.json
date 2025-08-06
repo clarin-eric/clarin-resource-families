@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts (literature, philosophy, politics, religion, geography, science and all other areas of human endeavour) from 1450 to 1750.\nThe corpus is available through a dedicated concordancer.",
       "Language": ["eng"],
-      "Licence": "CC-0",
+      "Licence": "CC 0",
       "Size": ["766 million tokens"],
       "Annotation": ["no linguistic annotation"],
       "Infrastructure": "Other",

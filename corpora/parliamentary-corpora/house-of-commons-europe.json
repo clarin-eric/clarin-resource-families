@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains British parliamentary debates from 1998 to 2015. The contextual metadata in the corpus concern the dates of the council meetings, the description of the main topic(s) of the European council meeting, the place where the European Council meeting took place; they also correspond to information about the government and the legislative session. The speaker metadata correspond to name, gender, occupation, parliamentary group, political orientation and the opposition and majority division.\nThe corpus is available for download from Ortolang.",
       "Language": ["eng"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["190,000 tokens"],
       "Annotation": ["contextual and speaker metadata"],
       "Infrastructure": "CLARIN",

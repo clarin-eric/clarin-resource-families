@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains personal letters, sermons and fictional, scholarly (i.e., humanities), scientific and legal texts from 1650 to 1800.\nThe corpus is available for download from the Oxford Text Archive.",
       "Language": ["deu"],
-      "Licence": "CC-BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["700,000 words"],
       "Annotation": ["no annotation"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from over a 100 Serbian newspapers from 2004 to 2012.",
       "Language": ["srp"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["916 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "lemmatised"],
       "Infrastructure": "Other",

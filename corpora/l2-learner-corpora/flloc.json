@@ -4,7 +4,7 @@
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains various narrative and interactive speech tasks performed by English and Dutch native speakers.\nThe corpus is available for download from the University of Oxford Text Archive. The transcripts and audio files can also be downloaded and browsed through through TalkBank.",
       "Language": ["fra"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["1375 transcripts"],
       "Annotation": ["MSD-tagged"],
       "Infrastructure": "CLARIN",

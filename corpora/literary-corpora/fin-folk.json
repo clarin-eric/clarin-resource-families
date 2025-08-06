@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains poems from 1564 to 1939.\nThe corpus is available for online browsing through Korp.",
       "Language": ["fin", "krl", "lud", "lat", "swe", "olo", "izh", "vot"],
-      "Licence": "CC-BY-NC",
+      "Licence": "CC BY-NC",
       "Size": ["7.1 million words"],
       "Annotation": ["unannotated"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains newspaper articles in various topics (politics, economy, sports).\nThe corpus is available for download from the CLARIN:EL repository.",
       "Language": ["ell"],
-      "Licence": "CC-BY-NC-SA",
+      "Licence": "CC BY-NC-SA",
       "Size": ["3 million tokens"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

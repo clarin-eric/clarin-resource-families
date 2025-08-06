@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains minutes of the National Assembly of the Republic of Croatia and currently covers its VIth mandate from 15 November 2016 to 21 Nomveber 2018. The corpus contains speaker metadata (gender, age, education, party affiliation).\nThe corpus is available for download from the CLARIN.SI repository and through the concordancers <a href=\"https://www.clarin.si/kontext/first_form?corpname=parlameter_hr\">KonText </a> and <a href=\"https://www.clarin.si/noske/run.cgi/corp_info?corpname=parlameter_sl&amp;struct_attr_stats=1\">noSketchEngine</a>, as well as through a <a href=\"https://parlametar.hr/\">dedicated webpage</a>.",
       "Language": ["hrv"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["14.1 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised", "named entities"],
       "Infrastructure": "CLARIN",

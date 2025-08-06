@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from 24 Norwegian newspapers from 1998 onwards.\nThe corpus is available through the concordancer Corpuscle.",
       "Language": ["nor"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["700 million tokens"],
       "Annotation": ["multitagged"],
       "Infrastructure": "CLARIN",

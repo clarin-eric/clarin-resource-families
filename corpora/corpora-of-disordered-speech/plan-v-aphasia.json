@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "This corpus contains spoken discourse data collected from Greek-speaking People with Aphasia (PWA) and from neurotypical adults.",
       "Language": ["ell"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["1.84 MB"],
       "Annotation": ["Sentence", "utterance", "clause", "POS"],
       "Infrastructure": "Other", 

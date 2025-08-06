@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains telephone interviews from different radio programmes.\nThe corpus is available for download from META-SHARE (CELR distribution).",
       "Language": ["est"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["36 hours"],
       "Annotation": ["speech annotation to orthographically transcribed"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This group of corpora contain articles from the Swedish newspaper <a href=\"http://www.gp.se/\">Göteborgsposten from 1994 and</a> from 2001 to  2011.\nThe corpora are available for download from Språkbanken and can be accessed through the concordancer Korp.",
       "Language": ["swe"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["271 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "parsed", "compounds"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This is a video corpus of the language policy program for the National Sign Language in Finland translated by two people who speak the sign language as their mother tongue.\nThe corpus is available for download from the Finnish Language Bank.",
       "Language": ["Finnish Sign Language (FinSL)"],
-      "Licence": "CC-BY-NC-SA",
+      "Licence": "CC BY-NC-SA",
       "Size": ["163 minutes"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

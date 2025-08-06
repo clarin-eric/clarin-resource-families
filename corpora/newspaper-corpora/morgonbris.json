@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the newspaper <a href=\"http://www.ub.gu.se/kvinn/digtid/05/\">Morgonbris</a> from 1904 to 1924.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
       "Language": ["swe"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["3.5 million tokens"],
       "Annotation": ["tokenized", "PoS-tagged", "parsed"],
       "Infrastructure": "CLARIN",

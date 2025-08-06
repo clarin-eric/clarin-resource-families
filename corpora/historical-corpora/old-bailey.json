@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains proceedings of the Old Bailey (i.e., legal documents) from 1674 to 1913.\nThe corpus is available for download from the CLARIN-D repository and through the CQPConcordancer.\nFor the corpus manual, see <a href=\"https://www.clarin.eu/resource-families/historical-corpora#Huber%20et%20al.%202016\">Huber et al. (2016).</a>",
       "Language": ["English (Late Modern)"],
-      "Licence": "CC-BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["134 million words"],
       "Annotation": ["detailed sociobiographical, pragmatic and textual annotation"],
       "Infrastructure": "CLARIN",

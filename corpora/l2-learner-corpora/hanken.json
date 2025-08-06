@@ -4,7 +4,7 @@
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains academic texts  written by Finnish and Swedish native speakers.\nThe corpus is still under development.",
       "Language": ["eng"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["500,000 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

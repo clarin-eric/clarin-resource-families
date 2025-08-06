@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains news articles and texts related to film.\nThe corpus is available for download from LINDAT.",
       "Language": ["English-Tamil"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["169,871 sentences"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "CLARIN",
