@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+#
+# /// script
+# requires-python = ">=3.10"
+# dependencies = [
+# "fastjsonschema",
+# ]
+# ///
+
 import sys
 from os import listdir
 from os.path import isfile, join
