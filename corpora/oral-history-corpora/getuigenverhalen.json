@@ -1,7 +1,7 @@
 {
       "Name": "Getuigenverhalen",
       "URL": "http://getuigenverhalen.nl/home",
-	"Family": "Oral history corpora",
+	"Family": "Oral History corpora",
       "Description": "The corpus contains two video interviews with political prisoners: <a href=\"https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:41098\">Geert van der Molen</a> (see also <a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-76E8-7\">metadata</a>) and <a href=\"https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:41259\">Tine Boeke Kramer</a> (see also <a href=\"http://hdl.handle.net/21.11114/COLL-0000-000F-76E9-6\">metadata</a>). By clicking on their names you are brought to a page with tabs and extensive metadata. To get access to the text files you need to ask an account at DANS. To request a copy of the videos you need to contact dinekestam@cultuurenco.nl",
       "Language": ["nld"],
       "Licence": "Open access",
