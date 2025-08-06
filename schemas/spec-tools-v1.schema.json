@@ -12,8 +12,8 @@
     "Description",
     "Language",
     "Licence",
-    "Size",
-    "Annotation",
+    "Functionality",
+    "Platform",
     "Infrastructure",
     "Access",
     "Publication"
@@ -31,38 +31,16 @@
       "examples": ["https://example.com"]
     },
   "properties": {
-    "task": {
+    "Family": {
       "$id": "#/properties/Family",
       "type": "string",
       "title": "Name of the Resource Family",
       "enum": [
-        "Academic corpora",
-        "Computer-mediated communication corpora",
-        "Conceptual resources",
-        "Corpora of Disordered Speech",
         "Corpus query tools",
-        "Dictionaries",
-        "Glossaries",
-        "Historical corpora",
-        "L2 learner corpora",
-        "Language Models",
-        "Legal corpora",
-        "Lexica",
-        "Literary corpora",
-        "Manually annotated corpora",
         "Named entity recognition",
-        "Newspaper corpora",
-        "Oral history corpora",
-        "Oral History Corpora",
-        "Parallel corpora",
-        "Parliamentary corpora",
         "Part-of-Speech Tagging and Lemmatisation",
-        "Reference corpora",
-        "Sign language resources",
-        "Spoken corpora",
         "Tools for Normalisation",
-        "Tools for sentiment analysis and opinion mining",
-        "Wordlists"
+        "Tools for sentiment analysis and opinion mining"
       ]
     },
       "Description": {
@@ -94,10 +72,16 @@
       "title": "Size of the resource, multiple formats possible",
       "default": null
     },
-    "Annotation": {
-      "$id": "#/properties/Annotation",
+    "Functionality": {
+      "$id": "#/properties/Functionality",
       "type": ["array", "string", "null"],
-      "title": "Annotation layers in this resource",
+      "title": "Functionality of this tool",
+      "default": null
+    },
+    "Platform": {
+      "$id": "#/properties/Functionality",
+      "type": ["array", "string", "null"],
+      "title": "Platforms this tool is available on",
       "default": null
     },
       "Infrastructure": {

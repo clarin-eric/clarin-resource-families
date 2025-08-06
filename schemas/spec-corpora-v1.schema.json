@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
+  "title": "JSON Schema for the CLARIN Resource Families",
+  "type": "object",
+  "items": null,
+  "definitions": {},
+  "required": [
+    "Name",
+    "URL",
+    "Family",
+    "Description",
+    "Language",
+    "Licence",
+    "Size",
+    "Annotation",
+    "Infrastructure",
+    "Access",
+    "Publication"
+  ],
+    "Name": {
+      "$id": "#/properties/Name",
+      "title": "Resource name",
+      "type": "string"
+    },
+    "URL": {
+      "$id": "#/properties/URL",
+      "type": "string",
+      "format": "uri",
+      "title": "Link to the resource (PID preferred)",
+      "examples": ["https://example.com"]
+    },
+  "properties": {
+    "task": {
+      "$id": "#/properties/Family",
+      "type": "string",
+      "title": "Name of the Resource Family",
+      "enum": [
+        "Academic corpora",
+        "Computer-mediated communication corpora",
+        "Corpora of Disordered Speech",
+        "Historical corpora",
+        "L2 learner corpora",
+        "Legal corpora",
+        "Literary corpora",
+        "Manually annotated corpora",
+        "Newspaper corpora",
+        "Oral history corpora",
+        "Oral History Corpora",
+        "Parallel corpora",
+        "Parliamentary corpora",
+        "Reference corpora",
+        "Sign language resources",
+        "Spoken corpora"
+      ]
+    },
+      "Description": {
+      "$id": "#/properties/Description",
+      "type": "string",
+      "title": "Resource's description"
+    },
+    "Language": {
+      "$id": "#/properties/Language",
+      "type": "array",
+      "title": "Languages that the tool can work with",
+      "items": {
+        "$id": "#/properties/languages/items",
+        "type": "string",
+        "title": "Language Identifier, ISO 693-3",
+        "default": "eng",
+        "examples": ["eng", "deu"],
+        "pattern": "^(.{3})|(generic)$"
+      },
+    "Licence": {
+      "$id": "#/properties/Licence",
+      "type": ["array", "string", "null"],
+      "title": "Resource's licence",
+      "default": null
+    },
+    "Size": {
+      "$id": "#/properties/Size",
+      "type": ["array", "string", "null"],
+      "title": "Size of the resource, multiple formats possible",
+      "default": null
+    },
+    "Annotation": {
+      "$id": "#/properties/Annotation",
+      "type": ["array", "string", "null"],
+      "title": "Annotation layers in this resource",
+      "default": null
+    },
+      "Infrastructure": {
+      "$id": "#/properties/Infrastructure",
+      "type": "string",
+      "title": "Resource's description"
+    },
+    "Publication": {
+      "$id": "#/properties/Publication",
+      "type": "string",
+      "format": "uri",
+      "title": "Link to a publication about the resource (PID preferred)",
+      "examples": ["https://example.com"]
+    }
+    }
+  }
+}
