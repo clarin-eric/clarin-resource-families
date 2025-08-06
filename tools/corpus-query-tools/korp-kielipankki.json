@@ -6,7 +6,6 @@
       "Functionality": ["Querying/concordancing"],
       "Language": ["fin", "swe", "rus", "eng", "and more"],
       "Licence": "Individual corpora have different licenses (and access conditions)",
-      "Size": [],
       "Platform": [],
       "Infrastructure": "PORTULAN CLARIN",
       "Access": {

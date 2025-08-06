@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GPL2 (source code)",
-      "Size": [],
       "Platform": ["Windows", "MacOS", "Source code provided for Linux users"],
       "Infrastructure": "TalkBank",
       "Access": {

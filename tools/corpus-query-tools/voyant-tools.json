@@ -6,7 +6,6 @@
       "Functionality": ["Querying/concordancing", "Stylometry"],
       "Language": ["ara", "bos", "hrv", "ces", "eng", "fra", "deu", "heb", "ita", "jpn", "por", "rus", "srp", "spa"],
       "Licence": "GPL3 (code)",
-      "Size": [],
       "Platform": [],
       "Infrastructure": "External",
       "Access": {

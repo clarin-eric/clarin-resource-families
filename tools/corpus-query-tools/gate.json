@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GNU",
-      "Size": [],
       "Platform": ["Platform-independent (Windows and generic installers available)"],
       "Infrastructure": "CLARIN-UK",
       "Access": {

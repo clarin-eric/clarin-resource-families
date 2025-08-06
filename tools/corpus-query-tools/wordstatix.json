@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "GPL3",
-      "Size": [],
       "Platform": ["Linux", "Windows"],
       "Infrastructure": "External",
       "Access": {

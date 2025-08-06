@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "<a href=\"http://www.textworld.com/scp/copyrigh.txt\">Proprietary</a>",
-      "Size": [],
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",
       "Access": {
