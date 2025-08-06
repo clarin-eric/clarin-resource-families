@@ -6,7 +6,6 @@
       "Functionality": ["Querying/concordancing"],
       "Language": ["Language independent"],
       "Licence": "MIT License",
-      "Size": [],
       "Platform": ["Ubuntu", "Windows"],
       "Infrastructure": "Non-CLARIN",
       "Access": {

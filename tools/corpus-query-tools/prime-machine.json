@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "<a href=\"https://www.theprimemachine.net/files/End-User-License-Agreement-tPMv3.pdf\">Proprietary</a>",
-      "Size": [],
       "Platform": ["iOS", "MacOS", "Android", "Windows"],
       "Infrastructure": "External",
       "Access": {

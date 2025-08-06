@@ -6,7 +6,6 @@
       "Functionality": ["Querying/concordancing"],
       "Language": ["sqi", "eus", "bos", "bul", "cat", "hrv", "ces", "dan", "nld", "eng", "est", "fin", "fra", "Gaelic", "glg", "ger", "ell", "hun", "isl", "ita", "jpn", "lav", "lit", "mkd", "cnr", "nor", "pol", "por", "ron", "rus", "srp", "hbs", "slk", "slv", "spa", "swe", "tur", "ukr"],
       "Licence": "No licence",
-      "Size": [],
       "Platform": [],
       "Infrastructure": "CLARIN.SI",
       "Access": {

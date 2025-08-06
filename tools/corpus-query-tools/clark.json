@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying", "corpus building"],
       "Language": ["Language independent"],
       "Licence": "",
-      "Size": [],
       "Platform": ["Platform-independent"],
       "Infrastructure": "CLARIN-BG",
       "Access": {

@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying", "corpus compilation"],
       "Language": ["Language independent"],
       "Licence": "No licence",
-      "Size": [],
       "Platform": ["Windows"],
       "Infrastructure": "External",
       "Access": {
