@@ -1,6 +1,6 @@
 {
       "Name": "EUROPARL Corpus Parallel Corpora: Portuguese-English",
-      "URL": "https://hdl.handle.net/21.11129/0000-000B-D33E-2 ",
+      "URL": "https://hdl.handle.net/21.11129/0000-000B-D33E-2",
 	"Family": "Parallel corpora",
       "Description": "This is the Portuguese-English subset of the <a href=\"http://www.statmt.org/europarl/\"EuroParl</a> corpus.\nThe corpus contains transcriptions of sessions from 1996 to 2011.\nThe corpus is available from PORTULAN.",
       "Language": ["Portuguese-English"],
