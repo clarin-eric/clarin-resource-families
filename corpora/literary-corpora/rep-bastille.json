@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains République-Bastille, a novel by Melpo Axioti. This French text is of particular linguistic interest since it is a text written in a language other than the author's mother tongue and is suited for research on bilingualism and self-translation. It would be worth measuring the naturalness of the language with computational tools, for example.\nThe corpus is available for download from clarin:el.",
       "Language": ["fra"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["37,965 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

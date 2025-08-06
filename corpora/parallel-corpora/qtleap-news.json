@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains news articles in the following language pairs: English-Czech, English-German and English-Spanish.",
       "Language": ["4 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["1,104 sentences"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "Other",

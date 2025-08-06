@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains video and audio recordings and their transcriptions.\nThe corpus is available for download from META-SHARE (CELR distribution).",
       "Language": ["est"],
-      "Licence": "CC-BY-SA",
+      "Licence": "CC BY-SA",
       "Size": ["30 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

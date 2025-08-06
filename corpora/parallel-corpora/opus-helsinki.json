@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This is a multilingual variant of the OPUS corpus that contains texts in the following languages: Czech, Danish, Dutch, English, Estonian, French, German, Greek, Hungarian, Italian, Polish, Portuguese, Russian, Swedish, Spanish, and Turkish.\nThe corpus is available through the concordancer Korp.",
       "Language": ["16 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["2.7 billion tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

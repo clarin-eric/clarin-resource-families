@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains debates, classroom interactions, literary and scientific texts, regional and national press, etc.\nThe corpus is available through a dedicated concordancer.",
       "Language": ["fra"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["10 million words", "350 hours"],
       "Annotation": ["orthographically aligned", "PoS-tagged"],
       "Infrastructure": "CLARIN",

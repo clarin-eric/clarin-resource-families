@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains literary texts from 1549 to 1944.\nThe corpus is available for online browsing through FIN-CLARIN.",
       "Language": ["fin","swe"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": [],
       "Annotation": ["PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

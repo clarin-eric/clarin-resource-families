@@ -4,7 +4,7 @@
 	"Family": "Spoken corpora",
       "Description": "This corpus contains transcripts of read Wikipedia articles.\nThe corpus is available for download from a CLARIN-D repository.",
       "Language": ["eng", "deu", "nld"],
-      "Licence": "CC-BY SA 4.0",
+      "Licence": "CC BY SA 4.0",
       "Size": ["1005 hours"],
       "Annotation": ["text segmentation", "normalization", "time-alignment"],
       "Infrastructure": "CLARIN",

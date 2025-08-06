@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus contains Finnish books made available by the Gutenberg project. The texts have not been linguistically annotated.\nThe corpus is available for online browsing through Korp.",
       "Language": ["fin"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["34,487,420 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

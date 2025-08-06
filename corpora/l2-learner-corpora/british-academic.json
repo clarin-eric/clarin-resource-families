@@ -4,7 +4,7 @@
 	"Family": "L2 learner corpora",
       "Description": "This is primarily a L1 corpus although it also contains L2 texts.\nThe corpus is available for download from the University of Oxford Text Archive.",
       "Language": ["eng"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["2761 texts"],
       "Annotation": ["PoS-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",

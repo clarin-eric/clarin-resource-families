@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains articles from a journal of undergraduate creative writing at an English department in Greece.\nThe corpus is available for download from the CLARIN:el repository.",
       "Language": ["English-Greek"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["376,250 tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from 11 Czech newspapers from 1989 to 2004.\nThe corpus is available for download from the Czech repository LINDAT.",
       "Language": ["ces"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["300 million tokens"],
       "Annotation": ["tokenised", "lemmatised", "PoS-tagged"],
       "Infrastructure": "CLARIN",

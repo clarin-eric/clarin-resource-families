@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains newspaper articles from 1770 to 1950.\nThe corpus is available through the concordancer Korp.",
       "Language": ["swe"],
-      "Licence": "CC-BY-SA.",
+      "Licence": "CC BY-SA.",
       "Size": ["3.5 billion tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

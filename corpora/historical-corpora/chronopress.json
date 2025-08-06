@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains newspaper articles from 1945 to 1954.\nThe corpus is available through a dedicated concordancer.",
       "Language": ["pol"],
-      "Licence": "CC-BY-SA",
+      "Licence": "CC BY-SA",
       "Size": ["16 million tokens"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

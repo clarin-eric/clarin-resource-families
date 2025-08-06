@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the Tatoeba website.\nThe corpus is available for download from  the CLARIN:el repository.",
       "Language": ["117 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["12 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

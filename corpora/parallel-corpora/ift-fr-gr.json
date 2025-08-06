@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains <a href=\"https://www.ift.org/news-and-publications/newsletters\">IFT newsletters</a>.\nThe corpus is available for download from the CLARIN:el repository.",
       "Language": ["French-Greek"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

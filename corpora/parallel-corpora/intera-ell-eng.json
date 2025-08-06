@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the law, education, environment, tourism and health domains.\nThe corpus is available for download from the CLARIN:el repository.",
       "Language": ["Greek-English"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["4 million tokens"],
       "Annotation": ["sentence aligned"],
       "Infrastructure": "CLARIN",

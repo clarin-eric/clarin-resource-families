@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains the works by Finnish author Aleksis Kivi from 1855 to 1871.\nThe corpus is available through the concordancer Korp.",
       "Language": ["fin", "swe"],
-      "Licence": "CC-BY-NC",
+      "Licence": "CC BY-NC",
       "Size": ["413,700 words"],
       "Annotation": ["MSD-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",

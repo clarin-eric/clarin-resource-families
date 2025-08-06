@@ -4,7 +4,7 @@
 	"Family": "Parliamentary corpora",
       "Description": "The corpus contains Finnish parliamentary debates from 2008 to 2016.\nThe corpus is available through the concordancer Korp.",
       "Language": ["fin"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["22.4 million tokens"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised", "syntactically parsed"],
       "Infrastructure": "CLARIN",

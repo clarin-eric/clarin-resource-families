@@ -4,7 +4,7 @@
 	"Family": "Academic corpora",
       "Description": "This comparable corpus contains research articles in economics, linguistics, and medicine published between 1992 and 2003.\nThe corpus is available for online browsing through the concordancer Corpuscle (CLARINO distribution).",
       "Language": ["eng","fra","nor"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["3.9 million tokens"],
       "Annotation": ["PoS-tagged"],
       "Infrastructure": "CLARIN",

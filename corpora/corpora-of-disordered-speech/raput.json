@@ -4,7 +4,7 @@
 	"Family": "Corpora of Disordered Speech",
       "Description": "The corpus consists of texts produced by nonprofessional typical speakers and speakers with different language disorders (developmental language disorder, dyslexia, traumatic brain injury, aphasia, other).\nRoughly half of the corpus consists of texts of typical speakers, and the other half of speakers with language disorders.\nLanguage samples were elicited by six groups of tasks representing different writing styles (descriptive, expository, narrative, and letter) and different levels of formality.",
       "Language": ["hrv"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["6760 texts", "34469 sentences", "426187 tokens"],
       "Annotation": ["MULTEXT-East tagset"],
       "Infrastructure": "CLARIN", 
