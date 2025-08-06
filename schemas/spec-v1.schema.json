@@ -126,7 +126,7 @@
     },
     "Licence": {
       "$id": "#/properties/Licence",
-      "type": ["string", "null"],
+      "type": ["array", "string", "null"],
       "title": "Resource's licence",
       "default": null
     },
