@@ -13,11 +13,11 @@
     "Language",
     "Licence",
     "Functionality",
-    "Platform",
     "Infrastructure",
     "Access",
     "Publication"
   ],
+  "properties": {
     "Name": {
       "$id": "#/properties/Name",
       "title": "Resource name",
@@ -30,7 +30,6 @@
       "title": "Link to the resource (PID preferred)",
       "examples": ["https://example.com"]
     },
-  "properties": {
     "Family": {
       "$id": "#/properties/Family",
       "type": "string",
@@ -97,5 +96,37 @@
       "examples": ["https://example.com"]
     }
     }
+  },
+    "if": {
+    "properties": {
+      "Family": { "const": "Tools for sentiment analysis and opinion mining" }
+    },
+    "required": ["Family"]
+  },
+  "then": { "required": ["Sentiment type"] 
+  }, 
+    "if": {
+    "properties": {
+      "Family": { "const": "Named entity recognition" }
+    },
+    "required": ["Family"]
+  },
+  "then": { "required": ["NER categories"] 
+  }, 
+    "if": {
+    "properties": {
+      "Family": { "const": "Named entity recognition" }
+    },
+    "required": ["Family"]
+  },
+  "then": { "required": ["Trained models"] 
+  }, 
+    "if": {
+    "properties": {
+      "Family": {"not": {"const": "Part-of-Speech Tagging and Lemmatisation" }}
+    },
+    "required": ["Family"]
+  },
+  "then": { "required": ["Platform"] 
   }
 }
