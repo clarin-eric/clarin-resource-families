@@ -6,7 +6,7 @@
       "Functionality": ["normalization"],
       "Domain": "",
       "Language": ["ces"],
-      "Licence": "CC-BY-NC-A (models)",
+      "Licence": "CC BY-NC-A (models)",
       "Platform": ["Linux", "OS X", "Windows"],
       "Infrastructure": "LINDAT",
       "Input format": ["plain text"],

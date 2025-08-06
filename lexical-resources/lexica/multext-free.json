@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "These are morphological lexica available for download from the CLARIN.SI repository.",
       "Language": ["bul", "ces", "eng", "est", "fra", "hun", "ron", "slk", "slv", "ukr"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["3,665,864 entries"],
       "Annotation": ["MSD-tags", "lemmas"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a dictionary where headwords are sorted by last-to-first letter. The resource is available for download from CLARIN.SI.",
       "Language": ["slv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["115,355 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

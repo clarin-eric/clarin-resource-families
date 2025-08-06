@@ -4,7 +4,7 @@
       "Family": "Glossaries",
       "Description": "MILITERM is a multilingual termbase of military, security and defence terms, enabling search by Estonian, English, French and German keywords. The Estonian and English terms are provided with definitions. The resource is available for online browsing.",
       "Language": ["est", "eng", "fin", "fra", "deu"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

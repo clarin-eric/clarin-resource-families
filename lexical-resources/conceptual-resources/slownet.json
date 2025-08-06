@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This is a wordnet available for download from CLARIN.SI and for online browsing through a dedicated environment.",
       "Language": ["slv", "eng"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["43,460 synsets"],
       "Annotation": ["lexical semantic relations"],
       "Infrastructure": "CLARIN",

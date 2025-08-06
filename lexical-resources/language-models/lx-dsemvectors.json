@@ -4,7 +4,7 @@
       "Family": "Language Models",
       "Description": "This model represents tokens as contextual  word embeddings for Portuguese. It was trained on a corpus of 2 billion tokens and achieved state-of-the-art results on multiple lexical semantic tasks.\nThe model is available for download from the PORTULAN repository.",
       "Language": ["por"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": [],
       "Annotation": ["word embeddings"],
       "Infrastructure": "CLARIN",

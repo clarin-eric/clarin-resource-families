@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a glossary of Old Swedish that is available for download from the SWE-CLARIN repository and can be queried online through KARP.",
       "Language": ["swe"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["41,958 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

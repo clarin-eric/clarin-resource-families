@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "Dalin's Dictionary of 19th century Swedish. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
       "Language": ["swe"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["62,975 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This lexicon contains inflected open class words from the <a href=\"http://bos.zrc-sazu.si/sskj_en.html\">Dictionary of Standard Slovenian</a> that are augmented by wordforms, their part of speech tags and their lemmas used during the PoS tagging and lemmatization of the <a href=\"http://bos.zrc-sazu.si/beseda.html\">Beseda corpus</a>. The resource is available for download from CLARIN.SI and for online browsing.",
       "Language": ["slv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["3,228,127 entries"],
       "Annotation": ["wordforms", "PoS-tags", "lemmas", "frequency"],
       "Infrastructure": "CLARIN",

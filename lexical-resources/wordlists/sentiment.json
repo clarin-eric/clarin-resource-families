@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a is a publicly available German-language resource for sentiment analysis, opinion mining etc. It lists positive and negative polarity bearing words weighted within the interval of [-1; 1] plus their part of speech tag and base form.\nThe wordlist is available from the CLARIN B-centre SAW Leipzig.",
       "Language": ["deu"],
-      "Licence": "CC-BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["34,586 entries"],
       "Annotation": ["lemmas", "polarity", "PoS-tags", "base forms"],
       "Infrastructure": "CLARIN",

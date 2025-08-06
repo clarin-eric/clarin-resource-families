@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a wordlist of vocations in Swedish. The resource can be download from the SWE-CLARIN repository.",
       "Language": ["swe"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["13,833 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

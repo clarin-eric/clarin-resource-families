@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a semantic lexicon that is available for download from the SWE-CLARIN repository and can be queried online through KARP.",
       "Language": ["swe"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["11,624 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

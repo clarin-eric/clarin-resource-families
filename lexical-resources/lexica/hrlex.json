@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a large inflectional lexicon where each entry consists of a (wordform, lemma, MSD, MSD features, UPOS, morphological features, frequency, per-million frequency) 8-tuple. The (wordform, lemma, MSD) triple frequencies are calculated on the <a href=\"http://hdl.handle.net/11356/1064\">hrWaC v2.2</a> corpus. The MSD tagset follows the <a href=\"http://nl.ijs.si/ME/V6/msd/html/msd-hbs.html\">MULTEXT-East V6 tagset</a> for the Serbo-Croatian macro-language. The UPOS and morphological features follow the <a href=\"http://universaldependencies.org/guidelines.html\">UD v2 specifications</a>.\nThe resource is available for download from CLARIN.SI",
       "Language": ["hrv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["6,427,709 items", "164,206 entries"],
       "Annotation": ["wordform", "lemma", "MSD", "UPOS"],
       "Infrastructure": "CLARIN",

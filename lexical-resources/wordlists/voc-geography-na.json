@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a thesaurus of terms from the geography of North America available for download from ORTOLANG.",
       "Language": ["fra", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["4,232 entries"],
       "Annotation": ["hierarchical relationship", "preferred form", "synonym shape"],
       "Infrastructure": "CLARIN",

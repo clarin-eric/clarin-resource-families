@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a valency lexicon linked to PDT-Vallex, EngVallex and external resources, such as FrameNet, VerbNet, WordNet, etc. The resource is available for download and online browsing through LINDAT.",
       "Language": ["ces", "eng"],
-      "Licence": "CC-BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["200 classes, 3,525 entries"],
       "Annotation": ["valency and synonymy"],
       "Infrastructure": "CLARIN",

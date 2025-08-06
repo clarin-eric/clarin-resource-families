@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This lexicon contains 3000 most frequent Slovenian and 5300 most frequent BCS verbs which are all coded for a number of properties related to verb derivation.\nThe database is a table where each verb is given a row of its own. The coded properties are organized in columns. Verbs in the database are coded for the following properties: root information, whether or not the verb has prefixes and the identity of the included prefix(es), whether or not the verb has suffixes and the identity of the included suffix(es) etc. All coded properties are explained in the accompanying pdf file.\nThis resource is available for download from the CLARIN.SI repository.",
       "Language": ["bos", "hrv", "srp", "Serbo-Croatian", "slv"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["8,300 entries"],
       "Annotation": ["root, prefix and suffix information for verb forms"],
       "Infrastructure": "CLARIN",

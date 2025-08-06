@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a normative dictionary of modern standard Estonian. The resource is available for download from META-SHARE (CELR distribution) and online browsing through a dedicated website.",
       "Language": ["est"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["59,275 keyword"],
       "Annotation": ["standardised orthography", "phonology", "MSD-tags"],
       "Infrastructure": "CLARIN",

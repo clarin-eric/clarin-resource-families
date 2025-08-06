@@ -6,7 +6,7 @@
       "Functionality": ["normalization"],
       "Domain": "historical texts",
       "Language": ["eng"],
-      "Licence": "CC-BY-NC-SA 2.0",
+      "Licence": "CC BY-NC-SA 2.0",
       "Platform": ["cross-platform (java)"],
       "Infrastructure": "CLARIAH-UK",
       "Input format": ["plain text", "rtf", "SGML", "XML"],

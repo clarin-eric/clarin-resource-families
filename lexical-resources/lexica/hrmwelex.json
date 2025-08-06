@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a lexicon of multiword expressions available for download from CLARIN.SI.",
       "Language": ["hrv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["43,730 entries"],
       "Annotation": ["multi-word expressions"],
       "Infrastructure": "CLARIN",

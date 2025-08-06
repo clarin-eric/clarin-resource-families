@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is the web-version of the two-volume Finnish-Estonian Dictionary (2003). The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
       "Language": ["est", "fin"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["90,000 keywords"],
       "Annotation": [],
       "Infrastructure": "CLARIN",
