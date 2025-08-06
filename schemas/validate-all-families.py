@@ -88,13 +88,13 @@ def validate_tools():
             except json.JSONDecodeError as xc:
                 print("! JSON decoding error: file {}\n\t{}".format(filepath, xc))
                 sys.exit(2)
-            check_tool_id(tool_ids, failures, json_data)
+#            check_tool_id(tool_ids, failures, json_data)
             for validate in validate_fns:
                 try:
                     validate(json_data)
                 except fastjsonschema.JsonSchemaException as xc:
                     failures.append(xc)
-        if len(failures) == len(validate_fns):
+        if len(failures):
             print("! Error in json file {}:\n".format(filepath))
             for i, xc in enumerate(failures):
                 print("    --- failed to match schema {}: {}\n".format(i, xc))

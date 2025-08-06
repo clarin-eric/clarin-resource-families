@@ -1,74 +1,56 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://switchboard.clarin.eu/tool-spec-v1.json",
+  "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
   "title": "JSON Schema for the CLARIN Resource Families",
   "type": "object",
   "items": null,
   "definitions": {},
   "required": [
-    "task",
-    "deployment",
-    "name",
-    "description",
-    "logo",
-    "homepage",
-    "location",
-    "creators",
-    "contact",
-    "authentication",
-    "licence",
-    "mimetypes",
-    "languages",
-    "langEncoding",
-    "parameters",
-    "url"
+    "Name",
+    "URL",
+    "Family",
+    "Description",
+    "Language",
+    "Licence",
+    "Size",
+    "Annotation",
+    "Infrastructure",
+    "Access",
+    "Publication"
   ],
   "properties": {
     "task": {
-      "$id": "#/properties/task",
+      "$id": "#/properties/Family",
       "type": "string",
-      "title": "Task description",
+      "title": "Name of the Resource Family",
       "enum": [
-        "Constituency Parsing",
-        "Coreference Resolution",
-        "Data Conversion",
-        "Dependency Parsing",
-        "Distant Reading",
-        "Extraction of Polish terminology",
-        "Grapheme to Phoneme Conversion",
-        "Handwritten Text Recognition",
-        "Inclusion detection",
-        "Keyword Extractor",
-        "Lemmatization",
-        "Lookup Tools",
-        "Machine Translation",
-        "Metadata Processing",
-        "Morpho-syntactic tagger",
-        "Morphological Analysis",
-        "N-Gramming",
-        "Named Entity Recognition",
-        "Named Entity Relation Detection",
-        "NLP suite for Dutch",
-        "Optical Character Recognition",
-        "Part-Of-Speech Tagging",
-        "Relation between name entities detection",
-        "Sentiment Analysis",
-        "Shallow Parsing",
-        "Spatial expression detection",
-        "Speech Recognition",
-        "Spelling correction",
-        "Stylometry",
-        "Text Analytics",
-        "Text Enhancement",
-        "Text Normalisation",
-        "Text Summarization",
-        "TF, IDF, TF-IDF calculation",
-        "Tokenisation",
-        "Topic Modelling",
-        "Transliteration",
-        "Visualisation of 3D models",
-        "Visualisation of Geographic Data",
-        "Word sense disambiguation"
+        "Academic corpora",
+        "Computer-mediated communication corpora",
+        "Conceptual resources",
+        "Corpora of Disordered Speech",
+        "Corpus query tools",
+        "Dictionaries",
+        "Glossaries",
+        "Historical corpora",
+        "L2 learner corpora",
+        "Language Models",
+        "Legal corpora",
+        "Lexica",
+        "Literary corpora",
+        "Manually annotated corpora",
+        "Named entity recognition",
+        "Newspaper corpora",
+        "Oral history corpora",
+        "Oral History Corpora",
+        "Parallel corpora",
+        "Parliamentary corpora",
+        "Part-of-Speech Tagging and Lemmatisation",
+        "Reference corpora",
+        "Sign language resources",
+        "Spoken corpora",
+        "Tools for Normalisation",
+        "Tools for sentiment analysis and opinion mining",
+        "Wordlists"
       ]
     },
     "deployment": {
@@ -78,9 +60,9 @@
       "default": "development",
       "enum": ["production", "development"]
     },
-    "name": {
-      "$id": "#/properties/name",
-      "title": "Tool name",
+    "Name": {
+      "$id": "#/properties/Name",
+      "title": "Resource name",
       "type": "string"
     },
     "logo": {
@@ -89,11 +71,11 @@
       "title": "The tool's logo file name",
       "examples": ["mylogo.jpg"]
     },
-    "homepage": {
-      "$id": "#/properties/homepage",
+    "URL": {
+      "$id": "#/properties/URL",
       "type": "string",
       "format": "uri",
-      "title": "Homepage",
+      "title": "Link to the resource (PID preferred)",
       "examples": ["https://example.com"]
     },
     "location": {
@@ -142,19 +124,19 @@
       "title": "Authentication mechanism description, or null",
       "default": null
     },
-    "licence": {
-      "$id": "#/properties/licence",
+    "Licence": {
+      "$id": "#/properties/Licence",
       "type": ["string", "null"],
-      "title": "Tool's licence",
+      "title": "Resource's licence",
       "default": null
     },
-    "description": {
-      "$id": "#/properties/description",
+    "Description": {
+      "$id": "#/properties/Description",
       "type": "string",
-      "title": "Tool's description"
+      "title": "Resource's description"
     },
-    "languages": {
-      "$id": "#/properties/languages",
+    "Language": {
+      "$id": "#/properties/Language",
       "type": "array",
       "title": "Languages that the tool can work with",
       "items": {
