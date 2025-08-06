@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This lexicon contains word embeddings extracted from the Croatian web corpus <a href=\"http://hdl.handle.net/11356/1064\">hrWaC</a> and a 400-million-token-heavy collection of newspaper texts. The resource is available for download from CLARIN.SI.",
       "Language": ["hrv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["3,147,352 entries"],
       "Annotation": ["PoS-tags", "lemmas"],
       "Infrastructure": "CLARIN",

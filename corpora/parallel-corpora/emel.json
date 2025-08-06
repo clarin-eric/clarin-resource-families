@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains <a href=\"https://www.clarin.eu/glossary#NLP\" title=\"Natural Language Processing\" class=\"lexicon-term\">NLP</a> conference papers.\nThe corpus is available for download from the CLARIN:el repository.",
       "Language": ["English-French"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["43,000 tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "CLARIN",

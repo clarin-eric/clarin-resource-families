@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains read sentences that express anger, joy and sadness, or are neutral.\nTThe corpus is available for download from META-SHARE (CELR distribution).",
       "Language": ["est"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["1234 sentences"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

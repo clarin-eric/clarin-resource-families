@@ -5,7 +5,7 @@
       "Description": "This tool is a lemmatizer for Ndebele Bantu language developed during the NCHLT Text project.",
       "Functionality": ["lemma"],
       "Language": ["Ndebele"],
-      "Licence": "CC-BY 2.5 South Africa Licence",
+      "Licence": "CC BY 2.5 South Africa Licence",
       "Infrastructure": "SADiLaR",
       "Group": "For a single language",
       "Input format": ["Text data (encoding: UTF8 without BOM), one lowercase token per line"],

@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This wordnet represents a link between SALDO senses and Core WordNet. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
       "Language": ["swe", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["6,989 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

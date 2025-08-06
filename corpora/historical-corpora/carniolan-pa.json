@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "The corpus contains meeting proceedings of 694 sessions of the Carniolan Provincial Assembly from 1861 to 1913.\nThe source data (scanned and OCR processed pdf documents) originally come from <a href=\"http://www.dlib.si\">The Digital Library of Slovenia dLib.si</a> and <a href=\"https://www.sistory.si\">History of Slovenia - SIstory</a> portals. The documents are bilingual, in Slovenian and German, depending on the speaker. German was first typeset in the Gothic script and later on in Latin.\nThe documents were automatically processed and the following data extracted: titles, agenda, attending, start and end of the session, speakers, and comments. Language was detected on the sentence level, roughly 58% sentences are in Slovenian and 42% in German. Linguistic annotation (tokenisation, MSD tagging and lemmatisation) was added using <a href=\"https://github.com/nlp-uoregon/trankit\">Trankit</a> for Slovenian and German, while <a href=\"https://github.com/pemistahl/lingua-py\">Lingua</a> is used for language detection.\nThe documents are in the <a href=\"https://github.com/clarin-eric/parla-clarin\">Parla-CLARIN</a> compliant TEI XML format. Each session in one file.",
       "Language": ["deu", "slv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["10.9 million words"],
       "Annotation": ["tokenised", "MSD-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",

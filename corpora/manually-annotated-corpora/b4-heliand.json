@@ -4,7 +4,7 @@
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains historical German texts.\nThe corpus is available for download from the HZSK repository.",
       "Language": ["deu"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["3495 tokens"],
       "Annotation": ["PoS tagging", "syntactic parsing"],
       "Infrastructure": "CLARIN",

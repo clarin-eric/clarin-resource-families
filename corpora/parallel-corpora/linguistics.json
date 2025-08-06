@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains articles from Glossologia, a journal of general and historical Greek linguistics, in French, Greek, English, and German.\nThe corpus is unannotated.\nThe corpus is available for download from the CLARIN:el repository.",
       "Language": ["4 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["167 articles"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a multiword lexicon available for download from CLARIN.SI and for online browsing through a dedicated environment.",
       "Language": ["slv"],
-      "Licence": "CC-BY-NC 4.0",
+      "Licence": "CC BY-NC 4.0",
       "Size": ["3,002 entries"],
       "Annotation": ["descriptions and explanations of Slovenian phrasemes"],
       "Infrastructure": "CLARIN",

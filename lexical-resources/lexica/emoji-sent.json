@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a lexicon of emojis available for download from CLARIN.SI and for online browsing through a dedicated environment.",
       "Language": ["sqi", "bul", "eng", "deu", "hun", "pol", "por", "rus", "Serbo-Croatian", "slk", "slv", "spa", "swe"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["751 entries (emojis)"],
       "Annotation": ["sentiment labels"],
       "Infrastructure": "CLARIN",

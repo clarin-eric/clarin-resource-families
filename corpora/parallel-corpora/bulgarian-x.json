@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus is a part of the Bulgarian National Corpus.\nThe corpus is available through a dedicated concordancer.",
       "Language": ["50 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["1.2 billion tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

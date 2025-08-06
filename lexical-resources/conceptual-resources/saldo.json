@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This is an extensive lexicon resource for modern Swedish written language. The resource can be download from the SWE-CLARIN repository and can be queried online through KARP.",
       "Language": ["swe"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["131,020 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

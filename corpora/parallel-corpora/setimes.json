@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the setimes.com website.\nThe corpus is available for download from a dedicated webpage.",
       "Language": ["10 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["43 million tokens"],
       "Annotation": ["partially sentence aligned"],
       "Infrastructure": "Other",

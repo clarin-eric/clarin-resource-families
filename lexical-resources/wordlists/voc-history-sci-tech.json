@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a controlled vocabulary of expressions from the domain technical sciences available for download from ORTOLANG.",
       "Language": ["fra", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["3,766 entries"],
       "Annotation": ["contextual information", "usage examples", "preferred form", "synonym shape"],
       "Infrastructure": "CLARIN",

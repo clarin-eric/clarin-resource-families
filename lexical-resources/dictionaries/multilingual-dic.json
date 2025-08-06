@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a collection of dictionaries created on the basis of Wikipedia articles. The collection is available for download from clarin:el.",
       "Language": ["ell", "eng", "bul", "ron", "deu", "pol"],
-      "Licence": "CC-BY-NC",
+      "Licence": "CC BY-NC",
       "Size": [],
       "Annotation": ["MSD-tags", "semantic information", "multi-word units"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Biblical and legal texts.\nThe corpus is available for download from META-SHARE.",
       "Language": ["Estonian-English"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["2.5 million tokens"],
       "Annotation": ["tokenised"],
       "Infrastructure": "Other",

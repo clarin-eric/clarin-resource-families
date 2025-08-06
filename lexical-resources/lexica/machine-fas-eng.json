@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This bilingual lexicon has been compiled for comparative as well as didactic purposes in the on-going <a href=\"https://vicav.acdh.oeaw.ac.at/\">VICAV</a> project. The resource is available for download from ARCHE.",
       "Language": ["Persian-English"],
-      "Licence": "CC-BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["1,892 entries"],
       "Annotation": ["morphological information", "usage examples"],
       "Infrastructure": "CLARIN",

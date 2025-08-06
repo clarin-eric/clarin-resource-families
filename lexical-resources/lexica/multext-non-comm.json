@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "These are morphological lexica available for download from the CLARIN.SI repository.",
       "Language": ["mkd", "fas", "pol", "rus", "srp"],
-      "Licence": "CC-BY-NC 4.0",
+      "Licence": "CC BY-NC 4.0",
       "Size": ["2,288,228 entries"],
       "Annotation": ["MSD-tags", "lemmas"],
       "Infrastructure": "CLARIN",

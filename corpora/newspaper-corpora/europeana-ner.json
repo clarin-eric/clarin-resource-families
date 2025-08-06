@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from <a href=\"http://www.europeana-newspapers.eu/\">Europeana newspapers</a> for the following time periods: 1811-1856 for the Dutch subcorpus, 1871-1916 for the French subcorpus, and 1926 for the German subcorpus.\nThe corpus is available for download from the <i>KB Lab</i>.",
       "Language": ["nld","fra","deu"],
-      "Licence": "CC-ZERO",
+      "Licence": "CC ZERO",
       "Size": ["500, 000 tokens (182,483 Dutch; 207,000 French;  96,735 German)"],
       "Annotation": ["named entities"],
       "Infrastructure": "Other",

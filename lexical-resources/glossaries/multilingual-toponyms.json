@@ -4,7 +4,7 @@
       "Family": "Glossaries",
       "Description": "This is a glossary of toponyms available for download from clarin:el.",
       "Language": ["Polish + translations into English, Romanian, Hungarian, Bulgarian, Polish, Greek, German, Serbian, Slovak, Croatian"],
-      "Licence": "CC-BY-SA",
+      "Licence": "CC BY-SA",
       "Size": ["281,375 entries"],
       "Annotation": ["lemmas", "semantics", "translation equivalents"],
       "Infrastructure": "CLARIN",

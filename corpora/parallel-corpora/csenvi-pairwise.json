@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains TED talks and subtitles from the CLUVI corpus in Vietnamese, Czech, and English.\nThe corpus is available for download from LINDAT.",
       "Language": ["3 languages"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["31 million tokens"],
       "Annotation": ["tokenised", "sentence aligned"],
       "Infrastructure": "CLARIN",

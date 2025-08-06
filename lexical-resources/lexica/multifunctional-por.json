@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a frequency lexicon suitable for NLP specific purposes (information extraction, lemmatization, PoS tagging). The resource is available for download from META-SHARE (CLARIN PORTULAN distribution).",
       "Language": ["por"],
-      "Licence": "CC-BY-SA",
+      "Licence": "CC BY-SA",
       "Size": ["26,443 entries"],
       "Annotation": ["lemmas", "MWEs", "PoS-tags"],
       "Infrastructure": "CLARIN",

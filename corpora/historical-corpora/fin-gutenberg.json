@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains books published up to 1925 that are made available through the Gutenberg project.\nThe corpus is available through the concordancer Korp.",
       "Language": ["fin"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["34.5 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

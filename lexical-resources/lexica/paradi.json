@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a lexicon of single-word paraphrases of Czech verbal multiword expressions. The resource is available for download from LINDAT.",
       "Language": ["ces"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["1,621 entries"],
       "Annotation": ["MSD-tags", "syntactic/semantic features"],
       "Infrastructure": "CLARIN",

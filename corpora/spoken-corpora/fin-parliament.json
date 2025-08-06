@@ -4,7 +4,7 @@
       "Family": "Spoken corpora",
       "Description": "This corpus contains the proceedings of the Finnish Parliament.\nThe corpus is available through a dedicated webpage and through the concordancer Korp.",
       "Language": ["fin", "swe"],
-      "Licence": "CC-BY-NC-ND",
+      "Licence": "CC BY-NC-ND",
       "Size": ["22.5 million words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Literary corpora",
       "Description": "This corpus presents the collected works of August Strindberg.\nThe corpus is available for download from SWE-CLARIN and for online browsing through Korp.",
       "Language": ["swe"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["4,309,037 tokens", "321,759 sentences"],
       "Annotation": ["sentence scrambling"],
       "Infrastructure": "CLARIN",

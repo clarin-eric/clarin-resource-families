@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "The corpus contains newspaper articles.\nThe corpus is available for download from the CLARIN:EL repository.",
       "Language": ["ell"],
-      "Licence": "CC-BY-NC-SA",
+      "Licence": "CC BY-NC-SA",
       "Size": ["20 units"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

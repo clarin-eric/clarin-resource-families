@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a controlled vocabulary of expressions historical terms available for download from ORTOLANG.",
       "Language": ["fra", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["3,093 entries"],
       "Annotation": ["hierarchical relationship", "preferred forms", "synonym shape"],
       "Infrastructure": "CLARIN",

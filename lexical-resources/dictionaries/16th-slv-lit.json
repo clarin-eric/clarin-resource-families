@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a historical dictionary that provides comprehensive information on the vocabulary used in the Slovenian literary language during the period of the Reformation. The resource is available for download from CLARIN.SI and for online browsing.",
       "Language": ["slv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["27,759 entries"],
       "Annotation": ["PoS-tags", "phonological features"],
       "Infrastructure": "CLARIN",

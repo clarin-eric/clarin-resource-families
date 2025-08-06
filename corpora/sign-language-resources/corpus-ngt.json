@@ -4,7 +4,7 @@
 	"Family": "Sign language resources",
       "Description": "This corpus contains sessions with linked media files and ELAN annotation files (EAF); about 15% of the sessions are glossed and translated.",
       "Language": ["Dutch Sign Language (NGT)"],
-      "Licence": "CC-BY-NC-SA 3.0 NL",
+      "Licence": "CC BY-NC-SA 3.0 NL",
       "Size": ["2375 sessions"],
       "Annotation": ["ID-Glosses, sentence-level translations, and mouth actions for a subset of the sessions"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains articles from the Swedish newspaper <a href=\"http://dagens.dn.se/\">Dagens Nyheter</a> from 1987.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
       "Language": ["swe"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["5 million tokens"],
       "Annotation": ["tokenised", "PoS-tagged", "parsed", "compounds"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains articles from the <a href=\"http://rstl.royalsocietypublishing.org/\"> Philosophical Transactions of the Royal Society of London</a> journal from 1665 to 1869.\nThe corpus is available for download from the CLARIN-D repository as well as through a concordancer.",
       "Language": ["eng"],
-      "Licence": "CC-BY-NC-SA-4.0",
+      "Licence": "CC BY-NC-SA-4.0",
       "Size": ["35 million tokens"],
       "Annotation": ["PoS-tagged using PennTreebank tagset", "lemmatised", "normalised"],
       "Infrastructure": "CLARIN",

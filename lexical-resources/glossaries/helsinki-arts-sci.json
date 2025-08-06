@@ -4,7 +4,7 @@
       "Family": "Glossaries",
       "Description": "This is a terminological database available for online browsing through FIN-CLARIN.",
       "Language": ["fin", "multilingual"],
-      "Licence": "CC-BY-SA",
+      "Licence": "CC BY-SA",
       "Size": ["growing"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

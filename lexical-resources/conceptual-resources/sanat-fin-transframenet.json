@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This is a framenet that is available for online browsing through FIN-CLARIN.",
       "Language": ["fin", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["866 frames"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

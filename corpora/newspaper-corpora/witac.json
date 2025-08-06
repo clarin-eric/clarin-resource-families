@@ -4,7 +4,7 @@
 	"Family": "Newspaper corpora",
       "Description": "This corpus contains Italian translations of 120 English Wikinews articles.\nThe corpus is available for download from a dedicated website.",
       "Language": ["ita"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["40,231 tokens"],
       "Annotation": ["entities, events, event factuality, temporal information, semantic roles, and intra-document and cross-document event and entity coreference"],
       "Infrastructure": "Other",

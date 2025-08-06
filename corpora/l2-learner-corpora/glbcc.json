@@ -4,7 +4,7 @@
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains film retellings performed by English and German native speakers.\nThe corpus is available for download from the University of Oxford Text archive. ",
       "Language": ["eng"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["2472 words/transcript"],
       "Annotation": ["unannotated"],
       "Infrastructure": "CLARIN",

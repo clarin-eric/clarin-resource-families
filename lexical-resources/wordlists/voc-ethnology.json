@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a controlled vocabulary of expressions from the domain of ethnology available for download from ORTOLANG.",
       "Language": ["fra", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["9,517 entries"],
       "Annotation": ["preferred form", "synonym shape"],
       "Infrastructure": "CLARIN",

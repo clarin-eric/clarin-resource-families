@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains debates of the European Parliament from 1996 to 2011.\nThe corpus is available for download from the CLARIN:el repository.",
       "Language": ["Greek-English"],
-      "Licence": "CC-ZERO",
+      "Licence": "CC ZERO",
       "Size": ["1.2 million sentences"],
       "Annotation": ["sentence-aligned"],
       "Infrastructure": "CLARIN",

@@ -5,7 +5,7 @@
       "Description": "This tool is used to annotate texts in Afrikaans and a variety of Bantu languages.",
       "Functionality": ["PoS", "phrase chunks", "NE"],
       "Language": ["afr", "eng", "Ndebele", "xho", "zul", "Sesotho sa Leboa", "tsn", "Sesotho", "ssw", "ven", "tso"],
-      "Licence": "CC-BY 2.5 South Africa Licence",
+      "Licence": "CC BY 2.5 South Africa Licence",
       "Infrastructure": "SADiLaR",
       "Group": "For multiple languages",
       "Input format": ["Utf8 text file containing running text"],

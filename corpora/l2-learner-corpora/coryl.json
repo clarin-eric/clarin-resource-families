@@ -4,7 +4,7 @@
 	"Family": "L2 learner corpora",
       "Description": "This corpus contains English texts written by Norwegian primary school pupils (7th, 10th, and 11th grade).\nThe corpus is available through the Browse Corpuscle provided by CLARINO.",
       "Language": ["eng"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["191,568 tokens"],
       "Annotation": ["tokenised", "anonymised", "error labels", "linked to CEFR levels"],
       "Infrastructure": "CLARIN",

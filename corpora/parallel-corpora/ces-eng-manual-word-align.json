@@ -4,7 +4,7 @@
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from e-books, Reader’s Digest, the Kačenka magazine, Acquis Communautaire, the Project Syndicate and the PCEDT project.\nThe corpus is available for download from the LINDAT repository.",
       "Language": ["Czech-English"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["113,000 tokens", "2500 sentences"],
       "Annotation": ["tokenised", "word-aligned (manually)"],
       "Infrastructure": "CLARIN",

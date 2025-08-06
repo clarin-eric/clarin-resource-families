@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a lexicon of sentiment labels available for download from the CLARIN.SI repository.",
       "Language": ["slv"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["90,620 lexica"],
       "Annotation": ["lemmas", "sentiment tags"],
       "Infrastructure": "CLARIN",

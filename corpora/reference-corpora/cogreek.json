@@ -4,7 +4,7 @@
 	"Family": "Reference corpora",
       "Description": "This corpus includes representative Greek texts published between 1990 and 2010. Aside from written materials, the corpus also includes transcriptions of spoken language.\nThe corpus is available for online browsing through a dedicated concordancer.",
       "Language": ["ell"],
-      "Licence": "CC-BY-NC, ACA",
+      "Licence": "CC BY-NC, ACA",
       "Size": ["27.6 million words"],
       "Annotation": "",
       "Infrastructure": "CLARIN",

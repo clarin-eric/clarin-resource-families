@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This lexicon is used for the automatic translation of specific IT domain expressions and is available for download from CLARIN PORTULAN.",
       "Language": ["eng", "spa", "Castilian", "bul", "eus", "nld", "Flemish", "ces", "por"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["231,516 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
 	"Family": "Historical corpora",
       "Description": "This corpus contains texts of different domains and genres (e.g., burgh records, diaries, pamphlets, scientific treatises, sermons) from 1450 to 1700.\nThe corpus is available for download from the Oxford Text Archive.",
       "Language": ["sco"],
-      "Licence": "CC-BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["1,940,706 words"],
       "Annotation": ["no annotation"],
       "Infrastructure": "CLARIN",
