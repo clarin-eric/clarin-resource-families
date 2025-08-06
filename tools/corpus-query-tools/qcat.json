@@ -6,7 +6,6 @@
       "Functionality": ["Annotating/concordancing/querying/listening to audio recordings"],
       "Language": ["Language independent"],
       "Licence": "Apache License 2.0",
-      "Size": [],
       "Platform": [".NET"],
       "Infrastructure": "CLARIN.SI",
       "Access": {

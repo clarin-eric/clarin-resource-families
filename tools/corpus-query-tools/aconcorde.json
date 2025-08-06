@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "No licence",
-      "Size": [],
       "Platform": ["Platform-independent (java)"],
       "Infrastructure": "CLARIN",
       "Access": {

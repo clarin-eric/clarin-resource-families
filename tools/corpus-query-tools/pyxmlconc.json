@@ -6,7 +6,6 @@
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "MIT",
-      "Size": [],
       "Platform": ["Platform-independent (requires Python)"],
       "Infrastructure": "External",
       "Access": {
