@@ -4,7 +4,7 @@
       "Family": "Glossaries",
       "Description": "This is a termbase that includes terms mainly from the legal acts of the Republic of Estonia and the European Union. The resource is available for download from META-SHARE (CELR distribution) and for online browsing through a dedicated website.",
       "Language": ["est", "eng", "fin", "fra", "deu", "rus"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["53,327 concepts"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

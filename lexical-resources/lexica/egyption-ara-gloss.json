@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This lexicon has been compiled for comparative as well as didactic purposes in the on-going <a href=\"https://vicav.acdh.oeaw.ac.at/\">VICAV</a> project. The resource is available for download from ARCHE.",
       "Language": ["Arabic (Egyptian)"],
-      "Licence": "CC-BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["2,204 entries"],
       "Annotation": ["basic morphological information", "usage examples"],
       "Infrastructure": "CLARIN",

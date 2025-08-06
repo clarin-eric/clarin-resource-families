@@ -7,7 +7,7 @@
       "NER categories": ["organisation", "person", "location", "miscellaneous", "outside"],
       "Trained models": [],
       "Language": ["afr", "eng", "nbl", "xho", "zul", "sot", "nso", "tsn", "ssw", "ven", "tso"],
-      "Licence": "CC-BY 2.5 South Africa Licence",
+      "Licence": "CC BY 2.5 South Africa Licence",
       "Platform": ["cross-platform"],
       "Infrastructure": "SADiLaR",
       "Access": {

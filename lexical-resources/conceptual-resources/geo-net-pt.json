@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This is an ontology of Portuguese geographic concepts. It is available for download from CLARIN PORTULAN.",
       "Language": ["por"],
-      "Licence": "CC-BY",
+      "Licence": "CC BY",
       "Size": ["701,209 concepts"],
       "Annotation": ["qualia structure and lexical relations (hyponyms, synonyms)"],
       "Infrastructure": "CLARIN",

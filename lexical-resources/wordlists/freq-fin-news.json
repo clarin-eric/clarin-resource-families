@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a frequency lexicon available online through FIN-CLARIN.",
       "Language": ["fin"],
-      "Licence": "CC-BY NC ND 1.0",
+      "Licence": "CC BY NC ND 1.0",
       "Size": ["9,996 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

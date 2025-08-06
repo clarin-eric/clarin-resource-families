@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a controlled vocabulary of expressions from the domain of nutrition available for download from ORTOLANG.",
       "Language": ["fra", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["2,500 entries"],
       "Annotation": ["associative relationship", "hierarchical relationship", "preferred form", "synonym shape"],
       "Infrastructure": "CLARIN",

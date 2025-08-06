@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a frequency list that contains sets of unigrams, bigrams and trigrams extracted from a newspaper corpus. The resource is available for download from FIN-CLARIN.",
       "Language": ["fin"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",

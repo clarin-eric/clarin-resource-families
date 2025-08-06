@@ -4,7 +4,7 @@
       "Family": "Glossaries",
       "Description": "This is a glossary of football terms available for download from clarin:el.",
       "Language": ["ell", "fra"],
-      "Licence": "CC-BY-NC",
+      "Licence": "CC BY-NC",
       "Size": ["870 entries"],
       "Annotation": ["lexical semantic features"],
       "Infrastructure": "CLARIN",

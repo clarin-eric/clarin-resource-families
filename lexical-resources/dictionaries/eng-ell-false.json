@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a dictionary of false friends available for download from clarin:el.",
       "Language": ["eng", "ell"],
-      "Licence": "CC-BY-NC",
+      "Licence": "CC BY-NC",
       "Size": ["1,000 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

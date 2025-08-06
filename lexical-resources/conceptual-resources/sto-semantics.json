@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This resource presents a unified, ontology-based semantic model – the so-called SIMPLE model – representing an extended Qualia Structure from the Danish SIMPLE Lexicon. The resource is available for download from CLARIN-DK.",
       "Language": ["dan"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["12,609 entries"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

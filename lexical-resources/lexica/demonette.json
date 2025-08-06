@@ -4,7 +4,7 @@
       "Family": "Lexica",
       "Description": "This is a morphological lexicon available for download from ORTOLANG.",
       "Language": ["fra"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["96,027 entries"],
       "Annotation": ["MSD-tags (grace format)", "semantic types"],
       "Infrastructure": "CLARIN",

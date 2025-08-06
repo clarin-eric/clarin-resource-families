@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a list of n-grams extracted from the <a href=\"http://nl.ijs.si/imp/\">IMP corpus of historical Slovene</a> download from CLARIN.SI.",
       "Language": ["slv"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["34,668,696 n-grams"],
       "Annotation": ["frequency"],
       "Infrastructure": "CLARIN",

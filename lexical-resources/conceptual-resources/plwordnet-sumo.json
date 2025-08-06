@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This conceptual resource provides a mapping of plWordNet onto the SUMO ontology. The resource is available for download from the CLARIN-PL repository.",
       "Language": ["pol"],
-      "Licence": "CC-BY-NC-SA 3.0",
+      "Licence": "CC BY-NC-SA 3.0",
       "Size": ["175,635 synsets mapped to SUMO"],
       "Annotation": [],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Wordlists",
       "Description": "This is a controlled vocabulary of expressions from the domain of philosophy and religion available for download from ORTOLANG.",
       "Language": ["fra", "eng"],
-      "Licence": "CC-BY 4.0",
+      "Licence": "CC BY 4.0",
       "Size": ["4,581 entries"],
       "Annotation": ["preferred form", "synonym shape"],
       "Infrastructure": "CLARIN",

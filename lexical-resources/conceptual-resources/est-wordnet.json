@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This is a wordnet that is available for download from META-SHARE (CELR distribution).",
       "Language": ["est"],
-      "Licence": "CC-BY-SA",
+      "Licence": "CC BY-SA",
       "Size": ["115,318 keywords", "84,150 synets"],
       "Annotation": ["PoS-tags", "synonymy", "antonymy", "hypernymy", "hyponymy", "meronymy"],
       "Infrastructure": "CLARIN",

@@ -4,7 +4,7 @@
       "Family": "Dictionaries",
       "Description": "This is a learner’s dictionary for Slovenian students of Japanese. The resource is available for download from CLARIN.SI and for online browsing.",
       "Language": ["slv", "jpn"],
-      "Licence": "CC-BY-SA 4.0",
+      "Licence": "CC BY-SA 4.0",
       "Size": ["9,891 entries"],
       "Annotation": ["headwords in all Japanese scripts", "PoS-tags", "difficulty level", "Slovene glosses", "Slovenian translation equivalents", "examples of use"],
       "Infrastructure": "CLARIN",

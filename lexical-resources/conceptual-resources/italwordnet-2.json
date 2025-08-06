@@ -4,7 +4,7 @@
       "Family": "Conceptual resources",
       "Description": "This is a wordnet available for download from ILC4CLARIN.",
       "Language": ["ita"],
-      "Licence": "CC-BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["49,350 synsets"],
       "Annotation": ["equivalence relations between Italian synsets and closest concepts in an Inter-Lingual index"],
       "Infrastructure": "CLARIN",

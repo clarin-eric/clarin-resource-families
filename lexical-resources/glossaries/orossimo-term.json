@@ -4,7 +4,7 @@
       "Family": "Glossaries",
       "Description": "This is a glossary of terms from various domains e.g. History, Computer Science, Biology etc. The resource is available for download from clarin:el.",
       "Language": ["ell", "eng"],
-      "Licence": "CC-BY-NC-SA 4.0",
+      "Licence": "CC BY-NC-SA 4.0",
       "Size": ["22,308 terms"],
       "Annotation": ["lexical semantic relations", "usage notes"],
       "Infrastructure": "CLARIN",
