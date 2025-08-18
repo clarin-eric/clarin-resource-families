@@ -1,17 +1,17 @@
 {
       "Name": "ICLE International Corpus of Learner English",
-      "URL": "http://hdl.handle.net/11372/LRT-859",
+      "URL": "https://corpora.uclouvain.be/catalog/en/corpus/icle-v3",
 	"Family": "L2 learner corpora",
-      "Description": "This corpus contains texts written by learners of English from 14 L1 backgrounds.\nThe corpus is available <a href = \"https://www.uclouvain.be/en/research-institutes/ilc/cecl/icle\">here</a> under a set of bespoke licences.",
+      "Description": "This corpus contains texts written by learners of English from 25 L1 backgrounds.\nThe corpus offers rich metadata on each of the texts included in the corpus, pertaining to both the learners (e.g., mother tongue, age, time spent in an English-speaking country) and the writing tasks (e.g., topic, use of reference tools, conditions of production of the text).\nWhile the full version of the corpus is available under a commercial licence, there exists a trial version that is browsable online.",
       "Language": ["eng"],
       "Licence": "",
-      "Size": ["3 million words"],
+      "Size": ["5,000,000 words"],
       "Annotation": [],
       "Infrastructure": "CLARIN",
       "Group": "Monolingual corpora",
       "Subgroup": "Written corpora",
       "Access": {
-	"Special": "see description"
+	"Concordancer": "https://corpora.uclouvain.be/cecl/icle/trial/"
 	},
       "Publication": ""
 }
