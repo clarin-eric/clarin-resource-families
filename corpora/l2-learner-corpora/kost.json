@@ -1,8 +1,8 @@
 {
-      "Name": "Slovene learner corpus KOST 1.0",
-      "URL": "http://hdl.handle.net/11356/1753",
+      "Name": "Slovene learner corpus KOST 2.0",
+      "URL": "http://hdl.handle.net/11356/1887",
 	"Family": "L2 learner corpora",
-      "Description": "This corpus of Slovene as a foreign language KOST (Korpus slovenščine kot tujega jezika) contains 6,311 texts (just over 1 million words) written by adult speakers for whom Slovene is not their first language. This corpus offers insights into Slovene language as produced by those who are still learning it as a second or foreign language, and in particular into the most common errors that occur in this process. KOST therefore aims at all those working with Slovene as a second or foreign language. The texts were mainly written at lectorates and Slovene as a L2/FL courses.\nMost of the authors of these texts speak Serbian, Bosnian and Macedonian as their first language, but texts by speakers of other languages are also included. The authors are at different proficiency levels in Slovene, from beginners to advanced. For each contributor, information is available on gender, year of birth, country, first language and other languages they speak, employment status and education, and prior experience of learning Slovene. For each text, there is also information on the time and circumstances of creation (exam or homework), the programme in which it was produced, input type (digital or hand-written), language level and the grade. A part of the corpus has also texts available in their corrected version which can be access also through concordancers (<a href=\"https://www.clarin.si/ske/#dashboard?corpname=kost10_corr\">noSketchEngine</a> or <a href=\"https://www.clarin.si/kontext/query?corpname=kost10_corr\">KonText</a>). The tokens of the original and corrected texts are linked (one group of link per paragraph) and the links categorised into 23 error types.\nThe corpus is available for download from the Slovenian repository CLARIN.SI and can be queried through noSketchEngine and KonText concordancers.",
+      "Description": "This corpus contains texts written in Slovenian by learners who mostly speak Serbian, Bosnian, and Macedonian as their first language.\n.For each contributor, information is available on gender, year of birth, country, first language and other languages they speak, employment status and education, and prior experience of learning Slovenian.\nFor each text, there is also information on the time and circumstances of creation (exam or homework), the programme in which it was produced, input type (digital or hand-written), language level and the grade.\nThe corpus is available for download from the CLARIN.SI and for online browsing through the noSketch Engine concordancer.",
       "Language": ["slv"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["6311 texts", "1 million words"],
@@ -11,9 +11,9 @@
       "Group": "Monolingual corpora",
       "Subgroup": "Written corpora",
       "Access": {
-	"Concordancer (noSketchEngine)": "https://www.clarin.si/ske/#dashboard?corpname=kost10_orig",
-	"Concordancer (KonText)": "https://www.clarin.si/kontext/query?corpname=kost10_orig",
-	"Download": "http://hdl.handle.net/11356/1753"
+	"Concordancer (original version)": "https://www.clarin.si/ske/#dashboard?corpname=kost20_orig",
+	"Concordancer (corrected version)" "https://www.clarin.si/ske/#dashboard?corpname=kost20_corr",
+	"Download": "http://hdl.handle.net/11356/1887"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/K5W4GMZ3/items/R6W3KVQG/"
 }
