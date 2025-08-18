@@ -5,7 +5,7 @@
       "Description": "This corpus contains unprepared readings by first-year students at an English department who speak French as a native language.\nThe corpus is available for download from Ortolang.",
       "Language": ["eng"],
       "Licence": "CLARIN RES",
-      "Size": [],
+      "Size": ["47 minutes"],
       "Annotation": [],
       "Infrastructure": "CLARIN",
       "Group": "Monolingual corpora",
