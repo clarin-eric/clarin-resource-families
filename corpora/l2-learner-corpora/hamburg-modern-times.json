@@ -2,7 +2,7 @@
       "Name": "Hamburg Modern Times Corpus",
       "URL": "http://hdl.handle.net/11022/0000-0000-6973-9",
 	"Family": "L2 learner corpora",
-      "Description": "This corpus contains film retellings and the accompanying transcriptions.\nThe corpus is available for download from the HZSK CLARIN-D repository.",
+      "Description": "This corpus contains film retellings and the accompanying transcriptions.\nThe corpus consists of transcribed audio recordings of adult learners of German at different proficiency levels who renarrate a few scenes from the silent film <a href=\"https://en.wikipedia.org/wiki/Modern_Times_(film)\">Modern Times</a>.\nThe corpus is available for download from the HZSK CLARIN-D repository.",
       "Language": ["deu"],
       "Licence": "CLARIN RES",
       "Size": ["24,000 words"],
