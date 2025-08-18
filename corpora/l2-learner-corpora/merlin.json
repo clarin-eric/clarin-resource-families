@@ -1,0 +1,17 @@
+{
+      "Name": "MERLIN Written Learner Corpus for Czech, German, Italian 1.2",
+      "URL": "http://hdl.handle.net/20.500.12124/59",
+	"Family": "L2 learner corpora",
+      "Description": "The corpus contains learner texts produced in standardised language certifications covering <a href=\"https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages\">CEFR</a> levels A1-C1.\nThe corpus is available for download from EURAC.",
+      "Language": ["ces", "deu", "ita"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["2,287 texts", "340,000 tokens"],
+      "Annotation": ["MERLIN annotation schema (see publication)"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12124/59"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/items/IWTDL7MN"
+}
