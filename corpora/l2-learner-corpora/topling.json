@@ -1,0 +1,19 @@
+{
+      "Name": "Topling - Paths in Second Language Acquisition",
+      "URL": "http://urn.fi/urn:nbn:fi:lb-20140730168",
+	"Family": "L2 learner corpora",
+      "Description": "The corpus contains texts written (both by children and adults) in Finnish, English and Swedish as second languages in the Finnish educational system (incl. adults).\nThe corpus is available for online querying through Korp in the form of three different subsets based on language.",
+      "Language": ["eng", "fin", "swe"],
+      "Licence": "CLARIN_RES",
+      "Size": [""],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+		"Concordancer (English subset)": "http://urn.fi/urn:nbn:fi:lb-2016112901",
+		"Concordancer (Finnish subset)": "http://urn.fi/urn:nbn:fi:lb-2016112902",
+		"Concordancer (Swedish subset)": "http://urn.fi/urn:nbn:fi:lb-2016112903"
+	},
+      "Publication": ""
+}
