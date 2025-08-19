@@ -5,7 +5,7 @@
       "Description": "This is a corpus of texts (produced as part of two email and letter writing tasks) written by German and Italian L2 speakers from South Tyrol in Italy collected in 2007.\nThe corpus is annotated for  person-related metadata (e.g., L1s, age, gender).\nThe corpus is available for download from the EURAC repository as well as through a dedicated concordancer.",
       "Language": ["ita", "deu"],
       "Licence": "(ACA-BY-NC-NORED 1.0)",
-      "Size": ["2,426 texts," "500,000 tokens"],
+      "Size": ["2,426 texts", "500,000 tokens"],
       "Annotation": [""],
       "Infrastructure": "CLARIN",
       "Group": "Multilingual corpora",
@@ -15,4 +15,5 @@
 		  "Concordancer": "https://commul.eurac.edu/annis/kolipsi"
 	},
       "Publication": ""
+
 }
