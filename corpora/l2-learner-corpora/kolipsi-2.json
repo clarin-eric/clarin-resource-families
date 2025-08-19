@@ -1,0 +1,18 @@
+{
+      "Name": "Kolipsi-2 Corpus",
+      "URL": "http://hdl.handle.net/20.500.12124/66",
+	"Family": "L2 learner corpora",
+      "Description": "This is a corpus of texts (produced as part of two email and letter writing tasks) written by German and Italian L2 speakers from South Tyrol in Italy collected in 2014.\nThis corpus was developed as part of a replication study of the original Kolipsi project that had resulted in the <a href=\"http://hdl.handle.net/20.500.12124/64\">Kolipsi-1</a> corpus from 2007.\nThe corpus is annotated for  person-related metadata (e.g., L1s, age, gender).\nThe corpus is available for download from the EURAC repository as well as through a dedicated concordancer.",
+      "Language": ["ita", "deu"],
+      "Licence": "(ACA-BY-NC-NORED 1.0)",
+      "Size": ["2,763 texts," "500,000 tokens"],
+      "Annotation": [""],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+		  "Download": "http://hdl.handle.net/20.500.12124/66",
+		  "Concordancer": "https://commul.eurac.edu/annis/kolipsi"
+	},
+      "Publication": ""
+}
