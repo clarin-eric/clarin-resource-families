@@ -1,17 +1,16 @@
 {
       "Name": "Icelandic Parsed Historical Corpus (IcePaHC)",
-      "URL": "http://hdl.handle.net/20.500.12537/62",
+      "URL": "http://hdl.handle.net/20.500.12537/325",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus contains Icelandic texts from the 12th through the 21st centuries – approximately 100,000 words from each century. The corpus is syntactically parsed following the <a href=\"https://www.ling.upenn.edu/~beatrice/annotation/\">UPenn scheme for historical texts</a>.\nThe corpus is available for online search through treebankstudio.org and for download in different formats from a dedicated webpage.",
+      "Description": "This corpus contains Icelandic texts from the 12th through the 21st centuries – approximately 100,000 words from each century. The corpus is syntactically parsed following the <a href=\"https://www.ling.upenn.edu/~beatrice/annotation/\">UPenn scheme for historical texts</a>.\nThe corpus is available for download from the CLARIN-IS repository.",
       "Language": ["isl"],
-      "Licence": "GNU LGPL",
-      "Size": ["1 million tokens"],
+      "Licence": "CC BY 4.0",
+      "Size": ["1,000,000 tokens"],
       "Annotation": ["morphosyntactic tagging", "lemmatisation", "syntactic parsing"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Concordancer": "http://treebankstudio.org/",
-	"Download": "http://hdl.handle.net/20.500.12537/62"
+	"Download": "http://hdl.handle.net/20.500.12537/325"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/422WAXNT/"
 }
