@@ -1,18 +1,18 @@
 {
-      "Name": "CMC training corpus Janes-Tag 2.0",
-      "URL": "http://hdl.handle.net/11356/1123",
+      "Name": "CMC training corpus Janes-Tag 3.0",
+      "URL": "http://hdl.handle.net/11356/1732",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus contains computer-mediated communication (CMC). The corpus is morphosyntactically tagged following the <a href=\"http://nl.ijs.si/ME/V5/msd/\">MULTEXT-East Version 5 tagset</a>.\nThe corpus is available through the concordancers KonText and noSketchEngine and for download from the CLARIN.SI repository.",
+      "Description": "This corpus contains computer-mediated communication (CMC). The corpus is morphosyntactically tagged following the <a href=\"http://nl.ijs.si/ME/V5/msd/\">MULTEXT-East Version 5 tagset</a>.\nThe corpus is available through the concordancers KonText and noSketch Engine and for download from the CLARIN.SI repository.",
       "Language": ["slv"],
       "Licence": "CC BY-SA 4.0",
-      "Size": ["75,000 tokens"],
+      "Size": ["14,913 texts", "217,774 tokens", "190,268 words"],
       "Annotation": ["tokenisation", "sentence segmentation", "word normalisation", "morphosyntactic tagging", "lemmatisation", "Named Entity recognition"],
       "Infrastructure": "CLARIN",
       "Group": ["PoS MSD tagging", "Lemmatisation", "Named Entity Recognition", "Other annotation layers"],
       "Access": {
-	"KonText": "https://www.clarin.si/kontext/first_form?corpname=janes_tag",
-	"noSketch": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=janes_tag&struct_attr_stats=1",
-	"Download": "http://hdl.handle.net/11356/1123"
+	"KonText": "https://www.clarin.si/kontext/query?corpname=janes_tag30",
+	"noSketch": "https://www.clarin.si/ske/#dashboard?corpname=janes_tag30",
+	"Download": "http://hdl.handle.net/11356/1732"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/V5KSQQF7/"
 }
