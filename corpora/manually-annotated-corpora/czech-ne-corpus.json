@@ -1,15 +1,16 @@
 {
-      "Name": "Czech Named Entity Corpus 1.1",
-      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-1B04-C",
+      "Name": "Czech Named Entity Corpus 2.0",
+      "URL": "http://hdl.handle.net/11858/00-097C-0000-0023-1B22-8",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus is available for download from LINDAT.",
+      "Description": "This corpus is available for download from LINDAT.\nThe corpus is manually annotate withd 35,220 Czech named entities, classified according to a two-level hierarchy of 46 named entities.",
       "Language": ["ces"],
       "Licence": "CC BY-NC-SA 3.0",
-      "Size": ["5868 sentences", "35220 NEs"],
-      "Annotation": ["Named Entity recognition"],
+      "Size": ["8,993 sentences"],
+      "Annotation": ["Named Entity Recognition"],
+	  "Group": ["Named Entity Recognition"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-1B04-C"
+	"Download": "http://hdl.handle.net/11858/00-097C-0000-0023-1B22-8"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/U4TBJQYC/"
 }
