@@ -1,16 +1,16 @@
 {
       "Name": "Lithuanian Treebank ALKSNIS",
-      "URL": "http://hdl.handle.net/20.500.11821/10",
+      "URL": "http://hdl.handle.net/20.500.11821/21",
 	"Family": "Manually annotated corpora",
-      "Description": "Syntactic parsing follows the rules of the <a href=\"https://ufal.mff.cuni.cz/pdt/\">Prague Dependency Treebank</a>\nThis corpus is available for download from the CLARIN-LT repository. The second version is available upon request.",
+      "Description": "Syntactic parsing follows the rules of the <a href=\"https://ufal.mff.cuni.cz/pdt/\">Prague Dependency Treebank</a>\nThis corpus is available for download from the CLARIN-LT repository.",
       "Language": ["lit"],
       "Licence": "CLARIN PUB",
-      "Size": ["2,355 sentences"],
+      "Size": ["3,643  sentences"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "http://hdl.handle.net/20.500.11821/10"
+	"Download": "http://hdl.handle.net/20.500.11821/21"
 	},
       "Publication": ""
 }
