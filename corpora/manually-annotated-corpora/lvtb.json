@@ -1,16 +1,16 @@
 {
       "Name": "LVTB - Latvian Treebank",
-      "URL": "http://hdl.handle.net/20.500.12574/86",
+      "URL": "http://hdl.handle.net/20.500.12574/129",
 	"Family": "Manually annotated corpora",
       "Description": "This treebank is manually annotated according to a hybrid dependency-constituency grammar.\nThe treebank is available for download from the CLARIN-LV repository.",
       "Language": ["lav"],
       "Licence": "CC BY-SA 4.0",
-      "Size": ["289,791 tokens", "17,127 sentences"],
+      "Size": ["19,531 sentences", "329,596 tokens"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "http://hdl.handle.net/20.500.12574/86"
+	"Download": "http://hdl.handle.net/20.500.12574/129"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/6E4LE56Y/"
 }
