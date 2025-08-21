@@ -1,0 +1,16 @@
+{
+      "Name": "PREMOVE – A diachronic dataset of Ancient Greek and Latin annotated PREverbed MOtion VErbs",
+      "URL": "http://hdl.handle.net/20.500.14106/2579",
+      "Family": "Lexica",
+      "Description": "This lexicon provides open-access, corpus-based annotations of preverbed motion verbs in Ancient Greek and Latin (8th century BCE – 2nd century CE).\n The lexicon follows the <a href=\"Guidelines for a linguistic annotation of preverbed verbs of motion\">Guidelines for a linguistic annotation of preverbed verbs of motion</a>. The annotations capture morphology, syntax, and semantics, in addition to geographical as well as textual metadata. There are 119,070 such annotations. \nThe lexicon is available for download from the Oxford Text Archive.",
+      "Language": ["ell", "lat"],
+      "Licence": "CC BY 4.0",
+      "Size": ["4,882 entries"],
+      "Annotation": ["see description"],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.14106/2579"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/JRHFDPTL/items/JHZ7C4EU/"
+}
