@@ -1,16 +1,16 @@
 {
-      "Name": "Prague Dependency Treebank 3.5",
-      "URL": "http://hdl.handle.net/11234/1-2621",
+      "Name": "Prague Dependency Treebank - Consolidated 2.0 (PDT-C 2.0)",
+      "URL": "http://hdl.handle.net/11234/1-5813",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus is manually annotated at several levels – aside from syntactic parsing and morphological information, it is annotation for sentence information structure, multiword expression, coreference, bridging relations and discourse relations.\nThe corpus is available for download from the LINDAT repository.",
+      "Description": "This corpus is manually annotated at several levels.\n Aside from syntactic parsing and morphological information, it is annotation for sentence information structure, multiword expression, coreference, bridging relations and discourse relations.\nThe corpus is available for download from the LINDAT repository.",
       "Language": ["ces"],
       "Licence": "CC BY-NC-SA 4.0",
-      "Size": ["2 million words"],
+      "Size": ["3,885,591 tokens," "7,324 minutes", "3,432,078 syntactic units", "2,244,288 semantic units"],
       "Annotation": ["syntactic parsing", "morphosyntactic tagging"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "http://hdl.handle.net/11234/1-2621"
+	"Download": "http://hdl.handle.net/11234/1-5813"
 	},
       "Publication": ""
 }
