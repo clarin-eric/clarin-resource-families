@@ -1,16 +1,18 @@
 {
-      "Name": "Training corpus jos1M 1.1",
-      "URL": "http://hdl.handle.net/11356/1037",
+      "Name": "Training corpus jos1M 1.2",
+      "URL": "http://hdl.handle.net/11356/1213",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus contains sampled paragraphs from the Slovenian national corpus FidaPLUS. The corpus is morphosyntactically tagged following the <a href=\"http://nl.ijs.si/ME/V4/msd/html/index.html\">MULTEXT-East Version 4 tagset</a>.\nThe corpus is available for download from the CLARIN.SI repository.",
+      "Description": "This corpus contains sampled paragraphs from the Slovenian national corpus <a href=\"http://hdl.handle.net/11356/1320\">Gigafida</a>.\nThe corpus is morphosyntactically tagged following the <a href=\"http://nl.ijs.si/ME/V4/msd/html/index.html\">MULTEXT-East Version 4 tagset</a>.\nThe corpus is available for download from the CLARIN.SI repository as well as through the noSketch Engine and KonText concordancers.",
       "Language": ["slv"],
       "Licence": "CC BY-NC 4.0",
-      "Size": ["1 million words"],
+      "Size": ["2,564 texts", "999,961 words", "1,182,814 tokens"],
       "Annotation": ["morphosyntactic tagging", "lemmatisation"],
       "Infrastructure": "CLARIN",
       "Group": ["PoS MSD tagging", "Lemmatisation"],
       "Access": {
-	"Download": "http://hdl.handle.net/11356/1037"
+		"Download": "http://hdl.handle.net/11356/1213",
+		"Concordancer (noSketch Engine)": "https://www.clarin.si/ske/#dashboard?corpname=jos1m",
+		"Concordancer (KonText)": "https://www.clarin.si/kontext/first_form?corpname=jos1m"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/JCGIQPRF/"
 }
