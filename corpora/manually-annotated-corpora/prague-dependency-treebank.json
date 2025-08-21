@@ -5,7 +5,7 @@
       "Description": "This corpus is manually annotated at several levels.\n Aside from syntactic parsing and morphological information, it is annotation for sentence information structure, multiword expression, coreference, bridging relations and discourse relations.\nThe corpus is available for download from the LINDAT repository.",
       "Language": ["ces"],
       "Licence": "CC BY-NC-SA 4.0",
-      "Size": ["3,885,591 tokens," "7,324 minutes", "3,432,078 syntactic units", "2,244,288 semantic units"],
+      "Size": ["3,885,591 tokens", "7,324 minutes", "3,432,078 syntactic units", "2,244,288 semantic units"],
       "Annotation": ["syntactic parsing", "morphosyntactic tagging"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
