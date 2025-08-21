@@ -1,16 +1,16 @@
 {
-      "Name": "KPWr (Polish Corpus of Wrocław University of Technology) 1.2",
-      "URL": "http://hdl.handle.net/11321/270",
+      "Name": "KPWr (Polish Corpus of Wrocław University of Technology) 1.3",
+      "URL": "https://hdl.handle.net/11321/722",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus contains texts in a variety of domains (blogs, science, stenographic recordings, etc.).\nThe corpus is available for download from the CLARIN-PL repository.",
       "Language": ["pol"],
-      "Licence": "CC BY-SA 3.0",
-      "Size": ["447,000 tokens"],
+      "Licence": "CC BY-SA 4.0",
+      "Size": ["449,985 tokens"],
       "Annotation": ["chunks and selected predicate-argument relations", "Named Entity recognition", "relations between named entities", "anaphora relations", "word senses", "events", "temporal expressions", "spatial relations between entities", "keywords and semantic roles within nominal and adjective phrases"],
       "Infrastructure": "CLARIN",
       "Group": ["Named Entity Recognition", "Other annotation layers"],
       "Access": {
-	"Download": "http://hdl.handle.net/11321/270"
+	"Download": "https://hdl.handle.net/11321/722"
 	},
       "Publication": ""
 }
