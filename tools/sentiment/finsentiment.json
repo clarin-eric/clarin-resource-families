@@ -1,6 +1,6 @@
 {
       "Name": "finsentiment",
-      "URL": "https://www.kielipankki.fi/tools/demo/cgi-bin/predict/finsent.py",
+      "URL": "https://www.kielipankki.fi/tools/demo/cgi-bin/finsent.py",
 	"Family": "Tools for sentiment analysis and opinion mining",
       "Description": "This tool relies on three resources:<ol><li>word embeddings calculated from a corpus of Finnish text:</li><li>product reviews harvested from the Internet</li><li>a word-based convolutional neural network with 100 kernels each of sizes 2, 3, 4 and 5 words.</li></ol>The neural network is trained to predict the rating associated with product reviews, and the prediction it gives to the input text is converted to a sentiment.",
       "Functionality": ["sentiment analysis"],
