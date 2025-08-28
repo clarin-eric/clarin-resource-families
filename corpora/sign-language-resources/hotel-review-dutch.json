@@ -5,7 +5,7 @@
       "Description": "This is a multimodal parallel corpus of hotel reviews that were originally written in Dutch, and subsequently translated into the Dutch Sign Language by 6 professionals, all of whom are deaf translators.\nThe corpus is available for download from the Dutch Language Institute.",
       "Language": ["Dutch Sign Language (NGT)"],
       "Licence": "CC BY-NC 3.0",
-      "Size": ["22.197 words", "4 hours"],
+      "Size": ["22,197 words", "4 hours"],
       "Annotation": [],
       "Infrastructure": "CLARIN",
       "Group": "Corpora",
