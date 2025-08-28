@@ -1,7 +1,7 @@
 {
       "Name": "Aleksis Kivi Corpus (SKS)",
       "URL": "http://urn.fi/urn:nbn:fi:lb-201405274",
-	"Family": "Historical corpora",
+	"Family": ["Historical corpora", "Literary corpora"],
       "Description": "This corpus contains the works by Finnish author Aleksis Kivi from 1855 to 1871.\nThe corpus is available through the concordancer Korp.",
       "Language": ["fin", "swe"],
       "Licence": "CC BY-NC",
