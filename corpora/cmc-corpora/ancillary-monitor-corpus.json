@@ -2,14 +2,26 @@
       "Name": "Ancillary Monitor Corpus: Common Crawl - German Web",
       "URL": "http://hdl.handle.net/11372/LRT-5811",
 	"Family": "Computer-mediated communication corpora",
-      "Description": "This is a continuously updated corpus of the German-language internet, with a new release published every year.\nThe corpus currently covers the years 2013-2024.\nThe corpus is based on data dumps from <a href=\"https://commoncrawl.org/\">CommonCrawl</a>.\n The filtering and subsequent processing was carried out using <a href=\"http://hdl.handle.net/11234/1-2634\">CorpusExplorer</a> with additional supplementary scripts, and <a href=\"http://hdl.handle.net/11372/LRT-323\">TreeTagger</a> was used for the automatic annotation.\nThe corpus is available for download from LINDAT.",
+      "Description": "This is a continuously updated corpus of the German-language internet, with a new release published every year.\nThe corpus currently covers the years 2013-2024.\nThe corpus is based on data dumps from <a href=\"https://commoncrawl.org/\">CommonCrawl</a>.\n The filtering and subsequent processing was carried out using <a href=\"http://hdl.handle.net/11234/1-2634\">CorpusExplorer</a> with additional supplementary scripts, and <a href=\"http://hdl.handle.net/11372/LRT-323\">TreeTagger</a> was used for the automatic annotation.\nThe corpus is available for download from LINDAT, although note that each year corresponds to a separate repository entry.",
       "Language": ["deu"],
       "Licence": "CC BY-NC-SA 4.0",
-      "Size": ["12,743,367 texts", "14,360,469,888 tokens"],
+      "Size": ["92,028,768  texts", "97,451,428,658 tokens"],
       "Annotation": ["tokenised", "sentence tagging", "PoS-tagged", "lemmatised"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Download": "http://hdl.handle.net/11372/LRT-5811"
+		"Download (2024)": "http://hdl.handle.net/11372/LRT-5811",
+		"Download (2023)": "http://hdl.handle.net/11372/LRT-5810",
+		"Download (2022)": "http://hdl.handle.net/11372/LRT-5794",
+		"Download (2021)": "http://hdl.handle.net/11372/LRT-5809",
+		"Download (2020)": "http://hdl.handle.net/11372/LRT-5793",
+		"Download (2019)": "http://hdl.handle.net/11372/LRT-5806",
+		"Download (2018)": "http://hdl.handle.net/11372/LRT-5792",
+		"Download (2017)": "http://hdl.handle.net/11372/LRT-5791",
+		"Download (2016)": "http://hdl.handle.net/11372/LRT-5790",
+		"Download (2015)": "http://hdl.handle.net/11372/LRT-5789",
+		"Download (2014)": "http://hdl.handle.net/11372/LRT-5788",
+		"Download (2013)": "http://hdl.handle.net/11372/LRT-5786"
 	},
       "Publication":""
+
 }
