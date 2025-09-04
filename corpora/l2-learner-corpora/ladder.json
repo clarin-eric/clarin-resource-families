@@ -1,0 +1,17 @@
+{
+      "Name": "LADDER. Learners' digital communication: a corpus for pragmatic competences in Italian L1/L2",
+      "URL": "https://hdl.handle.net/21.11115/0000-0011-BF1F-5",
+	"Family": "L2 learner corpora",
+      "Description": "This downloadable corpus consists of emails and instant messages.\nThe informants are (i) German learners of Italian between A2-C1 level according to the CEFR and most of them are students living in Tyrol (Austria) and (ii) native speakers of Italian most of whom are students from Rome, Italy.\nThe corpus is available for download from the ARCHE repository.",
+      "Language": ["ita"],
+      "Licence": "CC BY 4.0",
+      "Size": [],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Monolingual corpora",
+      "Subgroup": "Written corpora",
+      "Access": {
+	"Download": "https://hdl.handle.net/21.11115/0000-0011-BF1F-5"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/items/itemKey/J8B5VMK9"
+}
