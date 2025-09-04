@@ -1,0 +1,17 @@
+{
+      "Name": "AixOx",
+      "URL": "https://hdl.handle.net/11403/sldr000784/v1",
+	"Family": "L2 learner corpora",
+      "Description": "This corpus contains readings of written texts performed by French and English native speakers.",
+      "Language": ["fra", "eng"],
+      "Licence": "CLARIN RES",
+      "Size": ["40 minutes/task"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Multilingual corpora",
+      "Subgroup": "Spoken corpora",
+      "Access": {
+	"Browse": "https://www.ortolang.fr/market/corpora/sldr000784/v1?path=%2F"
+	},
+      "Publication": ""
+}
