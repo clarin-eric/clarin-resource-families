@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/20.500.12574/90",
 	"Family": "Historical corpora",
       "Description": "This is a corpus of (mostly ecclesiastical but also secular) texts written between the 16th and 18th centuries.\nThe corpus is available for online browsing through the noSketch Engine concordancer and download through the CLARIN-LV repository.",
-      "Language": ["lat"],
+      "Language": ["lav"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["2,720,349 tokens", "2,058,367 words"],
       "Annotation": ["tokenised", "PoS-tagged"],
@@ -15,3 +15,4 @@
       "Publication":"https://www.zotero.org/groups/562080/clarin/items/itemKey/3QA9M3W9"
 
 }
+
