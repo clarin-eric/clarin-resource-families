@@ -21,5 +21,5 @@ jobs:
       - name: Validate tools' JSON
         run: |
           cd -- schemas/
-          ./prep_for_website.py 
+          python ./prep_for_website.py 
 
