@@ -121,6 +121,28 @@
   },
   "then": { "required": ["Trained models"] 
   }, 
+
+
+    "if": {
+      "anyOf": [
+    {"properties": {
+      "Family": { "const": "Named entity recognition" }
+    },
+    "required": ["Family"]
+  },
+    {"properties": {
+      "Family": { "const": "Part-of-Speech Tagging and Lemmatisation" }
+    },
+    "required": ["Family"]
+  }
+]
+    },
+  "then": { "required": ["Input format"] 
+  }, 
+
+
+
+
     "if": {
     "properties": {
       "Family": {"not": {"const": "Part-of-Speech Tagging and Lemmatisation" }}
