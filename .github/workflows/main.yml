@@ -22,4 +22,5 @@ jobs:
         run: |
           cd -- schemas/
           ./validate-all-families.py -s ./spec-corpora-v1.schema.json -t ../corpora/
-
+          ./validate-all-families.py -s ./spec-corpora-v1.schema.json -t ../lexical-resources/
+          ./validate-all-families.py -s ./spec-tools-v1.schema.json -t ../tools/
