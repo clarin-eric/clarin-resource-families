@@ -1,0 +1,16 @@
+{
+      "Name": "ParCzech 4.0",
+      "URL": "http://hdl.handle.net/11234/1-5360",
+      "Family": "Parliamentary corpora",
+      "Description": "The ParCzech 4.0 corpus consists of stenographic protocols that record the Chamber of Deputies' meetings in the 7th term (2013-2017), the 8th term (2017-2021) and the current 9th term (2021-Jul 2023). The protocols are provided in their original HTML format, Parla-CLARIN TEI format. The corpus is automatically enriched with the morphological, syntactic, and named-entity annotations using the procedures UDPipe 2 and NameTag 2. The audio files are aligned with the texts in the annotated TEI files.",
+      "Language": ["ces"],
+      "Licence": "CC 0",
+      "Size": ["196,185 utterances", "1,976,928 sentences", "30,774,250 words", "4,590 hours"],
+      "Annotation": ["tokenised", "lemmatised", "MSD-tagged (Universal Dependencies)", "syntactically parsed (Universal Dependencies)", "named entities"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+            "Concordancer": "https://lindat.mff.cuni.cz/services/teitok/parczech-4.0/index.php",
+            "Download": "http://hdl.handle.net/11234/1-5360"
+	},
+      "Publication": ""
+}
