@@ -1,0 +1,16 @@
+{
+      "Name": "e-LIS: Electronic Bilingual Dictionary Italian Sign Language (LIS) – Italian v1.0",
+      "URL": "http://hdl.handle.net/20.500.12124/75",
+	"Family": "Sign language resources",
+      "Description": "This bilingual dictionary, originally compiled between 2004 and 2008, includes 2,677 videos with definitions and examples for 294 Italian lemmas.\nThe dictionary is available for download from the EURAC repository.",
+      "Language": ["ita", "Italian Sign Language (LIS)"],
+      "Licence": "CC BY-NC-SA 4.0",
+      "Size": ["294 lemmas"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+      "Group": "Lexical resources",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12124/75"
+	},
+      "Publication": "https://www.zotero.org/groups/562080/clarin/collections/VH5KZA3F/items/YCGJAD87/collection"
+}
