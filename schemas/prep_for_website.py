@@ -5,13 +5,11 @@ def merge_json_files(directory_path, output_file, process_flag):
     merged_data = []
     for filename in os.listdir(directory_path):
         if filename.endswith('.json'):
-            print(f"Filename: '{filename}'")
             with open(os.path.join(directory_path, filename), 'r') as file:
                 data = json.load(file)
                 if (process_flag):
                     new_data = process_input(data)
                 merged_data.append(data)
-    print(f"Output: '{output_file}'")
     with open(output_file, 'w') as outfile:
         json.dump(merged_data, outfile)
 
@@ -32,12 +30,16 @@ def merge_all():
     complete_output_file = "../export/all_crf_items.json"
     merged_data = []
     print("Creating complete merged JSON")
-    for filename in os.listdir(export_path):        
-        with open(os.path.join(export_path, filename), 'r') as file:
-            data = json.load(file)
-            merged_data.append(data)
-    with open(complete_output_file, 'w') as outfile:
-        json.dump(merged_data, outfile)
+    with os.scandir("../export") as entries:
+        for entry in entries:
+            if entry.is_file():
+                continue
+            for filename in os.listdir(entry):        
+                with open(os.path.join(entry, filename), 'r') as file:
+                    data = json.load(file)
+                    merged_data.append(data)
+            with open(complete_output_file, 'w') as outfile:
+                json.dump(merged_data, outfile)
 
 
 
@@ -46,6 +48,25 @@ def merge_all():
 
 start_path = "../corpora/"
 export_path = "../export/corpora/"
+os.makedirs(export_path, exist_ok=True)
+for filename in os.listdir(start_path):
+    directory_path = os.path.join(start_path, filename)
+    print(f"Processing family '{directory_path}'")
+    output_file = export_path + filename + ".json"
+    merge_json_files(directory_path, output_file, True)
+    print(f"Merged data written to '{output_file}'")
+start_path = "../tools/"
+export_path = "../export/tools/"
+os.makedirs(export_path, exist_ok=True)
+for filename in os.listdir(start_path):
+    directory_path = os.path.join(start_path, filename)
+    print(f"Processing family '{directory_path}'")
+    output_file = export_path + filename + ".json"
+    merge_json_files(directory_path, output_file, True)
+    print(f"Merged data written to '{output_file}'")
+start_path = "../lexical-resources/"
+export_path = "../export/lexical-resources/"
+os.makedirs(export_path, exist_ok=True)
 for filename in os.listdir(start_path):
     directory_path = os.path.join(start_path, filename)
     print(f"Processing family '{directory_path}'")
