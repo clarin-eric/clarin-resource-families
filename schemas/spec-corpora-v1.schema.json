@@ -18,18 +18,6 @@
     "Access",
     "Publication"
   ],
-    "Name": {
-      "$id": "#/properties/Name",
-      "title": "Resource name",
-      "type": "string"
-    },
-    "URL": {
-      "$id": "#/properties/URL",
-      "type": "string",
-      "format": "uri",
-      "title": "Link to the resource (PID preferred)",
-      "examples": ["https://example.com"]
-    },
   "properties": {
     "task": {
       "$id": "#/properties/Family",
@@ -58,6 +46,19 @@
       "$id": "#/properties/Description",
       "type": "string",
       "title": "Resource's description"
+    },
+    "Name": {
+      "$id": "#/properties/Name",
+      "title": "Resource name",
+      "type": "string"
+    },
+    "URL": {
+      "$id": "#/properties/URL",
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://",
+      "title": "Link to the resource (PID preferred)",
+      "examples": ["https://example.com"]
     },
     "Language": {
       "$id": "#/properties/Language",
