@@ -3,7 +3,7 @@
   "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
   "title": "JSON Schema for the CLARIN Resource Families",
   "type": "object",
-  "items": null,
+  "items": {},
   "definitions": {},
   "required": [
     "Name",
