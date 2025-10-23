@@ -3,7 +3,6 @@
   "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
   "title": "JSON Schema for the CLARIN Resource Families",
   "type": "object",
-  "items": {},
   "definitions": {},
   "required": [
     "Name",
@@ -19,10 +18,11 @@
     "Publication"
   ],
   "properties": {
-    "task": {
-      "$id": "#/properties/Family",
+ "Family": {
+  "$id": "#/properties/Family",
+  "anyOf": [
+    {
       "type": "string",
-      "title": "Name of the Resource Family",
       "enum": [
         "Academic corpora",
         "Computer-mediated communication corpora",
@@ -33,15 +33,53 @@
         "Literary corpora",
         "Manually annotated corpora",
         "Newspaper corpora",
-        "Oral history corpora",
-        "Oral History Corpora",
+        "Oral History corpora",
         "Parallel corpora",
         "Parliamentary corpora",
         "Reference corpora",
         "Sign language resources",
-        "Spoken corpora"
+        "Spoken corpora",
+        "Conceptual resources",
+        "Dictionaries",
+        "Glossaries",
+        "Language Models",
+        "Lexica",
+        "Wordlists"        
       ]
     },
+    {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Academic corpora",
+          "Computer-mediated communication corpora",
+          "Corpora of Disordered Speech",
+          "Historical corpora",
+          "L2 learner corpora",
+          "Legal corpora",
+          "Literary corpora",
+          "Manually annotated corpora",
+          "Newspaper corpora",
+          "Oral History corpora",
+          "Parallel corpora",
+          "Parliamentary corpora",
+          "Reference corpora",
+          "Sign language resources",
+          "Spoken corpora",
+          "Conceptual resources",
+        "Dictionaries",
+        "Glossaries",
+        "Language Models",
+        "Lexica",
+        "Wordlists"
+        ]
+      },
+      "uniqueItems": true
+    }
+  ]
+},
+
       "Description": {
       "$id": "#/properties/Description",
       "type": "string",
@@ -71,7 +109,8 @@
         "default": "eng",
         "examples": ["eng", "deu"],
         "pattern": "^(.{3})|(generic)$"
-      },
+      }
+     },
     "Licence": {
       "$id": "#/properties/Licence",
       "type": ["array", "string", "null"],
@@ -93,15 +132,26 @@
       "Infrastructure": {
       "$id": "#/properties/Infrastructure",
       "type": "string",
-      "title": "Resource's description"
+      "title": "which infrastructure does this item belong to"
     },
     "Publication": {
       "$id": "#/properties/Publication",
-      "type": "string",
-      "format": "uri",
+     "anyOf": [
+        {
+     "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^https?://|^$"
+      },
+    "uniqueItems": true
+      },
+{      "type": "string",
+      "pattern": "^https?://|^$"
+      }
+      ],
       "title": "Link to a publication about the resource (PID preferred)",
       "examples": ["https://example.com"]
     }
-    }
-  }
-}
+ }
+ }
+
