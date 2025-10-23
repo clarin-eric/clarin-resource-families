@@ -3,7 +3,6 @@
   "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
   "title": "JSON Schema for the CLARIN Resource Families",
   "type": "object",
-  "items": {},
   "definitions": {},
   "required": [
     "Name",
@@ -19,7 +18,7 @@
     "Publication"
   ],
   "properties": {
-    "task": {
+    "Family": {
       "$id": "#/properties/Family",
       "type": "string",
       "title": "Name of the Resource Family",
@@ -71,7 +70,8 @@
         "default": "eng",
         "examples": ["eng", "deu"],
         "pattern": "^(.{3})|(generic)$"
-      },
+      }
+     },
     "Licence": {
       "$id": "#/properties/Licence",
       "type": ["array", "string", "null"],
@@ -93,15 +93,16 @@
       "Infrastructure": {
       "$id": "#/properties/Infrastructure",
       "type": "string",
-      "title": "Resource's description"
+      "title": "which infrastructure does this item belong to"
     },
     "Publication": {
       "$id": "#/properties/Publication",
       "type": "string",
       "format": "uri",
+      "pattern": "^https?://",
       "title": "Link to a publication about the resource (PID preferred)",
       "examples": ["https://example.com"]
     }
     }
   }
-}
+
