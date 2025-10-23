@@ -18,10 +18,11 @@
     "Publication"
   ],
   "properties": {
-    "Family": {
-      "$id": "#/properties/Family",
+ "Family": {
+  "$id": "#/properties/Family",
+  "anyOf": [
+    {
       "type": "string",
-      "title": "Name of the Resource Family",
       "enum": [
         "Academic corpora",
         "Computer-mediated communication corpora",
@@ -32,15 +33,53 @@
         "Literary corpora",
         "Manually annotated corpora",
         "Newspaper corpora",
-        "Oral history corpora",
-        "Oral History Corpora",
+        "Oral History corpora",
         "Parallel corpora",
         "Parliamentary corpora",
         "Reference corpora",
         "Sign language resources",
-        "Spoken corpora"
+        "Spoken corpora",
+        "Conceptual resources",
+        "Dictionaries",
+        "Glossaries",
+        "Language Models",
+        "Lexica",
+        "Wordlists"        
       ]
     },
+    {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Academic corpora",
+          "Computer-mediated communication corpora",
+          "Corpora of Disordered Speech",
+          "Historical corpora",
+          "L2 learner corpora",
+          "Legal corpora",
+          "Literary corpora",
+          "Manually annotated corpora",
+          "Newspaper corpora",
+          "Oral History corpora",
+          "Parallel corpora",
+          "Parliamentary corpora",
+          "Reference corpora",
+          "Sign language resources",
+          "Spoken corpora",
+          "Conceptual resources",
+        "Dictionaries",
+        "Glossaries",
+        "Language Models",
+        "Lexica",
+        "Wordlists"
+        ]
+      },
+      "uniqueItems": true
+    }
+  ]
+},
+
       "Description": {
       "$id": "#/properties/Description",
       "type": "string",
@@ -97,12 +136,22 @@
     },
     "Publication": {
       "$id": "#/properties/Publication",
-      "type": "string",
-      "format": "uri",
-      "pattern": "^https?://",
+     "anyOf": [
+        {
+     "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^https?://|^$"
+      },
+    "uniqueItems": true
+      },
+{      "type": "string",
+      "pattern": "^https?://|^$"
+      }
+      ],
       "title": "Link to a publication about the resource (PID preferred)",
       "examples": ["https://example.com"]
     }
-    }
-  }
+ }
+ }
 
