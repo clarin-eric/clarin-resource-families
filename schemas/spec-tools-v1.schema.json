@@ -3,8 +3,6 @@
   "$id": "https://raw.githubusercontent.com/clarin-eric/clarin-resource-families/refs/heads/main/schemas/spec-v1.schema.json",
   "title": "JSON Schema for the CLARIN Resource Families",
   "type": "object",
-  "items": null,
-  "definitions": {},
   "required": [
     "Name",
     "URL",
@@ -19,19 +17,17 @@
   ],
   "properties": {
     "Name": {
-      "$id": "#/properties/Name",
       "title": "Resource name",
       "type": "string"
     },
     "URL": {
-      "$id": "#/properties/URL",
       "type": "string",
       "format": "uri",
+      "pattern": "^https?://",
       "title": "Link to the resource (PID preferred)",
       "examples": ["https://example.com"]
     },
     "Family": {
-      "$id": "#/properties/Family",
       "type": "string",
       "title": "Name of the Resource Family",
       "enum": [
@@ -42,113 +38,101 @@
         "Tools for sentiment analysis and opinion mining"
       ]
     },
-      "Description": {
-      "$id": "#/properties/Description",
+    "Description": {
       "type": "string",
       "title": "Resource's description"
     },
     "Language": {
-      "$id": "#/properties/Language",
       "type": "array",
       "title": "Languages that the tool can work with",
       "items": {
-        "$id": "#/properties/languages/items",
         "type": "string",
         "title": "Language Identifier, ISO 693-3",
         "default": "eng",
         "examples": ["eng", "deu"],
         "pattern": "^(.{3})|(generic)$"
-      },
+      }
+    },
     "Licence": {
-      "$id": "#/properties/Licence",
       "type": ["array", "string", "null"],
       "title": "Resource's licence",
       "default": null
     },
     "Size": {
-      "$id": "#/properties/Size",
       "type": ["array", "string", "null"],
       "title": "Size of the resource, multiple formats possible",
       "default": null
     },
     "Functionality": {
-      "$id": "#/properties/Functionality",
       "type": ["array", "string", "null"],
       "title": "Functionality of this tool",
       "default": null
     },
     "Platform": {
-      "$id": "#/properties/Functionality",
       "type": ["array", "string", "null"],
       "title": "Platforms this tool is available on",
       "default": null
     },
-      "Infrastructure": {
-      "$id": "#/properties/Infrastructure",
+    "Infrastructure": {
       "type": "string",
       "title": "Resource's description"
     },
     "Publication": {
-      "$id": "#/properties/Publication",
-      "type": "string",
-      "format": "uri",
+      "anyOf": [
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^https?://|^$"
+          },
+          "uniqueItems": true
+        },
+        {
+          "type": "string",
+          "pattern": "^https?://|^$"
+        }
+      ],
       "title": "Link to a publication about the resource (PID preferred)",
       "examples": ["https://example.com"]
     }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": { "Family": { "const": "Tools for sentiment analysis and opinion mining" } },
+        "required": ["Family"]
+      },
+      "then": { "required": ["Sentiment type"] }
+    },
+    {
+      "if": {
+        "properties": { "Family": { "const": "Named entity recognition" } },
+        "required": ["Family"]
+      },
+      "then": { "required": ["NER categories"] }
+    },
+    {
+      "if": {
+        "properties": { "Family": { "const": "Named entity recognition" } },
+        "required": ["Family"]
+      },
+      "then": { "required": ["Trained models"] }
+    },
+    {
+      "if": {
+        "anyOf": [
+          { "properties": { "Family": { "const": "Tools for Normalisation" } }, "required": ["Family"] },
+          { "properties": { "Family": { "const": "Part-of-Speech Tagging and Lemmatisation" } }, "required": ["Family"] }
+        ]
+      },
+      "then": { "required": ["Input format"] }
+    },
+    {
+      "if": {
+        "properties": { "Family": { "not": { "const": "Part-of-Speech Tagging and Lemmatisation" } } },
+        "required": ["Family"]
+      },
+      "then": { "required": ["Platform"] }
     }
-  },
-    "if": {
-    "properties": {
-      "Family": { "const": "Tools for sentiment analysis and opinion mining" }
-    },
-    "required": ["Family"]
-  },
-  "then": { "required": ["Sentiment type"] 
-  }, 
-    "if": {
-    "properties": {
-      "Family": { "const": "Named entity recognition" }
-    },
-    "required": ["Family"]
-  },
-  "then": { "required": ["NER categories"] 
-  }, 
-    "if": {
-    "properties": {
-      "Family": { "const": "Named entity recognition" }
-    },
-    "required": ["Family"]
-  },
-  "then": { "required": ["Trained models"] 
-  }, 
-
-
-    "if": {
-      "anyOf": [
-    {"properties": {
-      "Family": { "const": "Named entity recognition" }
-    },
-    "required": ["Family"]
-  },
-    {"properties": {
-      "Family": { "const": "Part-of-Speech Tagging and Lemmatisation" }
-    },
-    "required": ["Family"]
-  }
-]
-    },
-  "then": { "required": ["Input format"] 
-  }, 
-
-
-
-
-    "if": {
-    "properties": {
-      "Family": {"not": {"const": "Part-of-Speech Tagging and Lemmatisation" }}
-    },
-    "required": ["Family"]
-  },
-  "then": { "required": ["Platform"] 
-  }
+  ]
 }
