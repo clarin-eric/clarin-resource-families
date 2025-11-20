@@ -4,13 +4,13 @@
       "Family": "Dictionaries",
       "Description": "This is a trilingual dictionary that is available for online browsing.",
       "Language": ["Livonian", "est", "lav"],
-      "Licence": "",
+      "Licence": "https://creativecommons.org/licenses/by-sa/4.0/",
       "Size": [],
       "Annotation": [],
       "Infrastructure": "CLARIN",
       "Group": "Multilingual resources",
       "Access": {
-	"Browse": "http://www.livones.net/lingua/en"
+	"Browse": "https://livonian.tech/en"
 	},
       "Publication": ""
 }
