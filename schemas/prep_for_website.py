@@ -24,6 +24,11 @@ def process_input(data):
     for index, value in enumerate(langs):
         if value in d.keys():
             langs[index] = d[value]
+    if (data['Access']):
+        data["Access"] = [
+            {"type": key, "url": value}
+            for key, value in data["Access"].items()
+        ]
     return data
 
 def merge_all():
