@@ -7,9 +7,12 @@
       "Language": ["nld", "eng", "deu", "fra"],
       "Licence": "",
       "Platform": [],
+	    "Input format": ["TSV", "plain text"],
+      "Output format": ["XML", "TSV", "plain text", "CoNLL-U", "FoLiA", "NAF"],
       "Infrastructure": "CLARIN",
       "Access": {
 	"Browse": "https://portal.clarin.ivdnt.org/textlens/annotate/corpora"
 	},
       "Publication": ""
+
 }
