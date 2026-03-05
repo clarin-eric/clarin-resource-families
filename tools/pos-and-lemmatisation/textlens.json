@@ -1,0 +1,15 @@
+{
+      "Name": "Textlens",
+      "URL": "https://portal.clarin.ivdnt.org/textlens/application/about",
+	"Family": "Part-of-Speech Tagging and Lemmatisation",
+      "Description": "This is an online platform for tagging corpora on the basis of the Universal Dependencies part-of-speech tags.\nThis tool is a fork of  <a href=\"https://portal.clarin.ivdnt.org/galahad\">Galahad</a>, which was created by the Dutch Language Institute. Potential users of the tool need to log in.",
+      "Functionality": ["PoS"],
+      "Language": ["nld", "eng", "deu", "fra"],
+      "Licence": "",
+      "Platform": [],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Browse": "https://portal.clarin.ivdnt.org/textlens/annotate/corpora"
+	},
+      "Publication": ""
+}
