@@ -35,7 +35,8 @@
         "Named entity recognition",
         "Part-of-Speech Tagging and Lemmatisation",
         "Tools for Normalisation",
-        "Tools for sentiment analysis and opinion mining"
+        "Tools for sentiment analysis and opinion mining",
+        "Tools for manual linguistic annotation"
       ]
     },
     "Description": {
