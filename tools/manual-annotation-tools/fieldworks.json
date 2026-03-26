@@ -2,6 +2,7 @@
   "Name": "FLeX",
   "URL": "http://hdl.handle.net/11372/LRT-301",
   "Licence": "GNU LGPL",
+	"Family": "Tools for manual linguistic annotation",
   "Infrastructure": "LINDAT",
   "Publication": [],
   "Platform": [],
