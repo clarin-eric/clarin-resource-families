@@ -6,6 +6,7 @@
   "Infrastructure": "CLARIAH-NL",
   "Language": "Language independent",
   "Publication": [],
+	"Platform": [],
   "Input format": [
     "Raw text",
     "XML",
