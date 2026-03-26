@@ -1,0 +1,24 @@
+{
+  "Name": "FLeX",
+  "URL": "http://hdl.handle.net/11372/LRT-301",
+  "Licence": "GNU LGPL",
+  "Infrastructure": "LINDAT",
+  "Publication": [],
+  "Platform": [],
+  "Language":"Language independent",
+  "Input format": [
+    "Raw text",
+    "XML",
+    "other"
+  ],
+  "Output format": [],
+  "Description": "This is a desktop-based application designed for documenting, analyzing, and managing lexical and textual data, particularly for under-documented languages.\nThe tool is available for download from a CLARIN-external website.",
+  "Functionality": [
+    "PoS",
+    "Named entities",
+    "Multiword expressions"
+  ],
+  "Access": {
+	  "Download": "https://software.sil.org/fieldworks/"
+  }
+}
