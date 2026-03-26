@@ -6,7 +6,7 @@
   "Infrastructure": "LINDAT",
   "Publication": [],
   "Platform": [],
-  "Language":"Language independent",
+  "Language":["Language independent"],
   "Input format": [
     "Raw text",
     "XML",
