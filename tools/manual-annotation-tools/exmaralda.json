@@ -3,7 +3,7 @@
   "URL": "https://www.exmaralda.org",
   "Licence": "GPL-2.0",
   "Family": "Tools for manual linguistic annotation",
-  "Infrastructure": "LINDAT",
+  "Infrastructure": "CLARIN-D",
   "Publication": [],
   "Platform": [],
   "Language": ["Language independent"],
@@ -18,7 +18,7 @@
     "PoS",
     "Named entities"
   ],
-  "Availability": {
+  "Access": {
 	  "Download": "https://exmaralda.org/en/release-version/",
   }
 }
