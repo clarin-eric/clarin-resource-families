@@ -13,12 +13,12 @@
     "TSV"
   ],
   "Output": [],
-  "Description": "This is a desktop-based application for working with spoken language corpora.\nThe application is available for download from a dedicated website",
+  "Description": "This is a desktop-based application for working with spoken language corpora.\nThe application is available for download from a dedicated website.",
   "Functionality": [
     "PoS",
     "Named entities"
   ],
   "Access": {
-	  "Download": "https://exmaralda.org/en/release-version/",
+	  "Download": "https://exmaralda.org/en/release-version/"
   }
 }
