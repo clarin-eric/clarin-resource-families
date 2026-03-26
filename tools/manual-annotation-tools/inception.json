@@ -2,6 +2,7 @@
   "Name": "INCEpTION",
   "URL": "http://hdl.handle.net/11500/CLARIN-EL-0000-0000-6A6B-2",
   "Licence": "Apache-2.0",
+	"Family": "Tools for manual linguistic annotation",
   "Infrastructure": "CLARIN-EL",
   "Platform": [],
   "Publication": [],
