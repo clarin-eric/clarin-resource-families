@@ -4,7 +4,7 @@
   "Licence": "GPL-3.0",
   "Family": "Tools for manual linguistic annotation",
   "Infrastructure": "CLARIAH-NL",
-  "Language": "Language independent",
+  "Language": ["Language independent"],
   "Publication": [],
 	"Platform": [],
   "Input format": [
