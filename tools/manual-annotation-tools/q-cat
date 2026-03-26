@@ -1,0 +1,17 @@
+{
+      "Name": "Q-CAT Corpus Annotation Tool 1.5",
+      "URL": "https://hdl.handle.net/11356/1844",
+	"Family": "Tools for manual linguistic annotation",
+      "Description": "This is a tool for the manual annotation of corpora, which enables advanced queries performed on top of the annotations.\nThe tool supports, amongst other features, the CONLL-U format and working with Universal Dependency part-of-speech tags.\nThis is a desktop took that runs on Windows operating systems. It is available for download from the CLARIN.SI repository.",
+      "Functionality": ["PoS", "MSD", "Named entities", "Syntactic dependencies", "Mutli-word expressions", "semantic roles"],
+      "Language": ["Language independent"],
+      "Licence": "Apache License 2.0",
+      "Infrastructure": "CLARIN.SI",
+      "Group": "For multiple languages",
+      "Input format": ["CONLL-U", "XML"],
+      "Output format": ["XML"],
+      "Access": {
+	"Download": "https://hdl.handle.net/11356/1844"
+	},
+      "Publication": ""
+}
