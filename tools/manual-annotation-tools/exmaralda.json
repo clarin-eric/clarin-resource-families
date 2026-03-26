@@ -1,0 +1,24 @@
+{
+  "Name": "EXMARaLDA",
+  "URL": "https://www.exmaralda.org",
+  "Licence": "GPL-2.0",
+  "Family": "Tools for manual linguistic annotation",
+  "Infrastructure": "LINDAT",
+  "Publication": [],
+  "Platform": [],
+  "Language": ["Language independent"],
+  "Input": [
+    "Raw text",
+    "XML",
+    "TSV"
+  ],
+  "Output": [],
+  "Description": "This is a desktop-based application for working with spoken language corpora.\nThe application is available for download from a dedicated website",
+  "Functionality": [
+    "PoS",
+    "Named entities"
+  ],
+  "Availability": {
+	  "Download": "https://exmaralda.org/en/release-version/",
+  }
+}
