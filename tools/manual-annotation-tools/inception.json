@@ -1,0 +1,28 @@
+{
+  "Name": "INCEpTION",
+  "URL": "http://hdl.handle.net/11500/CLARIN-EL-0000-0000-6A6B-2",
+  "Licence": "Apache-2.0",
+  "Infrastructure": "CLARIN-EL",
+  "Platform": [],
+  "Publication": [],
+  "Input format": [
+    "Raw text",
+    "PDF",
+    "CONLL-U",
+    "XML",
+    "TSV"
+  ],
+  "Output format": "",
+  "Language": "[Language independent]",
+  "Description": "This is a web-based application offering intelligent assistance and knowledge management.\nThe tool is available through online access through the CLARIN:EL infrastructure.",
+  "Functionality": [
+    "PoS",
+    "Named entities",
+    "Multiword expressions",
+    "Syntactic dependencies",
+    "Coreference"
+  ],
+  "Access": {
+	  "Online": "http://hdl.handle.net/11500/CLARIN-EL-0000-0000-6A6B-2"
+  }
+}
