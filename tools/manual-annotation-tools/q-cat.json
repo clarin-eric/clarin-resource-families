@@ -6,6 +6,7 @@
       "Functionality": ["PoS", "MSD", "Named entities", "Syntactic dependencies", "Mutli-word expressions", "semantic roles"],
       "Language": ["Language independent"],
       "Licence": "Apache License 2.0",
+		"Platform": [],
       "Infrastructure": "CLARIN.SI",
       "Group": "For multiple languages",
       "Input format": ["CONLL-U", "XML"],
