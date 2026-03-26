@@ -1,0 +1,26 @@
+{
+  "Name": "ELAN",
+  "URL": "https://archive.mpi.nl/tla/elan",
+  "Licence": "GPL-3.0",
+  "Family": "Tools for manual linguistic annotation",
+  "Infrastructure": "CLARIAH-NL",
+  "Language": "Language independent",
+  "Publication": [],
+  "Input format": [
+    "Raw text",
+    "XML",
+    "other",
+    "TSV"
+  ],
+  "Output format": [],
+  "Description": "This is a desktop-based application for the creation, annotation, and analysis of complex multimedia data, enabling time-aligned transcription and linguistic analysis.\nThe tool is available for download from the Language Archive.",
+  "Functionality": [
+    "PoS",
+    "Named entities",
+    "Multiword expressions",
+    "Syntactic dependencies"
+  ],
+  "Access": {
+	"Download": "https://archive.mpi.nl/tla/elan/download"
+  }
+}
