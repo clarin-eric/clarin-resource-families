@@ -14,7 +14,7 @@
     "TSV"
   ],
   "Output format": "",
-  "Language": "[Language independent]",
+  "Language": ["Language independent"],
   "Description": "This is a web-based application offering intelligent assistance and knowledge management.\nThe tool is available through online access through the CLARIN:EL infrastructure.",
   "Functionality": [
     "PoS",
