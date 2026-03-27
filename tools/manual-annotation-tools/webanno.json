@@ -1,0 +1,28 @@
+{
+  "Name": "WebAnno",
+  "URL": "hdl.handle.net/21.11105/0000-000B-CAE8-C",
+  "Licence": "Apache-2.0",
+  "Infrastructure": "CLARIN-D",
+  "Publication": [],
+  "Family": "Tools for manual linguistic annotation",
+  "Input format": [
+    "Raw text",
+    "CONLL-U",
+    "XML",
+    "TSV"
+  ],
+  "Output format": [],
+  "Description": "This is a web-based collaborative tool for linguistic annotation that supports various annotation tasks, including POS tagging, dependency parsing, and coreference resolution. It provides collaborative features and works well with formats like CoNLL-U.\nThis tool is offered as a webservice for CLARIN-D members.",
+  "Platform": [],
+  "Annotation types": [
+    "PoS",
+    "Named entities",
+    "Multiword expressions",
+    "Syntactic dependencies",
+    "Coreferences"
+  ],
+  "Access": {
+	  "Download": "https://webanno.github.io/webanno/downloads/",
+	  "Web service": "https://webanno.sfs.uni-tuebingen.de/"
+  },
+}
