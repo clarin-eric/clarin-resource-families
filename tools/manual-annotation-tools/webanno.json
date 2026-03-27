@@ -4,6 +4,7 @@
   "Licence": "Apache-2.0",
   "Infrastructure": "CLARIN-D",
   "Publication": [],
+	"Language": ["Language independent"],
   "Family": "Tools for manual linguistic annotation",
   "Input format": [
     "Raw text",
