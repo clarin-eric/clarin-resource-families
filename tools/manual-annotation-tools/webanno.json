@@ -1,0 +1,27 @@
+{
+  "Name": "TrEd",
+  "URL": "https://hdl.handle.net/11858/00-097C-0000-0001-48F7-8",
+  "Licence": "GPL-2.0",
+  "Infrastructure": "LINDAT",
+  "Family": "Tools for manual linguistic annotation",
+  "Language": ["language independent"],
+  "Publication": [],
+  "Input format": [
+    "Raw text",
+    "CONLL-U",
+    "XML"
+  ],
+  "Output format": [],
+  "Description": "This desktop-based application is a fully customizable and programmable graphical editor and viewer for tree-like structures.\nThis tool is available for download from LINDAT.",
+  "Platform": [],
+  "Functionality": [
+    "PoS",
+    "Named entities",
+    "Multiword expressions",
+    "Syntactic dependencies",
+    "Coreferences"
+  ],
+  "Access": {
+	  "Download": "https://hdl.handle.net/11858/00-097C-0000-0001-48F7-8" 
+  }
+}
