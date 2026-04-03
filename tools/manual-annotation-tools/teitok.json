@@ -1,0 +1,18 @@
+{
+      "Name": "TEITOK - a Tokenized TEI environment",
+      "URL": "http://teitok.corpuswiki.org/",
+	"Family": "Tools for manual linguistic annotation",
+      "Description": "This is a web-based platform for viewing, creating, and editing corpora with both rich textual mark-up and linguistic annotation.\nThe tool, which is maintained by ÚFAL institute of Charles University (a CLARIAH-CZ/LINDAT node), is available from a dedicated webpage/Gitlab.",
+      "Functionality": ["PoS", "MSD", "Syntactic dependencies"],
+      "Language": ["Language independent"],
+      "Licence": "GNU General Public License v3.0",
+		"Platform": [""],
+      "Infrastructure": "LINDAT",
+      "Group": "For multiple languages",
+      "Input format": ["XML"],
+      "Output format": [],
+      "Access": {
+	"Download": "https://gitlab.com/maartenes/TEITOK"
+	},
+      "Publication": ""
+}
