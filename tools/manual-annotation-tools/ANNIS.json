@@ -1,0 +1,18 @@
+{
+      "Name": "ANNIS Search and Visualization System for Corpora",
+      "URL": "http://hdl.handle.net/11022/1007-0000-0000-8E9C-1",
+	"Family": "Tools for manual linguistic annotation",
+      "Description": "This is an open source, cross platform web browser-based search and visualization architecture for complex multilayer linguistic corpora with diverse types of annotation in, amongst others, syntax, semantics, morphology, prosody, referentiality, and lexis.\nThis tool uses a relational database format called the ANNIS import format. The Pepper converter framework allows users to convert data from various formats including PAULA XML, EXMARaLDA XML, TigerXML, CoNLL, RSTTool, generic XM L and TreeTagger directly into ANNIS.\nThe tool is available from a dedicated webpage.",
+      "Functionality": ["PoS", "MSD", "Named entities", "Syntactic dependencies", "Mutli-word expressions", "Semantic roles"],
+      "Language": ["Language independent"],
+      "Licence": "Apache License 2.0",
+		"Platform": ["Linux", "Mac", "Windows"],
+      "Infrastructure": "CLARIN-D",
+      "Group": "For multiple languages",
+      "Input format": ["ANNIS"],
+      "Output format": [],
+      "Access": {
+	"Download": "https://corpus-tools.org/annis/download/"
+	},
+      "Publication": ""
+}
