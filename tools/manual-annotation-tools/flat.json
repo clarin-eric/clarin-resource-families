@@ -1,0 +1,18 @@
+{
+      "Name": "FoLiA Linguistic Annotation Tool",
+      "URL": "https://github.com/proycon/flat?",
+	"Family": "Tools for manual linguistic annotation",
+      "Description": "This a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia), a rich XML-based format for linguistic annotation.\nFlat allows users to view annotated FoLiA documents and enrich these documents with new annotations.\nThe tool is available from GitHub.",
+      "Functionality": ["PoS", "lemmas", "syntactic parses"],
+      "Language": ["Language independent"],
+      "Licence": "GNU General Public License v3.0",
+		"Platform": [""],
+      "Infrastructure": "CLARIAH-NL",
+      "Group": "For multiple languages",
+      "Input format": ["XML"],
+      "Output format": [],
+      "Access": {
+	"Download": "https://github.com/proycon/flat?"
+	},
+      "Publication": ""
+}
