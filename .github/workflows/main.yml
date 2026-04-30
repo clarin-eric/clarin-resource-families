@@ -1,4 +1,4 @@
-name: CI
+name: schema validation
 on:
   push:
   pull_request:
