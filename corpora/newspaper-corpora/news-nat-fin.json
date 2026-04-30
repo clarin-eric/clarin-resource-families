@@ -9,8 +9,8 @@
       "Annotation": ["tokenised", "MSD-tagged", "syntactically parsed"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer (Finnish subcorpus)": "http://urn.fi/urn:nbn:fi:lb-202009152",
-	"Concordancer (Swedish subcorpus)": "http://urn.fi/urn:nbn:fi:lb-2016050301"
+	"Concordancer (Finnish subcorpus)": "http://urn.fi/urn:nbn:fi:lb-202009151",
+	"Concordancer (Swedish subcorpus)": "http://urn.fi/urn:nbn:fi:lb-2014091901"
 	},
       "Publication": ""
 }
