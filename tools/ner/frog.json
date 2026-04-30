@@ -5,7 +5,6 @@
       "Description": "Frog is a memory-based NLP pipeline based on <a href=\"https://languagemachines.github.io/timbl/\">Timbl</a>, the Tilburg memory-based learning software package. Frog produces FoLiA XML.",
       "Functionality": ["tokenisation", "MSD-tagging", "lemmatisation", "morphologic segmentation", "phrase chunking", " NER"],
       "NER categories": ["person", "organisation", "location", "product", "event", "miscellaneous"],
-      "Trained models": [],
       "Language": ["nld"],
       "Licence": "GNU General Public Licence",
       "Platform": ["Linux", "Mac OS X"],

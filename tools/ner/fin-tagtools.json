@@ -5,7 +5,6 @@
       "Description": "This software package provides <i>finnish-postag</i>, a part-of-speech and morphology tagger for Finnish, and <i>finnish-nertag</i>, a named entity recogniser for Finnish.",
       "Functionality": ["PoS/MSD-tagging", "NER"],
       "NER categories": ["person (human, mythological, animal, other)", "location (political, geographical, street, infrastructure, mythological, astronomical, other)", "organisation (corporation, political, media, financial, educational, cultural, athletic, other, miscellaneous), product", "event, time (dates, times)", "numerical expressions (measurements, money)"],
-      "Trained models": [],
       "Language": ["fin"],
       "Licence": "GPL 3",
       "Platform": ["Linux", "Unix"],

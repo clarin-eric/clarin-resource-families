@@ -5,7 +5,6 @@
       "Description": "This NER annotates plain text.",
       "Functionality": ["NER"],
       "NER categories": ["person", "location", "organization", "miscellaneous"],
-      "Trained models": [],
       "Language": ["eng"],
       "Licence": "underlying software is open source",
       "Platform": ["cross-platform"],

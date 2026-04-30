@@ -5,7 +5,6 @@
       "Description": "This is a complete NLP platform with modules for named entity recognition.",
       "Functionality": ["tokenization", "PoS-tagging", "NER", "semantic and orthographic coreference", "pronominal coreference"],
       "NER categories": ["person", "location", "organisation", "date", "percent", "money"],
-      "Trained models": [],
       "Language": ["eng", "fra", "deu", "ron", "rus", "cym", "dan", "zho", "ara"],
       "Licence": "LGPL",
       "Platform": ["cross-platform"],

@@ -5,7 +5,6 @@
       "Description": "This NER can be applied to existing corpora available through the CLARIN:EL infrastructure and to those independently uploaded corpora that are compatible with the tool’s requirements.",
       "Functionality": ["NER"],
       "NER categories": ["person", "location", "organization"],
-      "Trained models": [],
       "Language": ["eng"],
       "Licence": "Apache Licence 2.0",
       "Platform": ["Linux", "Windows"],

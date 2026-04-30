@@ -5,7 +5,6 @@
       "Description": "This NER annotates plain text by identifying and classifying the expressions for named entities it contains.#SEPThe named-based module is integrated into the full <a href=\"http://lxcenter.di.fc.ul.pt/services/online_suite/en/lx-suite.html\">LX-Suite</a> pipeline (tokenization, POS tagging, parsing).",
       "Functionality": ["NER"],
       "NER categories": ["name-based: person, organization, location, events, works; number-based: numbers, measures, time"],
-      "Trained models": [],
       "Language": ["por"],
       "Licence": "",
       "Platform": ["cross-platform"],

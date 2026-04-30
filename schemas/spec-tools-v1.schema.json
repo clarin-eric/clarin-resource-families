@@ -114,13 +114,6 @@
     },
     {
       "if": {
-        "properties": { "Family": { "const": "Named entity recognition" } },
-        "required": ["Family"]
-      },
-      "then": { "required": ["Trained models"] }
-    },
-    {
-      "if": {
         "anyOf": [
           { "properties": { "Family": { "const": "Tools for Normalisation" } }, "required": ["Family"] },
           { "properties": { "Family": { "const": "Part-of-Speech Tagging and Lemmatisation" } }, "required": ["Family"] }

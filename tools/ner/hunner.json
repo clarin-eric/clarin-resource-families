@@ -5,7 +5,6 @@
       "Description": "This NER employs a maximum entropy approach.",
       "Functionality": ["NER"],
       "NER categories": [],
-      "Trained models": [],
       "Language": ["hun"],
       "Licence": "",
       "Platform": [],
