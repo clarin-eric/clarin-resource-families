@@ -9,7 +9,7 @@
       "Platform": ["Platform-independent (requires Python)"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://github.com/IngoKl/PyXMLConc"
 	},
       "Publication": ""
 }
