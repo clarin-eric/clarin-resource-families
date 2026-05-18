@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "CLARIN-IT",
       "Access": {
-	"Browse": ""
+	"Browse": "http://dbtvm1.ilc.cnr.it/sitodbt/"
 	},
       "Publication": ""
 }
