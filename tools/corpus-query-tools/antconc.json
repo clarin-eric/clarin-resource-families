@@ -9,7 +9,7 @@
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://www.laurenceanthony.net/software/antconc/"
 	},
       "Publication": ""
 }
