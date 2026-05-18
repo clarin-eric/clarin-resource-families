@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "CLARIN-UK",
       "Access": {
-	"Browse": ""
+	"Browse": "http://bncweb.lancs.ac.uk/bncwebSignup/user/login.php"
 	},
       "Publication": ""
 }
