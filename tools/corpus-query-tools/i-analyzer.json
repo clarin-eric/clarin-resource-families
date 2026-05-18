@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Browse": "https://ianalyzer.hum.uu.nl/login?returnUrl=%2Fhome"
 	},
       "Publication": ""
 }
