@@ -9,7 +9,7 @@
       "Platform": ["Windows", "MacOS", "Source code provided for Linux users"],
       "Infrastructure": "TalkBank",
       "Access": {
-	"Browse": ""
+	"Download": "http://dali.talkbank.org/clan/"
 	},
       "Publication": ""
 }
