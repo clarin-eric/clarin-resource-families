@@ -9,7 +9,7 @@
       "Platform": ["OSX"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://interrogator.github.io/corpkit/#download"
 	},
       "Publication": ""
 }
