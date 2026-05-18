@@ -9,7 +9,7 @@
       "Platform": ["Platform-independent (java)"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Browse": ""
+	"Download": "https://www.andy-roberts.net/coding/aconcorde/"
 	},
       "Publication": ""
 }
