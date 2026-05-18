@@ -9,7 +9,7 @@
       "Platform": ["Platform-independent (Windows and generic installers available)"],
       "Infrastructure": "CLARIN-UK",
       "Access": {
-	"Browse": ""
+	"Download": "https://gate.ac.uk/download/"
 	},
       "Publication": ""
 }
