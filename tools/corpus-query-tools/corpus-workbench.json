@@ -9,7 +9,7 @@
       "Platform": ["Linux", "MacOS", "VM images (CQPwebinABox)"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Browse": "https://cwb.sourceforge.io/install.php"
 	},
       "Publication": ""
 }
