@@ -9,7 +9,7 @@
       "Platform": ["Windows", "MacOS", "Linux with a current Java runtime environment."],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://exmaralda.org/de/offizielle-version/"
 	},
       "Publication": ""
 }
