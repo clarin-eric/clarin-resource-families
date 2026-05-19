@@ -9,7 +9,7 @@
       "Platform": ["Windows", "MacOS"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Browse": "https://www.liwc.app/demo"
 	},
       "Publication": ""
 }
