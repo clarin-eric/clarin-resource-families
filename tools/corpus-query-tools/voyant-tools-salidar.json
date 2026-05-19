@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "SADiLAR",
       "Access": {
-	"Browse": ""
+	"Browse": "https://service.sadilar.org/voyant/"
 	},
       "Publication": ""
 }
