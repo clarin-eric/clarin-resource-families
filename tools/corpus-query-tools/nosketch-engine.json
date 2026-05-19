@@ -9,7 +9,7 @@
       "Platform": ["Linux"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://nlp.fi.muni.cz/trac/noske#Downloads"
 	},
       "Publication": ""
 }
