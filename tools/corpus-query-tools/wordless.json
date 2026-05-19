@@ -9,7 +9,7 @@
       "Platform": ["Windows", "MacOS", "Linux"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://github.com/BLKSerene/Wordless"
 	},
       "Publication": ""
 }
