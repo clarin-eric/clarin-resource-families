@@ -9,7 +9,7 @@
       "Platform": ["Versions for Windows and platform-independent Python version"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://neon.niederlandistik.fu-berlin.de/de/textstat/"
 	},
       "Publication": ""
 }
