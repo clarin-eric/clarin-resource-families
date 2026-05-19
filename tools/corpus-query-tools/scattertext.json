@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://github.com/JasonKessler/scattertext"
 	},
       "Publication": ""
 }
