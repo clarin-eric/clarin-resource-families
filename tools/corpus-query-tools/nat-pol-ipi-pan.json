@@ -1,6 +1,6 @@
 {
       "Name": "National Corpus of Polish (IPI PAN search engine)",
-      "URL": "http://nkjp.pl/poliqarp/poliqarp.php?lang=pl",
+      "URL": "https://nkjp.pl/poliqarp/",
 	"Family": "Corpus query tools",
       "Description": "This is a dedicated concordancer for <a href=\"http://www.nkjp.pl/index.php?page=0&lang=1\">NKJP</a> corpora.",
       "Functionality": ["Querying/concordancing"],
@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Browse": "https://nkjp.pl/poliqarp/"
 	},
       "Publication": ""
 }
