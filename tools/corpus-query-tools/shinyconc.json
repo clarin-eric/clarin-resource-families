@@ -9,7 +9,7 @@
       "Platform": ["Windows", "MacOS", "Linux"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Browse": "http://shinyconc.de/inaugural/"
 	},
       "Publication": ""
 }
