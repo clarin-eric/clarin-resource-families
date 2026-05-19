@@ -9,7 +9,7 @@
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://txm.gitpages.huma-num.fr/textometrie/en/"
 	},
       "Publication": ""
 }
