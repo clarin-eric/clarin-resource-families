@@ -9,7 +9,7 @@
       "Platform": ["iPhone app"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://www.textal.org/"
 	},
       "Publication": ""
 }
