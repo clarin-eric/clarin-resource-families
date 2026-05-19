@@ -9,7 +9,7 @@
       "Platform": ["Ubuntu", "Windows"],
       "Infrastructure": "Non-CLARIN",
       "Access": {
-	"Browse": ""
+	"Download": "https://tsakorpus.readthedocs.io/en/latest/overview.html"
 	},
       "Publication": ""
 }
