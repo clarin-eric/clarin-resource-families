@@ -9,7 +9,7 @@
       "Platform": ["Linux", "MacOS", "Windows"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "http://orange.biolab.si/download/"
 	},
       "Publication": ""
 }
