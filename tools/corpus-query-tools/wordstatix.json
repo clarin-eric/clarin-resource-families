@@ -9,7 +9,7 @@
       "Platform": ["Linux", "Windows"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fmaxnd%2Fwordstatix%2Ftree%2Fmaster%2FInstallation&sa=D&sntz=1&usg=AOvVaw3suYUyvhpQlR10zEB5wnu1"
 	},
       "Publication": ""
 }
