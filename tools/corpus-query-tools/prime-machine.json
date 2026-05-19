@@ -9,7 +9,7 @@
       "Platform": ["iOS", "MacOS", "Android", "Windows"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://theprimemachine.net/64bit.html"
 	},
       "Publication": ""
 }
