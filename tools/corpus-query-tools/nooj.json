@@ -9,7 +9,7 @@
       "Platform": ["Windows (cut-down java version also available for other OS)"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "https://nooj.univ-fcomte.fr/downloads.html"
 	},
       "Publication": ""
 }
