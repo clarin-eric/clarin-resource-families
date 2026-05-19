@@ -9,7 +9,7 @@
       "Platform": ["Windows", "MacOS"],
       "Infrastructure": "External",
       "Access": {
-	"Browse": ""
+	"Download": "http://martinweisser.org/ling_soft.html#conc"
 	},
       "Publication": ""
 }
