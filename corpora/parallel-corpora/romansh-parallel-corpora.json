@@ -1,0 +1,24 @@
+{
+  "Name": "Romansh Parallel Corpora",
+  "URL": "https://huggingface.co/collections/ZurichNLP/resources-for-romansh",
+  "Family": "Parallel corpora",
+  "Description": "This resource contains sentence-aligned parallel data between various regional Romansh idioms and German, compiled by the <a href=\"https://www.cl.uzh.ch/\">University of Zurich</a> and <a href=\"https://www.liarumantscha.ch/\">Lia Rumantscha</a>.\nIt serves as the main training corpus for the <a href=\"https://alas.liarumantscha.ch/\">ALAS</a> neural machine translation model, incorporating administrative, literary, and lexicographical data.",
+  "Language": [
+    "roh",
+    "deu"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "13,926,557 tokens in Romansh",
+    "8,833,624 tokens in German"
+  ],
+  "Annotation": [
+    "tokenised",
+    "aligned"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://huggingface.co/collections/ZurichNLP/resources-for-romansh"
+  },
+  "Publication": ""
+}

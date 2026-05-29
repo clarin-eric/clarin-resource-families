@@ -1,0 +1,26 @@
+{
+  "Name": "Ortsnamen.ch",
+  "URL": "https://ortsnamen.ch",
+  "Family": "Dictionaries",
+  "Description": "A database of Swiss place names, providing information about their linguistic origins, meanings, and historical changes.\nDeveloped by the Universities of Zurich, Bern, and Fribourg, <a href=\"https://ortsnamen.ch\">ortsnamen.ch</a> serves as a central platform collecting onomastic data across different regional linguistic projects in Switzerland.",
+  "Language": [
+    "gsw",
+    "fra",
+    "ita",
+    "roh"
+  ],
+  "Licence": "CC BY-SA 4.0",
+  "Size": [
+    "47,511 entries"
+  ],
+  "Annotation": [
+    "etymological",
+    "lemmatised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Group": "Multilingual resources",
+  "Access": {
+    "Browse": "https://ortsnamen.ch"
+  },
+  "Publication": ""
+}

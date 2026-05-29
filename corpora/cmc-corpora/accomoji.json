@@ -1,0 +1,19 @@
+{
+  "Name": "ACCOMOJI",
+  "URL": "https://doi.org/10.48656/5p5v-nc75",
+  "Family": "Computer-mediated communication corpora",
+  "Description": "The <a href=\"https://www.swissubase.ch/en/catalogue/studies/20120/19894/overview\">ACCOMOJI</a> dataset consists of Swiss WhatsApp conversations drawn from the <a href=\"https://www.whatsup-switzerland.ch/index.php/en/\">What's up Switzerland?</a> corpus.\nIt features function- and emotion-based manual annotations for emojis within their chat contexts along with annotator demographic details.",
+  "Language": [
+    "gsw",
+    "deu",
+    "fra"
+  ],
+  "Licence": "CC BY-SA 4.0",
+  "Size": [],
+  "Annotation": [],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://www.swissubase.ch/en/catalogue/studies/20120/19894/overview"
+  },
+  "Publication": ""
+}

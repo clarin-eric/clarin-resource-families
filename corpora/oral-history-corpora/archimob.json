@@ -1,0 +1,25 @@
+{
+  "Name": "ArchiMob",
+  "URL": "https://www.swissubase.ch/en/catalogue/studies/20154/19410/overview",
+  "Family": "Oral History corpora",
+  "Description": "The <a href=\"https://www.spur.uzh.ch/en/research/projects-all/lab-projects/ArchiMob0.html\">ArchiMob</a> corpus represents German linguistic varieties spoken within the territory of Switzerland.\nThis electronic resource contains long samples of transcribed text in Swiss German, intended for studying the spatial distribution of morphosyntactic features and for natural language processing.\nIt includes two releases featuring transcribed oral history interviews with accompanying speech-to-text alignment.",
+  "Language": [
+    "gsw",
+    "deu"
+  ],
+  "Licence": "CC BY-NC-SA 4.0",
+  "Size": [
+    "43 texts",
+    "581,000 tokens"
+  ],
+  "Annotation": [
+    "transcribed",
+    "normalised",
+    "PoS-tagged"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://www.swissubase.ch/en/catalogue/studies/20154/19410/overview"
+  },
+  "Publication": ""
+}

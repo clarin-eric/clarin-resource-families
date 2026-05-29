@@ -1,0 +1,25 @@
+{
+  "Name": "Collection of Swiss Law Sources online",
+  "URL": "https://ssrq-sds-fds.ch/en/digital/online/",
+  "Family": "Historical corpora",
+  "Description": "The <a href=\"https://ssrq-sds-fds.ch/en/digital/online/\">Collection of Swiss Law Sources online</a> provides digital access to a vast corpus of historical legal texts created on Swiss territory from the early Middle Ages up to the end of the ancien régime in 1798.\nIt comprises over 100 volumes of transcribed source materials and critical commentaries reflecting the multilingual legal heritage of the region.",
+  "Language": [
+    "deu",
+    "fra",
+    "ita",
+    "lat",
+    "gsw"
+  ],
+  "Licence": "CC BY-NC-SA 4.0",
+  "Size": [],
+  "Annotation": [
+    "transcribed",
+    "normalised",
+    "name-entities annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://ssrq-sds-fds.ch/en/digital/online/"
+  },
+  "Publication": ""
+}

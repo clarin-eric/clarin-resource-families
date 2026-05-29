@@ -1,0 +1,22 @@
+{
+  "Name": "SMILE Swiss German Sign Language Dataset",
+  "URL": "https://doi.org/10.34777/qkzf-cf75",
+  "Family": "Sign language resources",
+  "Description": "The <a href=\"https://www.idiap.ch/en/scientific-research/data/smile_dsgs\">SMILE Swiss German Sign Language Dataset</a> contains video recordings, joint coordinates, and annotations of 100 isolated lexical signs from a Swiss German Sign Language vocabulary production test.\nIt includes repeated productions from 11 adult native (L1) signers and 19 adult L2 learners to support automatic sign language recognition and assessment.",
+  "Language": [
+    "sgg"
+  ],
+  "Licence": "CC BY-NC-SA 4.0",
+  "Size": [
+    "100 signs"
+  ],
+  "Annotation": [
+    "transcribed",
+    "annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://zenodo.org/records/7701457"
+  },
+  "Publication": "https://aclanthology.org/L18-1666/"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Spoken Hebrew interview corpus",
+  "URL": "https://doi.org/10.48656/yx08-nb97",
+  "Family": "Spoken corpora",
+  "Group": "Corpora with transcriptions only",
+  "Description": "This data collection consists of recorded interviews in Hebrew that focus on representations of social and linguistic variation in Modern Hebrew within Israel.\nProcess and structure details of the transcriptions are documented in the corresponding doctoral dissertation by <a href=\"https://doi.org/10.5282/edoc.29853\">Philipp Striedl</a>.",
+  "Language": [
+    "heb"
+  ],
+  "Licence": "Restricted license contract",
+  "Size": [],
+  "Annotation": [
+    "transcribed",
+    "translated",
+    "annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {},
+  "Publication": "https://doi.org/10.5282/edoc.29853"
+}

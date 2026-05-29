@@ -1,0 +1,22 @@
+{
+  "Name": "Equatorial Guinea - Spanish Corpus: Narrative task",
+  "URL": "https://doi.org/10.48656/8q22-3z08",
+  "Family": "Spoken corpora",
+  "Group": "Corpora with transcriptions only",
+  "Description": "This dataset contains 135 transcripts of a narrative task based on an adapted version of Mercer Mayer's picture book \"Frog, where are you?\". The texts were collected in Equatorial Guinea as part of the <a href=\"https://doi.org/10.48656/8q22-3z08\">EG-Spanish</a> project conducted at the <a href=\"https://www.unibas.ch\">University of Basel</a>.",
+  "Language": [
+    "spa"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "135 texts"
+  ],
+  "Annotation": [
+    "transcribed"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://doi.org/10.48656/8q22-3z08"
+  },
+  "Publication": ""
+}

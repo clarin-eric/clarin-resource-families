@@ -1,0 +1,20 @@
+{
+  "Name": "Convivenza corpus blog",
+  "URL": "https://github.com/ZurichNLP/RumantschCorpora/tree/master/parallel/de-rm/convivenza_blogs",
+  "Family": "Parallel corpora",
+  "Description": "A parallel collection of articles in Romansh and German collected from the <a href=\"https://www.suedostschweiz.ch/blogs/convivenza\">Convivenza blog</a>.\nThe resource was prepared by the <a href=\"http://www.liarumantscha.ch/\">Lia Rumantscha</a> to assist research in low-resource neural machine translation.",
+  "Language": [
+    "deu",
+    "roh"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [],
+  "Annotation": [
+    "tokenised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://github.com/ZurichNLP/RumantschCorpora/tree/master/parallel/de-rm/convivenza_blogs"
+  },
+  "Publication": ""
+}

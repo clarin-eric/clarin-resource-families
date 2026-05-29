@@ -1,0 +1,24 @@
+{
+  "Name": "An electronic database of English clippings",
+  "URL": "https://doi.org/10.48656/41an-5739",
+  "Family": "Lexica",
+  "Description": "This database contains more than 2,200 clippings, their respective source words, and annotations for a wide range of variables that pertain to language structure and language use, as represented by corpus data. It was compiled by researchers at the <a href=\"https://www.unine.ch/\">University of Neuchâtel</a>.",
+  "Language": [
+    "eng"
+  ],
+  "Licence": "CC BY-SA 4.0",
+  "Size": [
+    "2,200 entries"
+  ],
+  "Annotation": [
+    "source words",
+    "language structure variables",
+    "language use variables"
+  ],
+  "Infrastructure": "CLARIN",
+  "Group": "Monolingual resources",
+  "Access": {
+    "Download": "https://doi.org/10.48656/41an-5739"
+  },
+  "Publication": ""
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "CLARU: Corpus Lingüístico de Artigas RurUrbano",
+  "URL": "https://doi.org/10.48656/2cs5-mv82",
+  "Family": "Spoken corpora",
+  "Group": "Corpora with transcriptions and audio recordings",
+  "Description": "The corpus documents the border speech varieties in the urban and rural settings of the Artigas Department in Uruguay, capturing the language contact at the Uruguayan-Brazilian border. It consists of semi-structured interviews and free conversations with 30 speakers distributed across genders and generations.",
+  "Language": [
+    "spa"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "230,000+ words",
+    "24 hours",
+    "30 speakers"
+  ],
+  "Annotation": [
+    "transcribed",
+    "anonymised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://doi.org/10.48656/2cs5-mv82"
+  },
+  "Publication": ""
+}

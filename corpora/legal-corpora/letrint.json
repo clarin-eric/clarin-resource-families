@@ -1,0 +1,23 @@
+{
+  "Name": "LETRINT",
+  "URL": "https://transius.unige.ch/en/research/letrint/corpora",
+  "Family": "Legal corpora",
+  "Description": "The <a href=\"https://transius.unige.ch/en/research/letrint/corpora\">LETRINT</a> corpora consist of four sets of trilingual textual datasets (one comparable and three parallel corpora) designed for legal translation research.\nIt includes documents published in English, French, and Spanish by the four main European Union institutions, the United Nations, and the World Trade Organization.",
+  "Language": [
+    "eng",
+    "fra",
+    "spa"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "1,714,000,000 words"
+  ],
+  "Annotation": [
+    "tagged"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Concordancer": "https://transius.unige.ch/en/research/letrint/corpora"
+  },
+  "Publication": ""
+}
