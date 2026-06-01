@@ -15,6 +15,8 @@
     "annotated"
   ],
   "Infrastructure": "CLARIN",
-  "Access": {},
+  "Access": {
+  "Download": "https://doi.org/10.48656/yx08-nb97"
+  },
   "Publication": "https://doi.org/10.5282/edoc.29853"
 }
