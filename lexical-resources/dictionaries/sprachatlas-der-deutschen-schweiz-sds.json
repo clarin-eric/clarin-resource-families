@@ -1,0 +1,24 @@
+{
+  "Name": "Sprachatlas der Deutschen Schweiz (SDS)",
+  "URL": "https://sprachatlas.ch",
+  "Family": "Dictionaries",
+  "Description": "Linguistic atlas documenting the dialectal diversity of Swiss German, covering phonetics, grammar, and vocabulary.\nIt features over 1,500 language maps capturing the Alemannic dialects based on oral surveys conducted between 1939 and 1958.\nThe online portal provides digital access to the original materials and integrates cross-references with the <a href=\"https://www.idiotikon.ch\">Schweizerisches Idiotikon</a>.",
+  "Language": [
+    "gsw"
+  ],
+  "Licence": "CC BY-NC-SA 4.0",
+  "Size": [
+    "1,500 maps",
+    "2,500 questions"
+  ],
+  "Annotation": [
+    "phonetically transcribed",
+    "lemmatised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Group": "Monolingual resources",
+  "Access": {
+    "Browse": "https://sprachatlas.ch"
+  },
+  "Publication": ""
+}

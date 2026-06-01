@@ -1,0 +1,24 @@
+{
+  "Name": "Glossaire des patois de la Suisse romande (GPSR)",
+  "URL": "https://portail-gpsr.unine.ch/",
+  "Family": "Dictionaries",
+  "Description": "A comprehensive dialectal dictionary documenting the Franco-Provençal (and regional French) varieties of Western Switzerland.\nDeveloped by the <a href=\"https://www.unine.ch/\">University of Neuchâtel</a> and the GPSR Foundation, it provides detailed scientific insights into their usage, phonetic variations, and historical development over time.",
+  "Language": [
+    "frp",
+    "fra"
+  ],
+  "Licence": "CC BY-NC-ND 4.0",
+  "Size": [
+    "32,000 entries"
+  ],
+  "Annotation": [
+    "phonetically transcribed",
+    "lemmatised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Group": "Bilingual/Multilingual resources",
+  "Access": {
+    "Browse": "https://portail-gpsr.unine.ch/"
+  },
+  "Publication": ""
+}

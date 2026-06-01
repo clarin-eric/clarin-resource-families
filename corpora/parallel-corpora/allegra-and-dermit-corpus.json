@@ -1,0 +1,25 @@
+{
+  "Name": "ALLEGRA and DERMIT corpus",
+  "URL": "https://github.com/eyldlv/DERMIT-Corpus",
+  "Family": "Parallel corpora",
+  "Description": "The ALLEGRA and DERMIT corpus is a sentence-aligned trilingual parallel corpus comprising official press releases from the canton of Grisons published since 1997.\nOriginally prepared as the ALLEGRA corpus for Rumantsch Grischun, it has been updated and extended via the DERMIT project to include structural alignments between German, Romansh, and Italian along with a manually verified gold standard for word alignment.",
+  "Language": [
+    "deu",
+    "roh",
+    "ita"
+  ],
+  "Licence": "",
+  "Size": [
+    "312,000 sentences"
+  ],
+  "Annotation": [
+    "sentence-aligned",
+    "tokenised",
+    "word-aligned"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://github.com/eyldlv/DERMIT-Corpus"
+  },
+  "Publication": ""
+}

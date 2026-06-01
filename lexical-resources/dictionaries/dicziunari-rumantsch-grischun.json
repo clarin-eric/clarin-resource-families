@@ -1,0 +1,22 @@
+{
+  "Name": "Dicziunari Rumantsch Grischun",
+  "URL": "https://drg.ch",
+  "Family": "Dictionaries",
+  "Description": "Comprehensive dictionary of Romansh, covering idioms and dialects, both written and spoken, from the 16th century onwards.\nIt documents the complete vocabulary of all dialects and idioms of the Romansh language in the canton of Graubünden.",
+  "Language": [
+    "roh"
+  ],
+  "Licence": "CC BY-SA 4.0",
+  "Size": [
+    "2,000,000 documents"
+  ],
+  "Annotation": [
+    "lemmas"
+  ],
+  "Infrastructure": "CLARIN",
+  "Group": "Monolingual resources",
+  "Access": {
+    "Browse": "https://drg.ch"
+  },
+  "Publication": ""
+}

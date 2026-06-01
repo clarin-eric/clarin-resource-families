@@ -1,0 +1,23 @@
+{
+  "Name": "Corpus for Automatic Readability Assessment and Text Simplification of German",
+  "URL": "https://doi.org/10.5281/zenodo.4507047",
+  "Family": "Manually annotated corpora",
+  "Description": "This multimodal corpus compiled from web sources contains parallel and monolingual-only simplified German data designed for automatic readability assessment and text simplification.\nIt uniquely integrates additional layers of information detailing text structure, typography, and embedded image dimensions and content.",
+  "Language": [
+    "deu"
+  ],
+  "Licence": "CC BY-SA 4.0",
+  "Size": [
+    "6,200 documents",
+    "211,000 sentences"
+  ],
+  "Annotation": [
+    "structured",
+    "typographically-annotated",
+    "multimodally-annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {},
+  "Publication": "https://aclanthology.org/2020.lrec-1.404/",
+  "Group": "Text-Image Corpora"
+}

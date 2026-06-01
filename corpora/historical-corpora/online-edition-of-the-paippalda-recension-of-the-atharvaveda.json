@@ -1,0 +1,22 @@
+{
+  "Name": "Online Edition of the Paippalāda Recension of the Atharvaveda",
+  "URL": "https://doi.org/10.48656/w0a9-s246",
+  "Family": "Historical corpora",
+  "Description": "A digital critical edition of the ancient Sanskrit text of the Paippalāda recension of the Atharvaveda, developed at the <a href=\"https://www.uzh.ch\">University of Zurich</a>.\nEach stanza is provided with an English translation, detailed linguistic and Indological comments, a critical apparatus, and parallel passages in Sanskrit literature.",
+  "Language": [
+    "san",
+    "eng"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [],
+  "Annotation": [
+    "tokenised",
+    "lemmatised",
+    "manually-validated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://www.swissubase.ch/en/catalogue/studies/20701/19845/overview"
+  },
+  "Publication": ""
+}

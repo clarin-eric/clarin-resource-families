@@ -1,0 +1,22 @@
+{
+  "Name": "Schweizerisches Idiotikon",
+  "URL": "http://hdl.handle.net/11356/1549",
+  "Family": "Dictionaries",
+  "Description": "The <a href=\"https://www.idiotikon.ch\">Schweizerisches Idiotikon</a> (Wörterbuch der schweizerdeutschen Sprache) is the most comprehensive historical dictionary of any German-speaking region, documenting the Alemannic vernacular of German-speaking Switzerland from the late 13th century to the present across 17 volumes. It covers not only dialect vocabulary but also historical Late Middle High German and Early New High German as attested in Swiss sources, integrating linguistic, cultural, legal, and ethnological dimensions. The full dictionary has been freely accessible online since 2010 via <a href=\"https://digital.idiotikon.ch\">digital.idiotikon.ch</a> with lemma-based and full-text search capabilities.",
+  "Language": [
+    "gsw"
+  ],
+  "Licence": "",
+  "Size": [
+    "137,847 entries"
+  ],
+  "Annotation": [
+    "lemmatised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Group": "Monolingual resources",
+  "Access": {
+    "Browse": "https://digital.idiotikon.ch/idtkn/id1.htm#!page/9973/mode/1up"
+  },
+  "Publication": ""
+}

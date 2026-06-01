@@ -1,0 +1,24 @@
+{
+  "Name": "JuBe",
+  "URL": "https://doi.org/10.5281/zenodo.5648157",
+  "Family": "Spoken corpora",
+  "Group": "Corpora with transcriptions only",
+  "Description": "The <a href=\"https://doi.org/10.5281/zenodo.5648157\">JuBe</a> corpus collects and documents ethnolectal youth language spoken within the Canton of Bern.\nCreated by researchers at the <a href=\"https://www.unibe.ch\">University of Bern</a>, it serves as the first dedicated youth language corpus in Switzerland to support sociological and sociolinguistic research.",
+  "Language": [
+    "gsw",
+    "deu"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "21 texts",
+    "21 transcriptions"
+  ],
+  "Annotation": [
+    "transcribed"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://doi.org/10.5281/zenodo.5648157"
+  },
+  "Publication": ""
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Text+Berg digital",
+  "URL": "https://textberg.ch/site/en/welcome/",
+  "Family": "Historical corpora",
+  "Description": "The <a href=\"https://textberg.ch/site/en/welcome/\">Text+Berg digital</a> corpus contains the digitized and linguistically processed yearbooks of the Swiss Alpine Club (<a href=\"https://www.sac-cas.ch\">SAC</a>) published since 1864.\nThe corpus provides a unique diachronic resource of alpine literature for historical, cultural, and linguistic investigations.",
+  "Language": [
+    "deu",
+    "fra",
+    "ita",
+    "eng"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "16,089 articles"
+  ],
+  "Annotation": [
+    "tokenised",
+    "PoS-tagged",
+    "lemmatised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Concordancer": "https://catchphrase.linguistik.uzh.ch/query/44/TextBerg-Korpus-Alpine-Journal"
+  },
+  "Publication": ""
+}

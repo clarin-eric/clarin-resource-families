@@ -1,0 +1,21 @@
+{
+  "Name": "La Quotidiana corpus",
+  "URL": "https://huggingface.co/datasets/ZurichNLP/quotidiana",
+  "Family": "Newspaper corpora",
+  "Description": "The <a href=\"https://huggingface.co/datasets/ZurichNLP/quotidiana\">La Quotidiana corpus</a> contains newspaper articles published between 1997 and 2008 in the Romansh language.\nIt includes automatically predicted annotations for different regional idioms, though these variety classifications are not always fully accurate.",
+  "Language": [
+    "roh"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "158,957 texts"
+  ],
+  "Annotation": [
+    "annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://huggingface.co/datasets/ZurichNLP/quotidiana"
+  },
+  "Publication": ""
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "\"20 Minuten\" corpus for document-level text simplification",
+  "URL": "https://github.com/ZurichNLP/20Minuten",
+  "Family": "Newspaper corpora",
+  "Description": "A dataset of standard German news articles from the Swiss daily magazine <a href=\"https://www.20min.ch\">20 Minuten</a> paired with shortened, professionally written simplified summaries.\nIt is designed for document-level automatic text simplification and abstractive summarisation tasks.",
+  "Language": [
+    "deu"
+  ],
+  "Licence": "CC BY-NC-SA 4.0",
+  "Size": [
+    "18,305 texts"
+  ],
+  "Annotation": [
+    "aligned"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://github.com/ZurichNLP/20Minuten"
+  },
+  "Publication": "https://aclanthology.org/2021.newsum-1.16/"
+}

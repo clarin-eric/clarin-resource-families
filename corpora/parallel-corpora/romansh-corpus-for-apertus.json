@@ -1,0 +1,26 @@
+{
+  "Name": "Romansh corpus for Apertus",
+  "URL": "https://huggingface.co/datasets/swiss-ai/apertus-pretrain-romansh",
+  "Family": "Parallel corpora",
+  "Description": "A Romansh pretraining corpus developed by the <a href=\"https://swiss-ai.org/\">Swiss AI Initiative</a>, combining monolingual data across regional varieties with parallel segments translated into German, French, Italian, and English.\nIt includes synthetic data made by interweaving translated segments and features detailed regional variety metadata tags.",
+  "Language": [
+    "roh",
+    "deu",
+    "fra",
+    "ita",
+    "eng"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "375,000 texts"
+  ],
+  "Annotation": [
+    "aligned",
+    "translated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://huggingface.co/datasets/swiss-ai/apertus-pretrain-romansh"
+  },
+  "Publication": ""
+}

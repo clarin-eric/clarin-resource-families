@@ -1,0 +1,21 @@
+{
+  "Name": "What's New, Switzerland?",
+  "URL": "https://doi.org/10.48656/1sbx-qr60",
+  "Family": "Computer-mediated communication corpora",
+  "Description": "The <a href=\"https://doi.org/10.48656/1sbx-qr60\">What's New, Switzerland? Corpus</a> consists of 72 authentic WhatsApp chats from 118 French-speaking users in Switzerland.\nIt contains de-identified interactions provided in both XML-TEI and plain text formats to analyze digital emotional communication.",
+  "Language": [
+    "fra"
+  ],
+  "Licence": "Restricted License Contract",
+  "Size": [
+    "72 texts"
+  ],
+  "Annotation": [
+    "anonymised"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://www.swissubase.ch/en/catalogue/studies/20713/19924/overview"
+  },
+  "Publication": ""
+}

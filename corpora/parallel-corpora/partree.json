@@ -1,0 +1,58 @@
+{
+  "Name": "ParTree",
+  "URL": "https://doi.org/10.48656/5mz4-x435",
+  "Family": "Parallel corpora",
+  "Description": "A multilingual parallel corpus of movie subtitles aligned on the sentence level, building on the ParTy corpus.\nIt contains raw subtitle data, text versions, and parsed treebank versions annotated using <a href=\"https://spacy.io/\">spaCy</a> on <a href=\"https://universaldependencies.org/\">Universal Dependencies</a> treebanks.",
+  "Language": [
+    "afr",
+    "sqi",
+    "hye",
+    "bre",
+    "bul",
+    "cat",
+    "hrv",
+    "ces",
+    "dan",
+    "nld",
+    "eng",
+    "fas",
+    "fra",
+    "deu",
+    "ell",
+    "hin",
+    "isl",
+    "gle",
+    "ita",
+    "lva",
+    "lit",
+    "mkd",
+    "mar",
+    "nor",
+    "pol",
+    "por",
+    "ron",
+    "rus",
+    "slk",
+    "slv",
+    "spa",
+    "swe",
+    "ukr",
+    "urd",
+    "cym"
+  ],
+  "Licence": "CC BY-SA 4.0",
+  "Size": [
+    "47 languages"
+  ],
+  "Annotation": [
+    "tokenised",
+    "PoS-tagged",
+    "lemmatised",
+    "syntactically-parsed"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Download": "https://www.swissubase.ch/en/catalogue/studies/20295/19511/overview"
+  },
+  "Publication": ""
+}
