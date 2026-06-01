@@ -10,6 +10,7 @@
       "Infrastructure": "Other",
       "Group": "Corpora",
       "Access": {
+		  "Concordancer": "http://lojze.lugos.si/signor/#iskanje-po-korpusu"
 	},
       "Publication": ""
 }
