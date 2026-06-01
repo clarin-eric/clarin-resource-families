@@ -18,6 +18,12 @@
     "Publication"
   ],
   "properties": {
+    "Access": {
+      "$id": "#/properties/Access",
+      "type": "object",
+      "title": "Access information for the resource",
+      "minProperties": 1
+    },
  "Family": {
   "$id": "#/properties/Family",
   "anyOf": [
