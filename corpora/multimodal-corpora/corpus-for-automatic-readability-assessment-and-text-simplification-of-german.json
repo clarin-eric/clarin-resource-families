@@ -17,7 +17,9 @@
     "multimodally-annotated"
   ],
   "Infrastructure": "CLARIN",
-  "Access": {},
+  "Access": {
+    "Download": "https://doi.org/10.5281/zenodo.4507047"
+  },
   "Publication": "https://aclanthology.org/2020.lrec-1.404/",
   "Group": "Text-Image Corpora"
 }
