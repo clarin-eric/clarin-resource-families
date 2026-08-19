@@ -1,7 +1,7 @@
 {
       "Name": "TV News Corpus",
       "URL": "http://hdl.handle.net/10.15155/9-00-0000-0000-0000-00093L",
-	"Family": "Manually annotated corpora",
+	"Family": "Multimodal corpora",
       "Description": "This corpus contains video and audio recordings and their transcriptions.\nThe corpus is available for download from META-SHARE (CELR distribution).",
       "Language": ["est"],
       "Licence": "CC BY-SA",
