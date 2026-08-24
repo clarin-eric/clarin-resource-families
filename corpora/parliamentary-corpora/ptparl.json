@@ -2,7 +2,7 @@
       "Name": "PTPARL Corpus",
       "URL": "https://hdl.handle.net/21.11129/0000-000B-D33C-4",
 	"Family": "Parliamentary corpora",
-      "Description": "The corpus contains Portuguese parliamentary debates from 1970 to 2008. It is annotated with <a href=\"http://lxcenter.di.fc.ul.pt/tools/en/LXTokenizerEN.html\">LX-Tokenizer</a>, <a href=\"http://lxcenter.di.fc.ul.pt/tools/en/conteudo/LXTagger.html\">LX-Tagger</a>, MBT, <a href=\"https://ilk.uvt.nl/mbma/\">MBLEM</a> (lemmatisation).\nThe corpus is available for download from the CLARIN PORTUGAL repository.",
+      "Description": "The corpus contains Portuguese parliamentary debates from 1970 to 2008. It is annotated with LX-Tokenizer, LX-Tagger, MBT, and MBLEM (lemmatisation).\nThe corpus is available for download from the CLARIN PORTUGAL repository.",
       "Language": ["por"],
       "Licence": "CLARIN RES",
       "Size": ["1 million tokens"],
