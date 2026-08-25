@@ -2,7 +2,7 @@
       "Name": "Szeged Treebank 2.0",
       "URL": "http://hdl.handle.net/11372/LRT-201",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus is available for download from a dedicated webpage.\nSee also the <a href=\"http://www.inf.u-szeged.hu/projectdirs/hlt/en/Sz.T.%202.0_licenc-en.doc\">licence agreement</a>.",
+      "Description": "This corpus consists of manually annotated sentences from six domains: fiction, compositions of pupils between 14 and 16 years odl, newspaper articles, texts in informatics legal texts business, and financial news.\nThe corpus is available for download from a dedicated webpage.",
       "Language": ["hun"],
       "Licence": "",
       "Size": ["82,000 sentences"],
@@ -10,7 +10,7 @@
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "http://www.inf.u-szeged.hu/projectdirs/hlt/index_en.html"
+	"Download": "https://rgai.inf.u-szeged.hu/node/113"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/9V4QZYQC/"
 }
