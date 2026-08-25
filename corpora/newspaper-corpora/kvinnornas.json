@@ -2,7 +2,7 @@
       "Name": "Kvinnornas Tidning",
       "URL": "https://spraakbanken.gu.se/eng/resource/ub-kvt-kvt",
 	"Family": "Newspaper corpora",
-      "Description": "This corpus contains articles from the newspaper <a href=\"http://www.ub.gu.se/kvinn/digtid/09/\">Kvinnornas Tidning</a> for the period between 1921 and 1925.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
+      "Description": "This corpus contains articles from the newspaper <a href=\"https://sv.wikipedia.org/wiki/Kvinnornas_Tidning\">Kvinnornas Tidning</a> for the period between 1921 and 1925.\nThe corpus is available for download from Språkbanken and can be accessed through the concordancer Korp.",
       "Language": ["swe"],
       "Licence": "CC BY",
       "Size": ["5.5 million tokens"],
