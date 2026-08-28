@@ -2,6 +2,7 @@
       "Name": "Universal Dependencies 2.18",
       "URL": "http://hdl.handle.net/11234/1-6149",
 	"Family": "Manually annotated corpora",
+	"Language": ["75 languages"],
       "Description": "This corpus collection contains treebanks following the <a href=\"http://universaldependencies.org/\">Universal Dependencies</a> framework.\nThe corpus collection is available for download from the LINDAT repository.",
       "Licence": "Licence Universal Dependencies v2.12 ",
       "Size": ["37,424,698 tokens", "38,181,322 words", "2,337,062 sentences"],
