@@ -2,7 +2,7 @@
       "Name": "hunpos",
       "URL": "https://hdl.handle.net/11372/LRT-1205",
 	"Family": "Part-of-Speech Tagging and Lemmatisation",
-      "Description": "This tool is an open source reimplementation of the <a href=\"http://www.coli.uni-saarland.de/~thorsten/tnt/\">TnT tagger</a> (Brants <a href=\"https://doi.org/10.3115/974147.974178\">2000</a>).",
+      "Description": "This tool is an open source reimplementation of the <em>TnT tagger</em> (Brants <a href=\"https://doi.org/10.3115/974147.974178\">2000</a>).",
       "Functionality": ["PoS"],
       "Language": ["hun"],
       "Licence": "New BSD License",
