@@ -2,7 +2,7 @@
       "Name": "Korektor",
       "URL": "http://lindat.cz/services/korektor/",
 	"Family": "Tools for Normalisation",
-      "Description": "Korektor is a statistical spellchecker and (occasional) grammar checker released under <a href=\"http://opensource.org/licenses/BSD-2-Clause\">2-Clause BSD license</a> and versioned using <a href=\"http://semver.org/\">Semantic Versioning</a>.\nKorektor started with Michal Richter's diploma thesis <a href=\"https://redmine.ms.mff.cuni.cz/documents/1\">Advanced Czech Spellchecker</a>, but it is being developed further. There are two versions: a command line utility (tested on Linux, Windows and OS X) and a REST service with <a href=\"https://lindat.mff.cuni.cz/services/korektor/api-reference.php\">publicly available API</a> and <a href=\"https://lindat.mff.cuni.cz/services/korektor/\">HTML front end</a>.",
+      "Description": "Korektor is a statistical spellchecker and (occasional) grammar checker released under <a href=\"http://opensource.org/licenses/BSD-2-Clause\">2-Clause BSD license</a> and versioned using <a href=\"http://semver.org/\">Semantic Versioning</a>.\nKorektor started with Michal Richter's diploma thesis <em>Advanced Czech Spellchecker</em>, but it is being developed further. There are two versions: a command line utility (tested on Linux, Windows and OS X) and a REST service with <a href=\"https://lindat.mff.cuni.cz/services/korektor/api-reference.php\">publicly available API</a> and <a href=\"https://lindat.mff.cuni.cz/services/korektor/\">HTML front end</a>.",
       "Functionality": ["normalization"],
       "Domain": "",
       "Language": ["ces"],
