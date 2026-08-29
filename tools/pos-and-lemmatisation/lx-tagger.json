@@ -2,7 +2,7 @@
       "Name": "LX-Tagger",
       "URL": "https://hdl.handle.net/21.11115/0000-000B-D325-D",
 	"Family": "Part-of-Speech Tagging and Lemmatisation",
-      "Description": "This tool is based on the <a href=\"http://www.coli.uni-saarland.de/~thorsten/tnt/\">TnT tagger</a> (Brants <a href=\"https://doi.org/10.3115/974147.974178\">2000</a>).",
+      "Description": "This tool is based on the <em>TnT tagger</em> (Brants <a href=\"https://doi.org/10.3115/974147.974178\">2000</a>).",
       "Functionality": ["MSD"],
       "Language": ["por"],
       "Licence": "Academic - Non-Commercial use",
