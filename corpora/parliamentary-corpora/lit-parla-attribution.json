@@ -2,7 +2,7 @@
       "Name": "Lithuanian Parliament Corpus for Authorship Attribution",
       "URL": "http://hdl.handle.net/20.500.11821/17",
 	"Family": "Parliamentary corpora",
-      "Description": "The corpus contains Lithuanian parliamentary debates from 1990 to 2013. It is annotated with <a href=\"http://www.lvb.lt/primo_library/libweb/action/dlDisplay.do?vid=LDB&amp;docId=TLITLIJ.04~2000~1367182714637&amp;fromSitemap=1&amp;afterPDS=true\">Lemuoklis</a> (morphological analyzer for lemmatization) and <a href=\"http://www.maltparser.org/\">MaltParser</a> (generation of dependency tags).\nThe corpus is available for download from the repository of CLARIN-LT.",
+      "Description": "The corpus contains Lithuanian parliamentary debates from 1990 to 2013. It is annotated with <a href=\"http://metashare.ilsp.gr:8080/repository/browse/morphological-analyser-lemmatiser-and-synthesiser-for-lithuanian/89611140ae7711e2a28e525400c0c5ef6d8e5451cb7b4d9b890ddc574660c85a/\">Lemuoklis</a> (morphological analyzer for lemmatization) and <a href=\"http://www.maltparser.org/\">MaltParser</a> (generation of dependency tags).\nThe corpus is available for download from the repository of CLARIN-LT.",
       "Language": ["lit"],
       "Licence": "CLARIN PUB",
       "Size": ["23.9 million tokens"],
