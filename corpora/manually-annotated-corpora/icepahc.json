@@ -2,7 +2,7 @@
       "Name": "Icelandic Parsed Historical Corpus (IcePaHC)",
       "URL": "http://hdl.handle.net/20.500.12537/325",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus contains Icelandic texts from the 12th through the 21st centuries – approximately 100,000 words from each century. The corpus is syntactically parsed following the <a href=\"https://www.ling.upenn.edu/~beatrice/annotation/\">UPenn scheme for historical texts</a>.\nThe corpus is available for download from the CLARIN-IS repository.",
+      "Description": "This corpus contains Icelandic texts from the 12th through the 21st centuries – approximately 100,000 words from each century. The corpus is syntactically parsed following the UPenn scheme for historical texts.\nThe corpus is available for download from the CLARIN-IS repository.",
       "Language": ["isl"],
       "Licence": "CC BY 4.0",
       "Size": ["1,000,000 tokens"],
