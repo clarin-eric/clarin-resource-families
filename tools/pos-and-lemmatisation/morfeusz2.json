@@ -2,7 +2,7 @@
       "Name": "Morfeusz 2",
       "URL": "http://hdl.handle.net/11321/257",
 	"Family": "Part-of-Speech Tagging and Lemmatisation",
-      "Description": "This tool is a dictionary-based morphological analyser and generator for Polish. This version of the program is decoupled from the dictionary. Two dictionaries of Polish developed within other projects are distributed with Morfeusz 2, namely <a href=\"https://aur.archlinux.org/packages/morfeusz2-dictionary-sgjp/\">SGJP</a> and <a href=\"http://zil.ipipan.waw.pl/PoliMorf\">Polimorf</a>.",
+      "Description": "This tool is a dictionary-based morphological analyser and generator for Polish. This version of the program is decoupled from the dictionary. Two dictionaries of Polish developed within other projects are distributed with Morfeusz 2, namely <a href=\"https://sgjp.pl/about/\">SGJP</a> and <a href=\"http://zil.ipipan.waw.pl/PoliMorf\">Polimorf</a>.",
       "Functionality": ["MSD"],
       "Language": ["pol"],
       "Licence": "BSD 2 (public)",
