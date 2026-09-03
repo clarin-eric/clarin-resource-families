@@ -1,0 +1,16 @@
+{
+      "Name": "Latvian Blog Corpus 2015",
+      "URL": "http://hdl.handle.net/20.500.12574/79",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This corpus consists of blog texts automatically harvested from sundry websites.\nThe corpus is available for download from the CLARIN-LV repository and for online browsing through the noSketch Engine concordancer.",
+      "Language": ["lav"],
+      "Licence": "CLARIN ACA",
+      "Size": ["8,000,000 tokens", "6,600,000 words"],
+      "Annotation": ["tokenised", "lemmatised", "part-of-speech tagged"],
+      "Infrastructure": "CLARIN",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12574/79",
+	"Concordancer": "http://nosketch.korpuss.lv/#dashboard?corpname=emuari"
+	},
+      "Publication":""
+}
