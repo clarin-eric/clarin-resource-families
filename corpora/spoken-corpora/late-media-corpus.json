@@ -1,0 +1,17 @@
+{
+      "Name": "LATE Media Speech Corpus V1 (LATE-mediji)",
+      "URL": "http://hdl.handle.net/20.500.12574/114",
+	"Family": "Spoken corpora",
+      "Description": "The corpus contains audio recordings of media broadcasts and their transcripts in orthographic transcription.\nThe data are transcribed in the orthography of Standard Latvian, observing also the principles of punctuation.\nThe corpus is available for download from the CLARIN-LV repository.",
+      "Language": ["lav"],
+      "Licence": "CLARIN ACA",
+      "Size": ["50 hours", "433,000 tokens"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+		  "Download": "http://hdl.handle.net/20.500.12574/114",
+		  "Concordancer": "https://nosketch.korpuss.lv/#dashboard?corpname=late_mediji"
+	},
+      "Publication": ""
+}

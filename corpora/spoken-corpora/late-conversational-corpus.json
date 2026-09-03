@@ -1,0 +1,17 @@
+{
+      "Name": "LATE Conversational Speech Corpus V1 (LATE-sarunas)",
+      "URL": "http://hdl.handle.net/20.500.12574/113",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains recordings of informal conversations, interviews and public speeches and their transcripts in orthographic transcription.\nNon-linguistic metadata has been added to each audio recording: gender and age group of the speaker, information about the form of speech – dialogue, monologue, spontaneous or prepared speech.\nThe corpus is available for download through the CLARIN-LV repository and through the noSketch Enginer concordancer.",
+      "Language": ["lav"],
+      "Licence": "CLARIN ACA",
+      "Size": ["35 hours", "347,000 tokens"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+		  "Download": "http://hdl.handle.net/20.500.12574/113",
+		  "Concordancer": "https://nosketch.korpuss.lv/#dashboard?corpname=late_sarunas"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,17 @@
+{
+      "Name": "Corpus of Contemporary Latgalian Speech (MuLaR)",
+      "URL": "http://hdl.handle.net/20.500.12574/153",
+	"Family": "Spoken corpora",
+      "Description": "This corpus contains recordings and the accompanying transcripts of natural, spontaneous speech, including field research recordings, interviews, TV and radio broadcasts.\nThe corpus is available for download from the CLARIN-LV repository and through a dedicated concordancer.",
+      "Language": ["ltg"],
+      "Licence": "CLARIN ACA",
+      "Size": ["33 hours"],
+      "Annotation": ["orthographically transcribed"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+		  "Download": "http://hdl.handle.net/20.500.12574/153",
+		  "Concordancer": "https://mularkorpuss.rta.lv/#!/corpus"
+	},
+      "Publication": ""
+}

@@ -1,0 +1,16 @@
+{
+      "Name": "LATE Phonetically Annotated Speech Corpus V1 (fonLATE)",
+      "URL": "http://hdl.handle.net/20.500.12574/115",
+	"Family": "Spoken corpora",
+      "Description": "This is a manually annotated corpus derived from the <a href=\"http://hdl.handle.net/20.500.12574/113\">LATE-sarunas</a> and <a href=\"http://hdl.handle.net/20.500.12574/114\">LATE-media</a> corpora.\nThe corpus is available for download from the CLARIN-LV repository.",
+      "Language": ["lav"],
+      "Licence": "CLARIN ACA",
+      "Size": ["4 hours", "48,000 tokens"],
+      "Annotation": ["phonetically annotated"],
+      "Infrastructure": "CLARIN",
+      "Group": "Corpora with transcriptions and audio recordings",
+      "Access": {
+		  "Download": "http://hdl.handle.net/20.500.12574/115"
+	},
+      "Publication": ""
+}
