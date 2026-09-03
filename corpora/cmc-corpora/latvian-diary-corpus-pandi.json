@@ -1,8 +1,8 @@
 {
       "Name": "Corpus of Latvian Pandemic Diaries 2020–2021 (PanDi)",
       "URL": "http://hdl.handle.net/20.500.12574/48",
-	"Family": "This corpus consists of texts from online diary entries from the time of the COVID-19 pandemic.\nThe corpus is available for download from the CLARIN-LV repository and for online browsing through the noSketch Engine concordancer.",
-      "Description": "",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "http://hdl.handle.net/20.500.12574/79",
       "Language": ["lav"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["708,918 tokens", "565,333"],
