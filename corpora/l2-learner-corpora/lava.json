@@ -1,0 +1,17 @@
+{
+      "Name": "Latvian Learner Corpus (LaVa)",
+      "URL": "http://hdl.handle.net/20.500.12574/42",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This corpus includes around 1000 texts written by students studying at a Latvian higher education institution who are learning Latvian as a second language in the first or second semester.\nMorphological annotations were checked manually; errors are manually annotated.\nThe corpus is available for online browsing through the noSketch Engine concordancer.",
+      "Language": ["lav"],
+      "Licence": "",
+      "Size": ["190,000 words", "226,000 tokens"],
+      "Annotation": ["tokenised", "part-of-speech tagged", "lemmatised"],
+      "Infrastructure": "CLARIN",
+	  "Group": "Monolingual corpora",
+	  "Subgroup": "Written corpora",
+      "Access": {
+	"Concordancer": "https://nosketch.korpuss.lv/#dashboard?corpname=lava"
+	},
+      "Publication":""
+}
