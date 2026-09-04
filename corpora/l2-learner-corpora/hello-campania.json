@@ -1,0 +1,17 @@
+{
+      "Name": "HELLO CAMPANIA! Philippines Collection",
+      "URL": "http://hdl.handle.net/20.500.12124/89",
+	"Family": "Computer-mediated communication corpora",
+      "Description": "This corpus contains spoken data from 66 heritage speakers living in the Campania region in Italy.\nThere are data from 32 first generation (G1), 28 second generation (G2), 6 homeland (G0) speakers. The corpus contains The collection contains three folders for each group: the sociolinguistic interview (G1 and G2 did it in Italian, G0 did it in Tagalog), a language portrait, and two linguistic tasks  (the Frog story, a description of 21 video clips, all done in Tagalog).\nThe corpus is available for download from the repository of the EURAC Research CLARIN Centre.",
+      "Language": ["ilo", "ita", "Neapolitanian", "tgl", "eng"],
+      "Licence": "ACA-BY-NC-NORED 1.0",
+      "Size": ["53 hours"],
+      "Annotation": [],
+      "Infrastructure": "CLARIN",
+	  "Group": "Multilingual corpora",
+	  "Subgroup": "Spoken corpora",
+      "Access": {
+	"Download": "http://hdl.handle.net/20.500.12124/89"
+	},
+      "Publication":""
+}
