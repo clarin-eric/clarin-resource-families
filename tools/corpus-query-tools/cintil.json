@@ -2,10 +2,10 @@
       "Name": "CINTIL Concordancer",
       "URL": "https://portulanclarin.net/workbench/cintil-concordancer/",
 	"Family": "Corpus query tools",
-      "Description": "This is a freely available online concordancing service to support the research usage of the <a href=\"http://cintil.ul.pt/cintilfeatures.html#corpus\">CINTIL Corpus</a>. The CINTIL concordancer allows the use of patterns to specify the occurrences to be retrieved. This permits to uncover linguistic structures of high complexity and use this service as a powerful research tool.",
+      "Description": "This is a freely available online concordancing service to support the research usage of the <a href=\"http://cintil.ul.pt/cintilfeatures.html#corpus\">CINTIL Corpus</a>.\nThe CINTIL concordancer allows the use of patterns to specify the occurrences to be retrieved. This permits to uncover linguistic structures of high complexity and use this service as a powerful research tool.\nThe tool is available under a <a href=\"https://portulanclarin.net/workbench/license/\">proprietary</a> licence.",
       "Functionality": ["Querying/concordancing"],
       "Language": ["por"],
-      "Licence": "<a href=\"https://portulanclarin.net/workbench/license/\">Proprietary</a>",
+      "Licence": "",
       "Platform": [],
       "Infrastructure": "PORTULAN CLARIN",
       "Access": {
