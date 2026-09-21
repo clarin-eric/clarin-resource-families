@@ -1,0 +1,22 @@
+{
+  "Name": "\"Karogs\" corpus",
+  "URL": "http://hdl.handle.net/20.500.12574/83",
+  "Family": "Newspaper corpora",
+  "Description": "The corpus contains texts published in the Latvian literary magazine <i>Karogs</i> between 1940 and 1994.\nThe corpus is available for online querying through the noSketch Engine concordancer.",
+  "Language": [
+    "lav"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "48,700,000 words",
+    "62,100,000 tokens"
+  ],
+  "Annotation": [
+    "morphologically annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Concordancer": "https://nosketch.lnb.lv/#dashboard?corpname=karogs"
+  },
+  "Publication": ""
+}

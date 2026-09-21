@@ -1,0 +1,22 @@
+{
+  "Name": "\"Literatūra un Māksla\" corpus",
+  "URL": "http://hdl.handle.net/20.500.12574/81",
+  "Family": "Newspaper corpora",
+  "Description": "The corpus contains texts from the Latvian newspaper <i>Literatūra un Māksla</i> published between 1945 and 1995.\nThe corpus is available for online querying through the noSketch Engine concordancer.",
+  "Language": [
+    "lav"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "65,800,000 tokens",
+    "52,700,000 words"
+  ],
+  "Annotation": [
+    "morphologically annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Concordancer": "https://nosketch.lnb.lv/#dashboard?corpname=literatura_maksla"
+  },
+  "Publication": ""
+}

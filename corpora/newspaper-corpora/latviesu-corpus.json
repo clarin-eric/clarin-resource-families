@@ -1,0 +1,23 @@
+{
+  "Name": "\"Latviešu Avīzes\" corpus",
+  "URL": "http://hdl.handle.net/20.500.12574/77",
+  "Family": "Newspaper corpora",
+  "Description": "The corpus contains newspaper texts from <i>Latviešu Avīzes</i>, published in Jelgava between 1822 and 1915.\nThe corpus is available for download from the CLARIN-LV repository. It can also be queried online through the noSketch Engine concordancer.",
+  "Language": [
+    "lav"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "46,000,000 tokens",
+    "35,700,000 words"
+  ],
+  "Annotation": [
+    "morphologically annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Concordancer": "https://nosketch.lnb.lv/#dashboard?corpname=latviesu_avizes_20220928",
+    "Download": "http://hdl.handle.net/20.500.12574/77"
+  },
+  "Publication": ""
+}
