@@ -1,7 +1,7 @@
 {
   "Name": "Corpus of Latvian Early Novels",
   "URL": "http://hdl.handle.net/20.500.12574/125",
-  "Family": "Literary Corpora",
+  "Family": "Literary corpora",
   "Description": "The corpus contains Latvian novels first published before 1940.\nThe corpus is available through the CLARIN Centre of Latvian language resources and tools and can be queried online through the corpus interface of the National Library of Latvia.",
   "Language": [
     "lav"
