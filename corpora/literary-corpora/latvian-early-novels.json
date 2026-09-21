@@ -1,0 +1,23 @@
+{
+  "Name": "Corpus of Latvian Early Novels",
+  "URL": "http://hdl.handle.net/20.500.12574/125",
+  "Family": "Literary Corpora",
+  "Description": "The corpus contains Latvian novels first published before 1940.\nThe corpus is available through the CLARIN Centre of Latvian language resources and tools and can be queried online through the corpus interface of the National Library of Latvia.",
+  "Language": [
+    "lav"
+  ],
+  "Licence": "",
+  "Size": [
+    "3,300,000 tokens",
+    "2,600,000 words"
+  ],
+  "Annotation": [
+    "morphologically annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+	  "Download": "https://dom.lndb.lv/data/obj/1554666",
+    "Concordancer": "https://korpuss.lnb.lv/#dashboard?corpname=lat_sen_rom"
+  },
+  "Publication": ""
+}
