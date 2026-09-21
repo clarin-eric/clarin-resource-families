@@ -1,0 +1,23 @@
+{
+  "Name": "Corpus of Latvian PhD Theses (Disertācijas)",
+  "URL": "http://hdl.handle.net/20.500.12574/93",
+  "Family": "Academic corpora",
+  "Description": "The corpus consists of PhD theses and summaries published at the University of Latvia, Riga Technical University, Riga Stradiņš University and Liepaja University up to 2020.\nThe corpus is available for download from the CLARIN-LV repository. It can also be queried online through the noSketch Engine concordancer.",
+  "Language": [
+    "lav"
+  ],
+  "Licence": "CC BY 4.0",
+  "Size": [
+    "23,350,058 tokens",
+    "16,710,590 words"
+  ],
+  "Annotation": [
+    "morphologically annotated"
+  ],
+  "Infrastructure": "CLARIN",
+  "Access": {
+    "Concordancer": "http://nosketch.korpuss.lv/#dashboard?corpname=disertacijas",
+    "Download": "http://hdl.handle.net/20.500.12574/93"
+  },
+  "Publication": ""
+}
