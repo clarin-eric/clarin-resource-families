@@ -9,7 +9,7 @@
       "Annotation": ["PoS-tagged"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer": "https://corpus.nytud.hu/mnsz/"
+	"Concordancer": "https://clara.nytud.hu/mnsz2-dev/en/"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/BW66EU4R"
 }
