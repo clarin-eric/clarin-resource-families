@@ -1,16 +1,15 @@
 {
       "Name": "Griffith Corpus of Spoken Australian English",
-      "URL": "https://www.ausnc.org.au/corpora/gcsause",
+      "URL": "https://doi.org/10.21415/T53W33",
 	"Family": "Spoken corpora",
-      "Description": "This corpus is available for download and through the concordancer of the Australian National Corpus.",
+      "Description": "This corpus comprises a collection of forty audio recordings and transcriptions of spoken interaction amongst Australian speakers of English, as well as users of English in Australia more generally, collected by staff and students at Griffith University. The recordings are transcribed using conversation analysis transcription conventions.\nThis corpus is available for download from TalkBank.",
       "Language": ["eng"],
       "Licence": "",
       "Size": ["32,134 words"],
       "Annotation": [],
       "Infrastructure": "Other",
       "Access": {
-	"Concordancer": "https://www.ausnc.org.au/corpora/gcsause",
-	"Download": "https://www.ausnc.org.au/corpora/gcsause"
+	"Download": "https://doi.org/10.21415/T53W33"
 	},
       "Publication": ""
 }
