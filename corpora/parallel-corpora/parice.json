@@ -1,6 +1,6 @@
 {
       "Name": "ParIce",
-      "URL": "https://clarin.is/en/resources/parice/",
+      "URL": "http://hdl.handle.net/20.500.12537/16",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains Icelandic and English texts from 11 different sources.\nThe corpus is available for download from CLARIN-IS and for search through the concordancer Korp.",
       "Language": ["isl", "eng"],
@@ -11,7 +11,7 @@
       "Group": "Bilingual corpora",
       "Access": {
 	"Concordancer": "https://malheildir.arnastofnun.is/?mode=parallel#?lang=en&hide_stats&stats_reduce=word&isCaseInsensitive&cqp=%5B%5D&parallel_corpora=isl&corpus=samhlida_biblian_is,samhlida_opensubtitles_is,samhlida_tatoeba_is,samhlida_baekur_is,samhlida_fornritin_is,samhlida_elrc_is,samhlida_ubuntu_is,samhlida_ema_is,samhlida_kde4_is,samhlida_eso_is,samhlida_eea_is&cqp_isl=%5B%5D",
-	"Download": "http://www.malfong.is/index.php?dlid=91"
+	"Download": "http://hdl.handle.net/20.500.12537/16"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/PRVR2ENC/items/QCBBCTKV/"
 }
