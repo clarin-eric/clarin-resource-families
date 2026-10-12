@@ -1,6 +1,6 @@
 {
       "Name": "Lassy Klein-corpus",
-      "URL": "://hdl.handle.net/10032/tm-a3-f4",
+      "URL": "http://hdl.handle.net/10032/tm-a3-f4",
 	"Family": "Manually annotated corpora",
       "Description": "This corpus, which contains manually verified annotations, is available for download from the Dutch Language Institute (log-in required).",
       "Language": ["nld"],
@@ -10,7 +10,7 @@
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "://hdl.handle.net/10032/tm-a3-f4",
+	"Download": "http://hdl.handle.net/10032/tm-a3-f4",
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/Z2KJBEYS/"
 }
