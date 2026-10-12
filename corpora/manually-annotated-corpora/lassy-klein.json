@@ -1,18 +1,16 @@
 {
       "Name": "Lassy Klein-corpus",
-      "URL": "http://hdl.handle.net/10032/efc201791fadf20f67858b602553874b",
+      "URL": "://hdl.handle.net/10032/tm-a3-f4",
 	"Family": "Manually annotated corpora",
-      "Description": "This corpus is available for download from the Dutch Language Institute and through the online environments PaQu and GrETEL.",
+      "Description": "This corpus, which contains manually verified annotations, is available for download from the Dutch Language Institute (log-in required).",
       "Language": ["nld"],
-      "Licence": "VAGUE",
-      "Size": ["1 million tokens"],
+      "Licence": "",
+      "Size": ["1,000,000 tokens"],
       "Annotation": ["PoS tagging", "syntactic parsing"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "http://hdl.handle.net/10032/efc201791fadf20f67858b602553874b",
-	"Pa-Qu": "http://www.let.rug.nl/alfa/paqu",
-	"GrETEL": "https://gretel.ccl.kuleuven.be/gretel3/"
+	"Download": "://hdl.handle.net/10032/tm-a3-f4",
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/Z2KJBEYS/"
 }
