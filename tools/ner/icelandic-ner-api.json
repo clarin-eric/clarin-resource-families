@@ -10,7 +10,7 @@
       "Platform": [],
       "Infrastructure": "CLARIN-IS",
       "Access": {
-	"Online service": "https://electra-ner-icelandic-gwafmrdfha-ez.a.run.app/"
+	"Download": "https://github.com/cadia-lvl/Icelandic-NER-API/releases/tag/1.0"
 	},
       "Publication": ""
 }
