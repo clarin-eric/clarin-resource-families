@@ -1,6 +1,6 @@
 {
       "Name": "EstNLTK",
-      "URL": "https://estnltk.github.io/estnltk/1.4.1/",
+      "URL": "https://github.com/estnltk/estnltk",
 	"Family": "Part-of-Speech Tagging and Lemmatisation",
       "Description": "This tool provides common natural language processing functionality such as morphological analysis and named entity recognition for the Estonian language.",
       "Functionality": ["MSD", "NER"],
@@ -11,7 +11,7 @@
       "Input format": ["plain text"],
       "Output format": ["plain text"],
       "Access": {
-	"Download": "https://estnltk.github.io/estnltk/1.4.1/"
+	"Download": "https://github.com/estnltk/estnltk"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/DSKCI98H/items/4K6DPNQV/"
 }
