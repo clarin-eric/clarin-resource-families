@@ -6,10 +6,10 @@
       "Language": ["fra"],
       "Licence": "CC BY-NC-SA 4.0",
       "Size": ["100,000 tokens"],
-      "Annotation": ["<a href=\"https://www.uni-potsdam.de/langage/la-bank/ebay.php\">see here</a>"],
+      "Annotation": ["<a href=\"https://www.uni-potsdam.de/en/la-bank/digital-communication/online-auction-listings/annotation\">see here</a>"],
       "Infrastructure": "Other",
       "Access": {
-	"Download": "https://www.uni-potsdam.de/langage/la-bank/ebay.php"
+	"Download": "https://www.uni-potsdam.de/en/la-bank/digital-communication/online-auction-listings/access-to-corpus"
 	},
       "Publication":"https://www.zotero.org/groups/562080/items/9BSXEJKU"
 }
