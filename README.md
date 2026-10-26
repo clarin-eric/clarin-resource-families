@@ -1,6 +1,6 @@
 This repository contains the JSON source for the CLARIN Resource Families. 
 
-The **guidelines** for preparing the JSON files and contributing to this repository are found [here](https://office.clarin.eu/v/CE-2024-2451-guidelines-for-preparing-clarin-resource-families.pdf). 
+The **guidelines** for preparing the JSON files and contributing to this repository are found [here](https://office.clarin.eu/v/CE-2024-2451-guidelines-for-preparing-clarin-resource-families-v2.pdf) (October 2026). 
 
 The main branch will periodically automatically imported into the [CLARIN Website](https://www.clarin.eu/resource-families).
 
