@@ -1,16 +1,16 @@
 {
       "Name": "PELCRA multilingual parallel corpora",
-      "URL": "http://metashare.ilsp.gr:8080/repository/browse/pelcra-mutlilingual-parallel-corpora-cc-by/f05f0f1c63f111e2bff4525400d76147f9863da9a70143bebd894e55197705a1/",
+      "URL": "http://hdl.handle.net/11500/ATHENA-0000-0000-23C2-D",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the CORDIC and RAPID websites, and the press releases of the European Parliament and the European Southern Observatory.\nThe corpus is available for download from META-SHARE.",
-      "Language": ["25 languages"],
+      "Language": ["deu", "eng", "spa", "fra", "ita", "pol", "ces", "dan", "fin", "isl", "nld", "nor", "por", "rus", "swe", "tur", "ukr", "bul", "ell", "est", "hun", "lit", "lav", "mlt", "ron", "slk", "slv", "ara", "bel", "gle", "hrv"],
       "Licence": "CC BY",
       "Size": ["143 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "Other",
       "Group": "Multilingual corpora",
       "Access": {
-	"Download": "http://metashare.ilsp.gr:8080/repository/browse/pelcra-mutlilingual-parallel-corpora-cc-by/f05f0f1c63f111e2bff4525400d76147f9863da9a70143bebd894e55197705a1/"
+	"Download": "http://hdl.handle.net/11500/ATHENA-0000-0000-23C2-D"
 	},
       "Publication": ""
 }
