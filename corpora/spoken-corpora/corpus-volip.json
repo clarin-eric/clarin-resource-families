@@ -1,0 +1,15 @@
+{
+      "Name": "Corpus VoLIP",
+      "URL": "https://www.volip.it/",
+	"Family": "Spoken corpora",
+      "Description": "This corpus consists of conversational varities of Italian in 4 cities; namely, Naples, Rome, Milan, and Florence.\nThe corpus is available through a dedicated concordancer.",
+      "Language": ["ita"],
+      "Licence": "",
+      "Size": ["490,000 words"],
+      "Annotation": [],
+      "Infrastructure": "Other",
+      "Access": {
+	"Concordancer": "https://www.volip.it/visualizza-corpus"
+	},
+      "Publication": ""
+}
