@@ -1,3 +1,2 @@
-The guidelines for contributing to this repository are found here:
 - Version 2.0 (October 2026): https://office.clarin.eu/v/CE-2024-2451-guidelines-for-preparing-clarin-resource-families-v2.pdf
 - Version 1.5 (July 2025): https://office.clarin.eu/v/CE-2024-2451-guidelines-for-preparing-clarin-resource-families.pdf
