@@ -1,16 +1,16 @@
 {
       "Name": "EUbookshop",
-      "URL": "http://opus.lingfil.uu.se/EUbookshop.php",
+      "URL": "https://opus.nlpl.eu/datasets/EUbookshop",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from EU law books and related publications.\nThe corpus is available for download from the OPUS webpage.",
-      "Language": ["48 languages"],
+      "Language": ["ara", "bel", "bul", "bos", "cat", "ces", "cym", "dan", "deu", "ell", "eng", "spa", "est", "fin", "fra", "gle", "gla", "hrv", "hun", "isl", "ita", "jpn", "ltz", "lit", "lav", "mkd", "mlt", "nob", "nld", "pol", "por", "ron", "rus", "srp", "slk", "slv", "swe", "sqi"],
       "Licence": "",
       "Size": ["3.5 billion tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
       "Infrastructure": "Other",
       "Group": "Multilingual corpora",
       "Access": {
-	"Download": "http://opus.lingfil.uu.se/EUbookshop.php"
+	"Download": "https://opus.nlpl.eu/datasets/EUbookshop"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/PRVR2ENC/items/FZW4EH8P/"
 }
