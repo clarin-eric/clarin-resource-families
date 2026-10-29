@@ -7,7 +7,7 @@
       "Licence": "CC BY",
       "Size": ["143 million tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
-      "Infrastructure": "Other",
+      "Infrastructure": "CLARIN",
       "Group": "Multilingual corpora",
       "Access": {
 	"Download": "http://hdl.handle.net/11500/ATHENA-0000-0000-23C2-D"
