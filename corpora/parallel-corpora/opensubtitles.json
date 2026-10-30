@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-23C4-B",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains subtitles from the OpenSubtitles website.\nThe corpus is available for download from the CLARIN:el repository.",
-      "Language": ["54 languages"],
+      "Language": ["fin", "fra", "heb", "hun", "isl", "ita", "jpn", "nld", "nor", "pol", "por", "ron", "rus", "slk", "slv", "swe", "tur", "eng", "ell", "deu", "hrv", "ara", "bos", "ind", "kat", "kaz", "kor", "ltz", "mkd", "msa", "oci", "srp", "sqi", "tha", "tgl", "ukr", "urd", "vie", "bul", "ces", "spa", "est", "cat", "lit", "epo", "eus", "fas", "zho", "glg", "sin", "dan", "lav"],
       "Licence": "Open For Reuse With Restrictions ",
       "Size": ["8.31G tokens"],
       "Annotation": ["tokenised", "sentence and word aligned"],
