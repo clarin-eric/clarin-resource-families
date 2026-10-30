@@ -3,7 +3,7 @@
       "URL": "http://www.cs.cmu.edu/~lingwang/microtopia/#overview",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains tweets and blogposts in the following language pairs: English-Mandarin, English-Arabic, English-Russian, English-Korean, and English-Japanese.\nThe corpus is available for download from a dedicated webpage.",
-      "Language": ["6 languages"],
+      "Language": ["eng", "kor", "jpn", "rus", "ara", "cmn"],
       "Licence": "",
       "Size": ["1.5 million tokens"],
       "Annotation": ["tokenised"],
