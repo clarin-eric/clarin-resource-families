@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-258C-9",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains legislative texts of the European Legislation.\nThe corpus is available for download from the CLARIN:el repository.",
-      "Language": ["Approx. 20 languages"],
+      "Language": ["lit", "deu", "ces", "dan", "spa", "est", "fin", "fra", "hun", "gle", "ita", "lav", "mlt", "nld", "pol", "ron", "slk", "slv", "swe", "eng", "por", "ell", "bul"],
       "Licence": "Open For Reuse With Restrictions",
       "Size": ["10.1 million tokens"],
       "Annotation": ["tokenised"],
