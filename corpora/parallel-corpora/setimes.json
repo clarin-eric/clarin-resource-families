@@ -1,6 +1,6 @@
 {
       "Name": "SETimes",
-      "URL": "http://metashare.ilsp.gr:8080/repository/browse/south-east-european-parallel-corpus/d200935e67cc11e28a985ef2e4e6c59ef6e70e681f7745a191deeb0b0537e60a/",
+      "URL": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts from the setimes.com website.\nThe corpus is available for download from a dedicated webpage.",
       "Language": ["eng", "hrv", "mkd", "ron", "sqi", "ell", "bul", "srp", "tur"],
@@ -10,7 +10,7 @@
       "Infrastructure": "Other",
       "Group": "Multilingual corpora",
       "Access": {
-	"Download": "http://nlp.ffzg.hr/resources/corpora/setimes/"
+	"Download": "http://hdl.grnet.gr/11500/ATHENA-0000-0000-2591-2"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/PRVR2ENC/items/3PDDDEXD/"
 }
