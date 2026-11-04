@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11356/1187",
       "Family": "Lexica",
       "Description": "These lexica contain concreteness and imageability predictions for 77 languages. They are available for download from CLARIN.SI.",
-      "Language": ["77 languages"],
+      "Language": ["afr", "sqi", "ara", "hye", "aze", "eus", "bel", "ben", "bos", "bul", "mya", "cat", "ceb", "khm", "zho", "hrv", "ces", "dan", "nld", "eng", "epo", "est", "fin", "fra", "glg", "kat", "deu", "guj", "heb", "hin", "hun", "isl", "ind", "ita", "jpn", "kan", "kaz", "kir", "kor", "lat", "lav", "lit", "ltz", "mkd", "mlg", "msa", "mal", "mar", "ell", "mon", "nep", "nor", "pan", "fas", "pol", "por", "ron", "rus", "srp", "hbs", "sin", "slk", "slv", "spa", "swe", "tgl", "tgk", "tam", "tel", "tha", "tur", "ukr", "urd", "uzb", "vie", "cym", "fry"],
       "Licence": "CC BY-SA 4.0",
       "Size": ["7,237,589 entries"],
       "Annotation": ["concreteness prediction", "imageability prediction"],
