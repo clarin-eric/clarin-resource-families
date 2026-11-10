@@ -3,7 +3,7 @@
       "URL": "http://hdl.grnet.gr/11500/UOA-0000-0000-2575-3",
 	"Family": ["Parallel corpora", "Literary corpora"],
       "Description": "This corpus contains articles from a journal of undergraduate creative writing at an English department in Greece.\nThe corpus is available for download from the CLARIN:el repository.",
-      "Language": ["English-Greek"],
+      "Language": ["eng", "ell"],
       "Licence": "CC BY",
       "Size": ["376,250 tokens"],
       "Annotation": ["tokenised"],
