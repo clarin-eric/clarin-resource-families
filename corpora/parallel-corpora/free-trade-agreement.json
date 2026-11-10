@@ -3,7 +3,7 @@
       "URL": "http://hdl.handle.net/11495/DF2E-8C2F-E0AF-8",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains texts on the Free Trade Agreement.\nThe corpus is available through the concordancer Corpuscle.",
-      "Language": ["English-Spanish"],
+      "Language": ["eng", "spa"],
       "Licence": "CLARIN ACA",
       "Size": ["3 million tokens"],
       "Annotation": ["tokenised"],
