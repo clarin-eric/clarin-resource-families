@@ -1,16 +1,16 @@
 {
-      "Name": "Universal Dependencies 2.18",
-      "URL": "http://hdl.handle.net/11234/1-6149",
+      "Name": "Universal Dependencies 2.19",
+      "URL": "http://hdl.handle.net/11234/1-6316",
 	"Family": "Manually annotated corpora",
-	"Language": ["193 languages"],
-      "Description": "This corpus collection contains treebanks following the <a href=\"http://universaldependencies.org/\">Universal Dependencies</a> framework.\nThe corpus collection is available for download from the LINDAT repository. The treebanks can also be queried in four different online services (PML Tree Query, TEITOK, Grew-Match, INESS).",
-      "Licence": "Licence Universal Dependencies v2.12 ",
-      "Size": ["37,424,698 tokens", "38,181,322 words", "2,337,062 sentences"],
+	"Language": ["grc", "ara", "eus", "bul", "hrv", "ces", "dan", "nld", "eng", "est", "fin", "fra", "deu", "got", "ell", "heb", "hin", "hun", "ind", "gle", "ita", "jpn", "lat", "nor", "chu", "fas", "pol", "por", "ron", "slv", "spa", "swe", "tam", "cat", "zho", "glg", "kaz", "lav", "rus", "tur", "cop", "san", "slk", "ukr", "uig", "vie", "bel", "kor", "lit", "urd", "bxr", "kmr", "sme", "hsb", "afr", "yue", "mar", "srp", "swl", "tel", "amh", "hye", "bre", "fao", "kpv", "pcm", "fro", "tgl", "tha", "wbp", "yor", "akk", "bam", "myv", "mlt", "cym", "wol", "aii", "lzh", "orv", "krl", "gun", "bho", "koi", "olo", "mdf", "gla", "sms", "gsw", "sqi", "isl", "aqz"],
+      "Description": "This corpus collection contains treebanks syntactically parsed according to the <a href=\"http://universaldependencies.org/\">Universal Dependencies</a> framework.\nThe corpus collection is available for download from the LINDAT repository. The treebanks can also be queried in four different online services (PML Tree Query, TEITOK, Grew-Match, INESS).",
+      "Licence": "Licence Universal Dependencies v2.19",
+      "Size": ["37,999,425 tokens", "38,771,763 words", "2,372,086 sentences"],
       "Annotation": ["syntactic parsing"],
       "Infrastructure": "CLARIN",
       "Group": "Syntactic parsing",
       "Access": {
-	"Download": "http://hdl.handle.net/11234/1-6149",
+	"Download": "http://hdl.handle.net/11234/1-6316",
 	"Browse": "https://universaldependencies.org/query.html"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/FNBPUM3D/"
