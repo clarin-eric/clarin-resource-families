@@ -1,15 +1,16 @@
 {
       "Name": "The Norwegian Newspaper Corpus",
-      "URL": "http://avis.uib.no/",
+      "URL": "https://data.norge.no/en/datasets/50245b01-99a2-3fd0-b288-bdfd91ebf57c/norwegian-newspaper-corpus",
 	"Family": "Newspaper corpora",
-      "Description": "This corpus contains articles from 24 Norwegian newspapers from 1998 onwards.\nThe corpus is available through the concordancer Corpuscle.",
-      "Language": ["nor"],
+      "Description": "This corpus contains articles from 24 Norwegian newspapers from 1998 to 2019.\nThe corpus is available for download and through the concordancer Corpuscle.",
+      "Language": ["nor", "nno", "nob"],
       "Licence": "CC BY",
       "Size": ["700 million tokens"],
       "Annotation": ["multitagged"],
       "Infrastructure": "CLARIN",
       "Access": {
-	"Concordancer": "https://hdl.handle.net/11495/D9B5-0349-4330-0"
+	"Concordancer": "https://hdl.handle.net/11495/D9B5-0349-4330-0",
+	"Download": "https://data.norge.no/en/datasets/50245b01-99a2-3fd0-b288-bdfd91ebf57c/norwegian-newspaper-corpus"
 	},
       "Publication": ""
 }
