@@ -1,6 +1,6 @@
 {
       "Name": "ParCor - A Parallel Pronoun-Coreference Corpus",
-      "URL": "http://opus.lingfil.uu.se/ParCor/",
+      "URL": "https://bitbucket.org/tiedemann/parcor/src/master/",
 	"Family": "Parallel corpora",
       "Description": "This corpus contains TED talks and EU Bookshop publications.\nThe corpus is available for download from the OPUS webpage.",
       "Language": ["eng", "deu"],
@@ -10,7 +10,7 @@
       "Infrastructure": "Other",
       "Group": "Bilingual corpora",
       "Access": {
-	"Download": "http://opus.lingfil.uu.se/ParCor/"
+	"Download": "https://bitbucket.org/tiedemann/parcor/src/master/"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/PRVR2ENC/items/KCG9HJWC/"
 }
