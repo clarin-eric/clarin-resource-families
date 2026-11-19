@@ -10,7 +10,7 @@
       "Infrastructure": "CLARIN",
       "Access": {
 	"KonText": "https://www.clarin.si/kontext/first_form?corpname=hr500k",
-	"noSketch": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=hr500k&struct_attr_stats=1",
+	"noSketch": "https://www.clarin.si/ske/#dashboard?corpname=hr500k",
 	"Download": "http://hdl.handle.net/11356/1183"
 	},
       "Publication": ""
