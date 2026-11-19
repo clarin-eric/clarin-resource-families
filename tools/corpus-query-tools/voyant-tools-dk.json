@@ -1,6 +1,6 @@
 {
       "Name": "Voyant tools",
-      "URL": "https://alf.hum.ku.dk/VoyantTools/",
+      "URL": "https://info.clarin.dk/en/the-clarin-dk-infrastructure/voyant-tools/",
 	"Family": "Corpus query tools",
       "Description": "This tool constitutes a deployment of Voyant Tools at CLARIN-DK.",
       "Functionality": ["Querying/concordancing", "Stylometry"],
@@ -9,7 +9,7 @@
       "Platform": [],
       "Infrastructure": "CLARIN-DK",
       "Access": {
-	"Browse": "https://alf.hum.ku.dk/VoyantTools/"
+	"Browse": "https://voyant-tools.org/"
 	},
       "Publication": ""
 }
