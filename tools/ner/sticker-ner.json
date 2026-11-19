@@ -10,8 +10,7 @@
       "Platform": ["cross-platform"],
       "Infrastructure": "CLARIN-D",
       "Access": {
-	"Download": "https://github.com/stickeritis/sticker/",
-	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page"
+	"Download": "https://github.com/stickeritis/sticker/"
 	},
       "Publication": ""
 }
