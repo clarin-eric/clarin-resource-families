@@ -12,7 +12,7 @@
       "Access": {
 	"Download": "http://hdl.handle.net/11356/1197",
 	"KonText": "https://www.clarin.si/kontext/first_form?corpname=dgtud_en",
-	"noSketch Engine": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=dgtud_en"
+	"noSketch Engine": "https://www.clarin.si/ske/#dashboard?corpname=dgtud_en"
 	},
       "Publication": ""
 }
