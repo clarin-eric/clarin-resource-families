@@ -11,7 +11,7 @@
       "Group": ["Lemmatisation", "Syntactic parsing", "Named Entity Recognition"],
       "Access": {
 	"KonText": "https://www.clarin.si/kontext/first_form?corpname=setimes_sr",
-	"noSketch": "https://www.clarin.si/noske/run.cgi/corp_info?corpname=setimes_sr&struct_attr_stats=1",
+	"noSketch": "https://www.clarin.si/ske/#dashboard?corpname=setimes_sr",
 	"Download": "http://hdl.handle.net/11356/1200"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/9V8MBI7E/items/X6IVPY6C/"
