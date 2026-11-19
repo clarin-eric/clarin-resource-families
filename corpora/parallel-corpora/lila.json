@@ -1,13 +1,13 @@
 {
-      "Name": "LILA parallel corpus",
-      "URL": "http://tekstynas.vdu.lt/page.xhtml?id=parallelLILA",
+      "Name": "Lithuanian-Latvian-Lithuanian Parallel Corpus (LILA)",
+      "URL": "http://hdl.handle.net/20.500.12574/6",
 	"Family": "Parallel corpora",
-      "Description": "This corpus contains fictional and non-fictional texts from 1991 to 2012. It is bidirectional.\nThe corpus is available through a dedicated concordancer.",
+      "Description": "This corpus contains fictional and non-fictional texts from 1991 to 2012. It is bidirectional.\nThe corpus is available through the noSketch Engine concordancer.",
       "Language": ["lit", "lav"],
       "Licence": "",
-      "Size": ["8 million tokens"],
+      "Size": ["8,000,000 tokens"],
       "Annotation": ["tokenised", "sentence-aligned"],
-      "Infrastructure": "Other",
+      "Infrastructure": "CLARIN",
       "Group": "Bilingual corpora",
       "Access": {
 	"Concordancer": "http://www.korpuss.lv/lila/"
