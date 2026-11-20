@@ -9,6 +9,7 @@
       "Platform": [],
       "Infrastructure": "CLARIN-DK",
       "Access": {
+		  "Browse": "https://info.clarin.dk/en/the-clarin-dk-infrastructure/korp/"
 	},
       "Publication": ""
 }
