@@ -2,7 +2,7 @@
       "Name": "The Prime Machine",
       "URL": "https://theprimemachine.net/",
 	"Family": "Corpus query tools",
-      "Description": "This a user-friendly corpus tool for English language teaching, linguistic analysis and self-tutoring based on the <a href=\"https://doi.org/10.4324/9780203327630\">Lexical Priming</a> theory of language.\nThe tool is available under a <a href=\"https://www.theprimemachine.net/files/End-User-License-Agreement-tPMv3.pdf\">proprietary</a> licence.\n<a href=\"https://www.theprimemachine.net/help.html\">Online support</a> is available.",
+      "Description": "This a user-friendly corpus tool for English language teaching, linguistic analysis and self-tutoring based on the <a href=\"https://doi.org/10.4324/9780203327630\">Lexical Priming</a> theory of language.\nThe tool was reviously available under a <a href=\"https://www.theprimemachine.net/files/End-User-License-Agreement-tPMv3.pdf\">proprietary</a> licence, and \n<a href=\"https://www.theprimemachine.net/help.html\">Online support</a> was available, but from 2026  the Prime Machine server is no longer accessible outside the developer's own institution.",
       "Functionality": ["Concordancing/querying"],
       "Language": ["Language independent"],
       "Licence": "",
