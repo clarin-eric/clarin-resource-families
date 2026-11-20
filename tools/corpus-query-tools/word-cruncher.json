@@ -1,6 +1,6 @@
 {
       "Name": "WordCruncher",
-      "URL": "http://www.wordcruncher.com/index.html",
+      "URL": "https://wordcruncher.com/",
 	"Family": "Corpus query tools",
       "Description": "This tool offers a wide variety of tools for searching, studying, and analyzing texts.",
       "Functionality": ["Concordancing/querying"],
