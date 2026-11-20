@@ -1,6 +1,6 @@
 {
       "Name": "TreeTagger",
-      "URL": "http://hdl.handle.net/11022/1007-0000-0000-8E4D-B",
+      "URL": "http://hdl.handle.net/11372/LRT-323",
 	"Family": "Part-of-Speech Tagging and Lemmatisation",
       "Description": "This tool is a PoS tagger and lemmatizer implemented in WebLicht.",
       "Functionality": ["PoS", "lemma"],
@@ -11,8 +11,7 @@
       "Input format": [],
       "Output format": ["plain text"],
       "Access": {
-	"Download": "http://hdl.handle.net/11022/1007-0000-0000-8E4D-B",
-	"WebLicht": "https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/Main_Page.html"
+	"Download": "https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/"
 	},
       "Publication": "https://www.zotero.org/groups/562080/clarin/collections/DSKCI98H/items/CVBKECLH/"
 }
