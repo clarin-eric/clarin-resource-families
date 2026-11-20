@@ -1,6 +1,6 @@
 {
   "Name": "SMILE Swiss German Sign Language Dataset",
-  "URL": "https://doi.org/10.34777/qkzf-cf75",
+  "URL": "https://zenodo.org/records/7701457",
   "Family": "Sign language resources",
   "Description": "This corpus contains video recordings, joint coordinates, and annotations of 100 isolated lexical signs from a Swiss German Sign Language vocabulary production test.\nIt includes repeated productions from 11 adult native (L1) signers and 19 adult L2 learners to support automatic sign language recognition and assessment.",
   "Language": [
