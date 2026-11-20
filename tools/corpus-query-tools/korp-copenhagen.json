@@ -1,6 +1,6 @@
 {
       "Name": "Korp (Copenhagen)",
-      "URL": "https://alf.hum.ku.dk/korp/",
+      "URL": "https://info.clarin.dk/en/the-clarin-dk-infrastructure/korp/",
 	"Family": "Corpus query tools",
       "Description": "This is a web-based concordancer that can be used for corpus queries based on morphosyntactic analysis and various other features.\nRegistration is required.",
       "Functionality": ["Querying/concordancing"],
@@ -9,7 +9,6 @@
       "Platform": [],
       "Infrastructure": "CLARIN-DK",
       "Access": {
-	"Browse": "https://alf.hum.ku.dk/korp/"
 	},
       "Publication": ""
 }
