@@ -9,7 +9,7 @@
       "Platform": ["Windows", "iOS"],
       "Infrastructure": "External",
       "Access": {
-	"Download": "https://www.wordcruncher.com/install"
+	"Download": "https://www.wordcruncher.com/install-wcr8"
 	},
       "Publication": ""
 }
