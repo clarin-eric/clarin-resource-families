@@ -1,6 +1,6 @@
 {
       "Name": "Parallel corpus MaCoCu",
-      "URL": "https://www.clarin.si/repository/xmlui/handle/11356/1818",
+      "URL": "https://macocu.eu/",
 	"Family": "Parallel corpora",
       "Description": "These corpora are a collection containing web texts and were built by crawling national internet top-level domains and by extending the crawl dynamically to other domains as well.\nAll the crawling process was carried out by the <a href=\"https://github.com/macocu/MaCoCu-crawler\">MaCoCu crawler</a>. Websites containing documents in both target languages were identified and processed using the tool <a href=\"https://github.com/bitextor/bitextor\">Bitextor</a>. Document and segment alignment as implemented in Bitextor were carried out, and <a href=\"https://github.com/bitextor/bifixer\">Bifixer</a> and <a href=\"https://github.com/bitextor/bicleaner-ai\">BicleanerAI</a> were used for fixing, cleaning, and deduplicating the final version of the corpus.\n The corpora are available for download from the Slovenian repository CLARIN.SI.",
       "Annotation": ["annotated with extensive metadata"],
